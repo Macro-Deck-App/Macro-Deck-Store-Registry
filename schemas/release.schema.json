@@ -23,6 +23,9 @@
       "type": "string",
       "format": "date-time"
     },
+    "detachedSignature": {
+      "$ref": "#/$defs/detachedSignature"
+    },
     "media": {
       "type": "object",
       "required": ["icon", "screenshots"],
@@ -39,6 +42,26 @@
     }
   },
   "$defs": {
+    "detachedSignature": {
+      "type": "object",
+      "required": ["url", "sha256", "size"],
+      "properties": {
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https://"
+        },
+        "sha256": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        },
+        "size": {
+          "type": "integer",
+          "minimum": 1
+        }
+      },
+      "additionalProperties": false
+    },
     "mediaAsset": {
       "type": "object",
       "required": ["url", "sha256", "size", "contentType"],

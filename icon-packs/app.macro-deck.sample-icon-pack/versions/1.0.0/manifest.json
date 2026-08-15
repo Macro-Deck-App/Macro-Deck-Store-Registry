@@ -4,6 +4,11 @@
   "sha256": "8210be8dc04eb3bb979ec36ce37a6bbe40a9208a17b6dda8582ab0cef5f12301",
   "size": 36872,
   "uploadedAt": "2026-08-15T11:48:02.803Z",
+  "detachedSignature": {
+    "url": "https://store-assets.macro-deck.app/app.macro-deck.sample-icon-pack/1.0.0/SampleIconPack-1.0.0.macroDeckIconPack.signature.json",
+    "sha256": "f7ea8c0682a2a834205658288382913056d5a923c99f558bd736809ce3983025",
+    "size": 377
+  },
   "media": {
     "icon": {
       "url": "https://store-assets.macro-deck.app/app.macro-deck.sample-icon-pack/1.0.0/icon.svg",

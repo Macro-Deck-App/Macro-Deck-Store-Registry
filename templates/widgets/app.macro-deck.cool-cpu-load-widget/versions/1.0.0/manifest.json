@@ -4,6 +4,11 @@
   "sha256": "0fac3eb4a293bebb9473a93bb4e0c99a92751828e8de21cc7590dd35dc03aeb6",
   "size": 702,
   "uploadedAt": "2026-08-15T11:53:43.567Z",
+  "detachedSignature": {
+    "url": "https://store-assets.macro-deck.app/app.macro-deck.cool-cpu-load-widget/1.0.0/Cool%20CPU%20Load%20Widget.macroDeckWidget.signature.json",
+    "sha256": "700820bea63532f4013f2a16eb8491f3c1c06481beebbbff6b6323b0a05a9e79",
+    "size": 395
+  },
   "media": {
     "icon": {
       "url": "https://store-assets.macro-deck.app/app.macro-deck.cool-cpu-load-widget/1.0.0/icon.png",

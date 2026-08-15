@@ -1,0 +1,19 @@
+{
+  "$schema": "../schemas/certificate.schema.json",
+  "schemaVersion": 1,
+  "certificateId": "cert_c1954f6d2e7f4a58934a878774892d42",
+  "subject": {
+    "kind": "service",
+    "id": "macro-deck-store-registry",
+    "name": "Macro Deck Store Registry"
+  },
+  "algorithm": "ed25519",
+  "publicKey": "j1zHSO0Ks\u002Bmqqm47FnYqm75dOXcv9wSu0mSvMfZ\u002BKAY=",
+  "keyUsage": [
+    "registry"
+  ],
+  "notBefore": "2026-08-15T14:02:42.127591+00:00",
+  "notAfter": "2027-08-15T14:02:42.127591+00:00",
+  "issuedAt": "2026-08-15T14:02:42.127591+00:00",
+  "rootKeyId": "root_2026"
+}

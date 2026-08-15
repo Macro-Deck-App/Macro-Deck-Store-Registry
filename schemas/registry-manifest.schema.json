@@ -1,0 +1,37 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://schemas.macro-deck.app/store-registry-manifest-v1.schema.json",
+  "title": "Macro Deck Store Registry Manifest",
+  "description": "A complete integrity snapshot of the public registry data. The exact UTF-8 bytes of registry-manifest.json are signed in registry-signature.json.",
+  "type": "object",
+  "required": ["$schema", "schemaVersion", "sequence", "generatedAt", "files"],
+  "properties": {
+    "$schema": { "type": "string" },
+    "schemaVersion": { "const": 1 },
+    "sequence": {
+      "description": "Strictly increasing publication sequence used by clients to detect rollback attempts.",
+      "type": "integer",
+      "minimum": 1
+    },
+    "generatedAt": { "type": "string", "format": "date-time" },
+    "files": {
+      "type": "array",
+      "minItems": 2,
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "required": ["path", "sha256", "size"],
+        "properties": {
+          "path": {
+            "type": "string",
+            "pattern": "^(index\\.json|security\\.json|plugins/[a-z0-9.-]+/(manifest\\.json|versions/(?!\\.\\.)[0-9A-Za-z.+-]+/(manifest\\.json|description\\.md|changelog\\.md))|icon-packs/[a-z0-9.-]+/(manifest\\.json|versions/(?!\\.\\.)[0-9A-Za-z.+-]+/(manifest\\.json|description\\.md|changelog\\.md))|templates/(automations|folders|profiles|widgets)/[a-z0-9.-]+/(manifest\\.json|versions/(?!\\.\\.)[0-9A-Za-z.+-]+/(manifest\\.json|description\\.md|changelog\\.md))|certificates/cert_[0-9a-z]{16,64}\\.(json|sig))$"
+          },
+          "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+          "size": { "type": "integer", "minimum": 0 }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

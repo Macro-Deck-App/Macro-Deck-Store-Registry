@@ -10,10 +10,12 @@
     "generatedAt": { "type": "string", "format": "date-time" },
     "revokedKeys": {
       "type": "array",
+      "uniqueItems": true,
       "items": { "$ref": "#/$defs/revokedKey" }
     },
     "removedPackages": {
       "type": "array",
+      "uniqueItems": true,
       "items": { "$ref": "#/$defs/removedPackage" }
     }
   },
@@ -31,7 +33,10 @@
       "type": "object",
       "required": ["keyId", "reason", "revokedAt"],
       "properties": {
-        "keyId": { "type": "string", "minLength": 1 },
+        "keyId": {
+          "type": "string",
+          "pattern": "^cert_[0-9a-z]{16,64}$"
+        },
         "reason": { "type": "string", "minLength": 1 },
         "revokedAt": { "type": "string", "format": "date-time" }
       },

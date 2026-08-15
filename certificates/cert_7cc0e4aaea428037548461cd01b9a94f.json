@@ -1,0 +1,19 @@
+{
+  "$schema": "../schemas/certificate.schema.json",
+  "schemaVersion": 1,
+  "certificateId": "cert_7cc0e4aaea428037548461cd01b9a94f",
+  "subject": {
+    "kind": "organization",
+    "id": "CREATOR_PORTAL",
+    "name": "Macro Deck"
+  },
+  "algorithm": "ed25519",
+  "publicKey": "b5R3gzO7NUvzZsuf43JAohxyLhL8SI3j9rAwhYeWFSA=",
+  "keyUsage": [
+    "package"
+  ],
+  "notBefore": "2026-08-15T14:04:23.715174+00:00",
+  "notAfter": "2027-08-15T14:04:23.715174+00:00",
+  "issuedAt": "2026-08-15T14:04:23.715174+00:00",
+  "rootKeyId": "root_2026"
+}

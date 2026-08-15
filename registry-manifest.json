@@ -1,0 +1,98 @@
+{
+  "$schema": "schemas/registry-manifest.schema.json",
+  "schemaVersion": 1,
+  "sequence": 3,
+  "generatedAt": "2026-08-15T14:34:02Z",
+  "files": [
+    {
+      "path": "certificates/cert_7cc0e4aaea428037548461cd01b9a94f.json",
+      "sha256": "a6f89a45e484eae00ea5d8f7eb343f4ade4b466daf4e86dd56ad3d397d2899d4",
+      "size": 540
+    },
+    {
+      "path": "certificates/cert_7cc0e4aaea428037548461cd01b9a94f.sig",
+      "sha256": "185ff558547f24364dc5ea48848184722a3f1ecb5f4a02dabbd6e29411418d54",
+      "size": 89
+    },
+    {
+      "path": "certificates/cert_c1954f6d2e7f4a58934a878774892d42.json",
+      "sha256": "b354bce5ae2169d383875c16efb69d150a9da06cbb496e25b3e937a19cf265f0",
+      "size": 572
+    },
+    {
+      "path": "certificates/cert_c1954f6d2e7f4a58934a878774892d42.sig",
+      "sha256": "e01a632272b369ecb233ca5ddf5fcb364f0290b542855009e0fc6b44082f20a8",
+      "size": 89
+    },
+    {
+      "path": "icon-packs/app.macro-deck.sample-icon-pack/manifest.json",
+      "sha256": "ba04cbf013251d859ae2a73d44323c85edd41adbfa42b5752e8fefce9b602cc3",
+      "size": 396
+    },
+    {
+      "path": "icon-packs/app.macro-deck.sample-icon-pack/versions/1.0.0/changelog.md",
+      "sha256": "7c1154dcaa04d273b31112b444cd91f81390dc1d9c4eb3436024367d2ba86921",
+      "size": 110
+    },
+    {
+      "path": "icon-packs/app.macro-deck.sample-icon-pack/versions/1.0.0/description.md",
+      "sha256": "daa76495373c4dc006aeec97d51454f63c98f25fb235aeac32742820e25ce02d",
+      "size": 268
+    },
+    {
+      "path": "icon-packs/app.macro-deck.sample-icon-pack/versions/1.0.0/manifest.json",
+      "sha256": "3be9ffea56d89b584e6c253daa53d78f75a5cceb6755d40666ab001dea2e588c",
+      "size": 1230
+    },
+    {
+      "path": "index.json",
+      "sha256": "f1f3da2ec5294f3b0397d72c4a792b65468e5742e6cba1ad213e35f6dfe301ed",
+      "size": 374
+    },
+    {
+      "path": "plugins/app.macro-deck.sample-music-player/manifest.json",
+      "sha256": "7050159122d53a45c96139ce5c01c09800ae6404643f057ed1f8e9262cab63d4",
+      "size": 614
+    },
+    {
+      "path": "plugins/app.macro-deck.sample-music-player/versions/1.0.0/changelog.md",
+      "sha256": "448ee9d5cd1707dfbfc68b1f5675b4cc8baa1e2bff43396a530b11d983afa54d",
+      "size": 228
+    },
+    {
+      "path": "plugins/app.macro-deck.sample-music-player/versions/1.0.0/description.md",
+      "sha256": "22865d18634f1f952d3ba47ecd20e83bf5a7b6ec5a1838eddfd46ea375b087c6",
+      "size": 916
+    },
+    {
+      "path": "plugins/app.macro-deck.sample-music-player/versions/1.0.0/manifest.json",
+      "sha256": "275507b92fb3202d51a5927a160a1088e7f8070167956df432b8df987423ea4d",
+      "size": 964
+    },
+    {
+      "path": "security.json",
+      "sha256": "2d495006076cd6639a243a59afa89691d8b211bc2026c684009396aac1e3970e",
+      "size": 151
+    },
+    {
+      "path": "templates/widgets/app.macro-deck.cool-cpu-load-widget/manifest.json",
+      "sha256": "f24b7b25cb5e75b1f0388c031d9c55207f48b2f49bc3b6687c29f595a09485e4",
+      "size": 442
+    },
+    {
+      "path": "templates/widgets/app.macro-deck.cool-cpu-load-widget/versions/1.0.0/changelog.md",
+      "sha256": "1bd1e750396e0be2e52d33defdd2fa62830825aebfb04aaaba52c87baf78233c",
+      "size": 125
+    },
+    {
+      "path": "templates/widgets/app.macro-deck.cool-cpu-load-widget/versions/1.0.0/description.md",
+      "sha256": "0d9d164cbcbe7cdffcbab48d3b0a6007d5ce35c2dac29413648d13d58f6fa60b",
+      "size": 381
+    },
+    {
+      "path": "templates/widgets/app.macro-deck.cool-cpu-load-widget/versions/1.0.0/manifest.json",
+      "sha256": "329aa1516035fddc295a3e5d2659b6b0f04267924828e913e7833a5460cd4db7",
+      "size": 1250
+    }
+  ]
+}

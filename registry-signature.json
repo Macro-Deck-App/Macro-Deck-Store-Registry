@@ -1,0 +1,8 @@
+{
+  "$schema": "schemas/registry-signature.schema.json",
+  "schemaVersion": 1,
+  "algorithm": "ed25519",
+  "keyId": "cert_c1954f6d2e7f4a58934a878774892d42",
+  "value": "Jv\u002B/5ntBJ3qH\u002BzXHOocQXgWmMF/Wui\u002BpI8QirK77rTgbMPixmR\u002BHQCJws\u002B80\u002BqlhjFMyS0ZjpercQ0vWkDBwDg==",
+  "signedAt": "2026-08-15T14:34:33.877794+00:00"
+}
