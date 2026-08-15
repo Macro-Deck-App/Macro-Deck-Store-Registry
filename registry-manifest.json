@@ -2,7 +2,7 @@
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
   "sequence": 3,
-  "generatedAt": "2026-08-15T14:34:02Z",
+  "generatedAt": "2024-08-15T14:34:02Z",
   "files": [
     {
       "path": "certificates/cert_7cc0e4aaea428037548461cd01b9a94f.json",
