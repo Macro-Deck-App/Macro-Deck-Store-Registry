@@ -1,0 +1,12 @@
+{
+  "$schema": "../../schemas/icon-pack.schema.json",
+  "kind": "iconPack",
+  "name": "Sample Icon Pack",
+  "id": "app.macro-deck.sample-icon-pack",
+  "latestVersion": "1.0.0",
+  "description": "A sample icon pack demonstrating Macro Deck's native icon-pack format.",
+  "publisher": "Macro Deck",
+  "license": "MIT",
+  "createdAt": "2026-07-27T12:00:00Z",
+  "updatedAt": "2026-08-15T12:48:00Z"
+}

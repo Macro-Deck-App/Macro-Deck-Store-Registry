@@ -1,0 +1,16 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "Sample Music Player",
+  "id": "app.macro-deck.sample-music-player",
+  "latestVersion": "1.0.0",
+  "description": "Synthetic music player: transport controls, artwork, catalogue browsing, output devices, two instances, plus actions, variables and events on the same playback state.",
+  "publisher": "Macro Deck",
+  "repository": "https://github.com/Macro-Deck-App/Macro-Deck-Sample-Plugins",
+  "license": "MIT",
+  "createdAt": "2026-07-27T12:00:00Z",
+  "updatedAt": "2026-08-15T12:48:00Z",
+  "supportedRids": [
+    "osx-arm64"
+  ]
+}

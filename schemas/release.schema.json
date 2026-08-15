@@ -1,0 +1,80 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://schemas.macro-deck.app/store-release-v1.schema.json",
+  "title": "Macro Deck Store Plugin Release",
+  "type": "object",
+  "required": ["$schema", "url", "sha256", "size", "uploadedAt", "media"],
+  "properties": {
+    "$schema": { "type": "string" },
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://"
+    },
+    "sha256": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{64}$"
+    },
+    "size": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "uploadedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "media": {
+      "type": "object",
+      "required": ["icon", "screenshots"],
+      "properties": {
+        "icon": { "$ref": "#/$defs/mediaAsset" },
+        "screenshots": {
+          "type": "array",
+          "maxItems": 10,
+          "uniqueItems": true,
+          "items": { "$ref": "#/$defs/mediaAsset" }
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "$defs": {
+    "mediaAsset": {
+      "type": "object",
+      "required": ["url", "sha256", "size", "contentType"],
+      "properties": {
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https://"
+        },
+        "sha256": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        },
+        "size": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 20971520
+        },
+        "contentType": {
+          "enum": [
+            "image/avif",
+            "image/gif",
+            "image/jpeg",
+            "image/png",
+            "image/svg+xml",
+            "image/webp"
+          ]
+        },
+        "caption": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 200
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

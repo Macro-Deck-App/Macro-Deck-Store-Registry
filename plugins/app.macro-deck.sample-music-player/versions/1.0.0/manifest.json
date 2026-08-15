@@ -1,0 +1,24 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/app.macro-deck.sample-music-player/1.0.0/SampleMusicPlayer-1.0.0.macroDeckPlugin",
+  "sha256": "4cd06e8549e1cce764f367a26693b0eaff24355f510edb38eae86d940f5abfa5",
+  "size": 435121,
+  "uploadedAt": "2026-08-15T11:29:45.033Z",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/app.macro-deck.sample-music-player/1.0.0/icon.svg",
+      "sha256": "9cc7aa74b5d14e014443bfd3a7ed3d7be9009cd97ddb6711022f0cd55f238113",
+      "size": 189,
+      "contentType": "image/svg+xml"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/app.macro-deck.sample-music-player/1.0.0/screenshots/sample.png",
+        "sha256": "a565101a63bfd94b65df9dad009844b018d2e2587efde9e7d74ecfa7c84e7a7e",
+        "size": 38144,
+        "contentType": "image/png",
+        "caption": "Sample screenshot placeholder"
+      }
+    ]
+  }
+}

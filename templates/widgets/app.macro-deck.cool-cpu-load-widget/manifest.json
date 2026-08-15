@@ -1,0 +1,13 @@
+{
+  "$schema": "../../../schemas/template.schema.json",
+  "kind": "template",
+  "templateKind": "widgets",
+  "name": "Cool CPU Load Widget",
+  "id": "app.macro-deck.cool-cpu-load-widget",
+  "latestVersion": "1.0.0",
+  "description": "A ready-to-use history graph showing the current CPU load and processor name.",
+  "publisher": "Macro Deck",
+  "license": "MIT",
+  "createdAt": "2026-07-27T12:00:00Z",
+  "updatedAt": "2026-08-15T12:48:00Z"
+}

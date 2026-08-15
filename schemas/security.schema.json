@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://schemas.macro-deck.app/store-security-v1.schema.json",
+  "title": "Macro Deck Store Security Feed",
+  "type": "object",
+  "required": ["$schema", "version", "generatedAt", "revokedKeys", "removedPackages"],
+  "properties": {
+    "$schema": { "type": "string" },
+    "version": { "const": 1 },
+    "generatedAt": { "type": "string", "format": "date-time" },
+    "revokedKeys": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/revokedKey" }
+    },
+    "removedPackages": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/removedPackage" }
+    }
+  },
+  "$defs": {
+    "packageId": {
+      "type": "string",
+      "maxLength": 128,
+      "pattern": "^[a-z][a-z0-9]*(-[a-z0-9]+)*(\\.[a-z][a-z0-9]*(-[a-z0-9]+)*)+$"
+    },
+    "semver": {
+      "type": "string",
+      "pattern": "^(0|[1-9][0-9]*)\\.(0|[1-9][0-9]*)\\.(0|[1-9][0-9]*)(-[0-9A-Za-z-]+(\\.[0-9A-Za-z-]+)*)?(\\+[0-9A-Za-z-]+(\\.[0-9A-Za-z-]+)*)?$"
+    },
+    "revokedKey": {
+      "type": "object",
+      "required": ["keyId", "reason", "revokedAt"],
+      "properties": {
+        "keyId": { "type": "string", "minLength": 1 },
+        "reason": { "type": "string", "minLength": 1 },
+        "revokedAt": { "type": "string", "format": "date-time" }
+      },
+      "additionalProperties": false
+    },
+    "removedPackage": {
+      "type": "object",
+      "required": ["id", "version", "reason", "removedAt"],
+      "properties": {
+        "id": { "$ref": "#/$defs/packageId" },
+        "version": { "$ref": "#/$defs/semver" },
+        "reason": { "type": "string", "minLength": 1 },
+        "removedAt": { "type": "string", "format": "date-time" },
+        "replacement": { "$ref": "#/$defs/packageId" }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

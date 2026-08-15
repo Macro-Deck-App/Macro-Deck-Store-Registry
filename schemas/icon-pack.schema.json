@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://schemas.macro-deck.app/store-icon-pack-v1.schema.json",
+  "title": "Macro Deck Store Icon Pack",
+  "type": "object",
+  "required": [
+    "$schema",
+    "kind",
+    "name",
+    "id",
+    "latestVersion",
+    "description",
+    "publisher",
+    "createdAt",
+    "updatedAt"
+  ],
+  "properties": {
+    "$schema": { "type": "string" },
+    "kind": { "const": "iconPack" },
+    "name": { "type": "string", "minLength": 1, "maxLength": 128 },
+    "id": { "$ref": "#/$defs/packageId" },
+    "latestVersion": { "$ref": "#/$defs/semver" },
+    "description": { "type": "string", "minLength": 1, "maxLength": 500 },
+    "publisher": { "type": "string", "minLength": 1, "maxLength": 128 },
+    "repository": { "$ref": "#/$defs/httpsUrl" },
+    "homepage": { "$ref": "#/$defs/httpsUrl" },
+    "license": { "type": "string", "minLength": 1 },
+    "createdAt": { "type": "string", "format": "date-time" },
+    "updatedAt": { "type": "string", "format": "date-time" }
+  },
+  "$defs": {
+    "packageId": {
+      "type": "string",
+      "maxLength": 128,
+      "pattern": "^[a-z][a-z0-9]*(-[a-z0-9]+)*(\\.[a-z][a-z0-9]*(-[a-z0-9]+)*)+$"
+    },
+    "semver": {
+      "type": "string",
+      "pattern": "^(0|[1-9][0-9]*)\\.(0|[1-9][0-9]*)\\.(0|[1-9][0-9]*)(-[0-9A-Za-z-]+(\\.[0-9A-Za-z-]+)*)?(\\+[0-9A-Za-z-]+(\\.[0-9A-Za-z-]+)*)?$"
+    },
+    "httpsUrl": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^https://"
+    }
+  },
+  "additionalProperties": false
+}

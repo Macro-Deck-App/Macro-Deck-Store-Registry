@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://schemas.macro-deck.app/store-index-v1.schema.json",
+  "title": "Macro Deck Store Registry Index",
+  "type": "object",
+  "required": ["$schema", "version", "generatedAt", "plugins", "iconPacks", "templates"],
+  "properties": {
+    "$schema": { "type": "string" },
+    "version": { "const": 1 },
+    "generatedAt": { "type": "string", "format": "date-time" },
+    "plugins": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": { "$ref": "#/$defs/packageId" }
+    },
+    "iconPacks": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": { "$ref": "#/$defs/packageId" }
+    },
+    "templates": {
+      "type": "object",
+      "required": ["automations", "folders", "profiles", "widgets"],
+      "properties": {
+        "automations": { "$ref": "#/$defs/packageIds" },
+        "folders": { "$ref": "#/$defs/packageIds" },
+        "profiles": { "$ref": "#/$defs/packageIds" },
+        "widgets": { "$ref": "#/$defs/packageIds" }
+      },
+      "additionalProperties": false
+    }
+  },
+  "$defs": {
+    "packageId": {
+      "type": "string",
+      "maxLength": 128,
+      "pattern": "^[a-z][a-z0-9]*(-[a-z0-9]+)*(\\.[a-z][a-z0-9]*(-[a-z0-9]+)*)+$"
+    },
+    "packageIds": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": { "$ref": "#/$defs/packageId" }
+    }
+  },
+  "additionalProperties": false
+}

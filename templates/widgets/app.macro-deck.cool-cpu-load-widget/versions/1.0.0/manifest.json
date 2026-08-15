@@ -1,0 +1,24 @@
+{
+  "$schema": "../../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/app.macro-deck.cool-cpu-load-widget/1.0.0/Cool%20CPU%20Load%20Widget.macroDeckWidget",
+  "sha256": "0fac3eb4a293bebb9473a93bb4e0c99a92751828e8de21cc7590dd35dc03aeb6",
+  "size": 702,
+  "uploadedAt": "2026-08-15T11:53:43.567Z",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/app.macro-deck.cool-cpu-load-widget/1.0.0/icon.png",
+      "sha256": "67bf12a3ad2a51b17152905790300ea9a60147062314f1a7ebe3897bbb6e56e4",
+      "size": 13916,
+      "contentType": "image/png"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/app.macro-deck.cool-cpu-load-widget/1.0.0/screenshots/sample.png",
+        "sha256": "40fb12ee1afafe2c0f2bc123522c9bcfcb0e62f45dff375a5ef1e0d3038bc033",
+        "size": 38242,
+        "contentType": "image/png",
+        "caption": "Sample screenshot placeholder"
+      }
+    ]
+  }
+}

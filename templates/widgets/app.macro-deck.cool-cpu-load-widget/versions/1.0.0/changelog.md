@@ -1,0 +1,2 @@
+- Initial release of the CPU Load widget template.
+- Adds a two-column history graph for CPU utilization and processor name.

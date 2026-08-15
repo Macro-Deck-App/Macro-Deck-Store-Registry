@@ -1,0 +1,19 @@
+{
+  "$schema": "schemas/index.schema.json",
+  "version": 1,
+  "generatedAt": "2026-08-15T12:48:00Z",
+  "plugins": [
+    "app.macro-deck.sample-music-player"
+  ],
+  "iconPacks": [
+    "app.macro-deck.sample-icon-pack"
+  ],
+  "templates": {
+    "automations": [],
+    "folders": [],
+    "profiles": [],
+    "widgets": [
+      "app.macro-deck.cool-cpu-load-widget"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/app.macro-deck.sample-icon-pack/1.0.0/SampleIconPack-1.0.0.macroDeckIconPack",
+  "sha256": "8210be8dc04eb3bb979ec36ce37a6bbe40a9208a17b6dda8582ab0cef5f12301",
+  "size": 36872,
+  "uploadedAt": "2026-08-15T11:48:02.803Z",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/app.macro-deck.sample-icon-pack/1.0.0/icon.svg",
+      "sha256": "f845bffc8324500bf0f38cccc22a307fa09027729e107ce143c86bf50ac7930d",
+      "size": 387109,
+      "contentType": "image/svg+xml"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/app.macro-deck.sample-icon-pack/1.0.0/screenshots/sample.png",
+        "sha256": "147e74adeee913be71ea0c843939643c497f2b1cb716891371d659916e0b290e",
+        "size": 38222,
+        "contentType": "image/png",
+        "caption": "Sample screenshot placeholder"
+      }
+    ]
+  }
+}
