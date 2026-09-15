@@ -1,7 +1,7 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-09-15T16:45:47.935403+00:00",
+  "generatedAt": "2026-09-15T18:34:54.6460318+00:00",
   "plugins": [
     "com.suchbyte.macrogotchi"
   ],
@@ -10,8 +10,6 @@
     "automations": [],
     "folders": [],
     "profiles": [],
-    "widgets": [
-      "app.macro-deck.cool-cpu-load-widget"
-    ]
+    "widgets": []
   }
 }

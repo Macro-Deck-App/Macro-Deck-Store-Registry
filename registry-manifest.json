@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 6,
-  "generatedAt": "2026-09-15T16:56:03.4022101+00:00",
+  "sequence": 7,
+  "generatedAt": "2026-09-15T18:34:54.6943684+00:00",
   "files": [
     {
       "path": "certificates/cert_7cc0e4aaea428037548461cd01b9a94f.json",
@@ -46,8 +46,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "20847e824ac867d6de6b7dacc71465641a9b50e5133c164124e77f33b0618896",
-      "size": 335
+      "sha256": "c30fc8ffa59f527c566226f978b7b0d5e325c2c0b85eb7a4864b4b9ef10cfcf6",
+      "size": 287
     },
     {
       "path": "plugins/com.suchbyte.macrogotchi/manifest.json",
@@ -88,26 +88,6 @@
       "path": "security.json",
       "sha256": "2d495006076cd6639a243a59afa89691d8b211bc2026c684009396aac1e3970e",
       "size": 151
-    },
-    {
-      "path": "templates/widgets/app.macro-deck.cool-cpu-load-widget/manifest.json",
-      "sha256": "f24b7b25cb5e75b1f0388c031d9c55207f48b2f49bc3b6687c29f595a09485e4",
-      "size": 442
-    },
-    {
-      "path": "templates/widgets/app.macro-deck.cool-cpu-load-widget/versions/1.0.0/changelog.md",
-      "sha256": "1bd1e750396e0be2e52d33defdd2fa62830825aebfb04aaaba52c87baf78233c",
-      "size": 125
-    },
-    {
-      "path": "templates/widgets/app.macro-deck.cool-cpu-load-widget/versions/1.0.0/description.md",
-      "sha256": "0d9d164cbcbe7cdffcbab48d3b0a6007d5ce35c2dac29413648d13d58f6fa60b",
-      "size": 381
-    },
-    {
-      "path": "templates/widgets/app.macro-deck.cool-cpu-load-widget/versions/1.0.0/manifest.json",
-      "sha256": "329aa1516035fddc295a3e5d2659b6b0f04267924828e913e7833a5460cd4db7",
-      "size": 1250
     }
   ]
 }
