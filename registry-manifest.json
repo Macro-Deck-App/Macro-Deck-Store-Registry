@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 5,
-  "generatedAt": "2026-09-15T16:17:13.1385414+00:00",
+  "sequence": 6,
+  "generatedAt": "2026-09-15T16:56:03.4022101+00:00",
   "files": [
     {
       "path": "certificates/cert_7cc0e4aaea428037548461cd01b9a94f.json",
@@ -45,49 +45,9 @@
       "size": 89
     },
     {
-      "path": "icon-packs/app.macro-deck.sample-icon-pack/manifest.json",
-      "sha256": "ba04cbf013251d859ae2a73d44323c85edd41adbfa42b5752e8fefce9b602cc3",
-      "size": 396
-    },
-    {
-      "path": "icon-packs/app.macro-deck.sample-icon-pack/versions/1.0.0/changelog.md",
-      "sha256": "7c1154dcaa04d273b31112b444cd91f81390dc1d9c4eb3436024367d2ba86921",
-      "size": 110
-    },
-    {
-      "path": "icon-packs/app.macro-deck.sample-icon-pack/versions/1.0.0/description.md",
-      "sha256": "daa76495373c4dc006aeec97d51454f63c98f25fb235aeac32742820e25ce02d",
-      "size": 268
-    },
-    {
-      "path": "icon-packs/app.macro-deck.sample-icon-pack/versions/1.0.0/manifest.json",
-      "sha256": "3be9ffea56d89b584e6c253daa53d78f75a5cceb6755d40666ab001dea2e588c",
-      "size": 1230
-    },
-    {
       "path": "index.json",
-      "sha256": "ccd53f896a9238c216db07119f63cd4f4fa55e80f0e381595e674fb7707182e3",
-      "size": 419
-    },
-    {
-      "path": "plugins/app.macro-deck.sample-music-player/manifest.json",
-      "sha256": "7050159122d53a45c96139ce5c01c09800ae6404643f057ed1f8e9262cab63d4",
-      "size": 614
-    },
-    {
-      "path": "plugins/app.macro-deck.sample-music-player/versions/1.0.0/changelog.md",
-      "sha256": "448ee9d5cd1707dfbfc68b1f5675b4cc8baa1e2bff43396a530b11d983afa54d",
-      "size": 228
-    },
-    {
-      "path": "plugins/app.macro-deck.sample-music-player/versions/1.0.0/description.md",
-      "sha256": "22865d18634f1f952d3ba47ecd20e83bf5a7b6ec5a1838eddfd46ea375b087c6",
-      "size": 916
-    },
-    {
-      "path": "plugins/app.macro-deck.sample-music-player/versions/1.0.0/manifest.json",
-      "sha256": "275507b92fb3202d51a5927a160a1088e7f8070167956df432b8df987423ea4d",
-      "size": 964
+      "sha256": "20847e824ac867d6de6b7dacc71465641a9b50e5133c164124e77f33b0618896",
+      "size": 335
     },
     {
       "path": "plugins/com.suchbyte.macrogotchi/manifest.json",
