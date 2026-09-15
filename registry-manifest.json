@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 3,
-  "generatedAt": "2026-08-15T14:34:02Z",
+  "sequence": 4,
+  "generatedAt": "2026-09-15T06:07:18.2936343+00:00",
   "files": [
     {
       "path": "certificates/cert_7cc0e4aaea428037548461cd01b9a94f.json",
@@ -12,6 +12,26 @@
     {
       "path": "certificates/cert_7cc0e4aaea428037548461cd01b9a94f.sig",
       "sha256": "185ff558547f24364dc5ea48848184722a3f1ecb5f4a02dabbd6e29411418d54",
+      "size": 89
+    },
+    {
+      "path": "certificates/cert_8c8eb350d5aa84e85357fe811c13a61e.json",
+      "sha256": "147a71a453c1462d16e4ad966ac674639f6e33be308b14b002bbc9161fe1d882",
+      "size": 603
+    },
+    {
+      "path": "certificates/cert_8c8eb350d5aa84e85357fe811c13a61e.sig",
+      "sha256": "6ec2c408b4c332958a9b392154a188c668431c68f224386a2a43da91211827dd",
+      "size": 89
+    },
+    {
+      "path": "certificates/cert_9974b9fc2dd4afedc436578a2aa46048.json",
+      "sha256": "9d59a39f8b4ce08bdca6729b32e1a4a30148d67e8402fd81c98fcfd205feb6c3",
+      "size": 576
+    },
+    {
+      "path": "certificates/cert_9974b9fc2dd4afedc436578a2aa46048.sig",
+      "sha256": "32235b7f7705f1add1a2de1823a7e7f0246044cb80c8c9f1439197b99812fa87",
       "size": 89
     },
     {
@@ -46,8 +66,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "f1f3da2ec5294f3b0397d72c4a792b65468e5742e6cba1ad213e35f6dfe301ed",
-      "size": 374
+      "sha256": "ccd53f896a9238c216db07119f63cd4f4fa55e80f0e381595e674fb7707182e3",
+      "size": 419
     },
     {
       "path": "plugins/app.macro-deck.sample-music-player/manifest.json",
@@ -68,6 +88,26 @@
       "path": "plugins/app.macro-deck.sample-music-player/versions/1.0.0/manifest.json",
       "sha256": "275507b92fb3202d51a5927a160a1088e7f8070167956df432b8df987423ea4d",
       "size": 964
+    },
+    {
+      "path": "plugins/com.suchbyte.macrogotchi/manifest.json",
+      "sha256": "07b7bf3a9d1d623d406b3345bc6ff346ee0cad1e6ffa71f7fca5ae1de253e2c8",
+      "size": 511
+    },
+    {
+      "path": "plugins/com.suchbyte.macrogotchi/versions/1.0.4/changelog.md",
+      "sha256": "6092792490d6e05db0fa5d564f70a3d4a4093356f49b4f671b1d4dc040cdd0da",
+      "size": 91
+    },
+    {
+      "path": "plugins/com.suchbyte.macrogotchi/versions/1.0.4/description.md",
+      "sha256": "ac1f7fe67e3a3204115cdf01c40695245dbc697093b363b65965a3871252ae7b",
+      "size": 35
+    },
+    {
+      "path": "plugins/com.suchbyte.macrogotchi/versions/1.0.4/manifest.json",
+      "sha256": "524840820ffb6ce4e1986ab312d64a5479a7421e9722bb743b2ff7e9d82f753b",
+      "size": 1261
     },
     {
       "path": "security.json",

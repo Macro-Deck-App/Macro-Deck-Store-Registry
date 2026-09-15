@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.macro-deck.app/macrodeck-certificate-v1.schema.json",
+  "schemaVersion": 1,
+  "subject": {
+    "kind": "creator",
+    "id": "390579524393239903",
+    "name": "Macrogotchi"
+  },
+  "algorithm": "ed25519",
+  "certificateId": "cert_9974b9fc2dd4afedc436578a2aa46048",
+  "publicKey": "hecFBsRMRMgnPT81IcKFjvCEwgn0sQ/5I83gFscnZ18=",
+  "keyUsage": [
+    "package"
+  ],
+  "notBefore": "2026-09-14T20:31:35.8443057+00:00",
+  "notAfter": "2028-09-13T20:31:35.8443057+00:00",
+  "issuedAt": "2026-09-14T20:31:35.8443057+00:00",
+  "rootKeyId": "root_2026"
+}

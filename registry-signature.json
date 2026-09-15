@@ -2,7 +2,7 @@
   "$schema": "schemas/registry-signature.schema.json",
   "schemaVersion": 1,
   "algorithm": "ed25519",
-  "keyId": "cert_c1954f6d2e7f4a58934a878774892d42",
-  "value": "Jv\u002B/5ntBJ3qH\u002BzXHOocQXgWmMF/Wui\u002BpI8QirK77rTgbMPixmR\u002BHQCJws\u002B80\u002BqlhjFMyS0ZjpercQ0vWkDBwDg==",
-  "signedAt": "2026-08-15T14:34:33.877794+00:00"
+  "keyId": "cert_8c8eb350d5aa84e85357fe811c13a61e",
+  "value": "x1TrEalWcE70JOGN5ijhPO\u002BilYtii0MEeFUTx2hTKUmudU6SFbzwKu6CrapOq\u002BxrA18N6b5ropETmJvYCYyHBw==",
+  "signedAt": "2026-09-15T06:07:18.3238773+00:00"
 }
