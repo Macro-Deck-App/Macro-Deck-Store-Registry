@@ -1,14 +1,11 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-09-15T06:07:17.8452532+00:00",
+  "generatedAt": "2026-09-15T16:45:47.935403+00:00",
   "plugins": [
-    "app.macro-deck.sample-music-player",
     "com.suchbyte.macrogotchi"
   ],
-  "iconPacks": [
-    "app.macro-deck.sample-icon-pack"
-  ],
+  "iconPacks": [],
   "templates": {
     "automations": [],
     "folders": [],

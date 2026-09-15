@@ -1,3 +1,0 @@
-- Initial release of the Sample Music Player plugin.
-- Demonstrates transport controls, catalogue browsing, output devices, actions, variables and events.
-- This artifact currently supports macOS on Apple Silicon (`osx-arm64`).

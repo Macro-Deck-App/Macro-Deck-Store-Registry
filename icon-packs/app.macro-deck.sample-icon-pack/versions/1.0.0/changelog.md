@@ -1,2 +1,0 @@
-- Initial release of the Sample Icon Pack.
-- Includes the Macro Deck icon in 128, 256 and 512 pixel variants.
