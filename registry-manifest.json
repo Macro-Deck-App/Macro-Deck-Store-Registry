@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 7,
-  "generatedAt": "2026-09-15T18:34:54.6943684+00:00",
+  "sequence": 8,
+  "generatedAt": "2026-09-15T21:25:26.7907633+00:00",
   "files": [
     {
       "path": "certificates/cert_7cc0e4aaea428037548461cd01b9a94f.json",
@@ -81,8 +81,8 @@
     },
     {
       "path": "plugins/com.suchbyte.macrogotchi/versions/1.0.5/manifest.json",
-      "sha256": "a8e96684f68359cc663d67e7ae1866e1d889fbf4495bdb37886c6c52d507c574",
-      "size": 1273
+      "sha256": "664162f40955561482af0232678b3a65e8ea59985dafe5cade3882d24c7e5ce4",
+      "size": 1567
     },
     {
       "path": "security.json",
