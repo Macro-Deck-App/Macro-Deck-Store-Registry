@@ -13,6 +13,12 @@
     },
     "screenshots": [
       {
+        "url": "https://store-assets.macro-deck.app/plugins/com.suchbyte.macrogotchi/assets/acb90e76c5ae403a-acb90e76c5ae403a.jpg",
+        "sha256": "acb90e76c5ae403ad62ffd910c0ee4e7bfb0779bb3d9a4576da977e190683696",
+        "size": 348468,
+        "contentType": "image/jpeg"
+      },
+      {
         "url": "https://store-assets.macro-deck.app/plugins/com.suchbyte.macrogotchi/assets/ba413eb9a04a3daa-ba413eb9a04a3daa.png",
         "sha256": "ba413eb9a04a3daa4c417d90a5bacf2fb04f691ce3d0283b2832ee8e2e5e080e",
         "size": 112528,
