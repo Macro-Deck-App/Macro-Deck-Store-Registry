@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.macro-deck.app/macrodeck-certificate-v1.schema.json",
+  "schemaVersion": 1,
+  "subject": {
+    "kind": "creator",
+    "id": "390894666561618021",
+    "name": "anonym_2546"
+  },
+  "algorithm": "ed25519",
+  "certificateId": "cert_a7cbe69a2f7c06c17e19c41472e2d996",
+  "publicKey": "Nren2/5b9Dz4yHzN1jDj9EPxZqqKcBsUPjzIwRVa77c=",
+  "keyUsage": [
+    "package"
+  ],
+  "notBefore": "2026-09-15T16:28:44.5101377+00:00",
+  "notAfter": "2028-09-14T16:28:44.5101377+00:00",
+  "issuedAt": "2026-09-15T16:28:44.5101377+00:00",
+  "rootKeyId": "root_2026"
+}

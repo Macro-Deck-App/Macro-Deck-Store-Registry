@@ -1,8 +1,9 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-09-15T18:34:54.6460318+00:00",
+  "generatedAt": "2026-09-16T17:12:18.44341+00:00",
   "plugins": [
+    "com.pyflat.device-battery-info",
     "com.suchbyte.macrogotchi"
   ],
   "iconPacks": [],

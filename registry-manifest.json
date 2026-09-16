@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 9,
-  "generatedAt": "2026-09-16T04:20:55.2206064+00:00",
+  "sequence": 10,
+  "generatedAt": "2026-09-16T17:12:18.4738273+00:00",
   "files": [
     {
       "path": "certificates/cert_7cc0e4aaea428037548461cd01b9a94f.json",
@@ -35,6 +35,16 @@
       "size": 89
     },
     {
+      "path": "certificates/cert_a7cbe69a2f7c06c17e19c41472e2d996.json",
+      "sha256": "24a1ef98d6a0b6f58b583621655392e2611501203aaf6a27ad248226e6393622",
+      "size": 576
+    },
+    {
+      "path": "certificates/cert_a7cbe69a2f7c06c17e19c41472e2d996.sig",
+      "sha256": "a70df4a01a0321319eee0ee7bdbfd00fb38284a0e577dd3e1faabc36d5497486",
+      "size": 89
+    },
+    {
       "path": "certificates/cert_c1954f6d2e7f4a58934a878774892d42.json",
       "sha256": "b354bce5ae2169d383875c16efb69d150a9da06cbb496e25b3e937a19cf265f0",
       "size": 572
@@ -46,8 +56,28 @@
     },
     {
       "path": "index.json",
-      "sha256": "c30fc8ffa59f527c566226f978b7b0d5e325c2c0b85eb7a4864b4b9ef10cfcf6",
-      "size": 287
+      "sha256": "912a3c6c575f4bfe39158dbdad1333b2007a9ca43eda65e28c22a9489072c7ff",
+      "size": 323
+    },
+    {
+      "path": "plugins/com.pyflat.device-battery-info/manifest.json",
+      "sha256": "7cfc0bef44746ad27c6f1f0d236e4da64b788bcddc57385a10463069bd1ce0ff",
+      "size": 540
+    },
+    {
+      "path": "plugins/com.pyflat.device-battery-info/versions/1.0.0/changelog.md",
+      "sha256": "75c88e4dd348ec42289641f017973ea06f3e525e3d2e3f2bfdf492a227d3aa64",
+      "size": 547
+    },
+    {
+      "path": "plugins/com.pyflat.device-battery-info/versions/1.0.0/description.md",
+      "sha256": "376e9bdf047361f456d38920fab877737ddfa167904e90c32e61702af0233ae6",
+      "size": 91
+    },
+    {
+      "path": "plugins/com.pyflat.device-battery-info/versions/1.0.0/manifest.json",
+      "sha256": "549dd69237e10c5acf350676f4014ff5b94239a45b8d4af74aa6ddc9af59d04e",
+      "size": 699
     },
     {
       "path": "plugins/com.suchbyte.macrogotchi/manifest.json",
