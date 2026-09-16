@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.macro-deck.app/macrodeck-certificate-v1.schema.json",
+  "schemaVersion": 1,
+  "subject": {
+    "kind": "creator",
+    "id": "390886741759754391",
+    "name": "squibsland"
+  },
+  "algorithm": "ed25519",
+  "certificateId": "cert_bbc3c01c4fbd30b35075f1c945e68838",
+  "publicKey": "Na5y5EYKXfN\u002BuwH6nXsCY2c7D7/ooKKpmd/7C5g/j8s=",
+  "keyUsage": [
+    "package"
+  ],
+  "notBefore": "2026-09-15T18:25:22.6234011+00:00",
+  "notAfter": "2028-09-14T18:25:22.6234011+00:00",
+  "issuedAt": "2026-09-15T18:25:22.6234011+00:00",
+  "rootKeyId": "root_2026"
+}

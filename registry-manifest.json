@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 10,
-  "generatedAt": "2026-09-16T17:12:18.4738273+00:00",
+  "sequence": 11,
+  "generatedAt": "2026-09-16T18:54:57.091543+00:00",
   "files": [
     {
       "path": "certificates/cert_7cc0e4aaea428037548461cd01b9a94f.json",
@@ -45,6 +45,16 @@
       "size": 89
     },
     {
+      "path": "certificates/cert_bbc3c01c4fbd30b35075f1c945e68838.json",
+      "sha256": "fe09124b5918b86a985181e2755a45f0234ab8a89e4950ffb408f5029610ef71",
+      "size": 580
+    },
+    {
+      "path": "certificates/cert_bbc3c01c4fbd30b35075f1c945e68838.sig",
+      "sha256": "56cc5ef6b7f2ea7eaf5d234e451c9bb1735015ae702743817a8f7e5f547b009b",
+      "size": 89
+    },
+    {
       "path": "certificates/cert_c1954f6d2e7f4a58934a878774892d42.json",
       "sha256": "b354bce5ae2169d383875c16efb69d150a9da06cbb496e25b3e937a19cf265f0",
       "size": 572
@@ -56,8 +66,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "912a3c6c575f4bfe39158dbdad1333b2007a9ca43eda65e28c22a9489072c7ff",
-      "size": 323
+      "sha256": "8bbe79283dee3e07d16a7a27a772567a620e3523e1862233ef02a7c16103e087",
+      "size": 355
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/manifest.json",
@@ -78,6 +88,26 @@
       "path": "plugins/com.pyflat.device-battery-info/versions/1.0.0/manifest.json",
       "sha256": "549dd69237e10c5acf350676f4014ff5b94239a45b8d4af74aa6ddc9af59d04e",
       "size": 699
+    },
+    {
+      "path": "plugins/com.squibsland.beefweb/manifest.json",
+      "sha256": "186a27ac1a7d4ae5ab7f2802e3d2fa0357fa1171604abb3806d7d0f853456c5e",
+      "size": 566
+    },
+    {
+      "path": "plugins/com.squibsland.beefweb/versions/0.0.3/changelog.md",
+      "sha256": "f3bf45d7308f08f0728e0cc92ece34f0f9d6ac92542ce98ee278d43903764c7b",
+      "size": 1998
+    },
+    {
+      "path": "plugins/com.squibsland.beefweb/versions/0.0.3/description.md",
+      "sha256": "877cdee8d02c186656eb5b59efd33f3d5386b2ae0bfe653e2538597e729bfc47",
+      "size": 64
+    },
+    {
+      "path": "plugins/com.squibsland.beefweb/versions/0.0.3/manifest.json",
+      "sha256": "7750974cedacb857349ddf14e9b68bfc9a87066af81c468d64882cb58da46bcd",
+      "size": 677
     },
     {
       "path": "plugins/com.suchbyte.macrogotchi/manifest.json",

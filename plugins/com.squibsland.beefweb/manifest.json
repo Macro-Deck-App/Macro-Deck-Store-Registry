@@ -1,0 +1,19 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "BeefWeb",
+  "id": "com.squibsland.beefweb",
+  "latestVersion": "0.0.3",
+  "description": "Control your Foobar2000 or DeaDBeeF music player!",
+  "publisher": "Squibs",
+  "repository": "https://github.com/SquibsLand/MacroDeck-BeefWeb",
+  "homepage": "https://www.twitch.tv/squibsland/",
+  "license": "MIT",
+  "createdAt": "2026-09-16T18:54:57.0560217+00:00",
+  "updatedAt": "2026-09-16T18:54:57.0560217+00:00",
+  "supportedRids": [
+    "linux-x64",
+    "osx-arm64",
+    "win-x64"
+  ]
+}
