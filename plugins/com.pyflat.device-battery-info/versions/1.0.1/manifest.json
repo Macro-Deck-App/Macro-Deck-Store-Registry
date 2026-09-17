@@ -1,0 +1,16 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.pyflat.device-battery-info/1.0.1/com.pyflat.device-battery-info-v1.0.1.macroDeckPlugin",
+  "sha256": "ef58a2157684c4c94de234c1a6443ddeba5726906e0a65b6d9d96004f0be5bab",
+  "size": 1010059,
+  "uploadedAt": "2026-09-16T21:53:56.095677+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.pyflat.device-battery-info/assets/59ec3ef6b95e8876-59ec3ef6b95e8876.svg",
+      "sha256": "59ec3ef6b95e88766aa0bac12f52b63f6aff4fa58fc104b6861e8e8b87dd98b1",
+      "size": 388,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": []
+  }
+}
