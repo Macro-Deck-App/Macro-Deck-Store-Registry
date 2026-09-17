@@ -1,0 +1,35 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.suchbyte.macrogotchi/1.1.0/com.suchbyte.macrogotchi-v1.1.0.macroDeckPlugin",
+  "sha256": "f9b4568bd6c54af6567c8b124fdcfd06ceca3b2fa46bc8576d3ffd21b35aca8b",
+  "size": 2291529,
+  "uploadedAt": "2026-09-17T05:58:13.503263+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.suchbyte.macrogotchi/assets/7fae6325acc4f2d2-7fae6325acc4f2d2.svg",
+      "sha256": "7fae6325acc4f2d2c14b6fc244c03a7b8092562868dd3e77783ba18e4b85e93c",
+      "size": 386,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.suchbyte.macrogotchi/assets/ba413eb9a04a3daa-ba413eb9a04a3daa.png",
+        "sha256": "ba413eb9a04a3daa4c417d90a5bacf2fb04f691ce3d0283b2832ee8e2e5e080e",
+        "size": 112528,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.suchbyte.macrogotchi/assets/3621354581583b2e-3621354581583b2e.png",
+        "sha256": "3621354581583b2e40de888ffa7c4d88b96197baaf0e4eac9c546a54ec574599",
+        "size": 17011,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.suchbyte.macrogotchi/assets/9dd043ebf0e9332b-9dd043ebf0e9332b.png",
+        "sha256": "9dd043ebf0e9332b5b4b61df893a424ca480874c378bb58fef67c07c81e231a7",
+        "size": 26798,
+        "contentType": "image/png"
+      }
+    ]
+  }
+}
