@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 14,
-  "generatedAt": "2026-09-18T14:53:28.7489257+00:00",
+  "sequence": 15,
+  "generatedAt": "2026-09-18T20:54:41.2383543+00:00",
   "files": [
     {
       "path": "certificates/cert_7cc0e4aaea428037548461cd01b9a94f.json",
@@ -71,8 +71,8 @@
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/manifest.json",
-      "sha256": "567e64e9043b4cdddd7d722bf99e00191234d0190848be20b581964e41a3685f",
-      "size": 545
+      "sha256": "ebcfa3e2409f7f95e80e04a7c840d8b1a6d474ea936ef8758824d876e3d3beb8",
+      "size": 539
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.0.0/changelog.md",

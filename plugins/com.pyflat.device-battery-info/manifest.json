@@ -5,11 +5,11 @@
   "id": "com.pyflat.device-battery-info",
   "latestVersion": "1.0.1",
   "description": "Live battery levels for your PC, phone, mouse and Bluetooth gear, right on your Macro Deck.",
-  "publisher": "pyflat_jr",
-  "repository": "https://github.com/PyFlat-JR/Device-Battery-Info",
+  "publisher": "PyFlat",
+  "repository": "https://github.com/PyFlat/Device-Battery-Info",
   "license": "MIT",
   "createdAt": "2026-09-16T17:12:18.44341+00:00",
-  "updatedAt": "2026-09-17T05:06:22.3161773+00:00",
+  "updatedAt": "2026-09-18T20:54:41.1785671+00:00",
   "supportedRids": [
     "win-x64"
   ]
