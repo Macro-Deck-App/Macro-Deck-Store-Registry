@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.macro-deck.app/macrodeck-certificate-v1.schema.json",
+  "schemaVersion": 1,
+  "subject": {
+    "kind": "organization",
+    "id": "01a0b593-7eb0-708e-b96c-6757a2a89c2f",
+    "name": "Device Battery Info"
+  },
+  "algorithm": "ed25519",
+  "certificateId": "cert_1ec60d31501768b730eef9d8ee219c06",
+  "publicKey": "JKNYl9WkW4un6G4b3X/SIXQ3xoxzQAJYl7VSQt1Lohc=",
+  "keyUsage": [
+    "package"
+  ],
+  "notBefore": "2026-09-18T21:00:24.6000852+00:00",
+  "notAfter": "2028-09-17T21:00:24.6000852+00:00",
+  "issuedAt": "2026-09-18T21:00:24.6000852+00:00",
+  "rootKeyId": "root_2026"
+}

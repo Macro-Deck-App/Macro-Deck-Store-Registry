@@ -1,9 +1,19 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 15,
-  "generatedAt": "2026-09-18T20:54:41.2383543+00:00",
+  "sequence": 16,
+  "generatedAt": "2026-09-19T11:58:32.1011482+00:00",
   "files": [
+    {
+      "path": "certificates/cert_1ec60d31501768b730eef9d8ee219c06.json",
+      "sha256": "d005acb1be52114e96117181a8d4955cc770ce59caad97d38f456b3e91bcddb9",
+      "size": 607
+    },
+    {
+      "path": "certificates/cert_1ec60d31501768b730eef9d8ee219c06.sig",
+      "sha256": "a556b32975cf85e4ebeb7976bc97f30f56a37ea7033c6bb89e95b14afbc59cfa",
+      "size": 89
+    },
     {
       "path": "certificates/cert_7cc0e4aaea428037548461cd01b9a94f.json",
       "sha256": "a6f89a45e484eae00ea5d8f7eb343f4ade4b466daf4e86dd56ad3d397d2899d4",
@@ -71,8 +81,8 @@
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/manifest.json",
-      "sha256": "ebcfa3e2409f7f95e80e04a7c840d8b1a6d474ea936ef8758824d876e3d3beb8",
-      "size": 539
+      "sha256": "bd17382740672fcfea3054312c3e442478783236f7604c9d48466c8047779bc7",
+      "size": 533
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.0.0/changelog.md",
@@ -103,6 +113,21 @@
       "path": "plugins/com.pyflat.device-battery-info/versions/1.0.1/manifest.json",
       "sha256": "9bfb70c8270aae12b1d048f2bd06f2ebc0c07be3930528c9828e0c8463250c61",
       "size": 699
+    },
+    {
+      "path": "plugins/com.pyflat.device-battery-info/versions/1.0.2/changelog.md",
+      "sha256": "356c2da73e9a0a2021d182d95d2cf94306a9dc2d1dacac9c1a80ed1f1f1c50bd",
+      "size": 90
+    },
+    {
+      "path": "plugins/com.pyflat.device-battery-info/versions/1.0.2/description.md",
+      "sha256": "376e9bdf047361f456d38920fab877737ddfa167904e90c32e61702af0233ae6",
+      "size": 91
+    },
+    {
+      "path": "plugins/com.pyflat.device-battery-info/versions/1.0.2/manifest.json",
+      "sha256": "9fdfaa1b9a80e00c4a5f0906b7c0416d1c32ce3850c12136ae3b667544165f90",
+      "size": 2137
     },
     {
       "path": "plugins/com.squibsland.beefweb/manifest.json",
