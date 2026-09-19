@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 18,
-  "generatedAt": "2026-09-19T13:48:47.7091131+00:00",
+  "sequence": 19,
+  "generatedAt": "2026-09-19T17:56:27.7158538+00:00",
   "files": [
     {
       "path": "certificates/cert_1ec60d31501768b730eef9d8ee219c06.json",
@@ -146,7 +146,7 @@
     },
     {
       "path": "plugins/com.pyflat.system-hotkeys/manifest.json",
-      "sha256": "5eec19763b36f2ba76b5a64c2484941620e23f74fd3c311205f1824c08af5be1",
+      "sha256": "c9f5c2d9da865f7c140ed38e6cc1b1253a716dcf244eca9fad00a5a17a00f463",
       "size": 543
     },
     {
@@ -162,6 +162,21 @@
     {
       "path": "plugins/com.pyflat.system-hotkeys/versions/1.0.0/manifest.json",
       "sha256": "c2ad6e38e45b351c611fcc633162f650e445f88d0fd0e192f2957044f620695f",
+      "size": 731
+    },
+    {
+      "path": "plugins/com.pyflat.system-hotkeys/versions/1.0.1/changelog.md",
+      "sha256": "ea6c7e775f8d1dccb8dd0b8c2773f9d5f0b60b8fbd4e41fa365da87fc3894a57",
+      "size": 242
+    },
+    {
+      "path": "plugins/com.pyflat.system-hotkeys/versions/1.0.1/description.md",
+      "sha256": "362a850e8e63988dc63ff680497b1393d4fff2ae8a1ea22c3426aa8728a99579",
+      "size": 168
+    },
+    {
+      "path": "plugins/com.pyflat.system-hotkeys/versions/1.0.1/manifest.json",
+      "sha256": "f7b3ac3a194adc3a457ecfd2c7f540248030ad709229a28c5b9075981f483c35",
       "size": 731
     },
     {
