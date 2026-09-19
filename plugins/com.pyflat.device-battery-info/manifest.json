@@ -3,13 +3,13 @@
   "kind": "plugin",
   "name": "Device Battery Info",
   "id": "com.pyflat.device-battery-info",
-  "latestVersion": "1.0.2",
+  "latestVersion": "1.1.0",
   "description": "Live battery levels for your PC, phone, mouse and Bluetooth gear, right on your deck.",
   "publisher": "PyFlat",
   "repository": "https://github.com/PyFlat/Device-Battery-Info",
   "license": "MIT",
   "createdAt": "2026-09-16T17:12:18.44341+00:00",
-  "updatedAt": "2026-09-19T11:58:32.0925592+00:00",
+  "updatedAt": "2026-09-19T13:48:47.6676395+00:00",
   "supportedRids": [
     "win-x64"
   ]
