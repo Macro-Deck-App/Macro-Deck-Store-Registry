@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 20,
-  "generatedAt": "2026-09-19T17:57:36.8059351+00:00",
+  "sequence": 21,
+  "generatedAt": "2026-09-19T18:40:30.3043021+00:00",
   "files": [
     {
       "path": "certificates/cert_1ec60d31501768b730eef9d8ee219c06.json",
@@ -12,6 +12,16 @@
     {
       "path": "certificates/cert_1ec60d31501768b730eef9d8ee219c06.sig",
       "sha256": "a556b32975cf85e4ebeb7976bc97f30f56a37ea7033c6bb89e95b14afbc59cfa",
+      "size": 89
+    },
+    {
+      "path": "certificates/cert_3297969e022607b578fcd383e43c9122.json",
+      "sha256": "5614a6cef086d4c6aa1c381ddc3dbce73ebe997d9c792f908c132ec878173d3b",
+      "size": 575
+    },
+    {
+      "path": "certificates/cert_3297969e022607b578fcd383e43c9122.sig",
+      "sha256": "9823615b2ca97cbf802313e67689c17f52035a733ab8641df420c0a7d358bb81",
       "size": 89
     },
     {
@@ -96,8 +106,28 @@
     },
     {
       "path": "index.json",
-      "sha256": "2741aa783ab735c46bc6947fc3c7a2d4d9b5c84e17f3d40d9e9949d029155042",
-      "size": 432
+      "sha256": "1e56096e6ed2a705217ac8d0d37521a58e0c95b58255fef320330c941e9723bc",
+      "size": 472
+    },
+    {
+      "path": "plugins/com.cjhackeryt.steelseriessonar/manifest.json",
+      "sha256": "4feb840ebaafd7cce5c7a06912eaccb3dd374b93db28a77b3d84121bea369464",
+      "size": 571
+    },
+    {
+      "path": "plugins/com.cjhackeryt.steelseriessonar/versions/1.0.15/changelog.md",
+      "sha256": "9bb5610ee461a9a561e0224e73696cc277830d64e3f4d7c245cc59709051f0bc",
+      "size": 46
+    },
+    {
+      "path": "plugins/com.cjhackeryt.steelseriessonar/versions/1.0.15/description.md",
+      "sha256": "c09d65e98820ec3a666968021675151e7a82f2ec5be702ed1c78ced9cfd99fff",
+      "size": 125
+    },
+    {
+      "path": "plugins/com.cjhackeryt.steelseriessonar/versions/1.0.15/manifest.json",
+      "sha256": "0917b2bb3ac50b4645d032d0c289762194302a58aa577bd24280069ca54ab153",
+      "size": 1801
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/manifest.json",

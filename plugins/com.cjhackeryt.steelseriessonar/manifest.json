@@ -1,0 +1,16 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "SteelSeries GG Sonar",
+  "id": "com.cjhackeryt.steelseriessonar",
+  "latestVersion": "1.0.15",
+  "description": "Control SteelSeries GG Sonar audio directly from Macro Deck, including volume, mute, chat mix, and streamer mode.",
+  "publisher": "cjhackeryt",
+  "repository": "https://github.com/Cjhackeryt/SteelseriesSonar",
+  "license": "MIT",
+  "createdAt": "2026-09-19T18:40:30.2706949+00:00",
+  "updatedAt": "2026-09-19T18:40:30.2706949+00:00",
+  "supportedRids": [
+    "win-x64"
+  ]
+}

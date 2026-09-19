@@ -1,0 +1,35 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.cjhackeryt.steelseriessonar/1.0.15/com.cjhackeryt.steelseriessonar-v1.0.15.macroDeckPlugin",
+  "sha256": "15dfcde7de38b776f6fd399d8eb97b9984d5dbddb4ae14b922672a0a4d8375bd",
+  "size": 807267,
+  "uploadedAt": "2026-09-19T18:31:56.416491+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.cjhackeryt.steelseriessonar/assets/7b3e86102b6df2a0-7b3e86102b6df2a06725598638cdbb1b00da48833232a9c7ceb3bef8eb815fbc.svg",
+      "sha256": "7b3e86102b6df2a06725598638cdbb1b00da48833232a9c7ceb3bef8eb815fbc",
+      "size": 7080,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.cjhackeryt.steelseriessonar/assets/ea1cc5314a124c08-ea1cc5314a124c08e6b1723be7b015a9c7b3c924355488b6f83ad19354f406e7.png",
+        "sha256": "ea1cc5314a124c08e6b1723be7b015a9c7b3c924355488b6f83ad19354f406e7",
+        "size": 124878,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.cjhackeryt.steelseriessonar/assets/b58a1612bfae86e0-b58a1612bfae86e05ea54333a515843adb633cbb3488ed755a4a7fe0a4bb8eea.png",
+        "sha256": "b58a1612bfae86e05ea54333a515843adb633cbb3488ed755a4a7fe0a4bb8eea",
+        "size": 45377,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.cjhackeryt.steelseriessonar/assets/946cfe99fc552466-946cfe99fc55246692b6ee3a13723b4138831f6c9ddb6c1859cb0f67c6a672e4.png",
+        "sha256": "946cfe99fc55246692b6ee3a13723b4138831f6c9ddb6c1859cb0f67c6a672e4",
+        "size": 71016,
+        "contentType": "image/png"
+      }
+    ]
+  }
+}

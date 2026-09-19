@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.macro-deck.app/macrodeck-certificate-v1.schema.json",
+  "schemaVersion": 1,
+  "subject": {
+    "kind": "creator",
+    "id": "390888752173547671",
+    "name": "cjhackeryt"
+  },
+  "algorithm": "ed25519",
+  "certificateId": "cert_3297969e022607b578fcd383e43c9122",
+  "publicKey": "1PRPwpP2JVRU4J/w8OvJvdp6IxNlJQh7sWjyhGGgvD4=",
+  "keyUsage": [
+    "package"
+  ],
+  "notBefore": "2026-09-15T20:18:17.4834098+00:00",
+  "notAfter": "2028-09-14T20:18:17.4834098+00:00",
+  "issuedAt": "2026-09-15T20:18:17.4834098+00:00",
+  "rootKeyId": "root_2026"
+}
