@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 16,
-  "generatedAt": "2026-09-19T11:58:32.1011482+00:00",
+  "sequence": 17,
+  "generatedAt": "2026-09-19T13:01:43.9509119+00:00",
   "files": [
     {
       "path": "certificates/cert_1ec60d31501768b730eef9d8ee219c06.json",
@@ -76,8 +76,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "8bbe79283dee3e07d16a7a27a772567a620e3523e1862233ef02a7c16103e087",
-      "size": 355
+      "sha256": "94bb76cc36d91700b805083c83c55c19dcdbf8ead4ad7cc5354efcc83d7afd44",
+      "size": 388
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/manifest.json",
@@ -128,6 +128,26 @@
       "path": "plugins/com.pyflat.device-battery-info/versions/1.0.2/manifest.json",
       "sha256": "9fdfaa1b9a80e00c4a5f0906b7c0416d1c32ce3850c12136ae3b667544165f90",
       "size": 2137
+    },
+    {
+      "path": "plugins/com.pyflat.system-hotkeys/manifest.json",
+      "sha256": "5eec19763b36f2ba76b5a64c2484941620e23f74fd3c311205f1824c08af5be1",
+      "size": 543
+    },
+    {
+      "path": "plugins/com.pyflat.system-hotkeys/versions/1.0.0/changelog.md",
+      "sha256": "34239a54fd58e2b07350e3a7a513513674fec711434f027a66dd8c9ce907dc23",
+      "size": 524
+    },
+    {
+      "path": "plugins/com.pyflat.system-hotkeys/versions/1.0.0/description.md",
+      "sha256": "362a850e8e63988dc63ff680497b1393d4fff2ae8a1ea22c3426aa8728a99579",
+      "size": 168
+    },
+    {
+      "path": "plugins/com.pyflat.system-hotkeys/versions/1.0.0/manifest.json",
+      "sha256": "c2ad6e38e45b351c611fcc633162f650e445f88d0fd0e192f2957044f620695f",
+      "size": 731
     },
     {
       "path": "plugins/com.squibsland.beefweb/manifest.json",
