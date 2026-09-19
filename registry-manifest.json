@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 19,
-  "generatedAt": "2026-09-19T17:56:27.7158538+00:00",
+  "sequence": 20,
+  "generatedAt": "2026-09-19T17:57:36.8059351+00:00",
   "files": [
     {
       "path": "certificates/cert_1ec60d31501768b730eef9d8ee219c06.json",
@@ -75,9 +75,29 @@
       "size": 89
     },
     {
+      "path": "icon-packs/com.suchbyte.colorful-generic-icons/manifest.json",
+      "sha256": "280562650b9ed71923b61487b308fd1de6b0f3cfa3c13f9d468d132c7b72d4fd",
+      "size": 397
+    },
+    {
+      "path": "icon-packs/com.suchbyte.colorful-generic-icons/versions/1.0.0/changelog.md",
+      "sha256": "d5d7b8c279241191ba8e6967dfdefe1e1df5a56afd97e4d452266ac47a778983",
+      "size": 18
+    },
+    {
+      "path": "icon-packs/com.suchbyte.colorful-generic-icons/versions/1.0.0/description.md",
+      "sha256": "ef7cf558425b75a820d0c0f62962bd54024c49582d566caa6d689ea39a823030",
+      "size": 40
+    },
+    {
+      "path": "icon-packs/com.suchbyte.colorful-generic-icons/versions/1.0.0/manifest.json",
+      "sha256": "b2096af021824b71e42daf864a65a80f0fa69f08afabdb077e636e1bb31dddf8",
+      "size": 1121
+    },
+    {
       "path": "index.json",
-      "sha256": "94bb76cc36d91700b805083c83c55c19dcdbf8ead4ad7cc5354efcc83d7afd44",
-      "size": 388
+      "sha256": "2741aa783ab735c46bc6947fc3c7a2d4d9b5c84e17f3d40d9e9949d029155042",
+      "size": 432
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/manifest.json",

@@ -1,14 +1,16 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-09-19T13:01:43.8947877+00:00",
+  "generatedAt": "2026-09-19T17:57:36.800636+00:00",
   "plugins": [
     "com.pyflat.device-battery-info",
     "com.pyflat.system-hotkeys",
     "com.squibsland.beefweb",
     "com.suchbyte.macrogotchi"
   ],
-  "iconPacks": [],
+  "iconPacks": [
+    "com.suchbyte.colorful-generic-icons"
+  ],
   "templates": {
     "automations": [],
     "folders": [],

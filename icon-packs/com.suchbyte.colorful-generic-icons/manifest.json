@@ -1,0 +1,12 @@
+{
+  "$schema": "../../schemas/icon-pack.schema.json",
+  "kind": "iconPack",
+  "name": "Colorful Generic Icons",
+  "id": "com.suchbyte.colorful-generic-icons",
+  "latestVersion": "1.0.0",
+  "description": "The old Colorful Generic Icons from MD2",
+  "publisher": "SuchByte",
+  "license": "MIT",
+  "createdAt": "2026-09-19T17:57:36.800636+00:00",
+  "updatedAt": "2026-09-19T17:57:36.800636+00:00"
+}

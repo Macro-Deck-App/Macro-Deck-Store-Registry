@@ -1,0 +1,23 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/icon-packs/com.suchbyte.colorful-generic-icons/1.0.0/com.suchbyte.colorful-generic-icons-v1.0.0.macroDeckIconPack",
+  "sha256": "864a80c743ab37a8de8673edd57fcd113552bc7b0f973960c2c32d4cdf804f4c",
+  "size": 109536,
+  "uploadedAt": "2026-09-19T15:28:20.444114+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/icon-packs/com.suchbyte.colorful-generic-icons/assets/a0f48bcc452c366d-a0f48bcc452c366d96403909b60ee4f1793db65d0ec8d0dfe1973b698601c494.png",
+      "sha256": "a0f48bcc452c366d96403909b60ee4f1793db65d0ec8d0dfe1973b698601c494",
+      "size": 7746,
+      "contentType": "image/png"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/icon-packs/com.suchbyte.colorful-generic-icons/assets/2b315ad13304efd4-2b315ad13304efd4d751a86b5bab8cac08af4dc40987b11748852fd3b9d35b80.png",
+        "sha256": "2b315ad13304efd4d751a86b5bab8cac08af4dc40987b11748852fd3b9d35b80",
+        "size": 119503,
+        "contentType": "image/png"
+      }
+    ]
+  }
+}
