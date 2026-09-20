@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 21,
-  "generatedAt": "2026-09-19T18:40:30.3043021+00:00",
+  "sequence": 22,
+  "generatedAt": "2026-09-20T08:47:43.5368+00:00",
   "files": [
     {
       "path": "certificates/cert_1ec60d31501768b730eef9d8ee219c06.json",
@@ -85,6 +85,16 @@
       "size": 89
     },
     {
+      "path": "certificates/cert_ddab76ce61e3b07ef827219022b2d6b5.json",
+      "sha256": "6646dace32f9146b2cdc9a38131b255b6ffb2066fee7438cb56082cc25debf64",
+      "size": 572
+    },
+    {
+      "path": "certificates/cert_ddab76ce61e3b07ef827219022b2d6b5.sig",
+      "sha256": "157c25a6e2397e1d86ad25d3c9a7f7626feb2719219506c56b0507f20b316a6c",
+      "size": 89
+    },
+    {
       "path": "icon-packs/com.suchbyte.colorful-generic-icons/manifest.json",
       "sha256": "280562650b9ed71923b61487b308fd1de6b0f3cfa3c13f9d468d132c7b72d4fd",
       "size": 397
@@ -106,8 +116,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "1e56096e6ed2a705217ac8d0d37521a58e0c95b58255fef320330c941e9723bc",
-      "size": 472
+      "sha256": "eb26a88e89d3e8fcc8caa4dcfdce91295b1fc2111c595ce8b29c18d7454fd9ff",
+      "size": 505
     },
     {
       "path": "plugins/com.cjhackeryt.steelseriessonar/manifest.json",
@@ -128,6 +138,26 @@
       "path": "plugins/com.cjhackeryt.steelseriessonar/versions/1.0.15/manifest.json",
       "sha256": "0917b2bb3ac50b4645d032d0c289762194302a58aa577bd24280069ca54ab153",
       "size": 1801
+    },
+    {
+      "path": "plugins/com.inariix.mbxhub-plugin/manifest.json",
+      "sha256": "8e46311015fdc38e3a3bf3f669018d49800bbf6c92de55f11a2ca565dbdc28c5",
+      "size": 571
+    },
+    {
+      "path": "plugins/com.inariix.mbxhub-plugin/versions/0.1.5/changelog.md",
+      "sha256": "47d999cf68b4ff60600fbc107c7fa28dfbc8294a4187995ebb648a90ed78cc02",
+      "size": 16
+    },
+    {
+      "path": "plugins/com.inariix.mbxhub-plugin/versions/0.1.5/description.md",
+      "sha256": "f73232d165ef37b76420467cf04a862d3641a197d2e99204b3cff19bd3c97227",
+      "size": 141
+    },
+    {
+      "path": "plugins/com.inariix.mbxhub-plugin/versions/0.1.5/manifest.json",
+      "sha256": "94c775c31c55c659aba4454f7f780a600f6672cc575471720b9cb7dc625e19f1",
+      "size": 732
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/manifest.json",

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.inariix.mbxhub-plugin/0.1.5/com.inariix.mbxhub-plugin-v0.1.5.macroDeckPlugin",
+  "sha256": "e76c84ddcc9aa095ee93ebdddd1f898767147afd4b179c2271fdf79b78ac2e75",
+  "size": 2270606,
+  "uploadedAt": "2026-09-20T01:01:45.812265+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.inariix.mbxhub-plugin/assets/0bee4293491d9c0f-0bee4293491d9c0f0802e97b74a92d94ec5eff9c3606b74feea882e72b6b4d8a.svg",
+      "sha256": "0bee4293491d9c0f0802e97b74a92d94ec5eff9c3606b74feea882e72b6b4d8a",
+      "size": 359,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": []
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.macro-deck.app/macrodeck-certificate-v1.schema.json",
+  "schemaVersion": 1,
+  "subject": {
+    "kind": "creator",
+    "id": "391453119264850089",
+    "name": "inariix"
+  },
+  "algorithm": "ed25519",
+  "certificateId": "cert_ddab76ce61e3b07ef827219022b2d6b5",
+  "publicKey": "sOOqYUvqYNhFDGnbE3Q2psYxVdr8WWyF9bP9JoicyYU=",
+  "keyUsage": [
+    "package"
+  ],
+  "notBefore": "2026-09-19T13:13:28.2069487+00:00",
+  "notAfter": "2028-09-18T13:13:28.2069487+00:00",
+  "issuedAt": "2026-09-19T13:13:28.2069487+00:00",
+  "rootKeyId": "root_2026"
+}

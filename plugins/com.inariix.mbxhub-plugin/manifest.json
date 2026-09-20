@@ -1,0 +1,19 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "MBXHub (MusicBee)",
+  "id": "com.inariix.mbxhub-plugin",
+  "latestVersion": "0.1.5",
+  "description": "Control Musicbee through MBXHub in Macro Deck 3",
+  "publisher": "inariix",
+  "repository": "https://github.com/InariIX/InariIX.MbxHubPlugin",
+  "homepage": "https://github.com/InariIX",
+  "license": "MIT",
+  "createdAt": "2026-09-20T08:47:43.4994751+00:00",
+  "updatedAt": "2026-09-20T08:47:43.4994751+00:00",
+  "supportedRids": [
+    "linux-x64",
+    "osx-arm64",
+    "win-x64"
+  ]
+}

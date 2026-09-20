@@ -1,9 +1,10 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-09-19T18:40:30.2706949+00:00",
+  "generatedAt": "2026-09-20T08:47:43.4994751+00:00",
   "plugins": [
     "com.cjhackeryt.steelseriessonar",
+    "com.inariix.mbxhub-plugin",
     "com.pyflat.device-battery-info",
     "com.pyflat.system-hotkeys",
     "com.squibsland.beefweb",
