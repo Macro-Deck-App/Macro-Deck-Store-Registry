@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 23,
-  "generatedAt": "2026-09-20T14:18:45.4166934+00:00",
+  "sequence": 24,
+  "generatedAt": "2026-09-21T08:57:52.9888888+00:00",
   "files": [
     {
       "path": "certificates/cert_1ec60d31501768b730eef9d8ee219c06.json",
@@ -121,7 +121,7 @@
     },
     {
       "path": "plugins/com.cjhackeryt.steelseriessonar/manifest.json",
-      "sha256": "4feb840ebaafd7cce5c7a06912eaccb3dd374b93db28a77b3d84121bea369464",
+      "sha256": "8d5fdd67524d22ba968efb805c17001f884bbfcb9372630a4c22b95b63ef0c78",
       "size": 571
     },
     {
@@ -137,6 +137,21 @@
     {
       "path": "plugins/com.cjhackeryt.steelseriessonar/versions/1.0.15/manifest.json",
       "sha256": "0917b2bb3ac50b4645d032d0c289762194302a58aa577bd24280069ca54ab153",
+      "size": 1801
+    },
+    {
+      "path": "plugins/com.cjhackeryt.steelseriessonar/versions/1.0.18/changelog.md",
+      "sha256": "404af4a39d5ebc46ce8c11f37250de7f7b60c5245a6541007d0a02c1647cc0cc",
+      "size": 719
+    },
+    {
+      "path": "plugins/com.cjhackeryt.steelseriessonar/versions/1.0.18/description.md",
+      "sha256": "c09d65e98820ec3a666968021675151e7a82f2ec5be702ed1c78ced9cfd99fff",
+      "size": 125
+    },
+    {
+      "path": "plugins/com.cjhackeryt.steelseriessonar/versions/1.0.18/manifest.json",
+      "sha256": "07885682e1040191c6c408666a4bc8d91f8ca9c2fe9fa6aff78b9a6a36a1da5a",
       "size": 1801
     },
     {
