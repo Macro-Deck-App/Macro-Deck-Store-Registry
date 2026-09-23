@@ -69,10 +69,37 @@
       "type": "object",
       "required": ["type", "url"],
       "properties": {
-        "type": { "type": "string", "minLength": 1 },
-        "url": { "type": "string", "format": "uri", "pattern": "^https?://" },
-        "label": { "type": "string", "minLength": 1, "maxLength": 128 }
+        "type": { "type": "string", "minLength": 1, "pattern": "\\S" },
+        "url": { "type": "string", "format": "uri", "pattern": "^[Hh][Tt][Tt][Pp][Ss]?://" },
+        "label": { "type": "string", "minLength": 1, "maxLength": 128, "pattern": "\\S" }
       },
+      "allOf": [
+        {
+          "if": { "properties": { "type": { "const": "custom" } } },
+          "then": { "required": ["label"] }
+        },
+        {
+          "if": {
+            "properties": {
+              "type": {
+                "enum": [
+                  "documentation",
+                  "wiki",
+                  "issues",
+                  "support",
+                  "community",
+                  "donate",
+                  "privacy",
+                  "terms",
+                  "changelog",
+                  "license"
+                ]
+              }
+            }
+          },
+          "then": { "not": { "required": ["label"] } }
+        }
+      ],
       "additionalProperties": false
     },
     "tag": {
