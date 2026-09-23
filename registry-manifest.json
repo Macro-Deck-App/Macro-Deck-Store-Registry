@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 29,
-  "generatedAt": "2026-09-23T18:55:24.3621094+00:00",
+  "sequence": 30,
+  "generatedAt": "2026-09-23T18:57:00.991356+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -126,8 +126,8 @@
     },
     {
       "path": "plugins/com.cjhackeryt.soundbox/manifest.json",
-      "sha256": "32efa76c6e222ac02873c9bb2270e897814594dc8e2a41c96b4709d76e8ba05e",
-      "size": 628
+      "sha256": "0143b7f3f42325e1d87acfe8ee7f8fa837f2ded8f2b72ad871830c3a057c8537",
+      "size": 818
     },
     {
       "path": "plugins/com.cjhackeryt.soundbox/versions/0.1.5/changelog.md",
