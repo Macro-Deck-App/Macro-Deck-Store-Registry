@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://schemas.macro-deck.app/store-categories-v1.schema.json",
+  "title": "Macro Deck Store Categories",
+  "description": "The curated Store categories, in the order the Store shows them. A category is one of a package's tags; this list names and orders them.",
+  "type": "object",
+  "required": ["$schema", "version", "categories"],
+  "properties": {
+    "$schema": { "type": "string" },
+    "version": { "const": 1 },
+    "categories": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "required": ["id", "names"],
+        "properties": {
+          "id": { "type": "string", "maxLength": 32, "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+          "names": {
+            "type": "object",
+            "description": "Display names by language code. English is required; a client falls back to it.",
+            "required": ["en"],
+            "propertyNames": { "pattern": "^[a-z]{2}$" },
+            "additionalProperties": { "type": "string", "minLength": 1, "maxLength": 64 }
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}
