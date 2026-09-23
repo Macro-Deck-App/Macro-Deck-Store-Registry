@@ -25,6 +25,11 @@
     "publisher": { "type": "string", "minLength": 1, "maxLength": 128 },
     "repository": { "$ref": "#/$defs/httpsUrl" },
     "homepage": { "$ref": "#/$defs/httpsUrl" },
+    "additionalLinks": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/additionalLink" }
+    },
     "license": { "type": "string", "minLength": 1 },
     "createdAt": { "type": "string", "format": "date-time" },
     "updatedAt": { "type": "string", "format": "date-time" },
@@ -52,6 +57,43 @@
       "type": "string",
       "format": "uri",
       "pattern": "^https://"
+    },
+    "additionalLink": {
+      "type": "object",
+      "required": ["type", "url"],
+      "properties": {
+        "type": { "type": "string", "minLength": 1, "pattern": "\\S" },
+        "url": { "type": "string", "format": "uri", "pattern": "^[Hh][Tt][Tt][Pp][Ss]?://" },
+        "label": { "type": "string", "minLength": 1, "maxLength": 128, "pattern": "\\S" }
+      },
+      "allOf": [
+        {
+          "if": { "properties": { "type": { "const": "custom" } } },
+          "then": { "required": ["label"] }
+        },
+        {
+          "if": {
+            "properties": {
+              "type": {
+                "enum": [
+                  "documentation",
+                  "wiki",
+                  "issues",
+                  "support",
+                  "community",
+                  "donate",
+                  "privacy",
+                  "terms",
+                  "changelog",
+                  "license"
+                ]
+              }
+            }
+          },
+          "then": { "not": { "required": ["label"] } }
+        }
+      ],
+      "additionalProperties": false
     }
   },
   "additionalProperties": false
