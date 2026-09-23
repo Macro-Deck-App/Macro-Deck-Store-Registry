@@ -1,0 +1,1 @@
+- Added release documentation for the Macro Deck SDK 3.0.0-beta.12 upgrade.

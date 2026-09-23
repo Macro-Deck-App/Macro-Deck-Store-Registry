@@ -1,0 +1,16 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "SoundBox",
+  "id": "com.cjhackeryt.soundbox",
+  "latestVersion": "0.1.5",
+  "description": "SoundBox is a Windows soundboard plugin for Macro Deck 3. It plays .wav and .mp3 files through selected audio devices, supports simultaneous monitoring, volume control, looping, and instant stopping.",
+  "publisher": "cjhackeryt",
+  "repository": "https://github.com/Cjhackeryt/soundbox",
+  "license": "MIT",
+  "createdAt": "2026-09-23T08:37:15.9431341+00:00",
+  "updatedAt": "2026-09-23T08:37:15.9431341+00:00",
+  "supportedRids": [
+    "win-x64"
+  ]
+}

@@ -1,8 +1,9 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-09-21T11:12:56.1528004+00:00",
+  "generatedAt": "2026-09-23T08:37:15.9431341+00:00",
   "plugins": [
+    "com.cjhackeryt.soundbox",
     "com.cjhackeryt.steelseriessonar",
     "com.inariix.mbxhub-plugin",
     "com.pyflat.device-battery-info",
