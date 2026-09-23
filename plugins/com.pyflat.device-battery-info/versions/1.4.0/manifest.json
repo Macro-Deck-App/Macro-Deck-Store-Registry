@@ -1,0 +1,41 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.pyflat.device-battery-info/1.4.0/com.pyflat.device-battery-info-v1.4.0.macroDeckPlugin",
+  "sha256": "a4de384104d223b0847e33f60ea3f5faed2c0439dd555e9ec055abe95cab833b",
+  "size": 1010248,
+  "uploadedAt": "2026-09-23T08:29:01.097955+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.pyflat.device-battery-info/assets/0bdf2c614b6a9ef7-0bdf2c614b6a9ef7f914cf698d03c9b46bc0206e68e618db11e26b2ba4732257.svg",
+      "sha256": "0bdf2c614b6a9ef7f914cf698d03c9b46bc0206e68e618db11e26b2ba4732257",
+      "size": 389,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.pyflat.device-battery-info/assets/7137512f70107aa0-7137512f70107aa001d385cd88536c16387101f89a60f7dc15c6d20d14592d0d.png",
+        "sha256": "7137512f70107aa001d385cd88536c16387101f89a60f7dc15c6d20d14592d0d",
+        "size": 12814,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.pyflat.device-battery-info/assets/2caec13e9491d1fa-2caec13e9491d1fa118164fc6ed474c7f938700c3943b24f19e4c3f3529ad36a.png",
+        "sha256": "2caec13e9491d1fa118164fc6ed474c7f938700c3943b24f19e4c3f3529ad36a",
+        "size": 11660,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.pyflat.device-battery-info/assets/88a0919194968944-88a09191949689447863edfa71b40f6a95c67ff35729472b3d7e862a58f50879.png",
+        "sha256": "88a09191949689447863edfa71b40f6a95c67ff35729472b3d7e862a58f50879",
+        "size": 10534,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.pyflat.device-battery-info/assets/a11d4c522302f7d0-a11d4c522302f7d0be02bf3222a7501e6f75eff2500661aa2f322ae7ec51f952.png",
+        "sha256": "a11d4c522302f7d0be02bf3222a7501e6f75eff2500661aa2f322ae7ec51f952",
+        "size": 3906,
+        "contentType": "image/png"
+      }
+    ]
+  }
+}
