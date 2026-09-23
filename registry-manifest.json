@@ -1,9 +1,14 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 27,
-  "generatedAt": "2026-09-23T08:51:28.1990284+00:00",
+  "sequence": 28,
+  "generatedAt": "2026-09-23T18:46:14.3899465+00:00",
   "files": [
+    {
+      "path": "categories.json",
+      "sha256": "60c12082385a82c943387afdccbf0a32696d9c731e6093deea3eea92c0adc255",
+      "size": 2179
+    },
     {
       "path": "certificates/cert_1ec60d31501768b730eef9d8ee219c06.json",
       "sha256": "d005acb1be52114e96117181a8d4955cc770ce59caad97d38f456b3e91bcddb9",
@@ -326,8 +331,8 @@
     },
     {
       "path": "plugins/com.squibsland.beefweb/manifest.json",
-      "sha256": "186a27ac1a7d4ae5ab7f2802e3d2fa0357fa1171604abb3806d7d0f853456c5e",
-      "size": 566
+      "sha256": "6c5226a6e3271f76d01b02cbbf0aec91a5eba0a31481d185f8724afa7ccdd700",
+      "size": 615
     },
     {
       "path": "plugins/com.squibsland.beefweb/versions/0.0.3/changelog.md",
@@ -343,6 +348,21 @@
       "path": "plugins/com.squibsland.beefweb/versions/0.0.3/manifest.json",
       "sha256": "7750974cedacb857349ddf14e9b68bfc9a87066af81c468d64882cb58da46bcd",
       "size": 677
+    },
+    {
+      "path": "plugins/com.squibsland.beefweb/versions/0.0.4/changelog.md",
+      "sha256": "71830ff4cfdac4c470a21fd8c30891fdf3a77efdcf8c0d5f3418fa70f404d8f7",
+      "size": 333
+    },
+    {
+      "path": "plugins/com.squibsland.beefweb/versions/0.0.4/description.md",
+      "sha256": "877cdee8d02c186656eb5b59efd33f3d5386b2ae0bfe653e2538597e729bfc47",
+      "size": 64
+    },
+    {
+      "path": "plugins/com.squibsland.beefweb/versions/0.0.4/manifest.json",
+      "sha256": "a7ad7b34c84fb04ccd071213407073175ba3cff246d8609ffdd6a60b018e978f",
+      "size": 724
     },
     {
       "path": "plugins/com.suchbyte.macrogotchi/manifest.json",

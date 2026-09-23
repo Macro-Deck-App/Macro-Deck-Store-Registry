@@ -1,0 +1,102 @@
+{
+  "$schema": "schemas/categories.schema.json",
+  "version": 1,
+  "categories": [
+    {
+      "id": "streaming",
+      "names": {
+        "en": "Streaming",
+        "de": "Streaming",
+        "it": "Streaming",
+        "cs": "Streamov\u00E1n\u00ED",
+        "pl": "Streaming",
+        "es": "Streaming",
+        "fr": "Streaming"
+      }
+    },
+    {
+      "id": "music",
+      "names": {
+        "en": "Music",
+        "de": "Musik",
+        "it": "Musica",
+        "cs": "Hudba",
+        "pl": "Muzyka",
+        "es": "M\u00FAsica",
+        "fr": "Musique"
+      }
+    },
+    {
+      "id": "smart-home",
+      "names": {
+        "en": "Smart Home",
+        "de": "Smart Home",
+        "it": "Casa intelligente",
+        "cs": "Chytr\u00E1 dom\u00E1cnost",
+        "pl": "Inteligentny dom",
+        "es": "Hogar inteligente",
+        "fr": "Maison connect\u00E9e"
+      }
+    },
+    {
+      "id": "gaming",
+      "names": {
+        "en": "Gaming",
+        "de": "Gaming",
+        "it": "Gaming",
+        "cs": "Hran\u00ED",
+        "pl": "Gry",
+        "es": "Videojuegos",
+        "fr": "Jeux vid\u00E9o"
+      }
+    },
+    {
+      "id": "productivity",
+      "names": {
+        "en": "Productivity",
+        "de": "Produktivit\u00E4t",
+        "it": "Produttivit\u00E0",
+        "cs": "Produktivita",
+        "pl": "Produktywno\u015B\u0107",
+        "es": "Productividad",
+        "fr": "Productivit\u00E9"
+      }
+    },
+    {
+      "id": "system",
+      "names": {
+        "en": "System",
+        "de": "System",
+        "it": "Sistema",
+        "cs": "Syst\u00E9m",
+        "pl": "System",
+        "es": "Sistema",
+        "fr": "Syst\u00E8me"
+      }
+    },
+    {
+      "id": "communication",
+      "names": {
+        "en": "Communication",
+        "de": "Kommunikation",
+        "it": "Comunicazione",
+        "cs": "Komunikace",
+        "pl": "Komunikacja",
+        "es": "Comunicaci\u00F3n",
+        "fr": "Communication"
+      }
+    },
+    {
+      "id": "icons",
+      "names": {
+        "en": "Icons",
+        "de": "Icons",
+        "it": "Icone",
+        "cs": "Ikony",
+        "pl": "Ikony",
+        "es": "Iconos",
+        "fr": "Ic\u00F4nes"
+      }
+    }
+  ]
+}

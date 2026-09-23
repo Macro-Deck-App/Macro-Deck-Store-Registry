@@ -1,0 +1,16 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.squibsland.beefweb/0.0.4/com.squibsland.beefweb-v0.0.4.macroDeckPlugin",
+  "sha256": "f34748c309d754ee5026a216655d73db4581953a6d5aedce5cef0eee6a1623ef",
+  "size": 2682637,
+  "uploadedAt": "2026-09-23T18:24:44.060529+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.squibsland.beefweb/assets/aeb509c0232867f3-aeb509c0232867f30fc93cd2364b5e5301995820f440a6011609778204a3754a.svg",
+      "sha256": "aeb509c0232867f30fc93cd2364b5e5301995820f440a6011609778204a3754a",
+      "size": 1638,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": []
+  }
+}
