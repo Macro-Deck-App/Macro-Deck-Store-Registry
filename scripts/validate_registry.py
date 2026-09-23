@@ -17,6 +17,9 @@ SIGNATURE_PATH = ROOT / "registry-signature.json"
 
 def registry_files() -> list[Path]:
     files = [ROOT / "index.json", ROOT / "security.json"]
+    # Optional: a registry written before the curated categories existed has none.
+    if (ROOT / "categories.json").is_file():
+        files.append(ROOT / "categories.json")
     for directory in ("plugins", "icon-packs", "templates"):
         files.extend(
             path

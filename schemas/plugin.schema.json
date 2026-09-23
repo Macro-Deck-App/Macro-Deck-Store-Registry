@@ -41,7 +41,14 @@
         "type": "string",
         "pattern": "^(win|osx|linux(-musl)?)-(x64|arm64)$"
       }
-    }
+    },
+    "tags": {
+      "type": "array",
+      "maxItems": 10,
+      "uniqueItems": true,
+      "items": { "$ref": "#/$defs/tag" }
+    },
+    "ai": { "$ref": "#/$defs/aiDeclaration" }
   },
   "$defs": {
     "packageId": {
@@ -93,6 +100,29 @@
           "then": { "not": { "required": ["label"] } }
         }
       ],
+      "additionalProperties": false
+    },
+    "tag": {
+      "type": "string",
+      "maxLength": 32,
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "aiDeclaration": {
+      "type": "object",
+      "description": "What the package declares about its use of AI, taken from its own manifest. Absent means not declared, never 'uses no AI'; every flag false and no services is the explicit 'uses no AI'.",
+      "required": ["interaction", "generatedContent", "generatedAssets"],
+      "properties": {
+        "interaction": { "type": "boolean" },
+        "generatedContent": { "type": "boolean" },
+        "generatedAssets": { "type": "boolean" },
+        "services": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 16,
+          "uniqueItems": true,
+          "items": { "type": "string", "minLength": 1, "maxLength": 64 }
+        }
+      },
       "additionalProperties": false
     }
   },

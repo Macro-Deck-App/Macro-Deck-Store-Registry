@@ -24,7 +24,7 @@
         "properties": {
           "path": {
             "type": "string",
-            "pattern": "^(index\\.json|security\\.json|plugins/[a-z0-9.-]+/(manifest\\.json|versions/(?!\\.\\.)[0-9A-Za-z.+-]+/(manifest\\.json|description\\.md|changelog\\.md))|icon-packs/[a-z0-9.-]+/(manifest\\.json|versions/(?!\\.\\.)[0-9A-Za-z.+-]+/(manifest\\.json|description\\.md|changelog\\.md))|templates/(automations|folders|profiles|widgets)/[a-z0-9.-]+/(manifest\\.json|versions/(?!\\.\\.)[0-9A-Za-z.+-]+/(manifest\\.json|description\\.md|changelog\\.md))|certificates/cert_[0-9a-z]{16,64}\\.(json|sig))$"
+            "pattern": "^(index\\.json|security\\.json|categories\\.json|plugins/[a-z0-9.-]+/(manifest\\.json|versions/(?!\\.\\.)[0-9A-Za-z.+-]+/(manifest\\.json|description\\.md|changelog\\.md))|icon-packs/[a-z0-9.-]+/(manifest\\.json|versions/(?!\\.\\.)[0-9A-Za-z.+-]+/(manifest\\.json|description\\.md|changelog\\.md))|templates/(automations|folders|profiles|widgets)/[a-z0-9.-]+/(manifest\\.json|versions/(?!\\.\\.)[0-9A-Za-z.+-]+/(manifest\\.json|description\\.md|changelog\\.md))|certificates/cert_[0-9a-z]{16,64}\\.(json|sig))$"
           },
           "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
           "size": { "type": "integer", "minimum": 0 }
