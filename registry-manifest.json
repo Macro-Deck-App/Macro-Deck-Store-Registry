@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 28,
-  "generatedAt": "2026-09-23T18:46:14.3899465+00:00",
+  "sequence": 29,
+  "generatedAt": "2026-09-23T18:55:24.3621094+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -146,8 +146,8 @@
     },
     {
       "path": "plugins/com.cjhackeryt.steelseriessonar/manifest.json",
-      "sha256": "8d5fdd67524d22ba968efb805c17001f884bbfcb9372630a4c22b95b63ef0c78",
-      "size": 571
+      "sha256": "2d11715914196f57bdc68d77c388c5c32a1ee2b83c87b3a90e912fa00f5333eb",
+      "size": 726
     },
     {
       "path": "plugins/com.cjhackeryt.steelseriessonar/versions/1.0.15/changelog.md",
