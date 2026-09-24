@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 30,
-  "generatedAt": "2026-09-23T18:57:00.991356+00:00",
+  "sequence": 31,
+  "generatedAt": "2026-09-24T05:46:24.4033388+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -333,21 +333,6 @@
       "path": "plugins/com.squibsland.beefweb/manifest.json",
       "sha256": "6c5226a6e3271f76d01b02cbbf0aec91a5eba0a31481d185f8724afa7ccdd700",
       "size": 615
-    },
-    {
-      "path": "plugins/com.squibsland.beefweb/versions/0.0.3/changelog.md",
-      "sha256": "f3bf45d7308f08f0728e0cc92ece34f0f9d6ac92542ce98ee278d43903764c7b",
-      "size": 1998
-    },
-    {
-      "path": "plugins/com.squibsland.beefweb/versions/0.0.3/description.md",
-      "sha256": "877cdee8d02c186656eb5b59efd33f3d5386b2ae0bfe653e2538597e729bfc47",
-      "size": 64
-    },
-    {
-      "path": "plugins/com.squibsland.beefweb/versions/0.0.3/manifest.json",
-      "sha256": "7750974cedacb857349ddf14e9b68bfc9a87066af81c468d64882cb58da46bcd",
-      "size": 677
     },
     {
       "path": "plugins/com.squibsland.beefweb/versions/0.0.4/changelog.md",
