@@ -9,10 +9,15 @@
   "repository": "https://github.com/manuelmayer-dev/Macrogotchi",
   "license": "MIT",
   "createdAt": "2026-09-15T06:07:17.8452532+00:00",
-  "updatedAt": "2026-09-18T14:53:28.7054551+00:00",
+  "updatedAt": "2026-09-24T05:52:40.2176364+00:00",
   "supportedRids": [
     "linux-x64",
     "osx-arm64",
     "win-x64"
+  ],
+  "tags": [
+    "game",
+    "pet",
+    "fun"
   ]
 }
