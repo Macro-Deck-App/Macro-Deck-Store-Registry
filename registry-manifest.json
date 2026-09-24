@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 33,
-  "generatedAt": "2026-09-24T05:52:40.222827+00:00",
+  "sequence": 34,
+  "generatedAt": "2026-09-24T05:52:47.6052674+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -338,21 +338,6 @@
       "path": "plugins/com.suchbyte.macrogotchi/manifest.json",
       "sha256": "57fd05d75a751244d9d0ba8f3efdf9e3b939f2de653b7b46e8d4d37786d58e99",
       "size": 592
-    },
-    {
-      "path": "plugins/com.suchbyte.macrogotchi/versions/1.0.5/changelog.md",
-      "sha256": "e7fe3d16e243e4030f3cc5bc83e180d3fb0b1e9aab8cd322fb4ea6c6dc9a8fee",
-      "size": 91
-    },
-    {
-      "path": "plugins/com.suchbyte.macrogotchi/versions/1.0.5/description.md",
-      "sha256": "ac1f7fe67e3a3204115cdf01c40695245dbc697093b363b65965a3871252ae7b",
-      "size": 35
-    },
-    {
-      "path": "plugins/com.suchbyte.macrogotchi/versions/1.0.5/manifest.json",
-      "sha256": "5ffaee95b4a75b2a57f182e06865a95aa5724a192bfaa49fedfbd7700824cd7b",
-      "size": 1862
     },
     {
       "path": "plugins/com.suchbyte.macrogotchi/versions/1.1.0/changelog.md",
