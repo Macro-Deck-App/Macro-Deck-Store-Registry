@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 34,
-  "generatedAt": "2026-09-24T05:52:47.6052674+00:00",
+  "sequence": 35,
+  "generatedAt": "2026-09-25T05:17:06.8495119+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -121,8 +121,28 @@
     },
     {
       "path": "index.json",
-      "sha256": "d532d91e07d83a61a07505a7afba4b512d6f1fba10ea55ed15d34f80681f9a49",
-      "size": 504
+      "sha256": "182130ec4f01c27efd92320cfd235b87661d22a60689690f62173ba3db501975",
+      "size": 538
+    },
+    {
+      "path": "plugins/com.cjhackeryt.screenxdeck/manifest.json",
+      "sha256": "30b31d07b180adf64ea02463305cf2c95290d72b20c4c5fbbd1b606c98b2021a",
+      "size": 819
+    },
+    {
+      "path": "plugins/com.cjhackeryt.screenxdeck/versions/1.0.3/changelog.md",
+      "sha256": "0e7d458cb9cbf511c2cbb524a9f8eaea7c9318f65949a6a0926fe88cc1740347",
+      "size": 46
+    },
+    {
+      "path": "plugins/com.cjhackeryt.screenxdeck/versions/1.0.3/description.md",
+      "sha256": "39a8a164444a4a477358bf9d5a582b79627582bffcb8a3dd7a9a612ce5eaa10e",
+      "size": 143
+    },
+    {
+      "path": "plugins/com.cjhackeryt.screenxdeck/versions/1.0.3/manifest.json",
+      "sha256": "b22fdefe26fb72300711d443f04ade8b9525ac22c43d36d6ffc8dac896d3c96d",
+      "size": 735
     },
     {
       "path": "plugins/com.cjhackeryt.soundbox/manifest.json",

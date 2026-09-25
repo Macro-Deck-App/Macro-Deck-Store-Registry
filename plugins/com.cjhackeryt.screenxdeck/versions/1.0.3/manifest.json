@@ -1,0 +1,16 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.cjhackeryt.screenxdeck/1.0.3/com.cjhackeryt.screenxdeck-v1.0.3.macroDeckPlugin",
+  "sha256": "bf8a078dbdd0879ea69780af5612ceac1948ff4ba8b9088057b32768bcc3904d",
+  "size": 862538,
+  "uploadedAt": "2026-09-24T21:48:23.043282+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.cjhackeryt.screenxdeck/assets/c324e53f58a225f1-c324e53f58a225f14554248b1eb5e313ffebe77cdcf581d5e03ec1786fff4b0c.svg",
+      "sha256": "c324e53f58a225f14554248b1eb5e313ffebe77cdcf581d5e03ec1786fff4b0c",
+      "size": 5939,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": []
+  }
+}

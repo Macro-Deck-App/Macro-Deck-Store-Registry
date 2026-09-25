@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "ScreenxDeck",
+  "id": "com.cjhackeryt.screenxdeck",
+  "latestVersion": "1.0.3",
+  "description": "Comprehensive Windows display, multi-monitor, brightness, refresh rate, resolution, profiles, and window management controls for Macro Deck 3.",
+  "publisher": "cjhackeryt",
+  "repository": "https://github.com/Cjhackeryt/ScreenXDeck",
+  "license": "MIT",
+  "createdAt": "2026-09-25T05:17:06.7870188+00:00",
+  "updatedAt": "2026-09-25T05:17:06.7870188+00:00",
+  "supportedRids": [
+    "win-x64"
+  ],
+  "tags": [
+    "system",
+    "productivity",
+    "windows-control",
+    "screen-control",
+    "refresh-rate",
+    "screenmodeswitch"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": true
+  }
+}
