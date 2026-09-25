@@ -10,7 +10,7 @@
   "homepage": "https://www.twitch.tv/squibsland/",
   "license": "MIT",
   "createdAt": "2026-09-16T18:54:57.0560217+00:00",
-  "updatedAt": "2026-09-23T18:46:14.3283251+00:00",
+  "updatedAt": "2026-09-25T14:00:54.9992331+00:00",
   "supportedRids": [
     "linux-x64",
     "osx-arm64",
@@ -18,6 +18,13 @@
   ],
   "tags": [
     "music",
-    "playlist"
-  ]
+    "playlist",
+    "foobar2000",
+    "deadbeef"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": false
+  }
 }

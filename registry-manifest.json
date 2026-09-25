@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 35,
-  "generatedAt": "2026-09-25T05:17:06.8495119+00:00",
+  "sequence": 36,
+  "generatedAt": "2026-09-25T14:00:55.0728584+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -336,8 +336,8 @@
     },
     {
       "path": "plugins/com.squibsland.beefweb/manifest.json",
-      "sha256": "6c5226a6e3271f76d01b02cbbf0aec91a5eba0a31481d185f8724afa7ccdd700",
-      "size": 615
+      "sha256": "e7837527f2212474b4a3057c323c81f8bef968e235d8e2e6b23fd32650161227",
+      "size": 750
     },
     {
       "path": "plugins/com.squibsland.beefweb/versions/0.0.4/changelog.md",
