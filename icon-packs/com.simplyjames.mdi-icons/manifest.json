@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/icon-pack.schema.json",
+  "kind": "iconPack",
+  "name": "mdi-icons",
+  "id": "com.simplyjames.mdi-icons",
+  "latestVersion": "1.0.0",
+  "description": "might be the largest icon pack in macrodeck",
+  "publisher": "Simply James",
+  "license": "Apache 2.0",
+  "createdAt": "2026-09-26T21:05:29.9164418+00:00",
+  "updatedAt": "2026-09-26T21:05:29.9164418+00:00",
+  "tags": [
+    "icons"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/icon-packs/com.simplyjames.mdi-icons/1.0.0/com.simplyjames.mdi-icons-v1.0.0.macroDeckIconPack",
+  "sha256": "09b80618528b1613f184e943c0a9476790f3d899a5e4261d6e9cbee96ad8f115",
+  "size": 31763765,
+  "uploadedAt": "2026-09-25T21:54:33.59782+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/icon-packs/com.simplyjames.mdi-icons/assets/c66fc2208bae1822-c66fc2208bae1822d291915d4b948a64291dc3a2a2c3760544d65c6ad687d1b0.png",
+      "sha256": "c66fc2208bae1822d291915d4b948a64291dc3a2a2c3760544d65c6ad687d1b0",
+      "size": 2396,
+      "contentType": "image/png"
+    },
+    "screenshots": []
+  }
+}

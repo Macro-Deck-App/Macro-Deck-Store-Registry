@@ -1,7 +1,7 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-09-26T19:57:57.5850708+00:00",
+  "generatedAt": "2026-09-26T21:05:29.9164418+00:00",
   "plugins": [
     "com.cjhackeryt.screenxdeck",
     "com.cjhackeryt.soundbox",
@@ -13,6 +13,7 @@
     "com.squibsland.beefweb"
   ],
   "iconPacks": [
+    "com.simplyjames.mdi-icons",
     "com.suchbyte.colorful-generic-icons"
   ],
   "templates": {

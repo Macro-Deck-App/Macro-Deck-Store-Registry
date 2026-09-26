@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.macro-deck.app/macrodeck-certificate-v1.schema.json",
+  "schemaVersion": 1,
+  "subject": {
+    "kind": "creator",
+    "id": "392379144547074217",
+    "name": "Simply James"
+  },
+  "algorithm": "ed25519",
+  "certificateId": "cert_db71fb64d9549ef79b4d03636a17972d",
+  "publicKey": "hcKz4y8MHVj7\u002BrFzXuNuGXZ6lB/IkK7DXNz8NeNlHxU=",
+  "keyUsage": [
+    "package"
+  ],
+  "notBefore": "2026-09-25T21:36:45.6303901+00:00",
+  "notAfter": "2028-09-24T21:36:45.6303901+00:00",
+  "issuedAt": "2026-09-25T21:36:45.6303901+00:00",
+  "rootKeyId": "root_2026"
+}

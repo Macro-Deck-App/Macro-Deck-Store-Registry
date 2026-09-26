@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 37,
-  "generatedAt": "2026-09-26T19:57:57.6252498+00:00",
+  "sequence": 38,
+  "generatedAt": "2026-09-26T21:05:29.9600972+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -100,6 +100,16 @@
       "size": 89
     },
     {
+      "path": "certificates/cert_db71fb64d9549ef79b4d03636a17972d.json",
+      "sha256": "e99d898603fed7e08a0c60cf0d411875ef926a25282c7bf14c6191345da4fae0",
+      "size": 582
+    },
+    {
+      "path": "certificates/cert_db71fb64d9549ef79b4d03636a17972d.sig",
+      "sha256": "7e163a650bb38b499dcb0df176338e25c1e2422c6b1f700525f3d3b314627fa2",
+      "size": 89
+    },
+    {
       "path": "certificates/cert_ddab76ce61e3b07ef827219022b2d6b5.json",
       "sha256": "6646dace32f9146b2cdc9a38131b255b6ffb2066fee7438cb56082cc25debf64",
       "size": 572
@@ -108,6 +118,26 @@
       "path": "certificates/cert_ddab76ce61e3b07ef827219022b2d6b5.sig",
       "sha256": "157c25a6e2397e1d86ad25d3c9a7f7626feb2719219506c56b0507f20b316a6c",
       "size": 89
+    },
+    {
+      "path": "icon-packs/com.simplyjames.mdi-icons/manifest.json",
+      "sha256": "892ce52a7592f23ea4655f32a1f59d7f63ac12fdab898d8be669f532e7a8982d",
+      "size": 521
+    },
+    {
+      "path": "icon-packs/com.simplyjames.mdi-icons/versions/1.0.0/changelog.md",
+      "sha256": "06111c6797d5e5932b792d0c3afdf13bc912ba44af806058bbca4770d8915305",
+      "size": 5
+    },
+    {
+      "path": "icon-packs/com.simplyjames.mdi-icons/versions/1.0.0/description.md",
+      "sha256": "08c587341aa939990d3d01dd78e04a65d7556ebade9e60f04d425223c2ed9335",
+      "size": 198
+    },
+    {
+      "path": "icon-packs/com.simplyjames.mdi-icons/versions/1.0.0/manifest.json",
+      "sha256": "e05c463455abb38ce0fe5ee28a465e11bd36f9d9167e925c2d01ca6db4fb536f",
+      "size": 732
     },
     {
       "path": "icon-packs/com.suchbyte.colorful-generic-icons/manifest.json",
@@ -131,8 +161,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "736f1811a304662a3cb09a3746a0af80387eb306d7f193255c997d9b2b477e94",
-      "size": 570
+      "sha256": "ed08cf67eb0f0e0134dbb183e078867d8909c01749dd88e85ecf6f8e98b5246e",
+      "size": 603
     },
     {
       "path": "plugins/com.cjhackeryt.screenxdeck/manifest.json",
