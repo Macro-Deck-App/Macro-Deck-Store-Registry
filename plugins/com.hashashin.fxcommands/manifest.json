@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "FxCommands",
+  "id": "com.hashashin.fxcommands",
+  "latestVersion": "0.2.4",
+  "description": "Send commands to the FiveM or RedM client console.",
+  "publisher": "Pepe Gafez",
+  "repository": "https://github.com/hashashin/hashashin.FxCommands",
+  "license": "GPL-3.0",
+  "createdAt": "2026-09-26T19:57:57.5850708+00:00",
+  "updatedAt": "2026-09-26T19:57:57.5850708+00:00",
+  "supportedRids": [
+    "win-x64"
+  ],
+  "tags": [
+    "gaming"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": false
+  }
+}

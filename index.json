@@ -1,11 +1,12 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-09-25T05:17:06.7870188+00:00",
+  "generatedAt": "2026-09-26T19:57:57.5850708+00:00",
   "plugins": [
     "com.cjhackeryt.screenxdeck",
     "com.cjhackeryt.soundbox",
     "com.cjhackeryt.steelseriessonar",
+    "com.hashashin.fxcommands",
     "com.inariix.mbxhub-plugin",
     "com.pyflat.device-battery-info",
     "com.pyflat.system-hotkeys",

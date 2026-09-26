@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 36,
-  "generatedAt": "2026-09-25T14:00:55.0728584+00:00",
+  "sequence": 37,
+  "generatedAt": "2026-09-26T19:57:57.6252498+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -17,6 +17,16 @@
     {
       "path": "certificates/cert_1ec60d31501768b730eef9d8ee219c06.sig",
       "sha256": "a556b32975cf85e4ebeb7976bc97f30f56a37ea7033c6bb89e95b14afbc59cfa",
+      "size": 89
+    },
+    {
+      "path": "certificates/cert_2de3c9ca229f808270f5feaf5a768fcf.json",
+      "sha256": "67dd81abba3a8e133cbe06e1c73d4c8f44d9d6beee7819d50293a5f2fc22ad92",
+      "size": 569
+    },
+    {
+      "path": "certificates/cert_2de3c9ca229f808270f5feaf5a768fcf.sig",
+      "sha256": "1469633eb1091d2e8cf14e3721802c8dcb76e73a2e6c6e2bc41a8402c961276f",
       "size": 89
     },
     {
@@ -121,8 +131,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "182130ec4f01c27efd92320cfd235b87661d22a60689690f62173ba3db501975",
-      "size": 538
+      "sha256": "736f1811a304662a3cb09a3746a0af80387eb306d7f193255c997d9b2b477e94",
+      "size": 570
     },
     {
       "path": "plugins/com.cjhackeryt.screenxdeck/manifest.json",
@@ -198,6 +208,26 @@
       "path": "plugins/com.cjhackeryt.steelseriessonar/versions/1.0.18/manifest.json",
       "sha256": "07885682e1040191c6c408666a4bc8d91f8ca9c2fe9fa6aff78b9a6a36a1da5a",
       "size": 1801
+    },
+    {
+      "path": "plugins/com.hashashin.fxcommands/manifest.json",
+      "sha256": "e92618dc1b3d2fbeb70ab29470f7f8ce8bb5dae869da2ef9d6bf37a77857d1f4",
+      "size": 628
+    },
+    {
+      "path": "plugins/com.hashashin.fxcommands/versions/0.2.4/changelog.md",
+      "sha256": "7d59381c3b50073dc21a79620839569703c99bea1043594c4269056799491154",
+      "size": 94
+    },
+    {
+      "path": "plugins/com.hashashin.fxcommands/versions/0.2.4/description.md",
+      "sha256": "c8dff96d28a6134ff82ac251b551d1e909d08cebf41236514494bc59a50e0da9",
+      "size": 51
+    },
+    {
+      "path": "plugins/com.hashashin.fxcommands/versions/0.2.4/manifest.json",
+      "sha256": "0b2c67b882f983217450997af27f44aacae0ae7e884b98f5b94c7700d614eaf9",
+      "size": 720
     },
     {
       "path": "plugins/com.inariix.mbxhub-plugin/manifest.json",

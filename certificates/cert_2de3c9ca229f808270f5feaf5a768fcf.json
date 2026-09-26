@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.macro-deck.app/macrodeck-certificate-v1.schema.json",
+  "schemaVersion": 1,
+  "subject": {
+    "kind": "creator",
+    "id": "392458311716307113",
+    "name": "Pepe Gafez"
+  },
+  "algorithm": "ed25519",
+  "certificateId": "cert_2de3c9ca229f808270f5feaf5a768fcf",
+  "publicKey": "v3GaRctnzySr/wJmhWI5IEAG3Lau/7i5dzmtSqBaClQ=",
+  "keyUsage": [
+    "package"
+  ],
+  "notBefore": "2026-09-26T10:44:07.07604+00:00",
+  "notAfter": "2028-09-25T10:44:07.07604+00:00",
+  "issuedAt": "2026-09-26T10:44:07.07604+00:00",
+  "rootKeyId": "root_2026"
+}
