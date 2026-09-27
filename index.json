@@ -1,7 +1,7 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-09-27T10:47:25.4609108+00:00",
+  "generatedAt": "2026-09-27T10:53:12.4298362+00:00",
   "plugins": [
     "com.cjhackeryt.screenxdeck",
     "com.cjhackeryt.soundbox",
@@ -11,7 +11,8 @@
     "com.pyflat.device-battery-info",
     "com.pyflat.system-hotkeys",
     "com.squibsland.beefweb",
-    "com.yussefabdelwahab.comfyui-job-monitor"
+    "com.yussefabdelwahab.comfyui-job-monitor",
+    "com.yussefabdelwahab.image-slideshow"
   ],
   "iconPacks": [
     "com.simplyjames.mdi-icons",

@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 41,
-  "generatedAt": "2026-09-27T10:47:25.4922876+00:00",
+  "sequence": 42,
+  "generatedAt": "2026-09-27T10:53:12.435394+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -171,8 +171,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "8c34057576f26a47314f1b219733ea8de7521bbebaf649fb73680e7d19232ed3",
-      "size": 651
+      "sha256": "67172a75d3d4f9b405b5ef3782ce835fa0a19eab5707178e6d72c4a4c3ebf4e4",
+      "size": 695
     },
     {
       "path": "plugins/com.cjhackeryt.screenxdeck/manifest.json",
@@ -508,6 +508,26 @@
       "path": "plugins/com.yussefabdelwahab.comfyui-job-monitor/versions/1.0.4/manifest.json",
       "sha256": "31fb0a4f9803e8cdd2fc21f7cad1e0f3c58bf627dd7c8d597e9d4852fec7bcc9",
       "size": 777
+    },
+    {
+      "path": "plugins/com.yussefabdelwahab.image-slideshow/manifest.json",
+      "sha256": "ed08a0498d2dc7f4eb12b10d87a766e1de9b0f84d605c357c8bb25d7bdb714bb",
+      "size": 741
+    },
+    {
+      "path": "plugins/com.yussefabdelwahab.image-slideshow/versions/1.0.3/changelog.md",
+      "sha256": "04e5e72cc870ba2a58b10c287cbec0ad6bcb2ce5eb88efcdeb2369377bbd639a",
+      "size": 28
+    },
+    {
+      "path": "plugins/com.yussefabdelwahab.image-slideshow/versions/1.0.3/description.md",
+      "sha256": "60ded64d0d530ba3e17314503ab68aa620dcd2cb5c4f9cf854eb8590d83e8215",
+      "size": 108
+    },
+    {
+      "path": "plugins/com.yussefabdelwahab.image-slideshow/versions/1.0.3/manifest.json",
+      "sha256": "f22c6be7b512b1f7a2013066d850230f7507cebd58423d62bbf92600d55b29f6",
+      "size": 766
     },
     {
       "path": "security.json",

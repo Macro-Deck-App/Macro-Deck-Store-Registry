@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "Image Slideshow",
+  "id": "com.yussefabdelwahab.image-slideshow",
+  "latestVersion": "1.0.3",
+  "description": "allows for random images form a specified folder path (incl. content of subfolders) to be set as a tile background",
+  "publisher": "Yussef Abdel-Wahab",
+  "repository": "https://github.com/YuziIV/MacroDeck-slideshow",
+  "license": "MIT",
+  "createdAt": "2026-09-27T10:53:12.4298362+00:00",
+  "updatedAt": "2026-09-27T10:53:12.4298362+00:00",
+  "supportedRids": [
+    "linux-x64",
+    "osx-arm64",
+    "win-x64"
+  ],
+  "tags": [
+    "icons"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": true
+  }
+}

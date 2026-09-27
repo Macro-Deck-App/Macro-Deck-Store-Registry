@@ -1,0 +1,16 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.yussefabdelwahab.image-slideshow/1.0.3/com.yussefabdelwahab.image-slideshow-v1.0.3.macroDeckPlugin",
+  "sha256": "45a0ca0f563adad87d0fb0980852ad5ef2f1eacf223310faaee5ca3f333ed6b5",
+  "size": 47048274,
+  "uploadedAt": "2026-09-27T07:46:39.850825+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.yussefabdelwahab.image-slideshow/assets/421a23819146f5be-421a23819146f5be3956b21d32b2558e1953391c8be1c9e930c7dd21aec61ec2.svg",
+      "sha256": "421a23819146f5be3956b21d32b2558e1953391c8be1c9e930c7dd21aec61ec2",
+      "size": 342,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": []
+  }
+}
