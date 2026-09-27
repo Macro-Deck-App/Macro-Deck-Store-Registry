@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.macro-deck.app/macrodeck-certificate-v1.schema.json",
+  "schemaVersion": 1,
+  "subject": {
+    "kind": "creator",
+    "id": "392394389130838185",
+    "name": "Yussef Abdel-Wahab"
+  },
+  "algorithm": "ed25519",
+  "certificateId": "cert_94eaac43fef51cc1f2cdc9ff1de511f5",
+  "publicKey": "Ru9Ar6eNiM1LDkR4vbyQJ7oRMTAhXkeefwoQ5UOEoH0=",
+  "keyUsage": [
+    "package"
+  ],
+  "notBefore": "2026-09-26T05:40:43.7855453+00:00",
+  "notAfter": "2028-09-25T05:40:43.7855453+00:00",
+  "issuedAt": "2026-09-26T05:40:43.7855453+00:00",
+  "rootKeyId": "root_2026"
+}

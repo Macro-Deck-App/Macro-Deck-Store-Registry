@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 40,
-  "generatedAt": "2026-09-27T00:29:21.5306701+00:00",
+  "sequence": 41,
+  "generatedAt": "2026-09-27T10:47:25.4922876+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -57,6 +57,16 @@
     {
       "path": "certificates/cert_8c8eb350d5aa84e85357fe811c13a61e.sig",
       "sha256": "6ec2c408b4c332958a9b392154a188c668431c68f224386a2a43da91211827dd",
+      "size": 89
+    },
+    {
+      "path": "certificates/cert_94eaac43fef51cc1f2cdc9ff1de511f5.json",
+      "sha256": "b0422238d4d0745f346e0e2525c330e29b399e3e4415b0712564709c79091618",
+      "size": 583
+    },
+    {
+      "path": "certificates/cert_94eaac43fef51cc1f2cdc9ff1de511f5.sig",
+      "sha256": "bf192eb495c63183b28d83e3ee9346022808963b6bf48b838645e793c3c19898",
       "size": 89
     },
     {
@@ -161,8 +171,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "ed08cf67eb0f0e0134dbb183e078867d8909c01749dd88e85ecf6f8e98b5246e",
-      "size": 603
+      "sha256": "8c34057576f26a47314f1b219733ea8de7521bbebaf649fb73680e7d19232ed3",
+      "size": 651
     },
     {
       "path": "plugins/com.cjhackeryt.screenxdeck/manifest.json",
@@ -478,6 +488,26 @@
       "path": "plugins/com.suchbyte.macrogotchi/versions/1.1.5/manifest.json",
       "sha256": "c7e3e21f118af89c586266debcb67ffbf9ec3eaa4bb09a2e5b5b9f49097acf15",
       "size": 1613
+    },
+    {
+      "path": "plugins/com.yussefabdelwahab.comfyui-job-monitor/manifest.json",
+      "sha256": "7bd3810f170b1d25ba8413b5549811a84c193ed4690251d7fbf277c7caf4298b",
+      "size": 761
+    },
+    {
+      "path": "plugins/com.yussefabdelwahab.comfyui-job-monitor/versions/1.0.4/changelog.md",
+      "sha256": "8a2f63583eed9fdcfdc3864fad1b58fcea74dd95dde465925fbe130269933d1a",
+      "size": 55
+    },
+    {
+      "path": "plugins/com.yussefabdelwahab.comfyui-job-monitor/versions/1.0.4/description.md",
+      "sha256": "80e6446c229f649fed95671c9de2d116508fd65fc9b6546a284622e668c3db0d",
+      "size": 58
+    },
+    {
+      "path": "plugins/com.yussefabdelwahab.comfyui-job-monitor/versions/1.0.4/manifest.json",
+      "sha256": "31fb0a4f9803e8cdd2fc21f7cad1e0f3c58bf627dd7c8d597e9d4852fec7bcc9",
+      "size": 777
     },
     {
       "path": "security.json",
