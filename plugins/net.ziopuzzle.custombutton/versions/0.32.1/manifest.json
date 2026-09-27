@@ -1,0 +1,41 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/net.ziopuzzle.custombutton/0.32.1/net.ziopuzzle.custombutton-v0.32.1.macroDeckPlugin",
+  "sha256": "8d7c87166ad2418d14c88283976832785b143f892fc0941522c4752dafc66317",
+  "size": 55932018,
+  "uploadedAt": "2026-09-27T12:02:22.042923+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/net.ziopuzzle.custombutton/assets/42abe2faaa45a769-42abe2faaa45a769dd32d3e198c0be60ad0b8d6d50d7272eb756afaa13e32900.svg",
+      "sha256": "42abe2faaa45a769dd32d3e198c0be60ad0b8d6d50d7272eb756afaa13e32900",
+      "size": 278,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/net.ziopuzzle.custombutton/assets/e89f2e8e15439714-e89f2e8e1543971459a4be003070d3b29bc222aec5f78421dbf37035593f0900.png",
+        "sha256": "e89f2e8e1543971459a4be003070d3b29bc222aec5f78421dbf37035593f0900",
+        "size": 104534,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/net.ziopuzzle.custombutton/assets/cbdb9ace19ab27d8-cbdb9ace19ab27d826d10c458930e3c2439e68c71a6b060341e6b0a94b0849c2.png",
+        "sha256": "cbdb9ace19ab27d826d10c458930e3c2439e68c71a6b060341e6b0a94b0849c2",
+        "size": 87868,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/net.ziopuzzle.custombutton/assets/fc416bd2b9fe557f-fc416bd2b9fe557f17ae479fd7157897c6ee8810071aa0a972c3b04f2c19eb73.png",
+        "sha256": "fc416bd2b9fe557f17ae479fd7157897c6ee8810071aa0a972c3b04f2c19eb73",
+        "size": 76537,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/net.ziopuzzle.custombutton/assets/0c16a0666520aaa7-0c16a0666520aaa7c3054d95522254491deac7b083335cc2e863de691829f047.png",
+        "sha256": "0c16a0666520aaa7c3054d95522254491deac7b083335cc2e863de691829f047",
+        "size": 53342,
+        "contentType": "image/png"
+      }
+    ]
+  }
+}

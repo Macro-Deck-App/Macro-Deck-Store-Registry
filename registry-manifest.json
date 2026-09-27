@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 45,
-  "generatedAt": "2026-09-27T11:03:25.9302777+00:00",
+  "sequence": 46,
+  "generatedAt": "2026-09-27T12:38:43.9816476+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -37,6 +37,16 @@
     {
       "path": "certificates/cert_3297969e022607b578fcd383e43c9122.sig",
       "sha256": "9823615b2ca97cbf802313e67689c17f52035a733ab8641df420c0a7d358bb81",
+      "size": 89
+    },
+    {
+      "path": "certificates/cert_669c27a5c81aa171bf802c9dac5f63cb.json",
+      "sha256": "36b3167583569137f2f6b16a5da618d0503547955e6056ec86704ee07d393d10",
+      "size": 579
+    },
+    {
+      "path": "certificates/cert_669c27a5c81aa171bf802c9dac5f63cb.sig",
+      "sha256": "0c7e329cf2d07f40a80282f1a17f3daa3c0b7501b93e7f3841297797dbe0bf31",
       "size": 89
     },
     {
@@ -171,8 +181,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "5f0e8b02d9c6b39f9035eb2da50e4c66a8ef42791e514be758ed05b51a8ba553",
-      "size": 739
+      "sha256": "ebdad2524aa2bba26cd4fc8b6402d9e4392d780435ae2cc20c062048069dd2c4",
+      "size": 772
     },
     {
       "path": "plugins/com.cjhackeryt.screenxdeck/manifest.json",
@@ -548,6 +558,26 @@
       "path": "plugins/com.yussefabdelwahab.nvidia-smi-tool/versions/1.0.3/manifest.json",
       "sha256": "e8f55508bca5e332cb1d6b6df6592f58f811aa04af8216cdcd62686e789f6e82",
       "size": 765
+    },
+    {
+      "path": "plugins/net.ziopuzzle.custombutton/manifest.json",
+      "sha256": "f5f7f30c2fe284faef5d225672e61dd06697c3085b9be4d7022594650fd1bf9f",
+      "size": 753
+    },
+    {
+      "path": "plugins/net.ziopuzzle.custombutton/versions/0.32.1/changelog.md",
+      "sha256": "181db15b66215a97c2a0188832c6ca29674211268162bd622ec86656b0876fdd",
+      "size": 1129
+    },
+    {
+      "path": "plugins/net.ziopuzzle.custombutton/versions/0.32.1/description.md",
+      "sha256": "f9f38ae34d4db6f4a2106df4b57f5422cfaf22bb9fe8fa4a37df9927fa1c3453",
+      "size": 52
+    },
+    {
+      "path": "plugins/net.ziopuzzle.custombutton/versions/0.32.1/manifest.json",
+      "sha256": "1bc023b4eb4920172faba34cdd85d318b7142290002a78e439be9ba30b3b0d3b",
+      "size": 2115
     },
     {
       "path": "security.json",

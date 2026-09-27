@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.macro-deck.app/macrodeck-certificate-v1.schema.json",
+  "schemaVersion": 1,
+  "subject": {
+    "kind": "creator",
+    "id": "391847320875958441",
+    "name": "ziopuzzle"
+  },
+  "algorithm": "ed25519",
+  "certificateId": "cert_669c27a5c81aa171bf802c9dac5f63cb",
+  "publicKey": "i\u002BB1e2kW3YGglSZYBmXkyFb4qG5ZXN9wIR5jTyoswOo=",
+  "keyUsage": [
+    "package"
+  ],
+  "notBefore": "2026-09-22T09:41:11.0680084+00:00",
+  "notAfter": "2028-09-21T09:41:11.0680084+00:00",
+  "issuedAt": "2026-09-22T09:41:11.0680084+00:00",
+  "rootKeyId": "root_2026"
+}

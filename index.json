@@ -1,7 +1,7 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-09-27T10:58:51.3949012+00:00",
+  "generatedAt": "2026-09-27T12:38:43.975746+00:00",
   "plugins": [
     "com.cjhackeryt.screenxdeck",
     "com.cjhackeryt.soundbox",
@@ -13,7 +13,8 @@
     "com.squibsland.beefweb",
     "com.yussefabdelwahab.comfyui-job-monitor",
     "com.yussefabdelwahab.image-slideshow",
-    "com.yussefabdelwahab.nvidia-smi-tool"
+    "com.yussefabdelwahab.nvidia-smi-tool",
+    "net.ziopuzzle.custombutton"
   ],
   "iconPacks": [
     "com.simplyjames.mdi-icons",

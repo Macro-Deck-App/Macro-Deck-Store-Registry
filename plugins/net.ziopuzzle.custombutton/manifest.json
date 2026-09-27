@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "Custom Button",
+  "id": "net.ziopuzzle.custombutton",
+  "latestVersion": "0.32.1",
+  "description": "Let\u0027s try making your own original button!",
+  "publisher": "ziopuzzle",
+  "repository": "https://github.com/ziopuzzle/MacroDeck3-CustomButton",
+  "license": "MIT",
+  "createdAt": "2026-09-27T12:38:43.975746+00:00",
+  "updatedAt": "2026-09-27T12:38:43.975746+00:00",
+  "supportedRids": [
+    "linux-arm64",
+    "linux-x64",
+    "osx-arm64",
+    "osx-x64",
+    "win-x64"
+  ],
+  "tags": [
+    "productivity",
+    "visual"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": true,
+    "services": [
+      "Codex"
+    ]
+  }
+}
