@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 42,
-  "generatedAt": "2026-09-27T10:53:12.435394+00:00",
+  "sequence": 43,
+  "generatedAt": "2026-09-27T10:58:51.4003084+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -171,8 +171,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "67172a75d3d4f9b405b5ef3782ce835fa0a19eab5707178e6d72c4a4c3ebf4e4",
-      "size": 695
+      "sha256": "5f0e8b02d9c6b39f9035eb2da50e4c66a8ef42791e514be758ed05b51a8ba553",
+      "size": 739
     },
     {
       "path": "plugins/com.cjhackeryt.screenxdeck/manifest.json",
@@ -528,6 +528,26 @@
       "path": "plugins/com.yussefabdelwahab.image-slideshow/versions/1.0.3/manifest.json",
       "sha256": "f22c6be7b512b1f7a2013066d850230f7507cebd58423d62bbf92600d55b29f6",
       "size": 766
+    },
+    {
+      "path": "plugins/com.yussefabdelwahab.nvidia-smi-tool/manifest.json",
+      "sha256": "d3dc98438681248236121daa28b2f1ec674a8c6681869ab041712aa961c2ed4b",
+      "size": 679
+    },
+    {
+      "path": "plugins/com.yussefabdelwahab.nvidia-smi-tool/versions/1.0.3/changelog.md",
+      "sha256": "04e5e72cc870ba2a58b10c287cbec0ad6bcb2ce5eb88efcdeb2369377bbd639a",
+      "size": 28
+    },
+    {
+      "path": "plugins/com.yussefabdelwahab.nvidia-smi-tool/versions/1.0.3/description.md",
+      "sha256": "a215e623319b525aada12a1a78b527041acc25327495b4062d4fe6c04c850de4",
+      "size": 65
+    },
+    {
+      "path": "plugins/com.yussefabdelwahab.nvidia-smi-tool/versions/1.0.3/manifest.json",
+      "sha256": "e8f55508bca5e332cb1d6b6df6592f58f811aa04af8216cdcd62686e789f6e82",
+      "size": 765
     },
     {
       "path": "security.json",

@@ -1,0 +1,16 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.yussefabdelwahab.nvidia-smi-tool/1.0.3/com.yussefabdelwahab.nvidia-smi-tool-v1.0.3.macroDeckPlugin",
+  "sha256": "6b8ccad932763daa3b344a7c8533caa6eb3d3626eae407baf717e8e8e6f630e1",
+  "size": 1636482,
+  "uploadedAt": "2026-09-27T07:45:51.775946+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.yussefabdelwahab.nvidia-smi-tool/assets/4f2437833b7e0110-4f2437833b7e011082b35b691483166cb233823aee35e85e51ea4a662e3ef936.svg",
+      "sha256": "4f2437833b7e011082b35b691483166cb233823aee35e85e51ea4a662e3ef936",
+      "size": 429,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": []
+  }
+}

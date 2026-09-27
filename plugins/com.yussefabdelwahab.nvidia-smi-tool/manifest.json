@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "NVIDIA VRAM Monitor",
+  "id": "com.yussefabdelwahab.nvidia-smi-tool",
+  "latestVersion": "1.0.3",
+  "description": "Displays Vram usage in Mib and % as well as max Vram capacity",
+  "publisher": "Yussef Abdel-Wahab",
+  "repository": "https://github.com/YuziIV/MacroDeck-vram-monitor",
+  "license": "MIT",
+  "createdAt": "2026-09-27T10:58:51.3949012+00:00",
+  "updatedAt": "2026-09-27T10:58:51.3949012+00:00",
+  "supportedRids": [
+    "linux-x64",
+    "win-x64"
+  ],
+  "tags": [
+    "system"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": true
+  }
+}
