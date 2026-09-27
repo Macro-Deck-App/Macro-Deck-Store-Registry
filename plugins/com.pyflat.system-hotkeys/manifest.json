@@ -9,8 +9,23 @@
   "repository": "https://github.com/PyFlat/System-Hotkeys",
   "license": "MIT",
   "createdAt": "2026-09-19T13:01:43.8947877+00:00",
-  "updatedAt": "2026-09-19T17:56:27.6894205+00:00",
+  "updatedAt": "2026-09-27T11:03:25.9257837+00:00",
   "supportedRids": [
     "win-x64"
-  ]
+  ],
+  "tags": [
+    "hotkey",
+    "shortcut",
+    "trigger",
+    "event",
+    "keyboard",
+    "windows",
+    "system",
+    "productivity"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": false
+  }
 }
