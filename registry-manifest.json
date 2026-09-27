@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 38,
-  "generatedAt": "2026-09-26T21:05:29.9600972+00:00",
+  "sequence": 39,
+  "generatedAt": "2026-09-27T00:26:04.387559+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -186,8 +186,8 @@
     },
     {
       "path": "plugins/com.cjhackeryt.soundbox/manifest.json",
-      "sha256": "0143b7f3f42325e1d87acfe8ee7f8fa837f2ded8f2b72ad871830c3a057c8537",
-      "size": 818
+      "sha256": "4f497636a748356b4a7e8efe3fa2bdd7ce29c2b0243d9c95ddb8da87554f12b7",
+      "size": 918
     },
     {
       "path": "plugins/com.cjhackeryt.soundbox/versions/0.1.5/changelog.md",
@@ -202,6 +202,21 @@
     {
       "path": "plugins/com.cjhackeryt.soundbox/versions/0.1.5/manifest.json",
       "sha256": "6e79ca40bfd8c0e5f1db1d28c35ce9f1f88e04ef372611c822466cfc2fc7de8d",
+      "size": 1071
+    },
+    {
+      "path": "plugins/com.cjhackeryt.soundbox/versions/1.0.7/changelog.md",
+      "sha256": "ab578d42d89b9107fc0220645448aee91e3a068777840e1c13756be64d059dc7",
+      "size": 650
+    },
+    {
+      "path": "plugins/com.cjhackeryt.soundbox/versions/1.0.7/description.md",
+      "sha256": "3dc43f18b7645e4d3944f1191fa025f3c3ac85bf6eec4bf139cb0e39f947601c",
+      "size": 46
+    },
+    {
+      "path": "plugins/com.cjhackeryt.soundbox/versions/1.0.7/manifest.json",
+      "sha256": "f083cabab9da02f43006ea11251a9fe0312bfe29990001246849121cd4e49feb",
       "size": 1071
     },
     {
