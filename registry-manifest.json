@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 50,
-  "generatedAt": "2026-09-28T05:49:24.1759897+00:00",
+  "sequence": 51,
+  "generatedAt": "2026-09-28T06:12:30.3791437+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -346,7 +346,7 @@
     },
     {
       "path": "plugins/com.hashashin.fxcommands/manifest.json",
-      "sha256": "f1195b23268f713e10c00452a7049eb95e41f865d8fee8dbe05caa87b7f9e72d",
+      "sha256": "cf4b3293b2251de1ed90f4432a8d9edad071b118391f26d79ace2ea4d4323403",
       "size": 627
     },
     {
@@ -392,6 +392,21 @@
     {
       "path": "plugins/com.hashashin.fxcommands/versions/0.2.7/manifest.json",
       "sha256": "b671bab31d0ea45963cfafc52b9cedc85e0d07dd157fa6bf26335a66516b3d40",
+      "size": 721
+    },
+    {
+      "path": "plugins/com.hashashin.fxcommands/versions/0.2.8/changelog.md",
+      "sha256": "e47ccb4a98291d0c1e04b3627bef235daa302112a59b2930320f4d384e79cbb7",
+      "size": 225
+    },
+    {
+      "path": "plugins/com.hashashin.fxcommands/versions/0.2.8/description.md",
+      "sha256": "c8dff96d28a6134ff82ac251b551d1e909d08cebf41236514494bc59a50e0da9",
+      "size": 51
+    },
+    {
+      "path": "plugins/com.hashashin.fxcommands/versions/0.2.8/manifest.json",
+      "sha256": "375679c83646d416d3069139e7e090b29b3e41ceb5160cf5b29e9a6f0e0e7e6f",
       "size": 721
     },
     {

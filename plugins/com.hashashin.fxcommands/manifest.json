@@ -3,13 +3,13 @@
   "kind": "plugin",
   "name": "FxCommands",
   "id": "com.hashashin.fxcommands",
-  "latestVersion": "0.2.7",
+  "latestVersion": "0.2.8",
   "description": "Send commands to the FiveM or RedM client console.",
   "publisher": "hashashin",
   "repository": "https://github.com/hashashin/hashashin.FxCommands",
   "license": "GPL-3.0",
   "createdAt": "2026-09-26T19:57:57.5850708+00:00",
-  "updatedAt": "2026-09-27T12:45:23.4471278+00:00",
+  "updatedAt": "2026-09-28T06:12:30.3510116+00:00",
   "supportedRids": [
     "win-x64"
   ],

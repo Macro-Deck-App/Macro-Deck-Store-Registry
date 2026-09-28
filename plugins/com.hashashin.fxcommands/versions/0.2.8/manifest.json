@@ -1,0 +1,16 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.hashashin.fxcommands/0.2.8/com.hashashin.fxcommands-v0.2.8.macroDeckPlugin",
+  "sha256": "fea61cf202c4fed4d076c16c4d1d4805596ae6c6a9921319398265e1833d6961",
+  "size": 971495,
+  "uploadedAt": "2026-09-27T23:11:12.830484+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.hashashin.fxcommands/assets/f8f44c340175b2be-f8f44c340175b2be5122e3b6895664771c15a028e78b43746f1cb2ba71f2d1e2.png",
+      "sha256": "f8f44c340175b2be5122e3b6895664771c15a028e78b43746f1cb2ba71f2d1e2",
+      "size": 75728,
+      "contentType": "image/png"
+    },
+    "screenshots": []
+  }
+}
