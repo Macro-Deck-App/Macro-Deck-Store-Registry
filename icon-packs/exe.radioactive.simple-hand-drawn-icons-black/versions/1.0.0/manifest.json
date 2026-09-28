@@ -1,0 +1,23 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/icon-packs/exe.radioactive.simple-hand-drawn-icons-black/1.0.0/exe.radioactive.simple-hand-drawn-icons-black-v1.0.0.macroDeckIconPack",
+  "sha256": "6e16a5069b21405376a54f4b3f6b5f513d749ac46e24d289319cd052ab2ed9ce",
+  "size": 375647,
+  "uploadedAt": "2026-09-27T20:12:09.053821+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/icon-packs/exe.radioactive.simple-hand-drawn-icons-black/assets/e02a951bf94e0cb3-e02a951bf94e0cb3301ecb57d7e4fc9aa40cf39558e290eb8924f70bcd8872a0.png",
+      "sha256": "e02a951bf94e0cb3301ecb57d7e4fc9aa40cf39558e290eb8924f70bcd8872a0",
+      "size": 14662,
+      "contentType": "image/png"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/icon-packs/exe.radioactive.simple-hand-drawn-icons-black/assets/9879b07c13cbce88-9879b07c13cbce88d3ce58c25ffa3599fb83aa47be355865259a23c7b6de2795.png",
+        "sha256": "9879b07c13cbce88d3ce58c25ffa3599fb83aa47be355865259a23c7b6de2795",
+        "size": 616903,
+        "contentType": "image/png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.macro-deck.app/macrodeck-certificate-v1.schema.json",
+  "schemaVersion": 1,
+  "subject": {
+    "kind": "creator",
+    "id": "390888327659651223",
+    "name": "radioactive-exe"
+  },
+  "algorithm": "ed25519",
+  "certificateId": "cert_eb174f226e5fcec700f435000b5d0b1f",
+  "publicKey": "bnUzboTwxnCjnzR/ycA\u002BnKf8aeORDZej2hIx65zLZhQ=",
+  "keyUsage": [
+    "package"
+  ],
+  "notBefore": "2026-09-15T15:10:33.1750399+00:00",
+  "notAfter": "2028-09-14T15:10:33.1750399+00:00",
+  "issuedAt": "2026-09-15T15:10:33.1750399+00:00",
+  "rootKeyId": "root_2026"
+}

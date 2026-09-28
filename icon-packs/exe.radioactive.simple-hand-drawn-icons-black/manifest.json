@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/icon-pack.schema.json",
+  "kind": "iconPack",
+  "name": "Simple Hand-drawn Icons [Black]",
+  "id": "exe.radioactive.simple-hand-drawn-icons-black",
+  "latestVersion": "1.0.0",
+  "description": "A pack of simple hand-drawn icons, primarily black.",
+  "publisher": "radioactive.exe",
+  "homepage": "https://github.com/radioactive-exe",
+  "license": "CC BY 4.0",
+  "createdAt": "2026-09-28T05:38:59.9426651+00:00",
+  "updatedAt": "2026-09-28T05:38:59.9426651+00:00",
+  "tags": [
+    "hand-drawn",
+    "simple",
+    "art",
+    "media",
+    "comms",
+    "icons",
+    "productivity"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": false
+  }
+}

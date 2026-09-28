@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 47,
-  "generatedAt": "2026-09-27T12:45:23.4540973+00:00",
+  "sequence": 48,
+  "generatedAt": "2026-09-28T05:38:59.9798462+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -140,6 +140,16 @@
       "size": 89
     },
     {
+      "path": "certificates/cert_eb174f226e5fcec700f435000b5d0b1f.json",
+      "sha256": "ccaab33dd631629334d56de56a467e41e44bff2938294a1d16014899244bbb49",
+      "size": 585
+    },
+    {
+      "path": "certificates/cert_eb174f226e5fcec700f435000b5d0b1f.sig",
+      "sha256": "ba80326109c86361267018eeaf99be0f0040551a4986db22a5d99d180d6372b1",
+      "size": 89
+    },
+    {
       "path": "icon-packs/com.simplyjames.mdi-icons/manifest.json",
       "sha256": "892ce52a7592f23ea4655f32a1f59d7f63ac12fdab898d8be669f532e7a8982d",
       "size": 521
@@ -180,9 +190,29 @@
       "size": 1121
     },
     {
+      "path": "icon-packs/exe.radioactive.simple-hand-drawn-icons-black/manifest.json",
+      "sha256": "a5b6f67c2a65afd97f07f4473cc765355a38ad802ad94add0bf0eafa4cc01647",
+      "size": 714
+    },
+    {
+      "path": "icon-packs/exe.radioactive.simple-hand-drawn-icons-black/versions/1.0.0/changelog.md",
+      "sha256": "35d87934357220c8fb7060e0155d45a2b404514db3f71580071aae32f2fa2b5c",
+      "size": 13
+    },
+    {
+      "path": "icon-packs/exe.radioactive.simple-hand-drawn-icons-black/versions/1.0.0/description.md",
+      "sha256": "573f300b741453db714d03f4710aec0fa9beaa66e0918221f8f33cb0dee3bf3b",
+      "size": 267
+    },
+    {
+      "path": "icon-packs/exe.radioactive.simple-hand-drawn-icons-black/versions/1.0.0/manifest.json",
+      "sha256": "682e9565ade692deb5a562c6a9b2fdb8163f01d3036c05afa7d2e284886c8077",
+      "size": 1162
+    },
+    {
       "path": "index.json",
-      "sha256": "ebdad2524aa2bba26cd4fc8b6402d9e4392d780435ae2cc20c062048069dd2c4",
-      "size": 772
+      "sha256": "58ecfc63c6da31fbdfe3b02581360eee5d881e3cea6b0fd914a95aea8a817fa9",
+      "size": 826
     },
     {
       "path": "plugins/com.cjhackeryt.screenxdeck/manifest.json",
