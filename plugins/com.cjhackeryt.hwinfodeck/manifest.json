@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "HWiNFODeck",
+  "id": "com.cjhackeryt.hwinfodeck",
+  "latestVersion": "1.0.1",
+  "description": "Live HWiNFO sensor readings and gauges for Macro Deck 3.",
+  "publisher": "cjhackeryt",
+  "repository": "https://github.com/Cjhackeryt/HWiNFODeck",
+  "license": "MIT",
+  "createdAt": "2026-09-28T05:49:24.1706355+00:00",
+  "updatedAt": "2026-09-28T05:49:24.1706355+00:00",
+  "supportedRids": [
+    "win-x64"
+  ],
+  "tags": [
+    "system",
+    "macro-deck",
+    "macro-deck-plugin",
+    "hwinfo",
+    "hardware-monitoring",
+    "sensors",
+    "gauges",
+    "net",
+    "windows"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": true
+  }
+}

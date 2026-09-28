@@ -1,8 +1,9 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-09-28T05:39:09.8798754+00:00",
+  "generatedAt": "2026-09-28T05:49:24.1706355+00:00",
   "plugins": [
+    "com.cjhackeryt.hwinfodeck",
     "com.cjhackeryt.screenxdeck",
     "com.cjhackeryt.soundbox",
     "com.cjhackeryt.steelseriessonar",
