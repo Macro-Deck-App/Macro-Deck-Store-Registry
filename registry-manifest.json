@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 48,
-  "generatedAt": "2026-09-28T05:38:59.9798462+00:00",
+  "sequence": 49,
+  "generatedAt": "2026-09-28T05:39:09.8867926+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -210,9 +210,29 @@
       "size": 1162
     },
     {
+      "path": "icon-packs/exe.radioactive.simple-hand-drawn-icons-white/manifest.json",
+      "sha256": "277bcaba71b9ed0c396358ed442c997ef585abc20c7848bdabba735138ddc72f",
+      "size": 724
+    },
+    {
+      "path": "icon-packs/exe.radioactive.simple-hand-drawn-icons-white/versions/1.0.0/changelog.md",
+      "sha256": "35d87934357220c8fb7060e0155d45a2b404514db3f71580071aae32f2fa2b5c",
+      "size": 13
+    },
+    {
+      "path": "icon-packs/exe.radioactive.simple-hand-drawn-icons-white/versions/1.0.0/description.md",
+      "sha256": "573f300b741453db714d03f4710aec0fa9beaa66e0918221f8f33cb0dee3bf3b",
+      "size": 267
+    },
+    {
+      "path": "icon-packs/exe.radioactive.simple-hand-drawn-icons-white/versions/1.0.0/manifest.json",
+      "sha256": "674d55e2cb7413dd3a9ea86115ad3097bef10c18b73b88465fb29a8e0f390ad9",
+      "size": 1161
+    },
+    {
       "path": "index.json",
-      "sha256": "58ecfc63c6da31fbdfe3b02581360eee5d881e3cea6b0fd914a95aea8a817fa9",
-      "size": 826
+      "sha256": "62cdc98d3c8d356cf2597b773d3daa00249feacc3e52c0df68be41b845999932",
+      "size": 879
     },
     {
       "path": "plugins/com.cjhackeryt.screenxdeck/manifest.json",

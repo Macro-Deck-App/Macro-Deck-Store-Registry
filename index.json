@@ -1,7 +1,7 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-09-28T05:38:59.9426651+00:00",
+  "generatedAt": "2026-09-28T05:39:09.8798754+00:00",
   "plugins": [
     "com.cjhackeryt.screenxdeck",
     "com.cjhackeryt.soundbox",
@@ -19,7 +19,8 @@
   "iconPacks": [
     "com.simplyjames.mdi-icons",
     "com.suchbyte.colorful-generic-icons",
-    "exe.radioactive.simple-hand-drawn-icons-black"
+    "exe.radioactive.simple-hand-drawn-icons-black",
+    "exe.radioactive.simple-hand-drawn-icons-white"
   ],
   "templates": {
     "automations": [],

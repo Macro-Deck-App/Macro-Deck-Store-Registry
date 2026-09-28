@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/icon-pack.schema.json",
+  "kind": "iconPack",
+  "name": "Simple Hand-drawn Icons [White]",
+  "id": "exe.radioactive.simple-hand-drawn-icons-white",
+  "latestVersion": "1.0.0",
+  "description": "A pack of simple hand-drawn icons, primarily white.",
+  "publisher": "radioactive.exe",
+  "homepage": "https://github.com/radioactive-exe",
+  "license": "CC BY 4.0",
+  "createdAt": "2026-09-28T05:39:09.8798754+00:00",
+  "updatedAt": "2026-09-28T05:39:09.8798754+00:00",
+  "tags": [
+    "simple",
+    "hand-drawn",
+    "art",
+    "media",
+    "system-controls",
+    "icons",
+    "productivity"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": false
+  }
+}
