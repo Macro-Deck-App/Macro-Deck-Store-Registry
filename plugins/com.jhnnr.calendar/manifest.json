@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "calendar",
+  "id": "com.jhnnr.calendar",
+  "latestVersion": "1.0.0",
+  "description": "Interactive monthly calendar widget for Macro Deck 3 with month navigation and current day highlighting.",
+  "publisher": "jhnnr",
+  "repository": "https://github.com/jhnnr/macrodeck3-calendar",
+  "license": "MIT",
+  "createdAt": "2026-09-28T19:10:04.2059414+00:00",
+  "updatedAt": "2026-09-28T19:10:04.2059414+00:00",
+  "supportedRids": [
+    "linux-x64",
+    "osx-arm64",
+    "win-x64"
+  ],
+  "tags": [
+    "system",
+    "productivity"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": false
+  }
+}

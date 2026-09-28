@@ -1,0 +1,16 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.jhnnr.calendar/1.0.0/com.jhnnr.calendar-v1.0.0.macroDeckPlugin",
+  "sha256": "f7219a844ba0afb6e84259fb22a7943b2ac43d7ff215513d1de7fb456929c9a7",
+  "size": 2449539,
+  "uploadedAt": "2026-09-28T05:23:37.969529+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.jhnnr.calendar/assets/c6941a37f34ed6e4-c6941a37f34ed6e4ea03d412cb0e38e9a17a528599882db5b7c72a828815c55b.svg",
+      "sha256": "c6941a37f34ed6e4ea03d412cb0e38e9a17a528599882db5b7c72a828815c55b",
+      "size": 1017,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": []
+  }
+}
