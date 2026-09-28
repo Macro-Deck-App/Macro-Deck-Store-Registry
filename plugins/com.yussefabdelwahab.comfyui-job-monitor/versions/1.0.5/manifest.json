@@ -1,0 +1,16 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.yussefabdelwahab.comfyui-job-monitor/1.0.5/com.yussefabdelwahab.comfyui-job-monitor-v1.0.5.macroDeckPlugin",
+  "sha256": "e7f9c57e343226ac0b88d9b06ae155ec8ffa2f44a66712e94330fb4b25a68f3b",
+  "size": 2461080,
+  "uploadedAt": "2026-09-28T19:21:14.6029+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.yussefabdelwahab.comfyui-job-monitor/assets/043e3f47bee97c3e-043e3f47bee97c3e6ea1d1046c5758252052986cc79b66cbe3f689f5c3b535ce.svg",
+      "sha256": "043e3f47bee97c3e6ea1d1046c5758252052986cc79b66cbe3f689f5c3b535ce",
+      "size": 318,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": []
+  }
+}

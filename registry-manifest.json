@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 52,
-  "generatedAt": "2026-09-28T19:10:04.2436631+00:00",
+  "sequence": 53,
+  "generatedAt": "2026-09-28T19:54:09.5852166+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -631,7 +631,7 @@
     },
     {
       "path": "plugins/com.yussefabdelwahab.comfyui-job-monitor/manifest.json",
-      "sha256": "7bd3810f170b1d25ba8413b5549811a84c193ed4690251d7fbf277c7caf4298b",
+      "sha256": "c7749a7338607f2a0f84bf27aa41f3eed807ebe7b5679286ba214aa64172eabc",
       "size": 761
     },
     {
@@ -648,6 +648,21 @@
       "path": "plugins/com.yussefabdelwahab.comfyui-job-monitor/versions/1.0.4/manifest.json",
       "sha256": "31fb0a4f9803e8cdd2fc21f7cad1e0f3c58bf627dd7c8d597e9d4852fec7bcc9",
       "size": 777
+    },
+    {
+      "path": "plugins/com.yussefabdelwahab.comfyui-job-monitor/versions/1.0.5/changelog.md",
+      "sha256": "5cdeafbf8bcb8868cf30ad3eba3e9f7e8b11ecd4bdeb9ff8ab21683d3b1b106b",
+      "size": 37
+    },
+    {
+      "path": "plugins/com.yussefabdelwahab.comfyui-job-monitor/versions/1.0.5/description.md",
+      "sha256": "80e6446c229f649fed95671c9de2d116508fd65fc9b6546a284622e668c3db0d",
+      "size": 58
+    },
+    {
+      "path": "plugins/com.yussefabdelwahab.comfyui-job-monitor/versions/1.0.5/manifest.json",
+      "sha256": "c99c92ac3f4ddaae979b498895b2f28e725fd6a9213325bd043d8f4c792db704",
+      "size": 775
     },
     {
       "path": "plugins/com.yussefabdelwahab.image-slideshow/manifest.json",
