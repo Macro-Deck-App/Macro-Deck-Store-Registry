@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 56,
-  "generatedAt": "2026-10-01T15:05:36.1042735+00:00",
+  "sequence": 57,
+  "generatedAt": "2026-10-01T18:43:40.9610213+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -251,8 +251,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "071228c56768ee1fbc77c3da9e21984307e87cbf3200c156ba40b5ee926cbafe",
-      "size": 973
+      "sha256": "6b7a55895ac31b22d92169bfe25904c91884d7591b26de84df93c1ce9a274449",
+      "size": 1004
     },
     {
       "path": "plugins/com.cjhackeryt.hwinfodeck/manifest.json",
@@ -443,6 +443,26 @@
       "path": "plugins/com.hashashin.fxcommands/versions/0.2.8/manifest.json",
       "sha256": "375679c83646d416d3069139e7e090b29b3e41ceb5160cf5b29e9a6f0e0e7e6f",
       "size": 721
+    },
+    {
+      "path": "plugins/com.hashashin.octoprint/manifest.json",
+      "sha256": "a2f0b56eef019336ece508b1580282ab30b6c0c3d541dd8e89746e97ab325006",
+      "size": 675
+    },
+    {
+      "path": "plugins/com.hashashin.octoprint/versions/0.1.0/changelog.md",
+      "sha256": "adabddb167c82a878dd30bf064b93beab388a5b5770686cf53dd204e160d8179",
+      "size": 320
+    },
+    {
+      "path": "plugins/com.hashashin.octoprint/versions/0.1.0/description.md",
+      "sha256": "8137e8d333c7dfa98a36983f1c07a008187f0094047d271897f43939852e8964",
+      "size": 61
+    },
+    {
+      "path": "plugins/com.hashashin.octoprint/versions/0.1.0/manifest.json",
+      "sha256": "c7dd74b218d28f2fed0880635f16470957b982149d430ef03f38c49d83723caf",
+      "size": 726
     },
     {
       "path": "plugins/com.inariix.mbxhub-plugin/manifest.json",

@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "OctoPrint",
+  "id": "com.hashashin.octoprint",
+  "latestVersion": "0.1.0",
+  "description": "Control OctoPrint printers and print jobs from Macro Deck 3.",
+  "publisher": "hashashin",
+  "repository": "https://github.com/hashashin/hashashin.OctoPrint",
+  "license": "GPL-3.0",
+  "createdAt": "2026-10-01T18:43:40.9362443+00:00",
+  "updatedAt": "2026-10-01T18:43:40.9362443+00:00",
+  "supportedRids": [
+    "win-x64"
+  ],
+  "tags": [
+    "smart-home",
+    "productivity",
+    "octoprint"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": false
+  }
+}

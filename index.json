@@ -1,13 +1,14 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-10-01T06:29:47.9918872+00:00",
+  "generatedAt": "2026-10-01T18:43:40.9362443+00:00",
   "plugins": [
     "com.cjhackeryt.hwinfodeck",
     "com.cjhackeryt.screenxdeck",
     "com.cjhackeryt.soundbox",
     "com.cjhackeryt.steelseriessonar",
     "com.hashashin.fxcommands",
+    "com.hashashin.octoprint",
     "com.inariix.mbxhub-plugin",
     "com.jhnnr.calendar",
     "com.pyflat.device-battery-info",

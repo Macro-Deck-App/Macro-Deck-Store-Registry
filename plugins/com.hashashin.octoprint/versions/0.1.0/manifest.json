@@ -1,0 +1,16 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.hashashin.octoprint/0.1.0/com.hashashin.octoprint-v0.1.0.macroDeckPlugin",
+  "sha256": "91d45e22907b234c39b489f66ea83c6a29b04ec60ec7f231770ac4d4d612f7e0",
+  "size": 858670,
+  "uploadedAt": "2026-10-01T18:24:18.204336+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.hashashin.octoprint/assets/893151d6a44ec375-893151d6a44ec3752619b38c25bbe02277dac03ac963f8e011d551f8d160d9fe.svg",
+      "sha256": "893151d6a44ec3752619b38c25bbe02277dac03ac963f8e011d551f8d160d9fe",
+      "size": 1593,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": []
+  }
+}
