@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.macro-deck.app/macrodeck-certificate-v1.schema.json",
+  "schemaVersion": 1,
+  "subject": {
+    "kind": "creator",
+    "id": "392576667408662697",
+    "name": "Maciej Kaczmarek"
+  },
+  "algorithm": "ed25519",
+  "certificateId": "cert_86a3a9ee00df83e4ae7e21ce35a405e4",
+  "publicKey": "hiXkSWCjHG8qxPerBTy7agip7bvrXROQer8CWAfhI\u002B4=",
+  "keyUsage": [
+    "package"
+  ],
+  "notBefore": "2026-09-27T06:18:56.3394726+00:00",
+  "notAfter": "2028-09-26T06:18:56.3394726+00:00",
+  "issuedAt": "2026-09-27T06:18:56.3394726+00:00",
+  "rootKeyId": "root_2026"
+}

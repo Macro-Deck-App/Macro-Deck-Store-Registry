@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 54,
-  "generatedAt": "2026-09-30T05:16:43.499766+00:00",
+  "sequence": 55,
+  "generatedAt": "2026-10-01T06:29:47.9978908+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -57,6 +57,16 @@
     {
       "path": "certificates/cert_7cc0e4aaea428037548461cd01b9a94f.sig",
       "sha256": "185ff558547f24364dc5ea48848184722a3f1ecb5f4a02dabbd6e29411418d54",
+      "size": 89
+    },
+    {
+      "path": "certificates/cert_86a3a9ee00df83e4ae7e21ce35a405e4.json",
+      "sha256": "23c4fe7864751938187493f814a778ed4aba92d6e6b980dd6ecfb6b0da41be32",
+      "size": 586
+    },
+    {
+      "path": "certificates/cert_86a3a9ee00df83e4ae7e21ce35a405e4.sig",
+      "sha256": "756b8ecb30cbf9397c9fa0a972c18cce93ae14e40294b21bd59df3639088c7d6",
       "size": 89
     },
     {
@@ -241,8 +251,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "0943fe6b897553b1c4dd2ad24fdf68e86d361e02bc5f076dd42e5f1869d68d6b",
-      "size": 938
+      "sha256": "071228c56768ee1fbc77c3da9e21984307e87cbf3200c156ba40b5ee926cbafe",
+      "size": 973
     },
     {
       "path": "plugins/com.cjhackeryt.hwinfodeck/manifest.json",
@@ -643,6 +653,26 @@
       "path": "plugins/com.suchbyte.macrogotchi/versions/1.1.5/manifest.json",
       "sha256": "c7e3e21f118af89c586266debcb67ffbf9ec3eaa4bb09a2e5b5b9f49097acf15",
       "size": 1613
+    },
+    {
+      "path": "plugins/com.tabsik12.ets2-telemetry/manifest.json",
+      "sha256": "5e3f17c189ec775368d431a7d9eb2e937ca6765b6bf94d31efd99826fc29c8b5",
+      "size": 692
+    },
+    {
+      "path": "plugins/com.tabsik12.ets2-telemetry/versions/1.0.7/changelog.md",
+      "sha256": "7f6e6f8352da85d8721bf51b20178a07fc445bf6e5370ac550acc21acc7a636f",
+      "size": 113
+    },
+    {
+      "path": "plugins/com.tabsik12.ets2-telemetry/versions/1.0.7/description.md",
+      "sha256": "f78e40584f932848abc64db786e2b89f294d9569f419837ea91ada0efc5b8bd7",
+      "size": 157
+    },
+    {
+      "path": "plugins/com.tabsik12.ets2-telemetry/versions/1.0.7/manifest.json",
+      "sha256": "6a8871c1313817198c87cef9b4ebdb0ddb9e56353e3495f837c26a6466a7eb36",
+      "size": 1087
     },
     {
       "path": "plugins/com.yussefabdelwahab.comfyui-job-monitor/manifest.json",

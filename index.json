@@ -1,7 +1,7 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-09-28T19:10:04.2059414+00:00",
+  "generatedAt": "2026-10-01T06:29:47.9918872+00:00",
   "plugins": [
     "com.cjhackeryt.hwinfodeck",
     "com.cjhackeryt.screenxdeck",
@@ -13,6 +13,7 @@
     "com.pyflat.device-battery-info",
     "com.pyflat.system-hotkeys",
     "com.squibsland.beefweb",
+    "com.tabsik12.ets2-telemetry",
     "com.yussefabdelwahab.comfyui-job-monitor",
     "com.yussefabdelwahab.image-slideshow",
     "com.yussefabdelwahab.nvidia-smi-tool",
