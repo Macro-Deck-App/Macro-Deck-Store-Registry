@@ -1,0 +1,16 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.tabsik12.tuya-control/1.0.4/com.tabsik12.tuya-control-v1.0.4.macroDeckPlugin",
+  "sha256": "b9fa3aa9be7842c5dbda3c5f7a884b9f8efd8d9eb1070a3e5faefb80e8aeb9d4",
+  "size": 1247239,
+  "uploadedAt": "2026-10-02T21:05:25.633372+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.tabsik12.tuya-control/assets/2667ac3c766365f3-2667ac3c766365f3eff45afbf14c382de7a1b372141a0b77901557fafbd25110.svg",
+      "sha256": "2667ac3c766365f3eff45afbf14c382de7a1b372141a0b77901557fafbd25110",
+      "size": 725,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": []
+  }
+}

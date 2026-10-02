@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "Tuya Control",
+  "id": "com.tabsik12.tuya-control",
+  "latestVersion": "1.0.4",
+  "description": "allows control tuya devices via cloud and lan",
+  "publisher": "Maciej Kaczmarek",
+  "repository": "https://github.com/tabsik30/TuyaControlMD3",
+  "license": "MIT",
+  "createdAt": "2026-10-02T21:42:53.2311011+00:00",
+  "updatedAt": "2026-10-02T21:42:53.2311011+00:00",
+  "supportedRids": [
+    "win-x64"
+  ],
+  "tags": [
+    "smart-home",
+    "tuya",
+    "light"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": true,
+    "services": [
+      "Github Copilot"
+    ]
+  }
+}

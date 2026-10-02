@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 60,
-  "generatedAt": "2026-10-02T20:57:29.2278193+00:00",
+  "sequence": 61,
+  "generatedAt": "2026-10-02T21:42:53.2341628+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -251,8 +251,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "06811de792220a8e8b84795b02935788b37be25ae823cb4a3b28d3faf0193a37",
-      "size": 1044
+      "sha256": "1c1173e01614d8353aadb64271754dd5bc0c3216ce4435bd7f799226c088ed45",
+      "size": 1077
     },
     {
       "path": "plugins/com.cjhackeryt.hwinfodeck/manifest.json",
@@ -758,6 +758,26 @@
       "path": "plugins/com.tabsik12.minecraft-macrolink/versions/1.0.1/manifest.json",
       "sha256": "e73bfe95d5e8498d03da1db7f27f34e47c65705bbc9b0007ef8105c897276858",
       "size": 752
+    },
+    {
+      "path": "plugins/com.tabsik12.tuya-control/manifest.json",
+      "sha256": "a3d05b48dfde0a26dc8a17ac3df061d2f4aa34d6f82167e58e6c31767eca60ae",
+      "size": 697
+    },
+    {
+      "path": "plugins/com.tabsik12.tuya-control/versions/1.0.4/changelog.md",
+      "sha256": "047c3d59a734baf8ff5eceb2a5132d59820f94b7cf59e30a5d09874b9512c762",
+      "size": 83
+    },
+    {
+      "path": "plugins/com.tabsik12.tuya-control/versions/1.0.4/description.md",
+      "sha256": "6a687293b38510e2aa9c9e1dd627909bf92e78bbe51158e28eb389249a0cde16",
+      "size": 126
+    },
+    {
+      "path": "plugins/com.tabsik12.tuya-control/versions/1.0.4/manifest.json",
+      "sha256": "83c445f93b73837081c242ab1405c70b4e1bab30e4e407af50bc0f704a208c01",
+      "size": 732
     },
     {
       "path": "plugins/com.yussefabdelwahab.comfyui-job-monitor/manifest.json",
