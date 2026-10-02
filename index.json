@@ -1,7 +1,7 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-10-01T18:43:40.9362443+00:00",
+  "generatedAt": "2026-10-02T19:40:36.4139494+00:00",
   "plugins": [
     "com.cjhackeryt.hwinfodeck",
     "com.cjhackeryt.screenxdeck",
@@ -15,6 +15,7 @@
     "com.pyflat.system-hotkeys",
     "com.squibsland.beefweb",
     "com.tabsik12.ets2-telemetry",
+    "com.tabsik12.minecraft-macrolink",
     "com.yussefabdelwahab.comfyui-job-monitor",
     "com.yussefabdelwahab.image-slideshow",
     "com.yussefabdelwahab.nvidia-smi-tool",

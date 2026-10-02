@@ -1,0 +1,1 @@
+Initial release of MacroLink for Minecraft. Requires the companion Fabric mod: https://github.com/tabsik30/Minecraft-Macro-link-Mod. Adds Minecraft player variables and a live XP progress widget for Macro Deck 3. SDK baseline: 3.0.0-beta.14.
