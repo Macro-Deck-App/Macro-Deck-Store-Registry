@@ -1,7 +1,7 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-10-02T21:42:53.2311011+00:00",
+  "generatedAt": "2026-10-02T21:50:21.1240243+00:00",
   "plugins": [
     "com.cjhackeryt.hwinfodeck",
     "com.cjhackeryt.screenxdeck",
@@ -13,6 +13,7 @@
     "com.jhnnr.calendar",
     "com.pyflat.device-battery-info",
     "com.pyflat.system-hotkeys",
+    "com.sarti2004.dorideck",
     "com.squibsland.beefweb",
     "com.tabsik12.ets2-telemetry",
     "com.tabsik12.minecraft-macrolink",

@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.macro-deck.app/macrodeck-certificate-v1.schema.json",
+  "schemaVersion": 1,
+  "subject": {
+    "kind": "creator",
+    "id": "391333319758839977",
+    "name": "Sarti2004"
+  },
+  "algorithm": "ed25519",
+  "certificateId": "cert_0847db56391b0d038cd1fac4a8058dca",
+  "publicKey": "wriJdDaL0RwddGBq4oK4hM\u002BlfrsEOEhfD7YMk25Ln2s=",
+  "keyUsage": [
+    "package"
+  ],
+  "notBefore": "2026-09-18T16:54:21.1203908+00:00",
+  "notAfter": "2028-09-17T16:54:21.1203908+00:00",
+  "issuedAt": "2026-09-18T16:54:21.1203908+00:00",
+  "rootKeyId": "root_2026"
+}

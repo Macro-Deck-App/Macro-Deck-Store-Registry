@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "DoriDeck",
+  "id": "com.sarti2004.dorideck",
+  "latestVersion": "0.3.0",
+  "description": "Control Dorico from Macro Deck",
+  "publisher": "Sarti2004",
+  "repository": "https://github.com/Sarti2004/DoriDeck",
+  "license": "MIT",
+  "createdAt": "2026-10-02T21:50:21.1240243+00:00",
+  "updatedAt": "2026-10-02T21:50:21.1240243+00:00",
+  "supportedRids": [
+    "osx-arm64",
+    "win-x64"
+  ],
+  "tags": [
+    "productivity",
+    "dorico",
+    "music-notation"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": false
+  }
+}

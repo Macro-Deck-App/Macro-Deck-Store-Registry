@@ -1,13 +1,23 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 61,
-  "generatedAt": "2026-10-02T21:42:53.2341628+00:00",
+  "sequence": 62,
+  "generatedAt": "2026-10-02T21:50:21.1269362+00:00",
   "files": [
     {
       "path": "categories.json",
       "sha256": "60c12082385a82c943387afdccbf0a32696d9c731e6093deea3eea92c0adc255",
       "size": 2179
+    },
+    {
+      "path": "certificates/cert_0847db56391b0d038cd1fac4a8058dca.json",
+      "sha256": "fbbe33e6cf8e98f58209537799a45799ddfe765c06b97e42221e71f4cfd1aec3",
+      "size": 579
+    },
+    {
+      "path": "certificates/cert_0847db56391b0d038cd1fac4a8058dca.sig",
+      "sha256": "f8442b7c07cde3dd98665beeab85c80c4977507f4697044228e47a71fdaf362c",
+      "size": 89
     },
     {
       "path": "certificates/cert_1ec60d31501768b730eef9d8ee219c06.json",
@@ -251,8 +261,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "1c1173e01614d8353aadb64271754dd5bc0c3216ce4435bd7f799226c088ed45",
-      "size": 1077
+      "sha256": "cd461fa6ddf059d7142944af8e81e9dfdaf1f147988a7c78f8917a48f27a823a",
+      "size": 1107
     },
     {
       "path": "plugins/com.cjhackeryt.hwinfodeck/manifest.json",
@@ -618,6 +628,26 @@
       "path": "plugins/com.pyflat.system-hotkeys/versions/1.0.1/manifest.json",
       "sha256": "f7b3ac3a194adc3a457ecfd2c7f540248030ad709229a28c5b9075981f483c35",
       "size": 731
+    },
+    {
+      "path": "plugins/com.sarti2004.dorideck/manifest.json",
+      "sha256": "27a5e821eb31118a25f05b17235e206ccc4727577428e4b1dc3b5b1697530b6a",
+      "size": 646
+    },
+    {
+      "path": "plugins/com.sarti2004.dorideck/versions/0.3.0/changelog.md",
+      "sha256": "5506b14bc1ed3b380cf87580d3dbee8ac9a9cda2d97badc3cd1563ad100455a3",
+      "size": 38
+    },
+    {
+      "path": "plugins/com.sarti2004.dorideck/versions/0.3.0/description.md",
+      "sha256": "ef4d817f1fd27482faef61c0e0c2ee9604fb3f6e862c8ccddc69d33e5b3010b6",
+      "size": 31
+    },
+    {
+      "path": "plugins/com.sarti2004.dorideck/versions/0.3.0/manifest.json",
+      "sha256": "a721b7293e8f66f5f1246f694f14fbaed314b070ddf7ce319b4758729d15de7f",
+      "size": 1060
     },
     {
       "path": "plugins/com.squibsland.beefweb/manifest.json",
