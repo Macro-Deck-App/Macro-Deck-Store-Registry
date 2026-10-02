@@ -3,13 +3,13 @@
   "kind": "plugin",
   "name": "ETS2/ATS Telemetry",
   "id": "com.tabsik12.ets2-telemetry",
-  "latestVersion": "1.0.8",
+  "latestVersion": "1.0.9",
   "description": "shows telemetry from ETS2, ATS on Deck",
   "publisher": "Maciej Kaczmarek",
   "repository": "https://github.com/tabsik30/ETS2TelemtryMD3",
   "license": "MIT",
   "createdAt": "2026-10-01T06:29:47.9918872+00:00",
-  "updatedAt": "2026-10-01T15:05:36.0599366+00:00",
+  "updatedAt": "2026-10-02T20:57:29.2233953+00:00",
   "supportedRids": [
     "win-x64"
   ],
