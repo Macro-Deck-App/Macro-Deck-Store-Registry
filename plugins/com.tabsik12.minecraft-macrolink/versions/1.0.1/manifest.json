@@ -1,0 +1,16 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.tabsik12.minecraft-macrolink/1.0.1/com.tabsik12.minecraft-macrolink-v1.0.1.macroDeckPlugin",
+  "sha256": "71857cf0e17bc0263646895ca4847bb05adff9a7a9decd99fa94d096a482f5ca",
+  "size": 865846,
+  "uploadedAt": "2026-10-02T20:25:25.861845+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.tabsik12.minecraft-macrolink/assets/49c699407a5eeb93-49c699407a5eeb93326db852bfd4cef4f064fe99b5bacc4cb852365b59f93128.svg",
+      "sha256": "49c699407a5eeb93326db852bfd4cef4f064fe99b5bacc4cb852365b59f93128",
+      "size": 272,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": []
+  }
+}
