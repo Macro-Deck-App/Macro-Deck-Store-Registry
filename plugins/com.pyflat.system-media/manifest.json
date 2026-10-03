@@ -1,0 +1,34 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "System Media",
+  "id": "com.pyflat.system-media",
+  "latestVersion": "1.0.0",
+  "description": "Control any app that\u0027s playing media on Windows, macOS or Linux from Macro Deck\u0027s Music Player widget: Spotify, browsers, Apple Music, VLC and more.",
+  "publisher": "PyFlat",
+  "repository": "https://github.com/PyFlat/System-Media",
+  "license": "MIT",
+  "createdAt": "2026-10-03T16:50:19.8735126+00:00",
+  "updatedAt": "2026-10-03T16:50:19.8735126+00:00",
+  "supportedRids": [
+    "linux-x64",
+    "osx-arm64",
+    "win-x64"
+  ],
+  "tags": [
+    "music",
+    "system",
+    "media",
+    "music-player",
+    "youtube",
+    "vlc",
+    "spotify",
+    "media-controls",
+    "volume"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": false
+  }
+}
