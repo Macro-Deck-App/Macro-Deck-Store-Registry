@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 62,
-  "generatedAt": "2026-10-02T21:50:21.1269362+00:00",
+  "sequence": 63,
+  "generatedAt": "2026-10-03T09:02:09.1655377+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -791,7 +791,7 @@
     },
     {
       "path": "plugins/com.tabsik12.tuya-control/manifest.json",
-      "sha256": "a3d05b48dfde0a26dc8a17ac3df061d2f4aa34d6f82167e58e6c31767eca60ae",
+      "sha256": "79d4c6e067dded42360f1b7abd46183135ffdadb8f94fba583c8acd78fb2cd5f",
       "size": 697
     },
     {
@@ -807,6 +807,21 @@
     {
       "path": "plugins/com.tabsik12.tuya-control/versions/1.0.4/manifest.json",
       "sha256": "83c445f93b73837081c242ab1405c70b4e1bab30e4e407af50bc0f704a208c01",
+      "size": 732
+    },
+    {
+      "path": "plugins/com.tabsik12.tuya-control/versions/1.0.5/changelog.md",
+      "sha256": "5ba2a53198597e11945786737e793ab61ed1483b1544cbe9dd794075484eec19",
+      "size": 84
+    },
+    {
+      "path": "plugins/com.tabsik12.tuya-control/versions/1.0.5/description.md",
+      "sha256": "6a687293b38510e2aa9c9e1dd627909bf92e78bbe51158e28eb389249a0cde16",
+      "size": 126
+    },
+    {
+      "path": "plugins/com.tabsik12.tuya-control/versions/1.0.5/manifest.json",
+      "sha256": "36d3557b9736ad60385edd8f94fcdd62429c90a99e360a3ce8eae615c3177f40",
       "size": 732
     },
     {
