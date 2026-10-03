@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 64,
-  "generatedAt": "2026-10-03T10:23:40.2122308+00:00",
+  "sequence": 65,
+  "generatedAt": "2026-10-03T16:25:52.7983385+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -916,8 +916,8 @@
     },
     {
       "path": "plugins/net.ziopuzzle.custombutton/manifest.json",
-      "sha256": "f5f7f30c2fe284faef5d225672e61dd06697c3085b9be4d7022594650fd1bf9f",
-      "size": 753
+      "sha256": "f18f0026a369b65d24dc179001497597218c4dfca778d7fa59c237882a48d6d1",
+      "size": 754
     },
     {
       "path": "plugins/net.ziopuzzle.custombutton/versions/0.32.1/changelog.md",
@@ -932,6 +932,21 @@
     {
       "path": "plugins/net.ziopuzzle.custombutton/versions/0.32.1/manifest.json",
       "sha256": "1bc023b4eb4920172faba34cdd85d318b7142290002a78e439be9ba30b3b0d3b",
+      "size": 2115
+    },
+    {
+      "path": "plugins/net.ziopuzzle.custombutton/versions/0.35.1/changelog.md",
+      "sha256": "21a8d9c0a00e3ac7ebcc85914bb3aee0d92054f3ab6a2d83ebf71964235810be",
+      "size": 1686
+    },
+    {
+      "path": "plugins/net.ziopuzzle.custombutton/versions/0.35.1/description.md",
+      "sha256": "f9f38ae34d4db6f4a2106df4b57f5422cfaf22bb9fe8fa4a37df9927fa1c3453",
+      "size": 52
+    },
+    {
+      "path": "plugins/net.ziopuzzle.custombutton/versions/0.35.1/manifest.json",
+      "sha256": "b34d4d9b3536e53ca79371af895f17b93aea4867c785a5e9b367170d325837ab",
       "size": 2115
     },
     {
