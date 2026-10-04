@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 69,
-  "generatedAt": "2026-10-04T09:10:46.4183183+00:00",
+  "sequence": 70,
+  "generatedAt": "2026-10-04T09:14:39.907595+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -261,8 +261,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "c89dd9159316704e08770e2a103bd41944276db171678873d39a9af3a3cf501e",
-      "size": 1138
+      "sha256": "66d64cd44ce35e8606e5d1d734e2bc253e2f99cf58a552db476332a2c98cbdea",
+      "size": 1174
     },
     {
       "path": "plugins/com.cjhackeryt.hwinfodeck/manifest.json",
@@ -353,6 +353,26 @@
       "path": "plugins/com.cjhackeryt.soundbox/versions/1.0.8/manifest.json",
       "sha256": "12cd4d8e9dbcbaefa7697fede3251077426889195b55200967b0b193c1c31d10",
       "size": 1071
+    },
+    {
+      "path": "plugins/com.cjhackeryt.spicetifydeck/manifest.json",
+      "sha256": "f751b4dab3c130adb1d63c54836b605da2106f80852b7024693d14a724b3db0e",
+      "size": 858
+    },
+    {
+      "path": "plugins/com.cjhackeryt.spicetifydeck/versions/1.0.3/changelog.md",
+      "sha256": "501fb18da882411528f8c69727a7c666dae64c52f1e0febc3fb355931935a7a2",
+      "size": 54
+    },
+    {
+      "path": "plugins/com.cjhackeryt.spicetifydeck/versions/1.0.3/description.md",
+      "sha256": "24785aaefc8729f48c122a07e5277542c3fef9b88a409c416e69b1fbde2ad1ba",
+      "size": 234
+    },
+    {
+      "path": "plugins/com.cjhackeryt.spicetifydeck/versions/1.0.3/manifest.json",
+      "sha256": "8cb79f017098e8d3d0fd5e8b1b821f37382a387a37055e46dc7b55c749304f66",
+      "size": 1090
     },
     {
       "path": "plugins/com.cjhackeryt.steelseriessonar/manifest.json",

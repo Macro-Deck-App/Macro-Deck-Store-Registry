@@ -1,0 +1,1 @@
+Control your Spotify desktop client from your Macro Deck through Spicetify. No Spotify account or developer setup required. Developed by cjhackeryt with contributions from NeonLightning. AI was used in the development of this plugin.

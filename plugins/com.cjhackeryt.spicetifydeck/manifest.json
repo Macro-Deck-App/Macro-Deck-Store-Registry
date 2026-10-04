@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "SpicetifyDeck",
+  "id": "com.cjhackeryt.spicetifydeck",
+  "latestVersion": "1.0.3",
+  "description": "Control Spotify playback and Spicetify from Macro Deck 3 with the SpicetifyDeck plugin.",
+  "publisher": "cjhackeryt",
+  "repository": "https://github.com/Cjhackeryt/SpicetifyDeck",
+  "license": "MIT",
+  "createdAt": "2026-10-04T09:14:39.9048141+00:00",
+  "updatedAt": "2026-10-04T09:14:39.9048141+00:00",
+  "supportedRids": [
+    "linux-x64",
+    "osx-arm64",
+    "osx-x64",
+    "win-x64"
+  ],
+  "tags": [
+    "music",
+    "macro-deck",
+    "macrodeck-plugin",
+    "spotify",
+    "spicetify",
+    "music-control",
+    "desktop-automation",
+    "dotnet",
+    "csharp"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": true
+  }
+}

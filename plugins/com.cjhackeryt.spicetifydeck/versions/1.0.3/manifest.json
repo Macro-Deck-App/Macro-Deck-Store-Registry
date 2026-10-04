@@ -1,0 +1,23 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.cjhackeryt.spicetifydeck/1.0.3/com.cjhackeryt.spicetifydeck-v1.0.3.macroDeckPlugin",
+  "sha256": "b98740f96e07b3515e4eaa6ba64a78214b746a30ee610355aeed098bdeb9f552",
+  "size": 5096876,
+  "uploadedAt": "2026-10-04T08:38:11.28518+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.cjhackeryt.spicetifydeck/assets/35a773a1e16775bf-35a773a1e16775bfc84dc9604ad7e758c62da9c058e4071e2bc098c9e1d34743.svg",
+      "sha256": "35a773a1e16775bfc84dc9604ad7e758c62da9c058e4071e2bc098c9e1d34743",
+      "size": 931,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.cjhackeryt.spicetifydeck/assets/c371427411cea866-c371427411cea866fc5ca467a82ac9071ff690fd53667da6ea8699a8c17cfdc5.png",
+        "sha256": "c371427411cea866fc5ca467a82ac9071ff690fd53667da6ea8699a8c17cfdc5",
+        "size": 123087,
+        "contentType": "image/png"
+      }
+    ]
+  }
+}
