@@ -3,13 +3,13 @@
   "kind": "plugin",
   "name": "System Hotkeys",
   "id": "com.pyflat.system-hotkeys",
-  "latestVersion": "1.0.1",
+  "latestVersion": "1.0.2",
   "description": "System-wide hotkeys for Macro Deck, with optional key suppression and per-device, profile or folder scoping.",
   "publisher": "PyFlat",
   "repository": "https://github.com/PyFlat/System-Hotkeys",
   "license": "MIT",
   "createdAt": "2026-09-19T13:01:43.8947877+00:00",
-  "updatedAt": "2026-09-27T11:03:25.9257837+00:00",
+  "updatedAt": "2026-10-04T09:16:38.2305242+00:00",
   "supportedRids": [
     "win-x64"
   ],
