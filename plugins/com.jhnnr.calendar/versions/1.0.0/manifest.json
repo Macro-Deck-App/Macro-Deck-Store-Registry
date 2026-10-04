@@ -11,6 +11,13 @@
       "size": 1017,
       "contentType": "image/svg\u002Bxml"
     },
-    "screenshots": []
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.jhnnr.calendar/assets/8715fa015d1d16eb-8715fa015d1d16ebba50da9d8b7d5d933bb01733dad1f7697f61e3d378996824.png",
+        "sha256": "8715fa015d1d16ebba50da9d8b7d5d933bb01733dad1f7697f61e3d378996824",
+        "size": 101907,
+        "contentType": "image/png"
+      }
+    ]
   }
 }

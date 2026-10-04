@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 67,
-  "generatedAt": "2026-10-03T16:50:19.8765844+00:00",
+  "sequence": 68,
+  "generatedAt": "2026-10-04T09:06:32.9763618+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -511,8 +511,8 @@
     },
     {
       "path": "plugins/com.jhnnr.calendar/versions/1.0.0/manifest.json",
-      "sha256": "71242ed521d55e51531bd17f30f1967d85e78673fb54c5cdc800f988a56cfdcd",
-      "size": 712
+      "sha256": "38848d65fda7b550720f56245e6f4b40a93387e40ccc3961fe0aae47e59f2bd1",
+      "size": 1052
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/manifest.json",
