@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 76,
-  "generatedAt": "2026-10-04T16:43:50.0906145+00:00",
+  "sequence": 77,
+  "generatedAt": "2026-10-04T19:59:26.3114107+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -261,8 +261,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "9806d29c3a8ba4d169df1ea561638e6e88673f4888e8e42323710898f6257957",
-      "size": 1137
+      "sha256": "fa99eb8d2945d8ae6137f1d665f84fc01e7c9c26957485873762405d30751e9e",
+      "size": 1174
     },
     {
       "path": "plugins/com.cjhackeryt.hwinfodeck/manifest.json",

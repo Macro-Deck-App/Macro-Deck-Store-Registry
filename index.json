@@ -1,11 +1,12 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-10-04T16:43:50.088319+00:00",
+  "generatedAt": "2026-10-04T19:59:26.2676433+00:00",
   "plugins": [
     "com.cjhackeryt.hwinfodeck",
     "com.cjhackeryt.screenxdeck",
     "com.cjhackeryt.soundbox",
+    "com.cjhackeryt.spicetifydeck",
     "com.cjhackeryt.steelseriessonar",
     "com.hashashin.fxcommands",
     "com.hashashin.octoprint",
