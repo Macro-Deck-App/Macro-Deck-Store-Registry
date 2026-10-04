@@ -1,7 +1,7 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-10-04T19:59:26.2676433+00:00",
+  "generatedAt": "2026-10-04T20:10:28.3121392+00:00",
   "plugins": [
     "com.cjhackeryt.hwinfodeck",
     "com.cjhackeryt.screenxdeck",
@@ -13,6 +13,7 @@
     "com.inariix.mbxhub-plugin",
     "com.jhnnr.calendar",
     "com.pyflat.device-battery-info",
+    "com.pyflat.printer-control",
     "com.pyflat.system-hotkeys",
     "com.pyflat.system-media",
     "com.sarti2004.dorideck",

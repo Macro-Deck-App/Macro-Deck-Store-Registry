@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 78,
-  "generatedAt": "2026-10-04T20:07:59.0837554+00:00",
+  "sequence": 79,
+  "generatedAt": "2026-10-04T20:10:28.3193243+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -261,8 +261,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "fa99eb8d2945d8ae6137f1d665f84fc01e7c9c26957485873762405d30751e9e",
-      "size": 1174
+      "sha256": "7d7f9dd2e9bce5f0a4fdde8f2e7800e1d1c2353645ecf2267ff989203433acdb",
+      "size": 1208
     },
     {
       "path": "plugins/com.cjhackeryt.hwinfodeck/manifest.json",
@@ -628,6 +628,26 @@
       "path": "plugins/com.pyflat.device-battery-info/versions/1.5.0/manifest.json",
       "sha256": "f6538f7aafae9678f18ab7d198a827e86a7e1f7e02b4d9a1118e96c39506201c",
       "size": 1791
+    },
+    {
+      "path": "plugins/com.pyflat.printer-control/manifest.json",
+      "sha256": "e4d86de5ddb363ee8d10c2497ca93e8c30e1406937d3f48a0d604d52e7c92833",
+      "size": 840
+    },
+    {
+      "path": "plugins/com.pyflat.printer-control/versions/1.0.0/changelog.md",
+      "sha256": "334779634cc8ea6eca799b9b2ced164e602cb2bb3ebf5896c8a665d900126b95",
+      "size": 1438
+    },
+    {
+      "path": "plugins/com.pyflat.printer-control/versions/1.0.0/description.md",
+      "sha256": "ab4e260869056ee5afbfbabbf88353ab9d94b47e78df0d2366d34c0cb43df602",
+      "size": 245
+    },
+    {
+      "path": "plugins/com.pyflat.printer-control/versions/1.0.0/manifest.json",
+      "sha256": "e1c556c4c0d90567cee224604c0db117281fcbcbf2340ff2835f0536c3e60c00",
+      "size": 1423
     },
     {
       "path": "plugins/com.pyflat.system-hotkeys/manifest.json",

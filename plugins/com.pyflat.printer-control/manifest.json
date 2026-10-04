@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "Printer Control",
+  "id": "com.pyflat.printer-control",
+  "latestVersion": "1.0.0",
+  "description": "Watch and control your 3D printers from Macro Deck: live print progress, the webcam, temperatures, job control and events on your deck.",
+  "publisher": "PyFlat",
+  "repository": "https://github.com/PyFlat/Printer-Control",
+  "license": "MIT",
+  "createdAt": "2026-10-04T20:10:28.3121392+00:00",
+  "updatedAt": "2026-10-04T20:10:28.3121392+00:00",
+  "supportedRids": [
+    "linux-x64",
+    "osx-arm64",
+    "win-x64"
+  ],
+  "tags": [
+    "smart-home",
+    "productivity",
+    "octoprint",
+    "3d-printer",
+    "octopi",
+    "printer",
+    "webcam"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": false
+  }
+}

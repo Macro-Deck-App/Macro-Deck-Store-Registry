@@ -1,0 +1,1 @@
+Watch and control your 3D printers through OctoPrint: live print progress, temperatures and events, pause, resume, cancel, preheat, move, G-code and lights, with a print status widget, the webcam and temperature variables for the history graph.
