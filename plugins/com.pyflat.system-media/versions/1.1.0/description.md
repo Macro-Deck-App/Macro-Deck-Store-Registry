@@ -1,0 +1,1 @@
+Drives the built-in Music Player widget from whatever app is playing media on Windows, macOS or Linux (Spotify, browsers, Apple Music and any app in the system's media controls or MPRIS, plus SMPlayer and mpv), with per-app volume on Windows and Linux.
