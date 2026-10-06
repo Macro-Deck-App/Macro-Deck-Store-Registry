@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 82,
-  "generatedAt": "2026-10-06T05:15:10.5167063+00:00",
+  "sequence": 83,
+  "generatedAt": "2026-10-06T14:42:31.6760026+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -47,6 +47,16 @@
     {
       "path": "certificates/cert_3297969e022607b578fcd383e43c9122.sig",
       "sha256": "9823615b2ca97cbf802313e67689c17f52035a733ab8641df420c0a7d358bb81",
+      "size": 89
+    },
+    {
+      "path": "certificates/cert_4f28d56c6846a7c85b4457c742e3a390.json",
+      "sha256": "b3dfa7d3e7b7a0e5e2675778d1aa28f9e91047720c5b99646654cb51295a3c28",
+      "size": 583
+    },
+    {
+      "path": "certificates/cert_4f28d56c6846a7c85b4457c742e3a390.sig",
+      "sha256": "2204088202dd8c754fc07cbc03035f41683de75392ef87e008d4bbf6bb47ba18",
       "size": 89
     },
     {
@@ -271,8 +281,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "681bd46aff9de48e468e3ae3b03bfd118eb146c7765202666622ee8734a5bc68",
-      "size": 1245
+      "sha256": "b5467b358edfe8688ff3b9d2d7688d570faf73c7bfe37b73d6d91ebbbb0c79a8",
+      "size": 1280
     },
     {
       "path": "plugins/com.cjhackeryt.hwinfodeck/manifest.json",
@@ -563,6 +573,26 @@
       "path": "plugins/com.kickfireice.vesktop-bridge/versions/1.0.5/manifest.json",
       "sha256": "1a0da5b100876e86db5969bc3a29c4fa4402a300ec117767bbb56e1f90d8be2c",
       "size": 1789
+    },
+    {
+      "path": "plugins/com.multidisplayvcp.client/manifest.json",
+      "sha256": "ef874e86ee992fe44b48c5347591004fe8ba56bc50d82362579f3c29a8c1e550",
+      "size": 1238
+    },
+    {
+      "path": "plugins/com.multidisplayvcp.client/versions/3.0.0/changelog.md",
+      "sha256": "feecb1e75f97e640ee3e6e56769753abc0499c607c5d09825a11af2c2976d0c7",
+      "size": 1279
+    },
+    {
+      "path": "plugins/com.multidisplayvcp.client/versions/3.0.0/description.md",
+      "sha256": "de4385a482b93d175a2c56a7536ac1c0e177f3d6d962f33cad56020216811e33",
+      "size": 3620
+    },
+    {
+      "path": "plugins/com.multidisplayvcp.client/versions/3.0.0/manifest.json",
+      "sha256": "220007063564ce8b7e60ca6ac051586c3a5818d445957f69bebe7a0d5559c14b",
+      "size": 727
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/manifest.json",

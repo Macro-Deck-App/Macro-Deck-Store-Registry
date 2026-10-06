@@ -1,0 +1,42 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "Multi-Display VCP Client",
+  "id": "com.multidisplayvcp.client",
+  "latestVersion": "3.0.0",
+  "description": "Multi-Display VCP Client allows you to connect to the Multi-Display VCP Server, controlling multiple displays over the network.  The display must support and have DDC/CI enabled.",
+  "publisher": "DoggoDogPack",
+  "repository": "https://github.com/doggdogpack/MultiDisplayVCPClient",
+  "additionalLinks": [
+    {
+      "type": "documentation",
+      "url": "https://github.com/doggdogpack/MultiDisplayVCPClient#readme"
+    },
+    {
+      "type": "issues",
+      "url": "https://github.com/doggdogpack/MultiDisplayVCPClient/issues"
+    },
+    {
+      "type": "custom",
+      "url": "https://github.com/doggdogpack/MultiDisplayVCPServer/releases",
+      "label": "Companion Server Releases"
+    }
+  ],
+  "license": "MIT",
+  "createdAt": "2026-10-06T14:42:31.6464153+00:00",
+  "updatedAt": "2026-10-06T14:42:31.6464153+00:00",
+  "supportedRids": [
+    "linux-x64",
+    "osx-arm64",
+    "osx-x64",
+    "win-x64"
+  ],
+  "tags": [
+    "system"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": false
+  }
+}

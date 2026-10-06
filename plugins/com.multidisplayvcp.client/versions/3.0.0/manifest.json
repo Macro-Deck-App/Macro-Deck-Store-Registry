@@ -1,0 +1,16 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.multidisplayvcp.client/3.0.0/com.multidisplayvcp.client-v3.0.0.macroDeckPlugin",
+  "sha256": "a13dee3a465a28863ec31151fca34f3355653ea068fbef66a5a79c3d8d5a4bb5",
+  "size": 5831603,
+  "uploadedAt": "2026-10-06T06:17:15.182969+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.multidisplayvcp.client/assets/882f6ef1c9564cc7-882f6ef1c9564cc77c7a5c278bb91c9a2cd4f48664a90279e4a716e2e9e9ee1b.png",
+      "sha256": "882f6ef1c9564cc77c7a5c278bb91c9a2cd4f48664a90279e4a716e2e9e9ee1b",
+      "size": 3538,
+      "contentType": "image/png"
+    },
+    "screenshots": []
+  }
+}

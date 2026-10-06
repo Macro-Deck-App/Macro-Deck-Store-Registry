@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.macro-deck.app/macrodeck-certificate-v1.schema.json",
+  "schemaVersion": 1,
+  "subject": {
+    "kind": "creator",
+    "id": "393682144091701417",
+    "name": "Dwight Potvin"
+  },
+  "algorithm": "ed25519",
+  "certificateId": "cert_4f28d56c6846a7c85b4457c742e3a390",
+  "publicKey": "RkpCll30\u002BXS3SKZcRwknTtHRdRyuiUROTZMIu6pLBxA=",
+  "keyUsage": [
+    "package"
+  ],
+  "notBefore": "2026-10-04T21:20:51.7196965+00:00",
+  "notAfter": "2028-10-03T21:20:51.7196965+00:00",
+  "issuedAt": "2026-10-04T21:20:51.7196965+00:00",
+  "rootKeyId": "root_2026"
+}
