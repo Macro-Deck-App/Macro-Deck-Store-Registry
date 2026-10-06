@@ -1,0 +1,23 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.tabsik12.ets2-telemetry/1.0.10/com.tabsik12.ets2-telemetry-v1.0.10.macroDeckPlugin",
+  "sha256": "bdd79e4c4de193b67767f06e4495beba29b865435186e09fa7b5a0ef15018586",
+  "size": 881854,
+  "uploadedAt": "2026-10-05T08:23:42.762995+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.tabsik12.ets2-telemetry/assets/14328580132103cb-14328580132103cb51417129194cd05cfc9a94275713c863b111592635714ddb.svg",
+      "sha256": "14328580132103cb51417129194cd05cfc9a94275713c863b111592635714ddb",
+      "size": 1409,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.tabsik12.ets2-telemetry/assets/eca39c24f0306d2b-eca39c24f0306d2b464c9cd9acb502139dda8055483391e2bab232250404af57.png",
+        "sha256": "eca39c24f0306d2b464c9cd9acb502139dda8055483391e2bab232250404af57",
+        "size": 341900,
+        "contentType": "image/png"
+      }
+    ]
+  }
+}
