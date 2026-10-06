@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.macro-deck.app/macrodeck-certificate-v1.schema.json",
+  "schemaVersion": 1,
+  "subject": {
+    "kind": "creator",
+    "id": "393358189036306601",
+    "name": "Kick Fire"
+  },
+  "algorithm": "ed25519",
+  "certificateId": "cert_7fdc410881e5a1181452d677e9950281",
+  "publicKey": "LGO2kf//8Gy5BLqV5Jh0mM7\u002Bc7aJnJ5wcJWbQLzHn2Q=",
+  "keyUsage": [
+    "package"
+  ],
+  "notBefore": "2026-10-02T15:42:42.1924052+00:00",
+  "notAfter": "2028-10-01T15:42:42.1924052+00:00",
+  "issuedAt": "2026-10-02T15:42:42.1924052+00:00",
+  "rootKeyId": "root_2026"
+}

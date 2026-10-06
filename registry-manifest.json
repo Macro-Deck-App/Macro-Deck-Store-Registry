@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 81,
-  "generatedAt": "2026-10-06T05:08:25.9829219+00:00",
+  "sequence": 82,
+  "generatedAt": "2026-10-06T05:15:10.5167063+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -67,6 +67,16 @@
     {
       "path": "certificates/cert_7cc0e4aaea428037548461cd01b9a94f.sig",
       "sha256": "185ff558547f24364dc5ea48848184722a3f1ecb5f4a02dabbd6e29411418d54",
+      "size": 89
+    },
+    {
+      "path": "certificates/cert_7fdc410881e5a1181452d677e9950281.json",
+      "sha256": "1399fbf1e895fa47ae5a342b69e2f1806a29d9772cb75f8273c044e6ba92c5d8",
+      "size": 579
+    },
+    {
+      "path": "certificates/cert_7fdc410881e5a1181452d677e9950281.sig",
+      "sha256": "fd33aed4408d32f0ea255fcaf3d6031098fd66a2b51aa4775c16870f05ba7da5",
       "size": 89
     },
     {
@@ -261,8 +271,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "7d7f9dd2e9bce5f0a4fdde8f2e7800e1d1c2353645ecf2267ff989203433acdb",
-      "size": 1208
+      "sha256": "681bd46aff9de48e468e3ae3b03bfd118eb146c7765202666622ee8734a5bc68",
+      "size": 1245
     },
     {
       "path": "plugins/com.cjhackeryt.hwinfodeck/manifest.json",
@@ -533,6 +543,26 @@
       "path": "plugins/com.jhnnr.calendar/versions/1.0.0/manifest.json",
       "sha256": "38848d65fda7b550720f56245e6f4b40a93387e40ccc3961fe0aae47e59f2bd1",
       "size": 1052
+    },
+    {
+      "path": "plugins/com.kickfireice.vesktop-bridge/manifest.json",
+      "sha256": "e060adead05282046cc8f6aa9bf36fcf3b2dd89322e5780234c71be40c6db99e",
+      "size": 909
+    },
+    {
+      "path": "plugins/com.kickfireice.vesktop-bridge/versions/1.0.5/changelog.md",
+      "sha256": "33d36870b7613a6904181755aa581ef94f4ed052fb3636b0a7be47eac49862ce",
+      "size": 8
+    },
+    {
+      "path": "plugins/com.kickfireice.vesktop-bridge/versions/1.0.5/description.md",
+      "sha256": "0b1be2ad296018670a3c2b330eb6a51ade07a93c3959f9cb0d24ed95df160eaf",
+      "size": 12075
+    },
+    {
+      "path": "plugins/com.kickfireice.vesktop-bridge/versions/1.0.5/manifest.json",
+      "sha256": "1a0da5b100876e86db5969bc3a29c4fa4402a300ec117767bbb56e1f90d8be2c",
+      "size": 1789
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/manifest.json",

@@ -1,0 +1,35 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.kickfireice.vesktop-bridge/1.0.5/com.kickfireice.vesktop-bridge-v1.0.5.macroDeckPlugin",
+  "sha256": "b938c1cf45e8a3095f669d09334c6a5ecb5d1b52a56bc3411d9c74564f0e256a",
+  "size": 5612435,
+  "uploadedAt": "2026-10-05T21:50:53.660391+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.kickfireice.vesktop-bridge/assets/ed724afd1929d0b4-ed724afd1929d0b4b7aaf05120377325111b1a4ac98eb00b05eb4b3569905999.png",
+      "sha256": "ed724afd1929d0b4b7aaf05120377325111b1a4ac98eb00b05eb4b3569905999",
+      "size": 710034,
+      "contentType": "image/png"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.kickfireice.vesktop-bridge/assets/ab22a074ed6d3e8d-ab22a074ed6d3e8d7cba0aabc4debdbe57550b354aabc360f537760f7c77aa9a.png",
+        "sha256": "ab22a074ed6d3e8d7cba0aabc4debdbe57550b354aabc360f537760f7c77aa9a",
+        "size": 135144,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.kickfireice.vesktop-bridge/assets/3d81518e0f41f4d2-3d81518e0f41f4d229bc4ea681e245f0bbd6a77efae8da2fbc023e352b81ac2d.png",
+        "sha256": "3d81518e0f41f4d229bc4ea681e245f0bbd6a77efae8da2fbc023e352b81ac2d",
+        "size": 133080,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.kickfireice.vesktop-bridge/assets/eb551e019df23996-eb551e019df23996cad76782e129452d028ced69230f2a7e1ebafd5249b4d64a.png",
+        "sha256": "eb551e019df23996cad76782e129452d028ced69230f2a7e1ebafd5249b4d64a",
+        "size": 116887,
+        "contentType": "image/png"
+      }
+    ]
+  }
+}

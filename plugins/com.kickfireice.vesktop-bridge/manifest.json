@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "Vesktop Bridge",
+  "id": "com.kickfireice.vesktop-bridge",
+  "latestVersion": "1.0.5",
+  "description": "Drive Discord from Macro Deck buttons via Vesktop: mute, deafen, voice channels, volumes and devices \u2014 localhost-only, nothing leaves your PC.",
+  "publisher": "Kick Fire",
+  "repository": "https://github.com/kickfireice/vesktop-macrodeck-bridge",
+  "license": "MIT",
+  "createdAt": "2026-10-06T05:15:10.511474+00:00",
+  "updatedAt": "2026-10-06T05:15:10.511474+00:00",
+  "supportedRids": [
+    "linux-x64",
+    "osx-arm64",
+    "win-x64"
+  ],
+  "tags": [
+    "communication",
+    "gaming",
+    "discord",
+    "vesktop",
+    "vencord",
+    "voice-chat",
+    "mute",
+    "deafen",
+    "volumes",
+    "localhost"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": true
+  }
+}
