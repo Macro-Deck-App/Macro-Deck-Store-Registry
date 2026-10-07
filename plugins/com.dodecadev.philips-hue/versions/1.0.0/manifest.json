@@ -1,0 +1,47 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.dodecadev.philips-hue/1.0.0/com.dodecadev.philips-hue-v1.0.0.macroDeckPlugin",
+  "sha256": "f01e522ec9aa3cdd2a57e411897f338c63a3f3d10a3189bbd1914103f78cb57f",
+  "size": 2786193,
+  "uploadedAt": "2026-10-07T20:48:02.359773+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.dodecadev.philips-hue/assets/4a8702a863b53d32-4a8702a863b53d32392b19114a8ea6932c94db0667eb6424d7ad31f1f0bf6d43.svg",
+      "sha256": "4a8702a863b53d32392b19114a8ea6932c94db0667eb6424d7ad31f1f0bf6d43",
+      "size": 3180,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.dodecadev.philips-hue/assets/7a1c68926fc8feff-7a1c68926fc8feffc82c9c02f8fd3408eaf311debf2f786615548dc0ab024913.png",
+        "sha256": "7a1c68926fc8feffc82c9c02f8fd3408eaf311debf2f786615548dc0ab024913",
+        "size": 72191,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.dodecadev.philips-hue/assets/58e4ec1d7079b909-58e4ec1d7079b90929402ed60ebda692b4605122ba3c545c060df36490d7039d.png",
+        "sha256": "58e4ec1d7079b90929402ed60ebda692b4605122ba3c545c060df36490d7039d",
+        "size": 78316,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.dodecadev.philips-hue/assets/8fddb8d81c94bd98-8fddb8d81c94bd98f4f4faf421a706e6752eec9c5f62a6def314408f734343cd.png",
+        "sha256": "8fddb8d81c94bd98f4f4faf421a706e6752eec9c5f62a6def314408f734343cd",
+        "size": 81166,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.dodecadev.philips-hue/assets/8b6b4e3915747338-8b6b4e3915747338978e09f01f5d0f40ed378ee74402cb1292f850e68c1c5258.png",
+        "sha256": "8b6b4e3915747338978e09f01f5d0f40ed378ee74402cb1292f850e68c1c5258",
+        "size": 104115,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.dodecadev.philips-hue/assets/e9a117198cfbc67f-e9a117198cfbc67fe85d18894343e234fa4cb4cea98c32f2817cb88e54ad6912.png",
+        "sha256": "e9a117198cfbc67fe85d18894343e234fa4cb4cea98c32f2817cb88e54ad6912",
+        "size": 102495,
+        "contentType": "image/png"
+      }
+    ]
+  }
+}

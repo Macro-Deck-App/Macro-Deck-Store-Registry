@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.macro-deck.app/macrodeck-certificate-v1.schema.json",
+  "schemaVersion": 1,
+  "subject": {
+    "kind": "creator",
+    "id": "393950954619142313",
+    "name": "DodecaDev"
+  },
+  "algorithm": "ed25519",
+  "certificateId": "cert_08c01ca2710a7f395f90d5ea764f820f",
+  "publicKey": "/hMWic3kd1/qmcYYvBsh9N6S3eBrN9hsqtG1wnnnPjY=",
+  "keyUsage": [
+    "package"
+  ],
+  "notBefore": "2026-10-07T01:14:57.072142+00:00",
+  "notAfter": "2028-10-06T01:14:57.072142+00:00",
+  "issuedAt": "2026-10-07T01:14:57.072142+00:00",
+  "rootKeyId": "root_2026"
+}

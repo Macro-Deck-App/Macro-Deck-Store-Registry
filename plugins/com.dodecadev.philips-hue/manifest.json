@@ -1,0 +1,40 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "Philips Hue Plugin",
+  "id": "com.dodecadev.philips-hue",
+  "latestVersion": "1.0.0",
+  "description": "Philips Hue",
+  "publisher": "DodecaDev",
+  "repository": "https://github.com/DodecaDev-LLC/Macro-Deck-Philips-Hue",
+  "additionalLinks": [
+    {
+      "type": "issues",
+      "url": "https://github.com/DodecaDev-LLC/Macro-Deck-Philips-Hue/issues"
+    },
+    {
+      "type": "donate",
+      "url": "https://ko-fi.com/S5O622WBIQ"
+    }
+  ],
+  "license": "MIT",
+  "createdAt": "2026-10-07T21:22:14.8866758+00:00",
+  "updatedAt": "2026-10-07T21:22:14.8866758+00:00",
+  "supportedRids": [
+    "linux-x64",
+    "osx-arm64",
+    "win-x64"
+  ],
+  "tags": [
+    "smart-home",
+    "philips",
+    "hue",
+    "hub",
+    "smarthome"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": true
+  }
+}

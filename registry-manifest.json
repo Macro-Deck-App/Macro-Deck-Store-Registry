@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 85,
-  "generatedAt": "2026-10-07T20:44:21.5814781+00:00",
+  "sequence": 86,
+  "generatedAt": "2026-10-07T21:22:14.9118744+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -17,6 +17,16 @@
     {
       "path": "certificates/cert_0847db56391b0d038cd1fac4a8058dca.sig",
       "sha256": "f8442b7c07cde3dd98665beeab85c80c4977507f4697044228e47a71fdaf362c",
+      "size": 89
+    },
+    {
+      "path": "certificates/cert_08c01ca2710a7f395f90d5ea764f820f.json",
+      "sha256": "a523c182f90aa88143dd0120fa1d65c0e501f7e40f661c9663ba743a4f422805",
+      "size": 571
+    },
+    {
+      "path": "certificates/cert_08c01ca2710a7f395f90d5ea764f820f.sig",
+      "sha256": "2cda51ae27dd7e95805e9b0c65a9877546f42749b2580022811c29bf72d5f3be",
       "size": 89
     },
     {
@@ -281,8 +291,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "264f1f297ae9f40935cc7b879076599b1440ccdc753fb48a0266ad56703c65ee",
-      "size": 1319
+      "sha256": "7d2539f9adccddfd3a9d3c77485b1215dfc008da44e745439e02badf2513ecc9",
+      "size": 1352
     },
     {
       "path": "plugins/com.cjhackeryt.hwinfodeck/manifest.json",
@@ -443,6 +453,26 @@
       "path": "plugins/com.cjhackeryt.steelseriessonar/versions/1.0.18/manifest.json",
       "sha256": "07885682e1040191c6c408666a4bc8d91f8ca9c2fe9fa6aff78b9a6a36a1da5a",
       "size": 1801
+    },
+    {
+      "path": "plugins/com.dodecadev.philips-hue/manifest.json",
+      "sha256": "239d62da4bd9fe0f5f3cda3745be88f7f6ceea4d72089919a8848ab9d443bd7c",
+      "size": 913
+    },
+    {
+      "path": "plugins/com.dodecadev.philips-hue/versions/1.0.0/changelog.md",
+      "sha256": "03b69949967977fa91c5aabfcaa52e3ca7a159cb14347db7e22a69c97f499ac0",
+      "size": 553
+    },
+    {
+      "path": "plugins/com.dodecadev.philips-hue/versions/1.0.0/description.md",
+      "sha256": "893b8e3de345e743e2192781500b099fcfe07dc02a2c428328a7ab49346f5b94",
+      "size": 3816
+    },
+    {
+      "path": "plugins/com.dodecadev.philips-hue/versions/1.0.0/manifest.json",
+      "sha256": "1cd633278899635b2acbd62c61519251f1066378a71042b2e3e8eadd2a40d02c",
+      "size": 2449
     },
     {
       "path": "plugins/com.hashashin.fxcommands/manifest.json",
