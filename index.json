@@ -1,7 +1,7 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-10-06T14:42:31.6464153+00:00",
+  "generatedAt": "2026-10-07T20:44:21.5756488+00:00",
   "plugins": [
     "com.cjhackeryt.hwinfodeck",
     "com.cjhackeryt.screenxdeck",
@@ -13,6 +13,7 @@
     "com.inariix.mbxhub-plugin",
     "com.jhnnr.calendar",
     "com.kickfireice.vesktop-bridge",
+    "com.kickfireice.wavelink-bridge",
     "com.multidisplayvcp.client",
     "com.pyflat.device-battery-info",
     "com.pyflat.printer-control",

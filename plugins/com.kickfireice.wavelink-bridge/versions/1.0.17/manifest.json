@@ -1,0 +1,29 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.kickfireice.wavelink-bridge/1.0.17/com.kickfireice.wavelink-bridge-v1.0.17.macroDeckPlugin",
+  "sha256": "67a28f1fae98935ad4bb2f72fa3ca1b38282949e561f5827c3e515fd7216ec0f",
+  "size": 1805608,
+  "uploadedAt": "2026-10-07T13:28:39.200206+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.kickfireice.wavelink-bridge/assets/5684259ce21bd16e-5684259ce21bd16e07f1117f7422dc8bac88cf02b8cdf337190d09eebd4324fd.png",
+      "sha256": "5684259ce21bd16e07f1117f7422dc8bac88cf02b8cdf337190d09eebd4324fd",
+      "size": 454649,
+      "contentType": "image/png"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.kickfireice.wavelink-bridge/assets/28706a8ee6480fb9-28706a8ee6480fb9b96150e6f05fa134ba965dbe81152b5122303f5bb739f31d.png",
+        "sha256": "28706a8ee6480fb9b96150e6f05fa134ba965dbe81152b5122303f5bb739f31d",
+        "size": 97683,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.kickfireice.wavelink-bridge/assets/bdf52c9fd7bb57db-bdf52c9fd7bb57db1061a34dd318b20dd1cc2fdefc6bf7ffd8fd16d0076fa6f3.png",
+        "sha256": "bdf52c9fd7bb57db1061a34dd318b20dd1cc2fdefc6bf7ffd8fd16d0076fa6f3",
+        "size": 37389,
+        "contentType": "image/png"
+      }
+    ]
+  }
+}

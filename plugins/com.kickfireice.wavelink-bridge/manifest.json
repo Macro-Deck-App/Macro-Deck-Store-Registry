@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "WaveLink Bridge",
+  "id": "com.kickfireice.wavelink-bridge",
+  "latestVersion": "1.0.17",
+  "description": "Unofficial Elgato Wave Link control: live volume sliders, mutes, mixes, inputs, outputs and effects from your deck.",
+  "publisher": "Kick Fire",
+  "repository": "https://github.com/kickfireice/WaveLink-Bridge",
+  "license": "MIT",
+  "createdAt": "2026-10-07T20:44:21.5756488+00:00",
+  "updatedAt": "2026-10-07T20:44:21.5756488+00:00",
+  "supportedRids": [
+    "win-x64"
+  ],
+  "tags": [
+    "streaming",
+    "system",
+    "wavelink",
+    "elgato",
+    "audio",
+    "mixer",
+    "volume",
+    "microphone",
+    "mute"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": true
+  }
+}

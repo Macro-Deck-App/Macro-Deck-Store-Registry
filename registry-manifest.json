@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 84,
-  "generatedAt": "2026-10-07T20:41:10.4750523+00:00",
+  "sequence": 85,
+  "generatedAt": "2026-10-07T20:44:21.5814781+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -281,8 +281,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "b5467b358edfe8688ff3b9d2d7688d570faf73c7bfe37b73d6d91ebbbb0c79a8",
-      "size": 1280
+      "sha256": "264f1f297ae9f40935cc7b879076599b1440ccdc753fb48a0266ad56703c65ee",
+      "size": 1319
     },
     {
       "path": "plugins/com.cjhackeryt.hwinfodeck/manifest.json",
@@ -588,6 +588,26 @@
       "path": "plugins/com.kickfireice.vesktop-bridge/versions/1.0.5/manifest.json",
       "sha256": "1a0da5b100876e86db5969bc3a29c4fa4402a300ec117767bbb56e1f90d8be2c",
       "size": 1789
+    },
+    {
+      "path": "plugins/com.kickfireice.wavelink-bridge/manifest.json",
+      "sha256": "b6556f3007bcba4a86249f6ea41e3ca93c1b0906500be85e9b3cd215073414ce",
+      "size": 814
+    },
+    {
+      "path": "plugins/com.kickfireice.wavelink-bridge/versions/1.0.17/changelog.md",
+      "sha256": "192d71b5bc263f47e19ae849531b9fa4efcc402be31d0753e5ba6e65713881ae",
+      "size": 16
+    },
+    {
+      "path": "plugins/com.kickfireice.wavelink-bridge/versions/1.0.17/description.md",
+      "sha256": "ade89c7a7eb97de81aaf59b361d6940f859bb40fcb91a19aa0aab9bb8f350457",
+      "size": 9623
+    },
+    {
+      "path": "plugins/com.kickfireice.wavelink-bridge/versions/1.0.17/manifest.json",
+      "sha256": "0c21d579363b8bc740e6ca3cc7c111035eaae158c5922dd07aadb5a58d23da47",
+      "size": 1446
     },
     {
       "path": "plugins/com.multidisplayvcp.client/manifest.json",
