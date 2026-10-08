@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "GPU-Z Plugin",
+  "id": "com.dodecadev.gpu-z",
+  "latestVersion": "1.0.0",
+  "description": "Live GPU-Z sensor readings and graphics card details as Macro Deck variables.",
+  "publisher": "DodecaDev",
+  "repository": "https://github.com/DodecaDev-LLC/Macro-Deck-3-GPU-Z",
+  "license": "MIT",
+  "createdAt": "2026-10-08T05:38:35.6960904+00:00",
+  "updatedAt": "2026-10-08T05:38:35.6960904+00:00",
+  "supportedRids": [
+    "win-x64"
+  ],
+  "tags": [
+    "system",
+    "gpu",
+    "stats",
+    "cpu",
+    "temp",
+    "memory",
+    "readings",
+    "monitor",
+    "hardware",
+    "graphics"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": true
+  }
+}

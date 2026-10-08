@@ -1,0 +1,23 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.dodecadev.gpu-z/1.0.0/com.dodecadev.gpu-z-v1.0.0.macroDeckPlugin",
+  "sha256": "da725c7066a3b90fa9af9724a730e84a1f80d674b7c9cf7037ce8875685e1858",
+  "size": 874374,
+  "uploadedAt": "2026-10-08T02:49:12.733534+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.dodecadev.gpu-z/assets/472387da3740c0e2-472387da3740c0e2b74297a2c452236579cebd00c44cf8fc77f0e40756c61c15.svg",
+      "sha256": "472387da3740c0e2b74297a2c452236579cebd00c44cf8fc77f0e40756c61c15",
+      "size": 1217,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.dodecadev.gpu-z/assets/ae000dd5fcfeaec6-ae000dd5fcfeaec61b96644fca7923d4c95a5a158a929c11467da8c2f8d23aa8.png",
+        "sha256": "ae000dd5fcfeaec61b96644fca7923d4c95a5a158a929c11467da8c2f8d23aa8",
+        "size": 97696,
+        "contentType": "image/png"
+      }
+    ]
+  }
+}

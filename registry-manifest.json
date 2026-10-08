@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 86,
-  "generatedAt": "2026-10-07T21:22:14.9118744+00:00",
+  "sequence": 87,
+  "generatedAt": "2026-10-08T05:38:35.7002429+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -291,8 +291,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "7d2539f9adccddfd3a9d3c77485b1215dfc008da44e745439e02badf2513ecc9",
-      "size": 1352
+      "sha256": "0bb79c02c044eed7e6104f4aabf68bfa9ff54947e4c6115674423e92d8a70fee",
+      "size": 1379
     },
     {
       "path": "plugins/com.cjhackeryt.hwinfodeck/manifest.json",
@@ -453,6 +453,26 @@
       "path": "plugins/com.cjhackeryt.steelseriessonar/versions/1.0.18/manifest.json",
       "sha256": "07885682e1040191c6c408666a4bc8d91f8ca9c2fe9fa6aff78b9a6a36a1da5a",
       "size": 1801
+    },
+    {
+      "path": "plugins/com.dodecadev.gpu-z/manifest.json",
+      "sha256": "a78ec7a7a83b7c17b6203ace38f79d338f0ae7b5a87b9b7289c300d5ebcd6239",
+      "size": 772
+    },
+    {
+      "path": "plugins/com.dodecadev.gpu-z/versions/1.0.0/changelog.md",
+      "sha256": "9aad3f6578b0910ff6c09805949813c15f5f10e1b67fb1fff0dfda65b839f710",
+      "size": 27
+    },
+    {
+      "path": "plugins/com.dodecadev.gpu-z/versions/1.0.0/description.md",
+      "sha256": "d3e0ecd4bb263abed95cab814d76919f777bbf07be7dde561a7ab3ad2b9ccc10",
+      "size": 4257
+    },
+    {
+      "path": "plugins/com.dodecadev.gpu-z/versions/1.0.0/manifest.json",
+      "sha256": "bcbe0818c93598d2e07af83f46c45fab84902a591f677b0db9f3235e08be79b7",
+      "size": 1054
     },
     {
       "path": "plugins/com.dodecadev.philips-hue/manifest.json",
