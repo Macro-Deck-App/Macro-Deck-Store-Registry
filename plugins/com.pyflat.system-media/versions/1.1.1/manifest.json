@@ -1,0 +1,35 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.pyflat.system-media/1.1.1/com.pyflat.system-media-v1.1.1.macroDeckPlugin",
+  "sha256": "5c7b2c6a2bcdbff3f815f7720d3fae631b50edff06119820625b3425f349e2bc",
+  "size": 9862675,
+  "uploadedAt": "2026-10-08T17:29:27.831548+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.pyflat.system-media/assets/cd698a893b26ec41-cd698a893b26ec41b33cfbae049799806274271a6f1d1e7c30f885d4154a1356.svg",
+      "sha256": "cd698a893b26ec41b33cfbae049799806274271a6f1d1e7c30f885d4154a1356",
+      "size": 226,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.pyflat.system-media/assets/f3016c8d175ef45c-f3016c8d175ef45c26e636750fc46d924c9ce7c6091fca90434450fb54534d45.png",
+        "sha256": "f3016c8d175ef45c26e636750fc46d924c9ce7c6091fca90434450fb54534d45",
+        "size": 73392,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.pyflat.system-media/assets/33c241b0bc7ac47b-33c241b0bc7ac47bb84e5a1eaadb4348ae771545f2da75704141ade6f19eb9da.png",
+        "sha256": "33c241b0bc7ac47bb84e5a1eaadb4348ae771545f2da75704141ade6f19eb9da",
+        "size": 91586,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.pyflat.system-media/assets/d99047497d04aa1e-d99047497d04aa1e189474e63ed65661d95caf40fdc6b06ef20cbd6ec39ea32d.png",
+        "sha256": "d99047497d04aa1e189474e63ed65661d95caf40fdc6b06ef20cbd6ec39ea32d",
+        "size": 86732,
+        "contentType": "image/png"
+      }
+    ]
+  }
+}
