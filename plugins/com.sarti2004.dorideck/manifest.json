@@ -3,13 +3,13 @@
   "kind": "plugin",
   "name": "DoriDeck",
   "id": "com.sarti2004.dorideck",
-  "latestVersion": "0.3.0",
+  "latestVersion": "0.4.0",
   "description": "Control Dorico from Macro Deck",
   "publisher": "Sarti2004",
   "repository": "https://github.com/Sarti2004/DoriDeck",
   "license": "MIT",
   "createdAt": "2026-10-02T21:50:21.1240243+00:00",
-  "updatedAt": "2026-10-02T21:50:21.1240243+00:00",
+  "updatedAt": "2026-10-08T05:45:38.328536+00:00",
   "supportedRids": [
     "osx-arm64",
     "win-x64"
