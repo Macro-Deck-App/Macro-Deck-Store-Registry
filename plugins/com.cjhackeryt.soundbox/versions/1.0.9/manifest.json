@@ -1,0 +1,23 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.cjhackeryt.soundbox/1.0.9/com.cjhackeryt.soundbox-v1.0.9.macroDeckPlugin",
+  "sha256": "7f46bacf841b3c8028dd0b3d3677fecc0718ef3526dbd71e9a27c185969f986d",
+  "size": 1107484,
+  "uploadedAt": "2026-10-08T19:58:01.00622+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.cjhackeryt.soundbox/assets/974535962b8e464a-974535962b8e464a95d6d7ffe5450c402b3c5d2bdca70201dd23f968328e01e0.svg",
+      "sha256": "974535962b8e464a95d6d7ffe5450c402b3c5d2bdca70201dd23f968328e01e0",
+      "size": 310,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.cjhackeryt.soundbox/assets/1fd4a391a89e28c9-1fd4a391a89e28c999ff84e1055fa0b5c44152d714ec4bad3d46db62d73f7ce3.png",
+        "sha256": "1fd4a391a89e28c999ff84e1055fa0b5c44152d714ec4bad3d46db62d73f7ce3",
+        "size": 827412,
+        "contentType": "image/png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+# SoundBox
+
+A high-performance Windows soundboard plugin for **Macro Deck 3**.
+
+[![Macro Deck 3](https://img.shields.io/badge/Macro%20Deck-3.0.0--beta.15+-blue.svg)](https://macro-deck.app)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20x64-brightgreen.svg)]()
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Publisher](https://img.shields.io/badge/Publisher-CJHackerYT-orange.svg)]()
+
+---
+
+<img width="1457" height="886" alt="image" src="https://github.com/user-attachments/assets/bae8c749-f914-4c1c-bec2-98fbb6944a4f" />
+
+---
+
+## Overview
+
+**SoundBox** (`com.cjhackeryt.soundbox`) turns your Macro Deck 3 setup into a dedicated soundboard. Trigger audio clips, sound effects, background loops, and memes from any Macro Deck client (Android, iOS, or Web) directly to chosen Windows audio outputs.
+
+With built-in WASAPI low-latency rendering and dual-output audio monitoring, you can route sound effects directly into virtual microphones (e.g., VB-Cable, Voicemeeter) for Discord, OBS, or game chat while simultaneously monitoring the sound through your own headphones.
+
+---
+
+## Features
+
+- 🎵 **Broad Audio Support**: Plays standard uncompressed `.wav` and compressed `.mp3` audio files.
+- 🎛️ **Targeted Device Routing**: Send audio to any active Windows audio playback device or virtual audio cable.
+- ⭐ **Primary Output in Settings**: Choose the main output once on the plugin configuration page.
+- 🎧 **Optional Secondary Output**: Each button can add a second output alongside the primary, or leave it empty for primary-only playback.
+- 🎧 **Dual-Output Monitoring**: Concurrently echo the sound to your default Windows playback device (e.g., headset/speakers) so you always hear what you play.
+- 🔊 **Fine-Grained Volume**: Dedicated volume slider (0% to 100%) for custom sound balancing.
+- 🔁 **Continuous Looping**: Repeat sounds indefinitely until manually stopped.
+- ⏳ **Per-Widget Countdown**: While a sound plays, the button you pressed counts down the remaining time, then returns to its own text and icon.
+- ⏹️ **Instant Stop Control**: Dedicated "Stop Sound" action to immediately halt playback.
+- ⚡ **Low-Latency WASAPI Engine**: Powered by NAudio and Windows Core Audio APIs in shared mode for glitch-free, responsive playback without blocking the Macro Deck host.
+
+---
+
+## System Requirements
+
+- **Operating System**: Windows 10 / Windows 11 (x64)
+- **Macro Deck**: Macro Deck 3 (`>= 3.0.0-beta.12`)
+- **Audio Output**: Any active Windows audio playback endpoint (Realtek, USB DAC, VB-Cable, Voicemeeter, etc.)
+
+---
+
+## Available Actions
+
+### 1. Play Sound (`play-sound`)
+Plays a sound file through the primary output device from the plugin settings, plus an optional secondary output.
+
+| Parameter | Type | Required | Description | Default |
+| :--- | :--- | :--- | :--- | :--- |
+| **Sound File** | File Picker (`.wav`, `.mp3`) | Yes | Path to the local sound file. | — |
+| **Secondary Output Device** | Dynamic Dropdown | No | Optional second output played together with the primary device. Leave empty for primary-only playback. | — (none) |
+| **Monitor Sound** | Toggle | No | Also plays sound through the default Windows playback device. | `true` |
+| **Volume** | Slider (0–100%) | No | Adjusts playback volume. | `100` |
+| **Loop** | Toggle | No | Automatically restarts playback when the file reaches the end. | `false` |
+| **Show Timer** | Toggle | No | Shows the remaining time on the button while the sound plays. When off, the button text is left untouched. | `true` |
+
+Set the **Primary Output Device** once on the plugin configuration page. Each button then optionally adds its own secondary output.
+
+### 2. Stop Sound (`stop-sound`)
+Immediately stops any sound currently being played by SoundBox across all output devices.
+
+---
+
+## Per-Widget Countdown
+
+Each button can show the remaining time while its sound plays, or leave its text alone:
+
+- **Show Timer ON** (default): pressing the button replaces its label with the countdown, then restores the configured text and icon when playback ends.
+- **Show Timer OFF**: the button text is never touched.
+
+There is nothing else to configure. Press a button and it counts itself down:
+
+```text
+    Airhorn              00:07              Airhorn
+   ┌──────────────┐    ┌──────────────┐    ┌──────────────┐
+   │   🔊 Airhorn │ →  │     00:07    │ →  │   🔊 Airhorn │
+   └──────────────┘    └──────────────┘    └──────────────┘
+     not playing         playing            finished
+```
+
+The remaining time is read from the audio engine's own playback position, so the number matches the sound you are hearing rather than a separate timer. A widget's countdown belongs to that button alone, so buttons stay independent:
+
+| You press | That button | Other buttons |
+| :--- | :--- | :--- |
+| Button 1 (Airhorn, 5 s) | counts down from `00:05` | unchanged |
+| Button 2 (Applause, 10 s) while Button 1 plays | Button 1 returns to normal, Button 2 counts down from `00:10` | unchanged |
+| Button 3 (Laugh, 15 s) | Button 3 counts down from `00:15` | Button 2 unaffected |
+
+Each button shows the length of the sound configured on **that** button, in `MM:SS`, widening to `HH:MM:SS` past an hour.
+
+**Behaviour details**
+
+- The countdown updates about every 300 ms, and only when the displayed second actually changes.
+- When a sound finishes on its own the widget returns to its configured text and icon. `00:00` is never left on screen.
+- With **Loop** enabled the countdown resets each time the sound loops, and the widget only returns to normal when playback is actually stopped.
+- Pressing **Stop Sound** restores every widget that was counting straight away.
+- Pressing the same button again while it is playing restarts that button's countdown from the beginning, matching the existing restart behaviour.
+- SoundBox plays one sound at a time, so pressing a second sound button ends the first; the first button returns to its configured state.
+
+---
+
+## Deprecated: `soundbox_playback_remaining`
+
+Earlier releases exposed the remaining time as a Macro Deck text variable you had to add to a button yourself. Play Sound now does this on the widget automatically, so the variable is **no longer needed**.
+
+It still exists and keeps working, purely so configurations that already reference it are not broken. If you previously added `{soundbox_playback_remaining}` to a button, you can remove it and rely on the built-in countdown.
+
+---
+
+## Setup & Usage Guide
+
+### Routing Sound to Discord / OBS + Monitoring Locally
+
+1. Install a virtual audio cable such as [VB-CABLE](https://vb-audio.com/Cable/) or Voicemeeter.
+2. Open **Macro Deck 3** on your PC and open the **SoundBox plugin settings**:
+   - **Primary Output Device**: Select **CABLE Input (VB-Audio Virtual Cable)**.
+3. Edit any button on your deck and add the **Play Sound** action:
+   - **Sound File**: Browse and select your `.wav` or `.mp3` file.
+   - **Secondary Output Device**: Leave empty (primary-only), or pick your headphones for a per-button second route.
+   - **Monitor Sound**: Set to **Enabled (ON)** to also hear it through the default device.
+   - **Volume**: Adjust as desired.
+4. In Discord or OBS:
+   - Set the Input Device (Microphone) to **CABLE Output (VB-Audio Virtual Cable)**.
+5. Press the button on your phone, tablet, or stream deck.
+   - Your voice chat / stream hears the sound via the virtual cable.
+   - You hear the sound in your headphones via the monitor channel.
+
+---
+
+## Building from Source
+
+### Prerequisites
+- [.NET 10 SDK](https://dotnet.microsoft.com/download)
+- Windows x64 development environment
+- [Macro Deck Plugin CLI](https://www.nuget.org/packages/MacroDeck.Plugin.Cli) (`dotnet tool install -g MacroDeck.Plugin.Cli`)
+
+### Build Steps
+
+1. Clone or download the repository:
+   ```bash
+   git clone https://github.com/cjhackeryt/soundbox.git
+   cd soundbox
+   ```
+
+2. Restore packages and compile:
+   ```bash
+   dotnet build
+   ```
+
+3. Run automated tests:
+   ```bash
+   dotnet test
+   ```
+
+4. Build and package the plugin (.NET 10 framework-dependent artifact):
+   ```bash
+   macrodeck-plugin build --output ./artifacts
+   ```
+
+5. (Optional) Run the Macro Deck conformance test suite:
+   ```bash
+   macrodeck-plugin test --artifact ./artifacts/com.cjhackeryt.soundbox-1.0.9.macroDeckPlugin
+   ```
+
+---
+
+## Plugin Information
+
+- **Plugin ID**: `com.cjhackeryt.soundbox`
+- **Publisher**: `CJHackerYT`
+- **Version**: `1.0.9`
+- **License**: [MIT](LICENSE)
