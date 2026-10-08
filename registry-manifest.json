@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 88,
-  "generatedAt": "2026-10-08T05:45:38.332693+00:00",
+  "sequence": 89,
+  "generatedAt": "2026-10-08T16:42:04.5726931+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -386,8 +386,8 @@
     },
     {
       "path": "plugins/com.cjhackeryt.spicetifydeck/manifest.json",
-      "sha256": "e5e6fd0b6380e9fd4f91cf26868e4420191ab040e9bcec53b467e61c6ba2db1d",
-      "size": 858
+      "sha256": "11c2686833827aefffd555309ab2fad5c65f747a6d53119e6b4cff1b7fe4b07e",
+      "size": 856
     },
     {
       "path": "plugins/com.cjhackeryt.spicetifydeck/versions/1.0.3/changelog.md",
@@ -417,6 +417,21 @@
     {
       "path": "plugins/com.cjhackeryt.spicetifydeck/versions/2.0.4/manifest.json",
       "sha256": "d10ab4a7899e1b9e89d59df08df0a1baa76aef16ef17abec851f308dac21332f",
+      "size": 1091
+    },
+    {
+      "path": "plugins/com.cjhackeryt.spicetifydeck/versions/2.0.5/changelog.md",
+      "sha256": "e8c6c13fa70f37b82a9aba11b83a4c75edfca82a166d977d27e9d697fa28ba76",
+      "size": 227
+    },
+    {
+      "path": "plugins/com.cjhackeryt.spicetifydeck/versions/2.0.5/description.md",
+      "sha256": "f6b205ed2b5acf99144e5984f29c3f6d781bcd0bc311fbf6aa2302f7618288a7",
+      "size": 2189
+    },
+    {
+      "path": "plugins/com.cjhackeryt.spicetifydeck/versions/2.0.5/manifest.json",
+      "sha256": "9c07fd76fd456c511ec91966c2045fc30849f98b44d56353b025a6d7553a7c42",
       "size": 1091
     },
     {
