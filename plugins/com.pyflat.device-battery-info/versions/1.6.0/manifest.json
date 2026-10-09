@@ -1,0 +1,35 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.pyflat.device-battery-info/1.6.0/com.pyflat.device-battery-info-v1.6.0.macroDeckPlugin",
+  "sha256": "d819a138d535ad1c8ccd5aa00a01ed0041d832fb490f5efc03e434e99cd96609",
+  "size": 3610750,
+  "uploadedAt": "2026-10-09T18:02:58.260093+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.pyflat.device-battery-info/assets/0bdf2c614b6a9ef7-0bdf2c614b6a9ef7f914cf698d03c9b46bc0206e68e618db11e26b2ba4732257.svg",
+      "sha256": "0bdf2c614b6a9ef7f914cf698d03c9b46bc0206e68e618db11e26b2ba4732257",
+      "size": 389,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.pyflat.device-battery-info/assets/61c7b838aabd62c8-61c7b838aabd62c8e6dc20ff115e5c405d73f04008206c74507ea8961c135c49.png",
+        "sha256": "61c7b838aabd62c8e6dc20ff115e5c405d73f04008206c74507ea8961c135c49",
+        "size": 26800,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.pyflat.device-battery-info/assets/d5f0959f2314d6a1-d5f0959f2314d6a1886ee79c35bd1772dc5ab253b3b72c1708c03fdb2f5b9397.png",
+        "sha256": "d5f0959f2314d6a1886ee79c35bd1772dc5ab253b3b72c1708c03fdb2f5b9397",
+        "size": 19433,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.pyflat.device-battery-info/assets/72ed5e73de7f733f-72ed5e73de7f733f83477c8a92b4bf4a82d6984d864d9ca482b086c9ec88663c.png",
+        "sha256": "72ed5e73de7f733f83477c8a92b4bf4a82d6984d864d9ca482b086c9ec88663c",
+        "size": 9788,
+        "contentType": "image/png"
+      }
+    ]
+  }
+}
