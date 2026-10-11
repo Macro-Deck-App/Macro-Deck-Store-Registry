@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "VolumeMixerPlugin",
+  "id": "com.diegofdezab.volume-mixer",
+  "latestVersion": "1.0.0",
+  "description": "Windows volume mixer: default output and mic, per-app volume, mute, and sliders.",
+  "publisher": "DiegoFdezAb",
+  "repository": "https://github.com/DiegoFdezAb/MacroDeck3VolumeMixerPlugin",
+  "license": "MIT",
+  "createdAt": "2026-10-11T09:15:28.3311297+00:00",
+  "updatedAt": "2026-10-11T09:15:28.3311297+00:00",
+  "supportedRids": [
+    "win-x64"
+  ],
+  "tags": [
+    "communication",
+    "system",
+    "utilities",
+    "audio",
+    "windows"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": true
+  }
+}

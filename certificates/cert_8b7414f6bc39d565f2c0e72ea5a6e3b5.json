@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.macro-deck.app/macrodeck-certificate-v1.schema.json",
+  "schemaVersion": 1,
+  "subject": {
+    "kind": "creator",
+    "id": "394531807271321702",
+    "name": "DiegoFdezAb"
+  },
+  "algorithm": "ed25519",
+  "certificateId": "cert_8b7414f6bc39d565f2c0e72ea5a6e3b5",
+  "publicKey": "GWChYNISpdD\u002B0SEobgpyBWDKGZh7S0ocRyvPyeM4jmo=",
+  "keyUsage": [
+    "package"
+  ],
+  "notBefore": "2026-10-10T18:01:51.3635178+00:00",
+  "notAfter": "2028-10-09T18:01:51.3635178+00:00",
+  "issuedAt": "2026-10-10T18:01:51.3635178+00:00",
+  "rootKeyId": "root_2026"
+}

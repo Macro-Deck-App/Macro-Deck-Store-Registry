@@ -1,0 +1,23 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.diegofdezab.volume-mixer/1.0.0/com.diegofdezab.volume-mixer-v1.0.0.macroDeckPlugin",
+  "sha256": "5ce4230f1ae8fb22fb9840216113f1c810277f029d351bc79a9ff6f25b2fcffa",
+  "size": 1237808,
+  "uploadedAt": "2026-10-10T18:59:39.883096+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.diegofdezab.volume-mixer/assets/d051d9b843bb24f5-d051d9b843bb24f535b1786a68692a9810cdd9ed4ed3be3a3d3388bc70fde850.png",
+      "sha256": "d051d9b843bb24f535b1786a68692a9810cdd9ed4ed3be3a3d3388bc70fde850",
+      "size": 37117,
+      "contentType": "image/png"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.diegofdezab.volume-mixer/assets/ce86014f27ca3e46-ce86014f27ca3e461f5493c25c259566e0b09cdfab55a73ad374ad3a0c1e3418.png",
+        "sha256": "ce86014f27ca3e461f5493c25c259566e0b09cdfab55a73ad374ad3a0c1e3418",
+        "size": 64299,
+        "contentType": "image/png"
+      }
+    ]
+  }
+}

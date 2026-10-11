@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 94,
-  "generatedAt": "2026-10-09T18:15:53.5804159+00:00",
+  "sequence": 95,
+  "generatedAt": "2026-10-11T09:15:28.3504075+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -107,6 +107,16 @@
     {
       "path": "certificates/cert_86a3a9ee00df83e4ae7e21ce35a405e4.sig",
       "sha256": "756b8ecb30cbf9397c9fa0a972c18cce93ae14e40294b21bd59df3639088c7d6",
+      "size": 89
+    },
+    {
+      "path": "certificates/cert_8b7414f6bc39d565f2c0e72ea5a6e3b5.json",
+      "sha256": "c24c716ae2e2ac007aae3901e3c837f09d1150839288bb6a1f605f4216901994",
+      "size": 581
+    },
+    {
+      "path": "certificates/cert_8b7414f6bc39d565f2c0e72ea5a6e3b5.sig",
+      "sha256": "f2d1dd401d52bc14b19393de182f60b158a7c279cd7ffc6a3025c18a0c20cda0",
       "size": 89
     },
     {
@@ -291,8 +301,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "0bb79c02c044eed7e6104f4aabf68bfa9ff54947e4c6115674423e92d8a70fee",
-      "size": 1379
+      "sha256": "16f4ae7083da7fe68b0a7712b8fdaa7a92d9991e18e1d65bfeefa55db288d2e5",
+      "size": 1415
     },
     {
       "path": "plugins/com.cjhackeryt.hwinfodeck/manifest.json",
@@ -498,6 +508,26 @@
       "path": "plugins/com.cjhackeryt.steelseriessonar/versions/1.0.18/manifest.json",
       "sha256": "07885682e1040191c6c408666a4bc8d91f8ca9c2fe9fa6aff78b9a6a36a1da5a",
       "size": 1801
+    },
+    {
+      "path": "plugins/com.diegofdezab.volume-mixer/manifest.json",
+      "sha256": "a26614d123ce909fb775d1f909743d39f86d4292a6f75ac0d12aafcbaea8ff00",
+      "size": 740
+    },
+    {
+      "path": "plugins/com.diegofdezab.volume-mixer/versions/1.0.0/changelog.md",
+      "sha256": "9bb5610ee461a9a561e0224e73696cc277830d64e3f4d7c245cc59709051f0bc",
+      "size": 46
+    },
+    {
+      "path": "plugins/com.diegofdezab.volume-mixer/versions/1.0.0/description.md",
+      "sha256": "418e0fb1286fb04e1340b27cd1712d10c4e6a03b35242ab1d96f5e5d81cc5c9a",
+      "size": 9614
+    },
+    {
+      "path": "plugins/com.diegofdezab.volume-mixer/versions/1.0.0/manifest.json",
+      "sha256": "79f0db331b8935d674699007283ff45f92aea956716c36f2233c922092ea4556",
+      "size": 1083
     },
     {
       "path": "plugins/com.dodecadev.gpu-z/manifest.json",
