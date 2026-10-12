@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.macro-deck.app/macrodeck-certificate-v1.schema.json",
+  "schemaVersion": 1,
+  "subject": {
+    "kind": "organization",
+    "id": "01a12b85-9ac3-79e2-94f9-6d9ceef2f35d",
+    "name": "CountTogether"
+  },
+  "algorithm": "ed25519",
+  "certificateId": "cert_f34627bdfe0b588ec69f99927f9e66cf",
+  "publicKey": "/2bbzoBlXBr3zR8ke\u002BPFoGvc2sWDz6xz9XCfwLUb1NY=",
+  "keyUsage": [
+    "package"
+  ],
+  "notBefore": "2026-10-12T06:15:00.9809594+00:00",
+  "notAfter": "2028-10-11T06:15:00.9809594+00:00",
+  "issuedAt": "2026-10-12T06:15:00.9809594+00:00",
+  "rootKeyId": "root_2026"
+}

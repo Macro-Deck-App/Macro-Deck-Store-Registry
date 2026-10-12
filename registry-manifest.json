@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 96,
-  "generatedAt": "2026-10-11T09:33:41.94332+00:00",
+  "sequence": 97,
+  "generatedAt": "2026-10-12T06:19:20.0408213+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -220,6 +220,16 @@
       "size": 89
     },
     {
+      "path": "certificates/cert_f34627bdfe0b588ec69f99927f9e66cf.json",
+      "sha256": "b48bec72faff88804cf851b10160521cad970760cb1eb4aa0904b702a9c61a37",
+      "size": 606
+    },
+    {
+      "path": "certificates/cert_f34627bdfe0b588ec69f99927f9e66cf.sig",
+      "sha256": "9de7c68343d60a5754ed00841a7251ef095432d794aa81681d9a49a536b7054b",
+      "size": 89
+    },
+    {
       "path": "icon-packs/com.simplyjames.mdi-icons/manifest.json",
       "sha256": "892ce52a7592f23ea4655f32a1f59d7f63ac12fdab898d8be669f532e7a8982d",
       "size": 521
@@ -301,8 +311,28 @@
     },
     {
       "path": "index.json",
-      "sha256": "16f4ae7083da7fe68b0a7712b8fdaa7a92d9991e18e1d65bfeefa55db288d2e5",
-      "size": 1415
+      "sha256": "8d9fe5eb074081ef7ab38a8a87b11e3d8789007221dc7610ac4a94901b8babc0",
+      "size": 1472
+    },
+    {
+      "path": "plugins/app.counttogether.counttogether-macro-deck-plugin/manifest.json",
+      "sha256": "423c7b10507e4f5d229a79953de9deed14516896f887ac3f5f42b4d0edb29211",
+      "size": 752
+    },
+    {
+      "path": "plugins/app.counttogether.counttogether-macro-deck-plugin/versions/2.0.0/changelog.md",
+      "sha256": "6cf1d8e890cfb34b603ca3fca04d1dad098fa8860d6120c9a30b7d4719f35fa5",
+      "size": 131
+    },
+    {
+      "path": "plugins/app.counttogether.counttogether-macro-deck-plugin/versions/2.0.0/description.md",
+      "sha256": "fabcc83de1b0d300c94791ecb7c9e468b85c39f59f8e6ad778591538a677ae05",
+      "size": 8780
+    },
+    {
+      "path": "plugins/app.counttogether.counttogether-macro-deck-plugin/versions/2.0.0/manifest.json",
+      "sha256": "853814b86b175db2d48180cb1f2f5667567226c8660f2382b4340452766e5192",
+      "size": 1169
     },
     {
       "path": "plugins/com.cjhackeryt.hwinfodeck/manifest.json",

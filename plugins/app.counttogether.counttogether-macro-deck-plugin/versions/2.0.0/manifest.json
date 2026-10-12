@@ -1,0 +1,23 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/app.counttogether.counttogether-macro-deck-plugin/2.0.0/app.counttogether.counttogether-macro-deck-plugin-v2.0.0.macroDeckPlugin",
+  "sha256": "8e6938a1f68c1026e0656006f333ed21a3b0838d31e45afd18fff9c108636848",
+  "size": 3228757,
+  "uploadedAt": "2026-10-12T06:08:27.079782+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/app.counttogether.counttogether-macro-deck-plugin/assets/5b3c67702631edc8-5b3c67702631edc8bbaaf8de1a48ff8fe70a1c4ee901835d91a77b42fa3e0bb5.png",
+      "sha256": "5b3c67702631edc8bbaaf8de1a48ff8fe70a1c4ee901835d91a77b42fa3e0bb5",
+      "size": 41504,
+      "contentType": "image/png"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/app.counttogether.counttogether-macro-deck-plugin/assets/871d53889f805ddd-871d53889f805dddbee75c9bbc05aea99ab5c036f2519d893d9609cee68b4b0f.jpg",
+        "sha256": "871d53889f805dddbee75c9bbc05aea99ab5c036f2519d893d9609cee68b4b0f",
+        "size": 107214,
+        "contentType": "image/jpeg"
+      }
+    ]
+  }
+}

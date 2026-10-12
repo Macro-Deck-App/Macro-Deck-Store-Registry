@@ -1,8 +1,9 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-10-11T09:15:28.3311297+00:00",
+  "generatedAt": "2026-10-12T06:19:20.0010467+00:00",
   "plugins": [
+    "app.counttogether.counttogether-macro-deck-plugin",
     "com.cjhackeryt.hwinfodeck",
     "com.cjhackeryt.screenxdeck",
     "com.cjhackeryt.soundbox",
