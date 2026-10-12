@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 97,
-  "generatedAt": "2026-10-12T06:19:20.0408213+00:00",
+  "sequence": 98,
+  "generatedAt": "2026-10-12T16:31:06.3529889+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -311,8 +311,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "8d9fe5eb074081ef7ab38a8a87b11e3d8789007221dc7610ac4a94901b8babc0",
-      "size": 1472
+      "sha256": "a2cfaa6f2727945599ba6b5024a688e079894efcb19e4739ec19ba02d34c4d7c",
+      "size": 1509
     },
     {
       "path": "plugins/app.counttogether.counttogether-macro-deck-plugin/manifest.json",
@@ -1118,6 +1118,26 @@
       "path": "plugins/com.suchbyte.macrogotchi/versions/1.1.5/manifest.json",
       "sha256": "c7e3e21f118af89c586266debcb67ffbf9ec3eaa4bb09a2e5b5b9f49097acf15",
       "size": 1613
+    },
+    {
+      "path": "plugins/com.suchbyte.todo-list-plugin/manifest.json",
+      "sha256": "bef87a8190bdfae82c275a9a40ad5eb017d6e24109eafad605529c9fc45100e3",
+      "size": 836
+    },
+    {
+      "path": "plugins/com.suchbyte.todo-list-plugin/versions/1.0.0/changelog.md",
+      "sha256": "00fee2b43485eecb8110e695f51308829eb9b18f15daec8ec0d90392b92507ee",
+      "size": 259
+    },
+    {
+      "path": "plugins/com.suchbyte.todo-list-plugin/versions/1.0.0/description.md",
+      "sha256": "073513376453caa24be6b4be4d7bf404099d53235fa394bffe52ed11c374eafc",
+      "size": 16014
+    },
+    {
+      "path": "plugins/com.suchbyte.todo-list-plugin/versions/1.0.0/manifest.json",
+      "sha256": "be4369b6f20534270bbdc39eb902410b170ab5c603d2403d0fa578a94dbaba6a",
+      "size": 2137
     },
     {
       "path": "plugins/com.tabsik12.ets2-telemetry/manifest.json",
