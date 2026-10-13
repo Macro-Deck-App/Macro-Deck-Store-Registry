@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 99,
-  "generatedAt": "2026-10-13T06:45:32.4945161+00:00",
+  "sequence": 100,
+  "generatedAt": "2026-10-13T06:50:48.5426816+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -786,7 +786,7 @@
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/manifest.json",
-      "sha256": "6644a261e2e82eb3806b22fa7ef192489eaf8d01354a7ba192c1a35089991e62",
+      "sha256": "d31b79025f73715da2017c0f19e7cb3794c4d90245b742ec6c0271981504942d",
       "size": 842
     },
     {
@@ -892,6 +892,21 @@
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.6.0/manifest.json",
       "sha256": "b3475ddbd247b2856b891648f6d864475e0148eae3d28c0740c18219421d539e",
+      "size": 1791
+    },
+    {
+      "path": "plugins/com.pyflat.device-battery-info/versions/1.7.0/changelog.md",
+      "sha256": "f1aef6cba97ca764570d4b249e6c66ece3081803ec1342e19a4d59cf7fb51443",
+      "size": 440
+    },
+    {
+      "path": "plugins/com.pyflat.device-battery-info/versions/1.7.0/description.md",
+      "sha256": "376e9bdf047361f456d38920fab877737ddfa167904e90c32e61702af0233ae6",
+      "size": 91
+    },
+    {
+      "path": "plugins/com.pyflat.device-battery-info/versions/1.7.0/manifest.json",
+      "sha256": "2e854ec7b5b5f7be3461b88a91ab4af8f3b6297b1647535d5fa782da6f0bee89",
       "size": 1791
     },
     {
