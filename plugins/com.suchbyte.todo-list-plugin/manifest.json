@@ -3,13 +3,13 @@
   "kind": "plugin",
   "name": "Todo List for Macro Deck",
   "id": "com.suchbyte.todo-list-plugin",
-  "latestVersion": "1.0.0",
+  "latestVersion": "1.0.1",
   "description": "A minimalist todo list for Macro Deck with a widget, a list modal, events, variables and actions, plus a menu bar or tray popup and a global quick-add shortcut on the desktop.",
   "publisher": "SuchByte",
   "repository": "https://github.com/manuelmayer-dev/Todo-List-For-Macro-Deck",
   "license": "MIT",
   "createdAt": "2026-10-12T16:31:06.3214531+00:00",
-  "updatedAt": "2026-10-12T16:31:06.3214531+00:00",
+  "updatedAt": "2026-10-13T06:45:32.4873741+00:00",
   "supportedRids": [
     "osx-arm64",
     "win-x64"

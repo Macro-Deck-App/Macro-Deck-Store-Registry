@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 98,
-  "generatedAt": "2026-10-12T16:31:06.3529889+00:00",
+  "sequence": 99,
+  "generatedAt": "2026-10-13T06:45:32.4945161+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -1121,7 +1121,7 @@
     },
     {
       "path": "plugins/com.suchbyte.todo-list-plugin/manifest.json",
-      "sha256": "bef87a8190bdfae82c275a9a40ad5eb017d6e24109eafad605529c9fc45100e3",
+      "sha256": "ab35de3a0a72a6b4f9617067e91d90c69f4858d7b9794f7776f65d820c431af9",
       "size": 836
     },
     {
@@ -1137,6 +1137,21 @@
     {
       "path": "plugins/com.suchbyte.todo-list-plugin/versions/1.0.0/manifest.json",
       "sha256": "be4369b6f20534270bbdc39eb902410b170ab5c603d2403d0fa578a94dbaba6a",
+      "size": 2137
+    },
+    {
+      "path": "plugins/com.suchbyte.todo-list-plugin/versions/1.0.1/changelog.md",
+      "sha256": "8826d781568b2da52fdd34024a9f9dafd6df3c4a246694ba2773ebbfe8553f24",
+      "size": 270
+    },
+    {
+      "path": "plugins/com.suchbyte.todo-list-plugin/versions/1.0.1/description.md",
+      "sha256": "073513376453caa24be6b4be4d7bf404099d53235fa394bffe52ed11c374eafc",
+      "size": 16014
+    },
+    {
+      "path": "plugins/com.suchbyte.todo-list-plugin/versions/1.0.1/manifest.json",
+      "sha256": "0e87718ac69716a5bea97246ba2070d313abb90a18ff7924dc7a1c879c7a9814",
       "size": 2137
     },
     {
