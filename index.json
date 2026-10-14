@@ -1,7 +1,7 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-10-12T16:31:06.3214531+00:00",
+  "generatedAt": "2026-10-14T04:45:54.5191856+00:00",
   "plugins": [
     "app.counttogether.counttogether-macro-deck-plugin",
     "com.cjhackeryt.hwinfodeck",
@@ -12,6 +12,7 @@
     "com.diegofdezab.volume-mixer",
     "com.dodecadev.gpu-z",
     "com.dodecadev.philips-hue",
+    "com.dodecadev.vscode",
     "com.hashashin.fxcommands",
     "com.hashashin.octoprint",
     "com.inariix.mbxhub-plugin",

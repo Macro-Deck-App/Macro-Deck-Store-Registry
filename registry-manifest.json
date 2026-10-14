@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 101,
-  "generatedAt": "2026-10-13T16:52:30.6758463+00:00",
+  "sequence": 102,
+  "generatedAt": "2026-10-14T04:45:54.52717+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -311,8 +311,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "a2cfaa6f2727945599ba6b5024a688e079894efcb19e4739ec19ba02d34c4d7c",
-      "size": 1509
+      "sha256": "9ac8c07ad1bac7a71a9f67ba2bcbd259821c422f942bb7290110c065580af9d9",
+      "size": 1537
     },
     {
       "path": "plugins/app.counttogether.counttogether-macro-deck-plugin/manifest.json",
@@ -598,6 +598,26 @@
       "path": "plugins/com.dodecadev.philips-hue/versions/1.0.0/manifest.json",
       "sha256": "1cd633278899635b2acbd62c61519251f1066378a71042b2e3e8eadd2a40d02c",
       "size": 2449
+    },
+    {
+      "path": "plugins/com.dodecadev.vscode/manifest.json",
+      "sha256": "9d0943fe37c0b02b55364a6ef880db6628683d3ef25e143f4c512f71b310c4d7",
+      "size": 870
+    },
+    {
+      "path": "plugins/com.dodecadev.vscode/versions/1.0.0/changelog.md",
+      "sha256": "c87f7d93b537ab5bcde810d1c1f87b5be3a135b42c8c71944071b800624e8186",
+      "size": 964
+    },
+    {
+      "path": "plugins/com.dodecadev.vscode/versions/1.0.0/description.md",
+      "sha256": "6bb6bc412bc1a9e72923ebfa33bfc1a45a67ad67aaa8afa8e4a8e855f5fe110e",
+      "size": 5768
+    },
+    {
+      "path": "plugins/com.dodecadev.vscode/versions/1.0.0/manifest.json",
+      "sha256": "e4f6ff4d74c94b72c991f0d8b864c8805f6fcd384c1fef981159b96f84c483a3",
+      "size": 2071
     },
     {
       "path": "plugins/com.hashashin.fxcommands/manifest.json",

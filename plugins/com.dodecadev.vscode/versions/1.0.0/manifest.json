@@ -1,0 +1,41 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.dodecadev.vscode/1.0.0/com.dodecadev.vscode-v1.0.0.macroDeckPlugin",
+  "sha256": "72357e8af5b21f4f772de870da36aadbf41940dd2ee02a8bace3765b4b750603",
+  "size": 2886510,
+  "uploadedAt": "2026-10-13T05:46:28.898942+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.dodecadev.vscode/assets/cb0896199f1d0e34-cb0896199f1d0e340c553f427098d2d3dc0aaef8d99941878675c1727ce8e25b.svg",
+      "sha256": "cb0896199f1d0e340c553f427098d2d3dc0aaef8d99941878675c1727ce8e25b",
+      "size": 1321,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.dodecadev.vscode/assets/78533038262dc013-78533038262dc013755d95e0cbb0a3aeb27db6bfbff8d03dbc4c059fc0864ab2.png",
+        "sha256": "78533038262dc013755d95e0cbb0a3aeb27db6bfbff8d03dbc4c059fc0864ab2",
+        "size": 115591,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.dodecadev.vscode/assets/64c16286dab7226f-64c16286dab7226f716a0b92017037cf2e40e9664a43c822801076b58bf17294.png",
+        "sha256": "64c16286dab7226f716a0b92017037cf2e40e9664a43c822801076b58bf17294",
+        "size": 86879,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.dodecadev.vscode/assets/da4a7a2783de644d-da4a7a2783de644d1f621be1f24c215b7d891ca275c136c1bc6273335d9bd77f.png",
+        "sha256": "da4a7a2783de644d1f621be1f24c215b7d891ca275c136c1bc6273335d9bd77f",
+        "size": 83360,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.dodecadev.vscode/assets/00d9bd0ea328f3d5-00d9bd0ea328f3d5e46ba3f52bcdbef73354881d2318ffda95f09aaab2aa6469.png",
+        "sha256": "00d9bd0ea328f3d5e46ba3f52bcdbef73354881d2318ffda95f09aaab2aa6469",
+        "size": 82153,
+        "contentType": "image/png"
+      }
+    ]
+  }
+}

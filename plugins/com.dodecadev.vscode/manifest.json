@@ -1,0 +1,37 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "VS Code Plugin",
+  "id": "com.dodecadev.vscode",
+  "latestVersion": "1.0.0",
+  "description": "Control Visual Studio Code from Macro Deck",
+  "publisher": "DodecaDev",
+  "repository": "https://github.com/DodecaDev-LLC/Macro-Deck-VS-Code",
+  "additionalLinks": [
+    {
+      "type": "issues",
+      "url": "https://github.com/DodecaDev-LLC/Macro-Deck-VS-Code/issues"
+    }
+  ],
+  "license": "MIT",
+  "createdAt": "2026-10-14T04:45:54.5191856+00:00",
+  "updatedAt": "2026-10-14T04:45:54.5191856+00:00",
+  "supportedRids": [
+    "linux-x64",
+    "osx-arm64",
+    "win-x64"
+  ],
+  "tags": [
+    "productivity",
+    "system",
+    "vscode",
+    "vs-code",
+    "visual-studio",
+    "code"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": true
+  }
+}
