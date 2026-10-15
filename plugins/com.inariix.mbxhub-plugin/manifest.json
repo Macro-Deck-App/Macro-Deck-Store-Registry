@@ -3,17 +3,27 @@
   "kind": "plugin",
   "name": "MBXHub (MusicBee)",
   "id": "com.inariix.mbxhub-plugin",
-  "latestVersion": "0.1.5",
+  "latestVersion": "0.1.7",
   "description": "Control Musicbee through MBXHub in Macro Deck 3",
-  "publisher": "inariix",
+  "publisher": "InariIX",
   "repository": "https://github.com/InariIX/InariIX.MbxHubPlugin",
   "homepage": "https://github.com/InariIX",
   "license": "MIT",
   "createdAt": "2026-09-20T08:47:43.4994751+00:00",
-  "updatedAt": "2026-09-20T08:47:43.4994751+00:00",
+  "updatedAt": "2026-10-15T16:57:10.5549634+00:00",
   "supportedRids": [
-    "linux-x64",
-    "osx-arm64",
     "win-x64"
-  ]
+  ],
+  "tags": [
+    "media-control",
+    "music"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": true,
+    "services": [
+      "Copilot"
+    ]
+  }
 }

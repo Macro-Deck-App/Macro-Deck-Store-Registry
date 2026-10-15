@@ -1,0 +1,35 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.inariix.mbxhub-plugin/0.1.7/com.inariix.mbxhub-plugin-v0.1.7.macroDeckPlugin",
+  "sha256": "f86d13a2198f306719c3712f844fcc2af8308639e45cbba71e454446ed6978ed",
+  "size": 1265034,
+  "uploadedAt": "2026-10-15T16:17:31.401555+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.inariix.mbxhub-plugin/assets/401dd9416622d7dd-401dd9416622d7dd1301538dc5a9cfac25506d42a37e06183ae6af0b1bc8e7a0.png",
+      "sha256": "401dd9416622d7dd1301538dc5a9cfac25506d42a37e06183ae6af0b1bc8e7a0",
+      "size": 107442,
+      "contentType": "image/png"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.inariix.mbxhub-plugin/assets/9578ee7d40961b7d-9578ee7d40961b7db022db5b80fdf19986179897b1d530a9fd813b4c485dae1d.png",
+        "sha256": "9578ee7d40961b7db022db5b80fdf19986179897b1d530a9fd813b4c485dae1d",
+        "size": 189874,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.inariix.mbxhub-plugin/assets/7a2760d672f6ba1d-7a2760d672f6ba1df33ea4c803bf1b2f128cbb14197ec1181a3089563cefa148.png",
+        "sha256": "7a2760d672f6ba1df33ea4c803bf1b2f128cbb14197ec1181a3089563cefa148",
+        "size": 528112,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.inariix.mbxhub-plugin/assets/960c84c1ad505486-960c84c1ad5054867841a0a597c0f9e6bdbda253d0bfac224824aff840df8669.png",
+        "sha256": "960c84c1ad5054867841a0a597c0f9e6bdbda253d0bfac224824aff840df8669",
+        "size": 26390,
+        "contentType": "image/png"
+      }
+    ]
+  }
+}
