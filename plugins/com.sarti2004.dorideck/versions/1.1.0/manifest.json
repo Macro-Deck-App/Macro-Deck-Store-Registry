@@ -1,0 +1,35 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.sarti2004.dorideck/1.1.0/com.sarti2004.dorideck-v1.1.0.macroDeckPlugin",
+  "sha256": "a09f01afa934087c5a14263bd2353f963994ce6c8e8394584e5a609ff00b0fd9",
+  "size": 5687109,
+  "uploadedAt": "2026-10-15T17:39:22.956905+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.sarti2004.dorideck/assets/fb2340c52fbad933-fb2340c52fbad93311b058caac3a0d7130bebfdd2d7165cdcf6ba02e0d885272.png",
+      "sha256": "fb2340c52fbad93311b058caac3a0d7130bebfdd2d7165cdcf6ba02e0d885272",
+      "size": 28229,
+      "contentType": "image/png"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.sarti2004.dorideck/assets/4c4ab4b1b6408dc4-4c4ab4b1b6408dc42eed43a826b52c430d54497ff227e465b42a290ef67957e0.png",
+        "sha256": "4c4ab4b1b6408dc42eed43a826b52c430d54497ff227e465b42a290ef67957e0",
+        "size": 435815,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.sarti2004.dorideck/assets/bca649fb6cc8af56-bca649fb6cc8af56a90a505bf466fc387979964689b07cc4b50781380523877b.jpg",
+        "sha256": "bca649fb6cc8af56a90a505bf466fc387979964689b07cc4b50781380523877b",
+        "size": 1947141,
+        "contentType": "image/jpeg"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.sarti2004.dorideck/assets/d48a27c428620e76-d48a27c428620e76836c2827602783b7453ba39cabcf8634f9613b2bf2ab7f13.png",
+        "sha256": "d48a27c428620e76836c2827602783b7453ba39cabcf8634f9613b2bf2ab7f13",
+        "size": 395995,
+        "contentType": "image/png"
+      }
+    ]
+  }
+}
