@@ -1,0 +1,23 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/icon-packs/com.fire.black-gold-luxury/1.0.0/com.fire.black-gold-luxury-v1.0.0.macroDeckIconPack",
+  "sha256": "9f2fafb70a633062527144d9d457275c8a4d2f74474261e89b38463de032598c",
+  "size": 640879,
+  "uploadedAt": "2026-10-15T12:59:44.636297+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/icon-packs/com.fire.black-gold-luxury/assets/ebb196c6edeacd6c-ebb196c6edeacd6cf6eeb550f7013b849d303220541e8813101fa84d7297d261.png",
+      "sha256": "ebb196c6edeacd6cf6eeb550f7013b849d303220541e8813101fa84d7297d261",
+      "size": 658505,
+      "contentType": "image/png"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/icon-packs/com.fire.black-gold-luxury/assets/0bbcb56a0d4b43b5-0bbcb56a0d4b43b57f7091e832de23b3029ca5daf01c05d7ff7ef85ebd42d5ec.png",
+        "sha256": "0bbcb56a0d4b43b57f7091e832de23b3029ca5daf01c05d7ff7ef85ebd42d5ec",
+        "size": 161715,
+        "contentType": "image/png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/icon-pack.schema.json",
+  "kind": "iconPack",
+  "name": "Black \u0026 Gold Luxury Icon Pack",
+  "id": "com.fire.black-gold-luxury",
+  "latestVersion": "1.0.0",
+  "description": "50 Icon PNGs (1024 x 1024) - Black \u0026 Gold Luxury Style - includes Comms, Media and System Icons",
+  "publisher": "Fire",
+  "license": "Free for Personal Use",
+  "createdAt": "2026-10-15T15:04:33.6736355+00:00",
+  "updatedAt": "2026-10-15T15:04:33.6736355+00:00",
+  "tags": [
+    "icons",
+    "black",
+    "gold",
+    "icon",
+    "luxury",
+    "png",
+    "media",
+    "comms"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": true
+  }
+}

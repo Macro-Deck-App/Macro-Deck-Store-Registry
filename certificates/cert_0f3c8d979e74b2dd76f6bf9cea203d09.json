@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.macro-deck.app/macrodeck-certificate-v1.schema.json",
+  "schemaVersion": 1,
+  "subject": {
+    "kind": "creator",
+    "id": "394495161872154726",
+    "name": "Fire"
+  },
+  "algorithm": "ed25519",
+  "certificateId": "cert_0f3c8d979e74b2dd76f6bf9cea203d09",
+  "publicKey": "Jt0QJ2H\u002BidXs0M8Rb/kT7/Fqms0Wg7b2r06WNx6q5BI=",
+  "keyUsage": [
+    "package"
+  ],
+  "notBefore": "2026-10-15T08:52:46.6242908+00:00",
+  "notAfter": "2028-10-14T08:52:46.6242908+00:00",
+  "issuedAt": "2026-10-15T08:52:46.6242908+00:00",
+  "rootKeyId": "root_2026"
+}

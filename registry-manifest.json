@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 105,
-  "generatedAt": "2026-10-15T14:59:25.5099483+00:00",
+  "sequence": 106,
+  "generatedAt": "2026-10-15T15:04:33.6794233+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -27,6 +27,16 @@
     {
       "path": "certificates/cert_08c01ca2710a7f395f90d5ea764f820f.sig",
       "sha256": "2cda51ae27dd7e95805e9b0c65a9877546f42749b2580022811c29bf72d5f3be",
+      "size": 89
+    },
+    {
+      "path": "certificates/cert_0f3c8d979e74b2dd76f6bf9cea203d09.json",
+      "sha256": "7c2de5e0de3032e2e108da7c563aa955e0b95b45c004a4e2a149b0c52a7999c1",
+      "size": 574
+    },
+    {
+      "path": "certificates/cert_0f3c8d979e74b2dd76f6bf9cea203d09.sig",
+      "sha256": "908fda89b167a2bdbc13a466dde59c74ef260b44e4dd1017c3e6aabab1b331dd",
       "size": 89
     },
     {
@@ -230,6 +240,26 @@
       "size": 89
     },
     {
+      "path": "icon-packs/com.fire.black-gold-luxury/manifest.json",
+      "sha256": "3f96c735fa989d4ad393547cbd8e768b744dae317a8118fe49d01751fec95e91",
+      "size": 694
+    },
+    {
+      "path": "icon-packs/com.fire.black-gold-luxury/versions/1.0.0/changelog.md",
+      "sha256": "ac3d8a5c0190be87645529024369f77c4a4ab0bbfb4d58fe10e41e96d441626a",
+      "size": 102
+    },
+    {
+      "path": "icon-packs/com.fire.black-gold-luxury/versions/1.0.0/description.md",
+      "sha256": "a05c806d69fe54e45f419b28c15628ca1dd5a0f0a5085c0e32891a87de061084",
+      "size": 328
+    },
+    {
+      "path": "icon-packs/com.fire.black-gold-luxury/versions/1.0.0/manifest.json",
+      "sha256": "e56cfba5a318c56ce1d23113c56217fd130272b47c9d90dd3ffc9ebb40d69a3b",
+      "size": 1087
+    },
+    {
       "path": "icon-packs/com.simplyjames.mdi-icons/manifest.json",
       "sha256": "892ce52a7592f23ea4655f32a1f59d7f63ac12fdab898d8be669f532e7a8982d",
       "size": 521
@@ -311,8 +341,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "9ac8c07ad1bac7a71a9f67ba2bcbd259821c422f942bb7290110c065580af9d9",
-      "size": 1537
+      "sha256": "cb4a04e76aabeb9e190e19573d3cd4677ddb7b78f0b59acfe30eb4a989b14d4a",
+      "size": 1571
     },
     {
       "path": "plugins/app.counttogether.counttogether-macro-deck-plugin/manifest.json",

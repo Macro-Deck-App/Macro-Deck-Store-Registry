@@ -1,7 +1,7 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-10-14T04:45:54.5191856+00:00",
+  "generatedAt": "2026-10-15T15:04:33.6736355+00:00",
   "plugins": [
     "app.counttogether.counttogether-macro-deck-plugin",
     "com.cjhackeryt.hwinfodeck",
@@ -36,6 +36,7 @@
     "net.ziopuzzle.custombutton"
   ],
   "iconPacks": [
+    "com.fire.black-gold-luxury",
     "com.simplyjames.mdi-icons",
     "com.suchbyte.colorful-generic-icons",
     "exe.radioactive.simple-hand-drawn-icons-black",
