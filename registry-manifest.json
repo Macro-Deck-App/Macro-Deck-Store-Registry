@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 107,
-  "generatedAt": "2026-10-15T15:07:33.282578+00:00",
+  "sequence": 108,
+  "generatedAt": "2026-10-15T15:12:23.3165572+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -376,8 +376,8 @@
     },
     {
       "path": "plugins/com.cjhackeryt.hwinfodeck/versions/1.0.1/description.md",
-      "sha256": "255630170e5fbb4d749c3e8e7c0ef2bdc98eeb8f856b66fd552d6e3ba706610e",
-      "size": 64
+      "sha256": "a22299215df4645d468ff7d636493719f822cee5fe361bf061bb7209a2f6c6b9",
+      "size": 5265
     },
     {
       "path": "plugins/com.cjhackeryt.hwinfodeck/versions/1.0.1/manifest.json",
@@ -411,8 +411,8 @@
     },
     {
       "path": "plugins/com.cjhackeryt.screenxdeck/versions/1.0.3/description.md",
-      "sha256": "39a8a164444a4a477358bf9d5a582b79627582bffcb8a3dd7a9a612ce5eaa10e",
-      "size": 143
+      "sha256": "58e8ef1d8a078a44df72ad298b8c8cb4d98a791cce00c9b30dbb948d2054af98",
+      "size": 12622
     },
     {
       "path": "plugins/com.cjhackeryt.screenxdeck/versions/1.0.3/manifest.json",
@@ -431,8 +431,8 @@
     },
     {
       "path": "plugins/com.cjhackeryt.soundbox/versions/0.1.5/description.md",
-      "sha256": "3dc43f18b7645e4d3944f1191fa025f3c3ac85bf6eec4bf139cb0e39f947601c",
-      "size": 46
+      "sha256": "cb38923c73c119f637c9fe1f71f60f2f170f22597f4f964d75978141c86c828b",
+      "size": 4890
     },
     {
       "path": "plugins/com.cjhackeryt.soundbox/versions/0.1.5/manifest.json",
@@ -446,8 +446,8 @@
     },
     {
       "path": "plugins/com.cjhackeryt.soundbox/versions/1.0.7/description.md",
-      "sha256": "3dc43f18b7645e4d3944f1191fa025f3c3ac85bf6eec4bf139cb0e39f947601c",
-      "size": 46
+      "sha256": "a59cb3ed574f66c7f2736c585a46ebabc748345c092a438c026286e80f3e2420",
+      "size": 7590
     },
     {
       "path": "plugins/com.cjhackeryt.soundbox/versions/1.0.7/manifest.json",
@@ -461,8 +461,8 @@
     },
     {
       "path": "plugins/com.cjhackeryt.soundbox/versions/1.0.8/description.md",
-      "sha256": "3dc43f18b7645e4d3944f1191fa025f3c3ac85bf6eec4bf139cb0e39f947601c",
-      "size": 46
+      "sha256": "2654e5bf0bde8ca08121788a1d92c949c7b1e4f2d564deaef8c0b14fbb805644",
+      "size": 8713
     },
     {
       "path": "plugins/com.cjhackeryt.soundbox/versions/1.0.8/manifest.json",
@@ -496,8 +496,8 @@
     },
     {
       "path": "plugins/com.cjhackeryt.spicetifydeck/versions/1.0.3/description.md",
-      "sha256": "24785aaefc8729f48c122a07e5277542c3fef9b88a409c416e69b1fbde2ad1ba",
-      "size": 234
+      "sha256": "23c0d388e04da5b125d49954501c6b6a639154d00ed1ae802d4a0b08d12214d8",
+      "size": 2052
     },
     {
       "path": "plugins/com.cjhackeryt.spicetifydeck/versions/1.0.3/manifest.json",
@@ -546,8 +546,8 @@
     },
     {
       "path": "plugins/com.cjhackeryt.steelseriessonar/versions/1.0.15/description.md",
-      "sha256": "c09d65e98820ec3a666968021675151e7a82f2ec5be702ed1c78ced9cfd99fff",
-      "size": 125
+      "sha256": "7bd4d998d19fb1d075df5319dbfceabbb46ca6105c681ac1fae73f69fc081d78",
+      "size": 8400
     },
     {
       "path": "plugins/com.cjhackeryt.steelseriessonar/versions/1.0.15/manifest.json",
@@ -561,8 +561,8 @@
     },
     {
       "path": "plugins/com.cjhackeryt.steelseriessonar/versions/1.0.18/description.md",
-      "sha256": "c09d65e98820ec3a666968021675151e7a82f2ec5be702ed1c78ced9cfd99fff",
-      "size": 125
+      "sha256": "c3c10c0415ad81fc7cd3d6aa9bfc00acf0fe10824618ee7c7defb582e3777cb7",
+      "size": 8422
     },
     {
       "path": "plugins/com.cjhackeryt.steelseriessonar/versions/1.0.18/manifest.json",
@@ -661,8 +661,8 @@
     },
     {
       "path": "plugins/com.hashashin.fxcommands/versions/0.2.4/description.md",
-      "sha256": "c8dff96d28a6134ff82ac251b551d1e909d08cebf41236514494bc59a50e0da9",
-      "size": 51
+      "sha256": "644a9139ce3a193fb77f1f49e396234fe4b3516eeff7609d19f330902ad10b0b",
+      "size": 732
     },
     {
       "path": "plugins/com.hashashin.fxcommands/versions/0.2.4/manifest.json",
@@ -676,8 +676,8 @@
     },
     {
       "path": "plugins/com.hashashin.fxcommands/versions/0.2.5/description.md",
-      "sha256": "c8dff96d28a6134ff82ac251b551d1e909d08cebf41236514494bc59a50e0da9",
-      "size": 51
+      "sha256": "644a9139ce3a193fb77f1f49e396234fe4b3516eeff7609d19f330902ad10b0b",
+      "size": 732
     },
     {
       "path": "plugins/com.hashashin.fxcommands/versions/0.2.5/manifest.json",
@@ -691,8 +691,8 @@
     },
     {
       "path": "plugins/com.hashashin.fxcommands/versions/0.2.7/description.md",
-      "sha256": "c8dff96d28a6134ff82ac251b551d1e909d08cebf41236514494bc59a50e0da9",
-      "size": 51
+      "sha256": "4224cbecf79327e33ac0e9678066235e593d795582ac26e0aee3fba4906db367",
+      "size": 1287
     },
     {
       "path": "plugins/com.hashashin.fxcommands/versions/0.2.7/manifest.json",
@@ -706,8 +706,8 @@
     },
     {
       "path": "plugins/com.hashashin.fxcommands/versions/0.2.8/description.md",
-      "sha256": "c8dff96d28a6134ff82ac251b551d1e909d08cebf41236514494bc59a50e0da9",
-      "size": 51
+      "sha256": "4224cbecf79327e33ac0e9678066235e593d795582ac26e0aee3fba4906db367",
+      "size": 1287
     },
     {
       "path": "plugins/com.hashashin.fxcommands/versions/0.2.8/manifest.json",
@@ -726,8 +726,8 @@
     },
     {
       "path": "plugins/com.hashashin.octoprint/versions/0.1.0/description.md",
-      "sha256": "8137e8d333c7dfa98a36983f1c07a008187f0094047d271897f43939852e8964",
-      "size": 61
+      "sha256": "0432f7ce3d7a566d81f48aba9e3932e24613c1f8ef4b6b178c52d23137801574",
+      "size": 3653
     },
     {
       "path": "plugins/com.hashashin.octoprint/versions/0.1.0/manifest.json",
@@ -746,8 +746,8 @@
     },
     {
       "path": "plugins/com.inariix.mbxhub-plugin/versions/0.1.5/description.md",
-      "sha256": "f73232d165ef37b76420467cf04a862d3641a197d2e99204b3cff19bd3c97227",
-      "size": 141
+      "sha256": "5b7de080ca55d14bb3484bc4533ed879c4862f7a72e6f14387d2e89a578235e7",
+      "size": 6147
     },
     {
       "path": "plugins/com.inariix.mbxhub-plugin/versions/0.1.5/manifest.json",
@@ -766,8 +766,8 @@
     },
     {
       "path": "plugins/com.jhnnr.calendar/versions/1.0.0/description.md",
-      "sha256": "b664d216c3930af9fc9fb251a635b198455568917723aecd75c84ae758ab5502",
-      "size": 105
+      "sha256": "76757b23aef425f5469c7b5985741384d86005454d5a101c4feb4946d7304c4d",
+      "size": 4568
     },
     {
       "path": "plugins/com.jhnnr.calendar/versions/1.0.0/manifest.json",
@@ -846,8 +846,8 @@
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.0.1/description.md",
-      "sha256": "376e9bdf047361f456d38920fab877737ddfa167904e90c32e61702af0233ae6",
-      "size": 91
+      "sha256": "e0b2cbb3ab10a0d12f838db7b2bae2b29d326f0951c403be61c9817b870e228e",
+      "size": 20265
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.0.1/manifest.json",
@@ -861,8 +861,8 @@
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.0.2/description.md",
-      "sha256": "376e9bdf047361f456d38920fab877737ddfa167904e90c32e61702af0233ae6",
-      "size": 91
+      "sha256": "e0b2cbb3ab10a0d12f838db7b2bae2b29d326f0951c403be61c9817b870e228e",
+      "size": 20265
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.0.2/manifest.json",
@@ -876,8 +876,8 @@
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.1.0/description.md",
-      "sha256": "376e9bdf047361f456d38920fab877737ddfa167904e90c32e61702af0233ae6",
-      "size": 91
+      "sha256": "e0b2cbb3ab10a0d12f838db7b2bae2b29d326f0951c403be61c9817b870e228e",
+      "size": 20265
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.1.0/manifest.json",
@@ -891,8 +891,8 @@
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.3.0/description.md",
-      "sha256": "376e9bdf047361f456d38920fab877737ddfa167904e90c32e61702af0233ae6",
-      "size": 91
+      "sha256": "6f03dd3c42c3f6c52eff83d28f73349972d17f8f047c12da97094b7513dd9520",
+      "size": 20370
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.3.0/manifest.json",
@@ -906,8 +906,8 @@
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.4.0/description.md",
-      "sha256": "376e9bdf047361f456d38920fab877737ddfa167904e90c32e61702af0233ae6",
-      "size": 91
+      "sha256": "e0844d5d6c7702e37d1063b638ad24b0b7b478c5e1d8058b0c2b14e7d2b9c521",
+      "size": 20409
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.4.0/manifest.json",
@@ -921,8 +921,8 @@
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.5.0/description.md",
-      "sha256": "376e9bdf047361f456d38920fab877737ddfa167904e90c32e61702af0233ae6",
-      "size": 91
+      "sha256": "31d9412152d955232de5fb9d59c942a638d0144772d2646445bf2741572050a2",
+      "size": 26302
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.5.0/manifest.json",
@@ -936,8 +936,8 @@
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.6.0/description.md",
-      "sha256": "376e9bdf047361f456d38920fab877737ddfa167904e90c32e61702af0233ae6",
-      "size": 91
+      "sha256": "2888d313f6559905f15c353c07d5295540193fa653c7e27d05e9534804725f6e",
+      "size": 27333
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.6.0/manifest.json",
@@ -951,8 +951,8 @@
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.7.0/description.md",
-      "sha256": "376e9bdf047361f456d38920fab877737ddfa167904e90c32e61702af0233ae6",
-      "size": 91
+      "sha256": "bdc417c411ab7281de099ecb2eff40c3d01cf2cf4b3c6ca98110158c42de4ad4",
+      "size": 27607
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.7.0/manifest.json",
@@ -971,8 +971,8 @@
     },
     {
       "path": "plugins/com.pyflat.printer-control/versions/1.0.0/description.md",
-      "sha256": "ab4e260869056ee5afbfbabbf88353ab9d94b47e78df0d2366d34c0cb43df602",
-      "size": 245
+      "sha256": "0c3ac8a79f8823aef9b5573c546b1441cd42c6af8e5b6b7ef0c223d653cca6ec",
+      "size": 8690
     },
     {
       "path": "plugins/com.pyflat.printer-control/versions/1.0.0/manifest.json",
@@ -991,8 +991,8 @@
     },
     {
       "path": "plugins/com.pyflat.system-hotkeys/versions/1.0.0/description.md",
-      "sha256": "362a850e8e63988dc63ff680497b1393d4fff2ae8a1ea22c3426aa8728a99579",
-      "size": 168
+      "sha256": "5b542679ae1ccf3b5b721d69e7829cb9875f09270cb7d12befb5dd946ba67bba",
+      "size": 21186
     },
     {
       "path": "plugins/com.pyflat.system-hotkeys/versions/1.0.0/manifest.json",
@@ -1006,8 +1006,8 @@
     },
     {
       "path": "plugins/com.pyflat.system-hotkeys/versions/1.0.1/description.md",
-      "sha256": "362a850e8e63988dc63ff680497b1393d4fff2ae8a1ea22c3426aa8728a99579",
-      "size": 168
+      "sha256": "ef5f97c526adb3d95a437d8045435bdc810aaffb53c0558185507826218931a7",
+      "size": 20615
     },
     {
       "path": "plugins/com.pyflat.system-hotkeys/versions/1.0.1/manifest.json",
@@ -1021,8 +1021,8 @@
     },
     {
       "path": "plugins/com.pyflat.system-hotkeys/versions/1.0.2/description.md",
-      "sha256": "362a850e8e63988dc63ff680497b1393d4fff2ae8a1ea22c3426aa8728a99579",
-      "size": 168
+      "sha256": "cbb8de5649b7034aef1ca909e698eb4dc4db47c1b4d0c38a3e0f837eafa74486",
+      "size": 21949
     },
     {
       "path": "plugins/com.pyflat.system-hotkeys/versions/1.0.2/manifest.json",
@@ -1056,8 +1056,8 @@
     },
     {
       "path": "plugins/com.pyflat.system-media/versions/1.0.0/description.md",
-      "sha256": "d702468df3bf13dc62cb7235be06d41959b87693dc6bc58fa2531c56e33011aa",
-      "size": 253
+      "sha256": "d3510d65579f6b46cec69fe53d35498a6014c68a3e14bfe603430c83071dda82",
+      "size": 11045
     },
     {
       "path": "plugins/com.pyflat.system-media/versions/1.0.0/manifest.json",
@@ -1071,8 +1071,8 @@
     },
     {
       "path": "plugins/com.pyflat.system-media/versions/1.1.0/description.md",
-      "sha256": "d702468df3bf13dc62cb7235be06d41959b87693dc6bc58fa2531c56e33011aa",
-      "size": 253
+      "sha256": "e9d92701a0ce49345f7266eeec83c5dfa1c9d50c7d2037dec25a79fa630d3ff1",
+      "size": 12474
     },
     {
       "path": "plugins/com.pyflat.system-media/versions/1.1.0/manifest.json",
@@ -1121,8 +1121,8 @@
     },
     {
       "path": "plugins/com.sarti2004.dorideck/versions/0.3.0/description.md",
-      "sha256": "ef4d817f1fd27482faef61c0e0c2ee9604fb3f6e862c8ccddc69d33e5b3010b6",
-      "size": 31
+      "sha256": "afc576bfdbd3a458b8cb7f6890bdac3007cead2ecefa74c0512c1823acb05b39",
+      "size": 5426
     },
     {
       "path": "plugins/com.sarti2004.dorideck/versions/0.3.0/manifest.json",
@@ -1171,8 +1171,8 @@
     },
     {
       "path": "plugins/com.squibsland.beefweb/versions/0.0.4/description.md",
-      "sha256": "877cdee8d02c186656eb5b59efd33f3d5386b2ae0bfe653e2538597e729bfc47",
-      "size": 64
+      "sha256": "d927187e94bd967aaf0c00ca1b8f27d61581806b7af727cb34e1b6d4da1184e7",
+      "size": 5161
     },
     {
       "path": "plugins/com.squibsland.beefweb/versions/0.0.4/manifest.json",
@@ -1191,8 +1191,8 @@
     },
     {
       "path": "plugins/com.suchbyte.macrogotchi/versions/1.1.0/description.md",
-      "sha256": "ac1f7fe67e3a3204115cdf01c40695245dbc697093b363b65965a3871252ae7b",
-      "size": 35
+      "sha256": "83643f331dcc1df449d4d7671395e52a5e9dead8498b2f6531dad68da748618c",
+      "size": 1875
     },
     {
       "path": "plugins/com.suchbyte.macrogotchi/versions/1.1.0/manifest.json",
@@ -1206,8 +1206,8 @@
     },
     {
       "path": "plugins/com.suchbyte.macrogotchi/versions/1.1.5/description.md",
-      "sha256": "ac1f7fe67e3a3204115cdf01c40695245dbc697093b363b65965a3871252ae7b",
-      "size": 35
+      "sha256": "83643f331dcc1df449d4d7671395e52a5e9dead8498b2f6531dad68da748618c",
+      "size": 1875
     },
     {
       "path": "plugins/com.suchbyte.macrogotchi/versions/1.1.5/manifest.json",
@@ -1276,8 +1276,8 @@
     },
     {
       "path": "plugins/com.tabsik12.ets2-telemetry/versions/1.0.7/description.md",
-      "sha256": "f78e40584f932848abc64db786e2b89f294d9569f419837ea91ada0efc5b8bd7",
-      "size": 157
+      "sha256": "32aa1d7357fdc34d668df05dc36506639bfbd722e1a33c239162d9e82409ae31",
+      "size": 1893
     },
     {
       "path": "plugins/com.tabsik12.ets2-telemetry/versions/1.0.7/manifest.json",
@@ -1291,8 +1291,8 @@
     },
     {
       "path": "plugins/com.tabsik12.ets2-telemetry/versions/1.0.8/description.md",
-      "sha256": "f78e40584f932848abc64db786e2b89f294d9569f419837ea91ada0efc5b8bd7",
-      "size": 157
+      "sha256": "32aa1d7357fdc34d668df05dc36506639bfbd722e1a33c239162d9e82409ae31",
+      "size": 1893
     },
     {
       "path": "plugins/com.tabsik12.ets2-telemetry/versions/1.0.8/manifest.json",
@@ -1306,8 +1306,8 @@
     },
     {
       "path": "plugins/com.tabsik12.ets2-telemetry/versions/1.0.9/description.md",
-      "sha256": "f78e40584f932848abc64db786e2b89f294d9569f419837ea91ada0efc5b8bd7",
-      "size": 157
+      "sha256": "67e15c4e5201f9a143fbca4feb8b27317d4784e983a4fdbf6d012e97b6265595",
+      "size": 1893
     },
     {
       "path": "plugins/com.tabsik12.ets2-telemetry/versions/1.0.9/manifest.json",
@@ -1326,8 +1326,8 @@
     },
     {
       "path": "plugins/com.tabsik12.minecraft-macrolink/versions/1.0.0/description.md",
-      "sha256": "71d85385a59e768664453abfeea8f404cbcf786dc140da981233288221fc55e2",
-      "size": 147
+      "sha256": "8706335999c775b2afb869a358a56e7fd520ee8c018f3197ee7c69f2fc150bb2",
+      "size": 2685
     },
     {
       "path": "plugins/com.tabsik12.minecraft-macrolink/versions/1.0.0/manifest.json",
@@ -1341,8 +1341,8 @@
     },
     {
       "path": "plugins/com.tabsik12.minecraft-macrolink/versions/1.0.1/description.md",
-      "sha256": "71d85385a59e768664453abfeea8f404cbcf786dc140da981233288221fc55e2",
-      "size": 147
+      "sha256": "be09cc0b44b93fb4c6d7afeb929bac35c82cc8db2c63f0ffd7048a36970a466a",
+      "size": 2706
     },
     {
       "path": "plugins/com.tabsik12.minecraft-macrolink/versions/1.0.1/manifest.json",
@@ -1376,8 +1376,8 @@
     },
     {
       "path": "plugins/com.tabsik12.tuya-control/versions/1.0.4/description.md",
-      "sha256": "6a687293b38510e2aa9c9e1dd627909bf92e78bbe51158e28eb389249a0cde16",
-      "size": 126
+      "sha256": "bcfa6199379cf5ff01a320e1ff4816fd21755c6f7a222c643e28bea599ae680a",
+      "size": 4381
     },
     {
       "path": "plugins/com.tabsik12.tuya-control/versions/1.0.4/manifest.json",
@@ -1391,8 +1391,8 @@
     },
     {
       "path": "plugins/com.tabsik12.tuya-control/versions/1.0.5/description.md",
-      "sha256": "6a687293b38510e2aa9c9e1dd627909bf92e78bbe51158e28eb389249a0cde16",
-      "size": 126
+      "sha256": "bcfa6199379cf5ff01a320e1ff4816fd21755c6f7a222c643e28bea599ae680a",
+      "size": 4381
     },
     {
       "path": "plugins/com.tabsik12.tuya-control/versions/1.0.5/manifest.json",
@@ -1426,8 +1426,8 @@
     },
     {
       "path": "plugins/com.yussefabdelwahab.comfyui-job-monitor/versions/1.0.4/description.md",
-      "sha256": "80e6446c229f649fed95671c9de2d116508fd65fc9b6546a284622e668c3db0d",
-      "size": 58
+      "sha256": "9e1ec2301f39eb7c1a4e2cf4fccdf64452df67fef3e687a82ebe27981028975e",
+      "size": 4577
     },
     {
       "path": "plugins/com.yussefabdelwahab.comfyui-job-monitor/versions/1.0.4/manifest.json",
@@ -1441,8 +1441,8 @@
     },
     {
       "path": "plugins/com.yussefabdelwahab.comfyui-job-monitor/versions/1.0.5/description.md",
-      "sha256": "80e6446c229f649fed95671c9de2d116508fd65fc9b6546a284622e668c3db0d",
-      "size": 58
+      "sha256": "fbca7eafdc119245fcb54c4903b9abfe1a64f2a63346199c1da9710e1ce94635",
+      "size": 4562
     },
     {
       "path": "plugins/com.yussefabdelwahab.comfyui-job-monitor/versions/1.0.5/manifest.json",
@@ -1461,8 +1461,8 @@
     },
     {
       "path": "plugins/com.yussefabdelwahab.image-slideshow/versions/1.0.3/description.md",
-      "sha256": "60ded64d0d530ba3e17314503ab68aa620dcd2cb5c4f9cf854eb8590d83e8215",
-      "size": 108
+      "sha256": "61bebb7a63803880101a226276526be548c97932ddd80b06fd2aa6220be05f22",
+      "size": 4469
     },
     {
       "path": "plugins/com.yussefabdelwahab.image-slideshow/versions/1.0.3/manifest.json",
@@ -1481,8 +1481,8 @@
     },
     {
       "path": "plugins/com.yussefabdelwahab.nvidia-smi-tool/versions/1.0.3/description.md",
-      "sha256": "a215e623319b525aada12a1a78b527041acc25327495b4062d4fe6c04c850de4",
-      "size": 65
+      "sha256": "250c9020dc58889881bf039a9ad874d6ea67db7488aabe0e911a424e4e31e169",
+      "size": 4122
     },
     {
       "path": "plugins/com.yussefabdelwahab.nvidia-smi-tool/versions/1.0.3/manifest.json",
@@ -1501,8 +1501,8 @@
     },
     {
       "path": "plugins/net.ziopuzzle.custombutton/versions/0.32.1/description.md",
-      "sha256": "f9f38ae34d4db6f4a2106df4b57f5422cfaf22bb9fe8fa4a37df9927fa1c3453",
-      "size": 52
+      "sha256": "9f5888c0c17f641aeecd6773bb08e12e8d8c5465b158303aee92afb3695bc511",
+      "size": 5128
     },
     {
       "path": "plugins/net.ziopuzzle.custombutton/versions/0.32.1/manifest.json",
@@ -1516,8 +1516,8 @@
     },
     {
       "path": "plugins/net.ziopuzzle.custombutton/versions/0.35.1/description.md",
-      "sha256": "f9f38ae34d4db6f4a2106df4b57f5422cfaf22bb9fe8fa4a37df9927fa1c3453",
-      "size": 52
+      "sha256": "5e9d68aced1587136c2103958d85a1f40ce43a2742d2506f951d069844bb44d5",
+      "size": 5315
     },
     {
       "path": "plugins/net.ziopuzzle.custombutton/versions/0.35.1/manifest.json",
@@ -1531,8 +1531,8 @@
     },
     {
       "path": "plugins/net.ziopuzzle.custombutton/versions/0.36.4/description.md",
-      "sha256": "f9f38ae34d4db6f4a2106df4b57f5422cfaf22bb9fe8fa4a37df9927fa1c3453",
-      "size": 52
+      "sha256": "4083f193de610eb1e1876cd6225e7c09a67ee542ff36e9a3bd39a57efa3c17ad",
+      "size": 5468
     },
     {
       "path": "plugins/net.ziopuzzle.custombutton/versions/0.36.4/manifest.json",
