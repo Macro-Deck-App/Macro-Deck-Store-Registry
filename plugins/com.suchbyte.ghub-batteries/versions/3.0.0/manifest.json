@@ -1,0 +1,41 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.suchbyte.ghub-batteries/3.0.0/com.suchbyte.ghub-batteries-v3.0.0.macroDeckPlugin",
+  "sha256": "c46d5a3551011fcba2ec0441b4811abd1706eacc1d5b7c9bc153915a49e524c7",
+  "size": 4326622,
+  "uploadedAt": "2026-10-15T18:43:29.06035+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.suchbyte.ghub-batteries/assets/f16c6b7d123f2b32-f16c6b7d123f2b32742505d56277d2c96e10e219f14361e9665217ac27306c94.png",
+      "sha256": "f16c6b7d123f2b32742505d56277d2c96e10e219f14361e9665217ac27306c94",
+      "size": 6884,
+      "contentType": "image/png"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.suchbyte.ghub-batteries/assets/cb83021c1f853090-cb83021c1f85309034dab34c226a9cf591fd21ee2d91809983d92ed16bb1a1d1.png",
+        "sha256": "cb83021c1f85309034dab34c226a9cf591fd21ee2d91809983d92ed16bb1a1d1",
+        "size": 409072,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.suchbyte.ghub-batteries/assets/439bb7466e4abde7-439bb7466e4abde79fecc38ebd42934ac47f67d460f86c2430cf229ba2c6545e.png",
+        "sha256": "439bb7466e4abde79fecc38ebd42934ac47f67d460f86c2430cf229ba2c6545e",
+        "size": 417668,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.suchbyte.ghub-batteries/assets/742702d32c403c3c-742702d32c403c3c2faad580908543a04896c63a06ecc917572eb64ea4a4130a.png",
+        "sha256": "742702d32c403c3c2faad580908543a04896c63a06ecc917572eb64ea4a4130a",
+        "size": 386634,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.suchbyte.ghub-batteries/assets/24ea000f094a5925-24ea000f094a59250439f2becd548f8f79edfd3ed69e8ffb493566c9d0cd253f.png",
+        "sha256": "24ea000f094a59250439f2becd548f8f79edfd3ed69e8ffb493566c9d0cd253f",
+        "size": 371902,
+        "contentType": "image/png"
+      }
+    ]
+  }
+}

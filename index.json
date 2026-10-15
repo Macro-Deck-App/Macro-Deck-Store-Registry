@@ -1,7 +1,7 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-10-15T15:04:33.6736355+00:00",
+  "generatedAt": "2026-10-15T18:47:42.5571479+00:00",
   "plugins": [
     "app.counttogether.counttogether-macro-deck-plugin",
     "com.cjhackeryt.hwinfodeck",
@@ -26,6 +26,7 @@
     "com.pyflat.system-media",
     "com.sarti2004.dorideck",
     "com.squibsland.beefweb",
+    "com.suchbyte.ghub-batteries",
     "com.suchbyte.todo-list-plugin",
     "com.tabsik12.ets2-telemetry",
     "com.tabsik12.minecraft-macrolink",

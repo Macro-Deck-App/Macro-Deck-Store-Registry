@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 111,
-  "generatedAt": "2026-10-15T18:38:18.9212834+00:00",
+  "sequence": 112,
+  "generatedAt": "2026-10-15T18:47:42.5631199+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -341,8 +341,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "cb4a04e76aabeb9e190e19573d3cd4677ddb7b78f0b59acfe30eb4a989b14d4a",
-      "size": 1571
+      "sha256": "e4dfe0acca80d3ae08a53f1b49752996e6b59646a1f4bbdebe652fca3252c695",
+      "size": 1606
     },
     {
       "path": "plugins/app.counttogether.counttogether-macro-deck-plugin/manifest.json",
@@ -1208,6 +1208,26 @@
       "path": "plugins/com.squibsland.beefweb/versions/0.0.4/manifest.json",
       "sha256": "a7ad7b34c84fb04ccd071213407073175ba3cff246d8609ffdd6a60b018e978f",
       "size": 724
+    },
+    {
+      "path": "plugins/com.suchbyte.ghub-batteries/manifest.json",
+      "sha256": "bd6820cbec60b4b66bad3ad6837e1e8bfeae470bd685eaf798f93f91e76a7d0f",
+      "size": 763
+    },
+    {
+      "path": "plugins/com.suchbyte.ghub-batteries/versions/3.0.0/changelog.md",
+      "sha256": "b8fc952c585058711a7d33da7da7073d591f5600e6570434cf9087873a60e2ea",
+      "size": 362
+    },
+    {
+      "path": "plugins/com.suchbyte.ghub-batteries/versions/3.0.0/description.md",
+      "sha256": "2e8c59dc45d5c249d01ce9a8a268a0838118aaab9130cc989195719498ec1803",
+      "size": 5345
+    },
+    {
+      "path": "plugins/com.suchbyte.ghub-batteries/versions/3.0.0/manifest.json",
+      "sha256": "9d6dd09f07943daf3b1d6052d97983fd53c064c45fd95d152940d024055649dc",
+      "size": 2113
     },
     {
       "path": "plugins/com.suchbyte.macrogotchi/manifest.json",

@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "GHub Batteries",
+  "id": "com.suchbyte.ghub-batteries",
+  "latestVersion": "3.0.0",
+  "description": "Monitor the battery levels of your Logitech devices in Macro Deck. Requires Logitech G HUB.",
+  "publisher": "SuchByte",
+  "repository": "https://github.com/manuelmayer-dev/Macro-Deck-GHUB-Batteries",
+  "license": "MIT",
+  "createdAt": "2026-10-15T18:47:42.5571479+00:00",
+  "updatedAt": "2026-10-15T18:47:42.5571479+00:00",
+  "supportedRids": [
+    "osx-arm64",
+    "win-x64"
+  ],
+  "tags": [
+    "system",
+    "productivity",
+    "batteries",
+    "ghub",
+    "logitech"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": false
+  }
+}
