@@ -1,0 +1,16 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.pyflat.system-hotkeys/1.1.0/com.pyflat.system-hotkeys-v1.1.0.macroDeckPlugin",
+  "sha256": "c9649a6077aafacef3be8cb0a7c1c1e718db4519178c6a95bc25a736fbddbfd4",
+  "size": 2124369,
+  "uploadedAt": "2026-10-14T22:00:16.256215+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.pyflat.system-hotkeys/assets/ee8263f092b3de86-ee8263f092b3de86ccc833df018cdfa27339a864f8a00f02541285425e1c9231.svg",
+      "sha256": "ee8263f092b3de86ccc833df018cdfa27339a864f8a00f02541285425e1c9231",
+      "size": 983,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": []
+  }
+}
