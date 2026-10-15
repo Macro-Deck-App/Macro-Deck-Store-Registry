@@ -1,0 +1,1 @@
+Updates the plugin to Macro Deck SDK 3.0.0-beta.17. Converts health, armor, hunger, and air values to numeric variables. Includes a new original block-inspired icon. Requires Macro Deck 3.0.0-beta.17 or later.
