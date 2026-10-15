@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 104,
-  "generatedAt": "2026-10-15T14:58:58.7748618+00:00",
+  "sequence": 105,
+  "generatedAt": "2026-10-15T14:59:25.5099483+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -1006,13 +1006,13 @@
     },
     {
       "path": "plugins/com.pyflat.system-hotkeys/versions/1.1.0/description.md",
-      "sha256": "362a850e8e63988dc63ff680497b1393d4fff2ae8a1ea22c3426aa8728a99579",
-      "size": 168
+      "sha256": "cce28debe835d17c207a6e7497622af573578885fdd6a3a4308069837b426353",
+      "size": 23567
     },
     {
       "path": "plugins/com.pyflat.system-hotkeys/versions/1.1.0/manifest.json",
-      "sha256": "8594f0964c3db213bc350f1929df9205f8a442b654d6e02f1bec41965336d7ce",
-      "size": 732
+      "sha256": "450c748a7d2c8eefad50a0fa3bc098581ac2715517bff32b4543be11fdfbd4ce",
+      "size": 1764
     },
     {
       "path": "plugins/com.pyflat.system-media/manifest.json",
