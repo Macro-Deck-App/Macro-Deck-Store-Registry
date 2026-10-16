@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 113,
-  "generatedAt": "2026-10-16T05:06:43.8321102+00:00",
+  "sequence": 114,
+  "generatedAt": "2026-10-16T05:06:50.953846+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -1551,8 +1551,8 @@
     },
     {
       "path": "plugins/com.yussefabdelwahab.nvidia-smi-tool/versions/1.0.3/manifest.json",
-      "sha256": "e8f55508bca5e332cb1d6b6df6592f58f811aa04af8216cdcd62686e789f6e82",
-      "size": 765
+      "sha256": "c400ce1b865ad184719725502916de554b9317084b34666c1d02cacd35474047",
+      "size": 1122
     },
     {
       "path": "plugins/net.ziopuzzle.custombutton/manifest.json",

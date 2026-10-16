@@ -11,6 +11,13 @@
       "size": 429,
       "contentType": "image/svg\u002Bxml"
     },
-    "screenshots": []
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.yussefabdelwahab.nvidia-smi-tool/assets/13203148a2769733-13203148a2769733f16c3d3acfdb825d77f6fc79ad943ddbc94af8eed26a795b.png",
+        "sha256": "13203148a2769733f16c3d3acfdb825d77f6fc79ad943ddbc94af8eed26a795b",
+        "size": 69703,
+        "contentType": "image/png"
+      }
+    ]
   }
 }
