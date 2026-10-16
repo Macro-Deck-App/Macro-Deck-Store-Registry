@@ -55,6 +55,25 @@
         }
       },
       "additionalProperties": false
+    },
+    "source": {
+      "type": "object",
+      "description": "The commit the release was built from, as its trusted build proved it, and the tag that triggered the build. Absent means the Platform does not know, never 'built from no source'.",
+      "required": [
+        "commit"
+      ],
+      "properties": {
+        "tag": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 200
+        },
+        "commit": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{40}$"
+        }
+      },
+      "additionalProperties": false
     }
   },
   "$defs": {

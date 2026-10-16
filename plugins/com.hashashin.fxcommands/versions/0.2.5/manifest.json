@@ -12,5 +12,9 @@
       "contentType": "image/png"
     },
     "screenshots": []
+  },
+  "source": {
+    "tag": "v0.2.5",
+    "commit": "53ab257396e36d18c4275af10d9de9228ed079a7"
   }
 }

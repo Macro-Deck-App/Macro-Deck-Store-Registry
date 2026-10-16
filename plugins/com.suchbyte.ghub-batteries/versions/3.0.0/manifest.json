@@ -37,5 +37,9 @@
         "contentType": "image/png"
       }
     ]
+  },
+  "source": {
+    "tag": "v3.0.0",
+    "commit": "9833e6f9a84e0a21d89788a0368187b1ec516333"
   }
 }

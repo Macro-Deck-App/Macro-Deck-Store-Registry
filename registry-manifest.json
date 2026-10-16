@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 116,
-  "generatedAt": "2026-10-16T06:21:27.2896887+00:00",
+  "sequence": 117,
+  "generatedAt": "2026-10-16T14:55:16.5038526+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -366,8 +366,8 @@
     },
     {
       "path": "plugins/app.counttogether.counttogether-macro-deck-plugin/versions/2.0.0/manifest.json",
-      "sha256": "853814b86b175db2d48180cb1f2f5667567226c8660f2382b4340452766e5192",
-      "size": 1169
+      "sha256": "fcf7163f1e4b7b0636c8acd9c9f29d9f09904c1e9810e76a5872ca3e3781f3d7",
+      "size": 1266
     },
     {
       "path": "plugins/com.cjhackeryt.hwinfodeck/manifest.json",
@@ -391,8 +391,8 @@
     },
     {
       "path": "plugins/com.cjhackeryt.hwinfodeck/versions/1.0.1/manifest.json",
-      "sha256": "fd7c50561d81b19091d7ebc6481ceb4fd73823e17e7431f2aa2fd02dce3ae1e6",
-      "size": 1420
+      "sha256": "8d7d798c7c85c9202d4c80c13e0f212eecdbe24ec128d2b430ff422451e2a6b4",
+      "size": 1517
     },
     {
       "path": "plugins/com.cjhackeryt.hwinfodeck/versions/1.0.3/changelog.md",
@@ -411,8 +411,8 @@
     },
     {
       "path": "plugins/com.cjhackeryt.hwinfodeck/versions/1.0.3/manifest.json",
-      "sha256": "428607924049df8e3a390b675aa2d052b74569c64441c945598a67a90e2aaf2c",
-      "size": 1420
+      "sha256": "0e8c90a7035b7897755f2b3926cfff577659698de7c782883053fc66e735c9d6",
+      "size": 1517
     },
     {
       "path": "plugins/com.cjhackeryt.screenxdeck/manifest.json",
@@ -436,8 +436,8 @@
     },
     {
       "path": "plugins/com.cjhackeryt.screenxdeck/versions/1.0.3/manifest.json",
-      "sha256": "b22fdefe26fb72300711d443f04ade8b9525ac22c43d36d6ffc8dac896d3c96d",
-      "size": 735
+      "sha256": "7174c3b3b4ee59d64c444d5b406e4cdc16c9c16ff6622ab9dbaa3e90ca21e534",
+      "size": 832
     },
     {
       "path": "plugins/com.cjhackeryt.soundbox/manifest.json",
@@ -461,8 +461,8 @@
     },
     {
       "path": "plugins/com.cjhackeryt.soundbox/versions/0.1.5/manifest.json",
-      "sha256": "6e79ca40bfd8c0e5f1db1d28c35ce9f1f88e04ef372611c822466cfc2fc7de8d",
-      "size": 1071
+      "sha256": "95435cd327a4c860c6f67a70446939d985db24da1d7428bf73bd90f9424998cb",
+      "size": 1168
     },
     {
       "path": "plugins/com.cjhackeryt.soundbox/versions/1.0.7/changelog.md",
@@ -481,8 +481,8 @@
     },
     {
       "path": "plugins/com.cjhackeryt.soundbox/versions/1.0.7/manifest.json",
-      "sha256": "f083cabab9da02f43006ea11251a9fe0312bfe29990001246849121cd4e49feb",
-      "size": 1071
+      "sha256": "f2af25fd2e4bc89747fba4606b0488f93914e0a09d97ab9c9b747db8889f71df",
+      "size": 1168
     },
     {
       "path": "plugins/com.cjhackeryt.soundbox/versions/1.0.8/changelog.md",
@@ -501,8 +501,8 @@
     },
     {
       "path": "plugins/com.cjhackeryt.soundbox/versions/1.0.8/manifest.json",
-      "sha256": "12cd4d8e9dbcbaefa7697fede3251077426889195b55200967b0b193c1c31d10",
-      "size": 1071
+      "sha256": "1352cc09c7d87caa14828fe1513893f114711b352421efbdf8105d157666fee9",
+      "size": 1171
     },
     {
       "path": "plugins/com.cjhackeryt.soundbox/versions/1.0.9/changelog.md",
@@ -521,8 +521,8 @@
     },
     {
       "path": "plugins/com.cjhackeryt.soundbox/versions/1.0.9/manifest.json",
-      "sha256": "41eb8a3b0cfe9bff6dab74ae9f55fd6c56262511edfbe52903adf3a5e3f1c14b",
-      "size": 1070
+      "sha256": "25ee8afcdef43c60990ead028a1b4ca15ec2d40c98d2de0434aadca24f290039",
+      "size": 1167
     },
     {
       "path": "plugins/com.cjhackeryt.spicetifydeck/manifest.json",
@@ -546,8 +546,8 @@
     },
     {
       "path": "plugins/com.cjhackeryt.spicetifydeck/versions/1.0.3/manifest.json",
-      "sha256": "8cb79f017098e8d3d0fd5e8b1b821f37382a387a37055e46dc7b55c749304f66",
-      "size": 1090
+      "sha256": "6221a67b7cb5b1b0e1c7a1db11f05db27c3cd0389a9f4d134a0d227ac666fcbb",
+      "size": 1187
     },
     {
       "path": "plugins/com.cjhackeryt.spicetifydeck/versions/2.0.4/changelog.md",
@@ -566,8 +566,8 @@
     },
     {
       "path": "plugins/com.cjhackeryt.spicetifydeck/versions/2.0.4/manifest.json",
-      "sha256": "d10ab4a7899e1b9e89d59df08df0a1baa76aef16ef17abec851f308dac21332f",
-      "size": 1091
+      "sha256": "ca9d72d801019a510096c983b9ee36aba16d76d7fdb78b621be8c62601850500",
+      "size": 1188
     },
     {
       "path": "plugins/com.cjhackeryt.spicetifydeck/versions/2.0.5/changelog.md",
@@ -586,8 +586,8 @@
     },
     {
       "path": "plugins/com.cjhackeryt.spicetifydeck/versions/2.0.5/manifest.json",
-      "sha256": "9c07fd76fd456c511ec91966c2045fc30849f98b44d56353b025a6d7553a7c42",
-      "size": 1091
+      "sha256": "29bf2455529177e8d8614bdceb2315f80ee7d31e3112ff46805b486d9070bb5d",
+      "size": 1188
     },
     {
       "path": "plugins/com.cjhackeryt.steelseriessonar/manifest.json",
@@ -611,8 +611,8 @@
     },
     {
       "path": "plugins/com.cjhackeryt.steelseriessonar/versions/1.0.15/manifest.json",
-      "sha256": "0917b2bb3ac50b4645d032d0c289762194302a58aa577bd24280069ca54ab153",
-      "size": 1801
+      "sha256": "a9a660090f87968d1971b34e4f0bd8692a43a4c15703024aff1b582fe8d41991",
+      "size": 1899
     },
     {
       "path": "plugins/com.cjhackeryt.steelseriessonar/versions/1.0.18/changelog.md",
@@ -631,8 +631,8 @@
     },
     {
       "path": "plugins/com.cjhackeryt.steelseriessonar/versions/1.0.18/manifest.json",
-      "sha256": "07885682e1040191c6c408666a4bc8d91f8ca9c2fe9fa6aff78b9a6a36a1da5a",
-      "size": 1801
+      "sha256": "83a66af49474af47e19f86ac8f69ed2326b45daa359c625fbeda5bce9597d0c8",
+      "size": 1899
     },
     {
       "path": "plugins/com.diegofdezab.volume-mixer/manifest.json",
@@ -656,8 +656,8 @@
     },
     {
       "path": "plugins/com.diegofdezab.volume-mixer/versions/1.0.0/manifest.json",
-      "sha256": "79f0db331b8935d674699007283ff45f92aea956716c36f2233c922092ea4556",
-      "size": 1083
+      "sha256": "f12d7de21dea3eeb8535ece453f2cfee12487fed31b852aec9e2e001ab72c990",
+      "size": 1180
     },
     {
       "path": "plugins/com.dodecadev.gpu-z/manifest.json",
@@ -681,8 +681,8 @@
     },
     {
       "path": "plugins/com.dodecadev.gpu-z/versions/1.0.0/manifest.json",
-      "sha256": "bcbe0818c93598d2e07af83f46c45fab84902a591f677b0db9f3235e08be79b7",
-      "size": 1054
+      "sha256": "1387ecf8b3511f3357418520487ad5782644bd5537434b93ecdf5b0bc7dfc5f7",
+      "size": 1151
     },
     {
       "path": "plugins/com.dodecadev.philips-hue/manifest.json",
@@ -706,8 +706,8 @@
     },
     {
       "path": "plugins/com.dodecadev.philips-hue/versions/1.0.0/manifest.json",
-      "sha256": "1cd633278899635b2acbd62c61519251f1066378a71042b2e3e8eadd2a40d02c",
-      "size": 2449
+      "sha256": "c12a250a0a6802a9e5b4f310f1b4ac1ce91fbd521f57d65d5afdf41c180a4204",
+      "size": 2546
     },
     {
       "path": "plugins/com.dodecadev.vscode/manifest.json",
@@ -731,8 +731,8 @@
     },
     {
       "path": "plugins/com.dodecadev.vscode/versions/1.0.0/manifest.json",
-      "sha256": "e4f6ff4d74c94b72c991f0d8b864c8805f6fcd384c1fef981159b96f84c483a3",
-      "size": 2071
+      "sha256": "f821df4779cb50f5f46ee663e1d4267ddda0c5314880644c021163e75fedbc13",
+      "size": 2168
     },
     {
       "path": "plugins/com.hashashin.fxcommands/manifest.json",
@@ -756,8 +756,8 @@
     },
     {
       "path": "plugins/com.hashashin.fxcommands/versions/0.2.4/manifest.json",
-      "sha256": "0b2c67b882f983217450997af27f44aacae0ae7e884b98f5b94c7700d614eaf9",
-      "size": 720
+      "sha256": "2af9e86f21c954c64e2a520bb96e64d4bf00de973ab59a0ddb626325d840facf",
+      "size": 817
     },
     {
       "path": "plugins/com.hashashin.fxcommands/versions/0.2.5/changelog.md",
@@ -776,8 +776,8 @@
     },
     {
       "path": "plugins/com.hashashin.fxcommands/versions/0.2.5/manifest.json",
-      "sha256": "ee684adaabb968ea3c53f481c5bee544b25950eb87b73300b2531da1cbf99b8c",
-      "size": 720
+      "sha256": "c7e4c1f2bb29c52ed95f4b31ea460965af78195d3c916b0d55589cb50f7f1427",
+      "size": 817
     },
     {
       "path": "plugins/com.hashashin.fxcommands/versions/0.2.7/changelog.md",
@@ -796,8 +796,8 @@
     },
     {
       "path": "plugins/com.hashashin.fxcommands/versions/0.2.7/manifest.json",
-      "sha256": "b671bab31d0ea45963cfafc52b9cedc85e0d07dd157fa6bf26335a66516b3d40",
-      "size": 721
+      "sha256": "7ef5dd966487e6f227f268a701c3593180eef808b8f771db4e3a064bd74c521c",
+      "size": 818
     },
     {
       "path": "plugins/com.hashashin.fxcommands/versions/0.2.8/changelog.md",
@@ -816,8 +816,8 @@
     },
     {
       "path": "plugins/com.hashashin.fxcommands/versions/0.2.8/manifest.json",
-      "sha256": "375679c83646d416d3069139e7e090b29b3e41ceb5160cf5b29e9a6f0e0e7e6f",
-      "size": 721
+      "sha256": "83010517ac081e2b850612015837c208ae26833501f1f190363eda7e6e246cf1",
+      "size": 818
     },
     {
       "path": "plugins/com.hashashin.octoprint/manifest.json",
@@ -841,8 +841,8 @@
     },
     {
       "path": "plugins/com.hashashin.octoprint/versions/0.1.0/manifest.json",
-      "sha256": "c7dd74b218d28f2fed0880635f16470957b982149d430ef03f38c49d83723caf",
-      "size": 726
+      "sha256": "1c93ca4e5f577330e16efbfaa33b6525439dd24337d52592c11ae6cecbf1ed08",
+      "size": 823
     },
     {
       "path": "plugins/com.inariix.mbxhub-plugin/manifest.json",
@@ -866,8 +866,8 @@
     },
     {
       "path": "plugins/com.inariix.mbxhub-plugin/versions/0.1.5/manifest.json",
-      "sha256": "94c775c31c55c659aba4454f7f780a600f6672cc575471720b9cb7dc625e19f1",
-      "size": 732
+      "sha256": "bb9b4ae3a53653a98a8660fb9792481de5b937e8d3ccd40fd33109ba70f3d66c",
+      "size": 829
     },
     {
       "path": "plugins/com.inariix.mbxhub-plugin/versions/0.1.7/changelog.md",
@@ -886,8 +886,8 @@
     },
     {
       "path": "plugins/com.inariix.mbxhub-plugin/versions/0.1.7/manifest.json",
-      "sha256": "88a9d5b346ec793a39bbd75ca6a43192a5b89bdbca26ef76e514d834fcb3a6a2",
-      "size": 1758
+      "sha256": "fa8c409dae314acdccf836ad696791889adec1fee38183d855d09abd16d7cb80",
+      "size": 1855
     },
     {
       "path": "plugins/com.jhnnr.calendar/manifest.json",
@@ -911,8 +911,8 @@
     },
     {
       "path": "plugins/com.jhnnr.calendar/versions/1.0.0/manifest.json",
-      "sha256": "38848d65fda7b550720f56245e6f4b40a93387e40ccc3961fe0aae47e59f2bd1",
-      "size": 1052
+      "sha256": "486c54212e7e2ad8972bc8210c00e262bc6e7ee6eb2621f91a195174f8116b14",
+      "size": 1149
     },
     {
       "path": "plugins/com.kickfireice.vesktop-bridge/manifest.json",
@@ -936,8 +936,8 @@
     },
     {
       "path": "plugins/com.kickfireice.vesktop-bridge/versions/1.0.5/manifest.json",
-      "sha256": "1a0da5b100876e86db5969bc3a29c4fa4402a300ec117767bbb56e1f90d8be2c",
-      "size": 1789
+      "sha256": "a88af155c08eb4c17eadd984c021a1a5cfd1bee59213883cc9d78bb6690a5598",
+      "size": 1886
     },
     {
       "path": "plugins/com.kickfireice.wavelink-bridge/manifest.json",
@@ -961,8 +961,8 @@
     },
     {
       "path": "plugins/com.kickfireice.wavelink-bridge/versions/1.0.17/manifest.json",
-      "sha256": "0c21d579363b8bc740e6ca3cc7c111035eaae158c5922dd07aadb5a58d23da47",
-      "size": 1446
+      "sha256": "e1b1b4f61bf91cd9a527c760bd6ceb19803e9239180dc76e6bdf2e61143017b3",
+      "size": 1544
     },
     {
       "path": "plugins/com.multidisplayvcp.client/manifest.json",
@@ -986,8 +986,8 @@
     },
     {
       "path": "plugins/com.multidisplayvcp.client/versions/3.0.0/manifest.json",
-      "sha256": "220007063564ce8b7e60ca6ac051586c3a5818d445957f69bebe7a0d5559c14b",
-      "size": 727
+      "sha256": "93d43f19255ec9f98c1cc2147b112fabe4ece7f2e4b2e4fc7c2d82e16ea899b7",
+      "size": 824
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/manifest.json",
@@ -1011,8 +1011,8 @@
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.0.1/manifest.json",
-      "sha256": "9bfb70c8270aae12b1d048f2bd06f2ebc0c07be3930528c9828e0c8463250c61",
-      "size": 699
+      "sha256": "4c9e2382eed9c067c1af6cf09a2bca1f492ffab9738169b643915de90b94670d",
+      "size": 796
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.0.2/changelog.md",
@@ -1031,8 +1031,8 @@
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.0.2/manifest.json",
-      "sha256": "9fdfaa1b9a80e00c4a5f0906b7c0416d1c32ce3850c12136ae3b667544165f90",
-      "size": 2137
+      "sha256": "e1b3d90610e68a98025452f5137385f8312c6224d2fca972cee9cb59d1c717d1",
+      "size": 2234
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.1.0/changelog.md",
@@ -1051,8 +1051,8 @@
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.1.0/manifest.json",
-      "sha256": "1d85a4a0b8ec7cbcc34b0fb883b2f7bc7aa99bb7fe4380e1b275e22b42842c5a",
-      "size": 2137
+      "sha256": "640234f19be66a9c2b09275d1d2ea5ce6b9a52d372e298ec6ef7dd657d886168",
+      "size": 2234
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.3.0/changelog.md",
@@ -1071,8 +1071,8 @@
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.3.0/manifest.json",
-      "sha256": "cf3bbf620254fbffa2f5d7a0574c210c0b4ea930cd87a14aac24e8ba9d5c418a",
-      "size": 2137
+      "sha256": "2b8db224c34dfd02463574d76fb2c4650b6f5e8025a881b66e84cb73132628b4",
+      "size": 2234
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.4.0/changelog.md",
@@ -1091,8 +1091,8 @@
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.4.0/manifest.json",
-      "sha256": "5bfc9595b87387169cb4abdee9dd72ff7977545903c23f3ac697f1f67c7388cb",
-      "size": 2138
+      "sha256": "7a6e9327f03d1fc28f48ffc9188e5184b0b53f46686b7638c56a8a22e94eb5ed",
+      "size": 2235
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.5.0/changelog.md",
@@ -1111,8 +1111,8 @@
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.5.0/manifest.json",
-      "sha256": "f6538f7aafae9678f18ab7d198a827e86a7e1f7e02b4d9a1118e96c39506201c",
-      "size": 1791
+      "sha256": "6554f9690f5efa49a3672dd47303b3b2eaca5cfde6a075fb42f44417f89a942b",
+      "size": 1888
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.6.0/changelog.md",
@@ -1131,8 +1131,8 @@
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.6.0/manifest.json",
-      "sha256": "b3475ddbd247b2856b891648f6d864475e0148eae3d28c0740c18219421d539e",
-      "size": 1791
+      "sha256": "0edd9c4ff4317fad930373d33b973d4575e5b79932032b123d438c26dd7adf9f",
+      "size": 1888
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.7.0/changelog.md",
@@ -1151,8 +1151,8 @@
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/versions/1.7.0/manifest.json",
-      "sha256": "2e854ec7b5b5f7be3461b88a91ab4af8f3b6297b1647535d5fa782da6f0bee89",
-      "size": 1791
+      "sha256": "d2421c917a51fdefd1425d5188fd44a87d3f49e3d8665ce3bbc1ddfc16f89bbf",
+      "size": 1888
     },
     {
       "path": "plugins/com.pyflat.printer-control/manifest.json",
@@ -1176,8 +1176,8 @@
     },
     {
       "path": "plugins/com.pyflat.printer-control/versions/1.0.0/manifest.json",
-      "sha256": "e1c556c4c0d90567cee224604c0db117281fcbcbf2340ff2835f0536c3e60c00",
-      "size": 1423
+      "sha256": "8017eae7acdfd1be351895613fe111302c6eb63cddea4c0051bbb0ff310f0957",
+      "size": 1520
     },
     {
       "path": "plugins/com.pyflat.system-hotkeys/manifest.json",
@@ -1201,8 +1201,8 @@
     },
     {
       "path": "plugins/com.pyflat.system-hotkeys/versions/1.0.0/manifest.json",
-      "sha256": "c2ad6e38e45b351c611fcc633162f650e445f88d0fd0e192f2957044f620695f",
-      "size": 731
+      "sha256": "53391655c726d4edc888645709df6978cbc7979b73e0f0d6c6e926eb58d28a43",
+      "size": 828
     },
     {
       "path": "plugins/com.pyflat.system-hotkeys/versions/1.0.1/changelog.md",
@@ -1221,8 +1221,8 @@
     },
     {
       "path": "plugins/com.pyflat.system-hotkeys/versions/1.0.1/manifest.json",
-      "sha256": "f7b3ac3a194adc3a457ecfd2c7f540248030ad709229a28c5b9075981f483c35",
-      "size": 731
+      "sha256": "94ba0f757e65eea5c2ed147ae79f8273a11209b814d2ebb7d3ff81be1b0b6729",
+      "size": 828
     },
     {
       "path": "plugins/com.pyflat.system-hotkeys/versions/1.0.2/changelog.md",
@@ -1241,8 +1241,8 @@
     },
     {
       "path": "plugins/com.pyflat.system-hotkeys/versions/1.0.2/manifest.json",
-      "sha256": "bb2387f883a5b7632662c99b8561da0a5f65c386e38fb0d7c71e6245910ac61b",
-      "size": 731
+      "sha256": "ae1deea84c8c3e753ed90c8ff0956832f42ca3646e45feff9cf7dd8a65937a96",
+      "size": 828
     },
     {
       "path": "plugins/com.pyflat.system-hotkeys/versions/1.1.0/changelog.md",
@@ -1261,8 +1261,8 @@
     },
     {
       "path": "plugins/com.pyflat.system-hotkeys/versions/1.1.0/manifest.json",
-      "sha256": "450c748a7d2c8eefad50a0fa3bc098581ac2715517bff32b4543be11fdfbd4ce",
-      "size": 1764
+      "sha256": "2746103b3dff420f356a7f91b9358fec250370866f977d3d912647678b13eee5",
+      "size": 1861
     },
     {
       "path": "plugins/com.pyflat.system-media/manifest.json",
@@ -1286,8 +1286,8 @@
     },
     {
       "path": "plugins/com.pyflat.system-media/versions/1.0.0/manifest.json",
-      "sha256": "119ca230eaa59b22ea53d9b1bb7d6dc2155cc4daad867412c65b6965327dc3da",
-      "size": 1750
+      "sha256": "10c151e2e6fe6a4157ec59586faa90c2423965679ad4e7e170faf68e89d07aef",
+      "size": 1847
     },
     {
       "path": "plugins/com.pyflat.system-media/versions/1.1.0/changelog.md",
@@ -1306,8 +1306,8 @@
     },
     {
       "path": "plugins/com.pyflat.system-media/versions/1.1.0/manifest.json",
-      "sha256": "75518e1e236149c87b5feff3244c8b88d792cb6a7c2a39ba866ba7366e37068c",
-      "size": 1750
+      "sha256": "9b70024b00692c20ba58e63ff251bce68f6f63c4b8a2c88ec20d4d6b061e0749",
+      "size": 1847
     },
     {
       "path": "plugins/com.pyflat.system-media/versions/1.1.1/changelog.md",
@@ -1326,8 +1326,8 @@
     },
     {
       "path": "plugins/com.pyflat.system-media/versions/1.1.1/manifest.json",
-      "sha256": "6b37a82a4fc6329466c94d7c2f4b5a15e0fc429b5f297c5e91447578e3804f2b",
-      "size": 1750
+      "sha256": "218e6dbf3a916d478ad54709bb9d301a4570b7d4d679cd33868ae21694d2f244",
+      "size": 1847
     },
     {
       "path": "plugins/com.pyflat.system-media/versions/1.1.2/changelog.md",
@@ -1346,8 +1346,8 @@
     },
     {
       "path": "plugins/com.pyflat.system-media/versions/1.1.2/manifest.json",
-      "sha256": "5252915438454617e45ba3dcde822a38853808b661e939d3adda33398e5d8218",
-      "size": 1750
+      "sha256": "ab92cb3433cada235eec4eabb1b22d1a61406b371ee26b812b43b633ee413a2c",
+      "size": 1847
     },
     {
       "path": "plugins/com.sarti2004.dorideck/manifest.json",
@@ -1371,8 +1371,8 @@
     },
     {
       "path": "plugins/com.sarti2004.dorideck/versions/0.3.0/manifest.json",
-      "sha256": "a721b7293e8f66f5f1246f694f14fbaed314b070ddf7ce319b4758729d15de7f",
-      "size": 1060
+      "sha256": "885a35626a8844ae43ad910ba0c98a3446b4491fac737463569c4da991104cb5",
+      "size": 1157
     },
     {
       "path": "plugins/com.sarti2004.dorideck/versions/0.4.0/changelog.md",
@@ -1391,8 +1391,8 @@
     },
     {
       "path": "plugins/com.sarti2004.dorideck/versions/0.4.0/manifest.json",
-      "sha256": "e5b979b218bf1bbbdac00063d89731d644bd124a277c07c6819e31b2f5840b49",
-      "size": 1400
+      "sha256": "8b1163f394330511a75c693cbebab25272599e381dc5c7db05ba599c004a5a10",
+      "size": 1497
     },
     {
       "path": "plugins/com.sarti2004.dorideck/versions/1.0.1/changelog.md",
@@ -1411,8 +1411,8 @@
     },
     {
       "path": "plugins/com.sarti2004.dorideck/versions/1.0.1/manifest.json",
-      "sha256": "652ed8429f18975c7651f28e8560ba1017b7c1f5f7f9f968be32cd25ef561676",
-      "size": 1400
+      "sha256": "ca7463ad66e8bc9f9016244e0e006f938c1cc0c4ba1e63177b349142193be342",
+      "size": 1497
     },
     {
       "path": "plugins/com.sarti2004.dorideck/versions/1.1.0/changelog.md",
@@ -1431,8 +1431,8 @@
     },
     {
       "path": "plugins/com.sarti2004.dorideck/versions/1.1.0/manifest.json",
-      "sha256": "a45399d4156fe119e119bc01cf26ecc325339e8852e8e040bd61a917d4a2d1f2",
-      "size": 1742
+      "sha256": "8c56ed0995d0f01b2784a700729be8d25150b3041f84e5a7b7b9effc917e76ef",
+      "size": 1839
     },
     {
       "path": "plugins/com.squibsland.beefweb/manifest.json",
@@ -1456,8 +1456,8 @@
     },
     {
       "path": "plugins/com.squibsland.beefweb/versions/0.0.4/manifest.json",
-      "sha256": "a7ad7b34c84fb04ccd071213407073175ba3cff246d8609ffdd6a60b018e978f",
-      "size": 724
+      "sha256": "8d2482158d575a4a1aed7fe30274eb5435f9bd27cdb6d87f7fc7d4c79c31cf61",
+      "size": 821
     },
     {
       "path": "plugins/com.suchbyte.ghub-batteries/manifest.json",
@@ -1481,8 +1481,8 @@
     },
     {
       "path": "plugins/com.suchbyte.ghub-batteries/versions/3.0.0/manifest.json",
-      "sha256": "9d6dd09f07943daf3b1d6052d97983fd53c064c45fd95d152940d024055649dc",
-      "size": 2113
+      "sha256": "f1668ac1a716f5389b73b54723e6dc559d9674921f8ec78cbcf5456d349d42aa",
+      "size": 2210
     },
     {
       "path": "plugins/com.suchbyte.macrogotchi/manifest.json",
@@ -1506,8 +1506,8 @@
     },
     {
       "path": "plugins/com.suchbyte.macrogotchi/versions/1.1.0/manifest.json",
-      "sha256": "5f80e4349758a23b075b65727d7a0b68fe98abe2bcde1b61a157c8d2e3d02d33",
-      "size": 1565
+      "sha256": "58c9d3e65268c8a51efbecfdb4e05bedab5ac21299021aabf44d49e1be7ed60f",
+      "size": 1662
     },
     {
       "path": "plugins/com.suchbyte.macrogotchi/versions/1.1.5/changelog.md",
@@ -1526,8 +1526,8 @@
     },
     {
       "path": "plugins/com.suchbyte.macrogotchi/versions/1.1.5/manifest.json",
-      "sha256": "c7e3e21f118af89c586266debcb67ffbf9ec3eaa4bb09a2e5b5b9f49097acf15",
-      "size": 1613
+      "sha256": "dd39cac1da24a1bd3c741934302496cc61e086d9b0b1d62fe61e69559aa6a3e3",
+      "size": 1710
     },
     {
       "path": "plugins/com.suchbyte.todo-list-plugin/manifest.json",
@@ -1551,8 +1551,8 @@
     },
     {
       "path": "plugins/com.suchbyte.todo-list-plugin/versions/1.0.0/manifest.json",
-      "sha256": "be4369b6f20534270bbdc39eb902410b170ab5c603d2403d0fa578a94dbaba6a",
-      "size": 2137
+      "sha256": "95e8eee83473a9eeb92e0e2b70325aa9c4146544bc1aadf55b37df6e235e183a",
+      "size": 2234
     },
     {
       "path": "plugins/com.suchbyte.todo-list-plugin/versions/1.0.1/changelog.md",
@@ -1571,8 +1571,8 @@
     },
     {
       "path": "plugins/com.suchbyte.todo-list-plugin/versions/1.0.1/manifest.json",
-      "sha256": "0e87718ac69716a5bea97246ba2070d313abb90a18ff7924dc7a1c879c7a9814",
-      "size": 2137
+      "sha256": "c27239ff0350bb647064b7402ac3526a4c22a66eaeecbd0689977be038d582a8",
+      "size": 2234
     },
     {
       "path": "plugins/com.tabsik12.ets2-telemetry/manifest.json",
@@ -1596,8 +1596,8 @@
     },
     {
       "path": "plugins/com.tabsik12.ets2-telemetry/versions/1.0.10/manifest.json",
-      "sha256": "782a9ff8492049fa319abc46daef272598016f4502c2bf8f6304dfffa482a0e9",
-      "size": 1089
+      "sha256": "01a3f1a0cc39fc0988762e141f8765b39e19374a58b55c88cc72c7f12b5ddfc3",
+      "size": 1187
     },
     {
       "path": "plugins/com.tabsik12.ets2-telemetry/versions/1.0.7/changelog.md",
@@ -1616,8 +1616,8 @@
     },
     {
       "path": "plugins/com.tabsik12.ets2-telemetry/versions/1.0.7/manifest.json",
-      "sha256": "6a8871c1313817198c87cef9b4ebdb0ddb9e56353e3495f837c26a6466a7eb36",
-      "size": 1087
+      "sha256": "1b17d859ef94b5f1a5e336700681838a9172aae0eb5cf14d2d702973032ae21f",
+      "size": 1184
     },
     {
       "path": "plugins/com.tabsik12.ets2-telemetry/versions/1.0.8/changelog.md",
@@ -1636,8 +1636,8 @@
     },
     {
       "path": "plugins/com.tabsik12.ets2-telemetry/versions/1.0.8/manifest.json",
-      "sha256": "e26e6286e139f9dec237850f5db2eb4ed8912d859f799957d59d5978b8c07b56",
-      "size": 1087
+      "sha256": "6a4a82fed1d04239e66bf3985042d92c8dabf94fac1efb2ff5deb55cbb14126e",
+      "size": 1184
     },
     {
       "path": "plugins/com.tabsik12.ets2-telemetry/versions/1.0.9/changelog.md",
@@ -1656,8 +1656,8 @@
     },
     {
       "path": "plugins/com.tabsik12.ets2-telemetry/versions/1.0.9/manifest.json",
-      "sha256": "fd20d540ee597b4d37d37fb3641586e14d9c27c4f4b2e87457eb0e84f6c07d51",
-      "size": 1087
+      "sha256": "b583cf113d9982bfbec490ccfa7bdc566fb81fbf892e3c33856ed2df62b98f5e",
+      "size": 1184
     },
     {
       "path": "plugins/com.tabsik12.minecraft-macrolink/manifest.json",
@@ -1681,8 +1681,8 @@
     },
     {
       "path": "plugins/com.tabsik12.minecraft-macrolink/versions/1.0.0/manifest.json",
-      "sha256": "eb759f32a6cd5b1eb458069981ce7d6eb36c3c4801c04ff29b3783b93d5069c1",
-      "size": 752
+      "sha256": "7c6bb0499b90f6390788150b06856914c4df250ce239769b4e5937f94dcdfc81",
+      "size": 849
     },
     {
       "path": "plugins/com.tabsik12.minecraft-macrolink/versions/1.0.1/changelog.md",
@@ -1701,8 +1701,8 @@
     },
     {
       "path": "plugins/com.tabsik12.minecraft-macrolink/versions/1.0.1/manifest.json",
-      "sha256": "e73bfe95d5e8498d03da1db7f27f34e47c65705bbc9b0007ef8105c897276858",
-      "size": 752
+      "sha256": "bf01eaae634eebf4f64b5405ca5e22110494008f3a167593955c33c38aabd8b2",
+      "size": 849
     },
     {
       "path": "plugins/com.tabsik12.minecraft-macrolink/versions/1.0.2/changelog.md",
@@ -1721,8 +1721,8 @@
     },
     {
       "path": "plugins/com.tabsik12.minecraft-macrolink/versions/1.0.2/manifest.json",
-      "sha256": "bdcb378d14ef0157bf328d2ec3b1609a28f6cb977406379ab811dd8c60b9dd0d",
-      "size": 1107
+      "sha256": "a4ca6141c1b0920aa5f4800e67e6031bd15d911f4c08bd3ceb0c6e1871875101",
+      "size": 1204
     },
     {
       "path": "plugins/com.tabsik12.minecraft-macrolink/versions/1.0.3/changelog.md",
@@ -1741,8 +1741,8 @@
     },
     {
       "path": "plugins/com.tabsik12.minecraft-macrolink/versions/1.0.3/manifest.json",
-      "sha256": "8b319f3391e19f7e47aa7279a7bbe4654a2be4ddbe2b670d020dff4f18174bce",
-      "size": 1107
+      "sha256": "3ba6925d86a56e6defd7935f99e9851a4e96d0598e8e0465a48e059c31141b64",
+      "size": 1204
     },
     {
       "path": "plugins/com.tabsik12.tuya-control/manifest.json",
@@ -1766,8 +1766,8 @@
     },
     {
       "path": "plugins/com.tabsik12.tuya-control/versions/1.0.4/manifest.json",
-      "sha256": "83c445f93b73837081c242ab1405c70b4e1bab30e4e407af50bc0f704a208c01",
-      "size": 732
+      "sha256": "fd9f046e667833e3e102a1f66a3cd3bc15f05542d0e3bbdbfa8ceeec7b6cb4e0",
+      "size": 829
     },
     {
       "path": "plugins/com.tabsik12.tuya-control/versions/1.0.5/changelog.md",
@@ -1786,8 +1786,8 @@
     },
     {
       "path": "plugins/com.tabsik12.tuya-control/versions/1.0.5/manifest.json",
-      "sha256": "36d3557b9736ad60385edd8f94fcdd62429c90a99e360a3ce8eae615c3177f40",
-      "size": 732
+      "sha256": "19d8cd88d1c61577e7704c7b3f963c3c0b84455b74f8dc4f3a3769e78161406c",
+      "size": 829
     },
     {
       "path": "plugins/com.tabsik12.tuya-control/versions/1.0.6/changelog.md",
@@ -1806,8 +1806,8 @@
     },
     {
       "path": "plugins/com.tabsik12.tuya-control/versions/1.0.6/manifest.json",
-      "sha256": "dca09119765135538236b15863dd07d30d28b912c69a1ad8c0030b4ad5b75df8",
-      "size": 1419
+      "sha256": "9b36a1fa3030dcc2a8e620e7c2bf66538a8dc7825dc5392a4659cf3635cf05d2",
+      "size": 1516
     },
     {
       "path": "plugins/com.yussefabdelwahab.comfyui-job-monitor/manifest.json",
@@ -1831,8 +1831,8 @@
     },
     {
       "path": "plugins/com.yussefabdelwahab.comfyui-job-monitor/versions/1.0.4/manifest.json",
-      "sha256": "31fb0a4f9803e8cdd2fc21f7cad1e0f3c58bf627dd7c8d597e9d4852fec7bcc9",
-      "size": 777
+      "sha256": "7d217ecc6d0a9ea2a5c1d980039952389a597a9d1b5804ae02d3adede6560f2b",
+      "size": 874
     },
     {
       "path": "plugins/com.yussefabdelwahab.comfyui-job-monitor/versions/1.0.5/changelog.md",
@@ -1851,8 +1851,8 @@
     },
     {
       "path": "plugins/com.yussefabdelwahab.comfyui-job-monitor/versions/1.0.5/manifest.json",
-      "sha256": "c99c92ac3f4ddaae979b498895b2f28e725fd6a9213325bd043d8f4c792db704",
-      "size": 775
+      "sha256": "b73fd33aeaef5d21479b9482cc3e7c5c971feb6932ab0a3f39992821bce4ea0a",
+      "size": 872
     },
     {
       "path": "plugins/com.yussefabdelwahab.image-slideshow/manifest.json",
@@ -1876,8 +1876,8 @@
     },
     {
       "path": "plugins/com.yussefabdelwahab.image-slideshow/versions/1.0.3/manifest.json",
-      "sha256": "036678388a93e20da493802632f449b864150849b0f0642221e87b80c256756c",
-      "size": 2899
+      "sha256": "b5b33a7c8a8bf684dd1b46042864444d6a6eb8eb7efadd4b3bf13ebcc38a82b6",
+      "size": 2996
     },
     {
       "path": "plugins/com.yussefabdelwahab.nvidia-smi-tool/manifest.json",
@@ -1901,8 +1901,8 @@
     },
     {
       "path": "plugins/com.yussefabdelwahab.nvidia-smi-tool/versions/1.0.3/manifest.json",
-      "sha256": "c400ce1b865ad184719725502916de554b9317084b34666c1d02cacd35474047",
-      "size": 1122
+      "sha256": "3b398c738f7e77eaa6d09313dde7b80600d2293d3969d2cd4c33015e1d48c6cd",
+      "size": 1219
     },
     {
       "path": "plugins/net.ziopuzzle.custombutton/manifest.json",
@@ -1926,8 +1926,8 @@
     },
     {
       "path": "plugins/net.ziopuzzle.custombutton/versions/0.32.1/manifest.json",
-      "sha256": "1bc023b4eb4920172faba34cdd85d318b7142290002a78e439be9ba30b3b0d3b",
-      "size": 2115
+      "sha256": "d1d7463998c2916ea14d582e841e50293e7aac7fa2d9f0eb4a525dd832c52b32",
+      "size": 2213
     },
     {
       "path": "plugins/net.ziopuzzle.custombutton/versions/0.35.1/changelog.md",
@@ -1946,8 +1946,8 @@
     },
     {
       "path": "plugins/net.ziopuzzle.custombutton/versions/0.35.1/manifest.json",
-      "sha256": "b34d4d9b3536e53ca79371af895f17b93aea4867c785a5e9b367170d325837ab",
-      "size": 2115
+      "sha256": "4956c5db27df9a2dbc1aad49eacaef04d286a92e6ff9e6b878df7e10c245ff03",
+      "size": 2213
     },
     {
       "path": "plugins/net.ziopuzzle.custombutton/versions/0.36.4/changelog.md",
@@ -1966,8 +1966,8 @@
     },
     {
       "path": "plugins/net.ziopuzzle.custombutton/versions/0.36.4/manifest.json",
-      "sha256": "102a7a742d6327fdab151c87c2076d4f64e9b71b191b9277d68bede571ec66dd",
-      "size": 2115
+      "sha256": "d856253f1418e3a8618724df8e613ccde97cf60750932ff1cafed59a2cc334bd",
+      "size": 2213
     },
     {
       "path": "plugins/net.ziopuzzle.custombutton/versions/0.37.0/changelog.md",
@@ -1986,8 +1986,8 @@
     },
     {
       "path": "plugins/net.ziopuzzle.custombutton/versions/0.37.0/manifest.json",
-      "sha256": "e8b38e9d610dcbfb877e9a1645b5bd41e9f48309133be9b47c9025de6840c056",
-      "size": 2115
+      "sha256": "41f2bec7a63e8b8e19ed681f2948dfb1777b9f5fc06be3e92da962ccfa5609e6",
+      "size": 2213
     },
     {
       "path": "plugins/net.ziopuzzle.custombutton/versions/0.41.8/changelog.md",
@@ -2006,8 +2006,8 @@
     },
     {
       "path": "plugins/net.ziopuzzle.custombutton/versions/0.41.8/manifest.json",
-      "sha256": "65e9b48ff9aaeeb1945ebe054e7be5eaed8e7dec4d60b3b7b2ad438c7879d9e4",
-      "size": 2801
+      "sha256": "daffbfb84e9cb58c00d82cffd13d38ba6944ed8139d5b730355eba8556f38cbf",
+      "size": 2899
     },
     {
       "path": "security.json",

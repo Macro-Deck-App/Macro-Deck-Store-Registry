@@ -19,5 +19,9 @@
         "contentType": "image/png"
       }
     ]
+  },
+  "source": {
+    "tag": "v2.0.4",
+    "commit": "c74c272c4be97f2dc47a10834de25a4401c87ec0"
   }
 }
