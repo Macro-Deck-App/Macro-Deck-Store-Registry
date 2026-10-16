@@ -1,0 +1,144 @@
+{
+  "$schema": "../../../../schemas/dependencies.schema.json",
+  "sdkVersion": "10.0.401",
+  "frameworks": [
+    {
+      "framework": "net10.0",
+      "packages": [
+        {
+          "id": "Grpc.Net.Client",
+          "version": "2.71.0",
+          "requestedVersion": "2.71.0",
+          "direct": true
+        },
+        {
+          "id": "MacroDeck.Localization",
+          "version": "3.0.0-beta.15",
+          "requestedVersion": "3.0.0-beta.15",
+          "direct": true
+        },
+        {
+          "id": "MacroDeck.Plugin.Analyzers",
+          "version": "3.0.0-beta.15",
+          "requestedVersion": "3.0.0-beta.15",
+          "direct": true
+        },
+        {
+          "id": "MacroDeck.Plugin.Hosting",
+          "version": "3.0.0-beta.15",
+          "requestedVersion": "3.0.0-beta.15",
+          "direct": true
+        },
+        {
+          "id": "MacroDeck.Plugin.Serilog",
+          "version": "3.0.0-beta.15",
+          "requestedVersion": "3.0.0-beta.15",
+          "direct": true
+        },
+        {
+          "id": "MacroDeck.Sdk",
+          "version": "3.0.0-beta.15",
+          "requestedVersion": "3.0.0-beta.15",
+          "direct": true
+        },
+        {
+          "id": "MagicOnion.Client",
+          "version": "7.11.0",
+          "requestedVersion": "7.11.0",
+          "direct": true
+        },
+        {
+          "id": "MemoryPack",
+          "version": "1.21.4",
+          "requestedVersion": "1.21.4",
+          "direct": true
+        },
+        {
+          "id": "Grpc.Core.Api",
+          "version": "2.71.0",
+          "direct": false
+        },
+        {
+          "id": "Grpc.Net.Common",
+          "version": "2.71.0",
+          "direct": false
+        },
+        {
+          "id": "MacroDeck.Plugin.Protocol",
+          "version": "3.0.0-beta.15",
+          "direct": false
+        },
+        {
+          "id": "MacroDeck.Ui",
+          "version": "3.0.0-beta.15",
+          "direct": false
+        },
+        {
+          "id": "MacroDeck.Ui.Model",
+          "version": "3.0.0-beta.15",
+          "direct": false
+        },
+        {
+          "id": "MagicOnion.Abstractions",
+          "version": "7.11.0",
+          "direct": false
+        },
+        {
+          "id": "MagicOnion.Serialization.MessagePack",
+          "version": "7.11.0",
+          "direct": false
+        },
+        {
+          "id": "MagicOnion.Shared",
+          "version": "7.11.0",
+          "direct": false
+        },
+        {
+          "id": "MemoryPack.Core",
+          "version": "1.21.4",
+          "direct": false
+        },
+        {
+          "id": "MemoryPack.Generator",
+          "version": "1.21.4",
+          "direct": false
+        },
+        {
+          "id": "MessagePack",
+          "version": "3.1.7",
+          "direct": false
+        },
+        {
+          "id": "MessagePack.Annotations",
+          "version": "3.1.7",
+          "direct": false
+        },
+        {
+          "id": "MessagePackAnalyzer",
+          "version": "3.1.7",
+          "direct": false
+        },
+        {
+          "id": "Microsoft.NET.StringTools",
+          "version": "17.11.4",
+          "direct": false
+        },
+        {
+          "id": "Serilog",
+          "version": "4.4.0",
+          "direct": false
+        },
+        {
+          "id": "Serilog.Extensions.Hosting",
+          "version": "10.0.0",
+          "direct": false
+        },
+        {
+          "id": "Serilog.Extensions.Logging",
+          "version": "10.0.0",
+          "direct": false
+        }
+      ]
+    }
+  ]
+}

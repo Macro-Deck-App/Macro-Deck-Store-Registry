@@ -1,0 +1,69 @@
+{
+  "$schema": "../../../../schemas/dependencies.schema.json",
+  "sdkVersion": "10.0.401",
+  "frameworks": [
+    {
+      "framework": "net10.0",
+      "packages": [
+        {
+          "id": "MacroDeck.Plugin.Analyzers",
+          "version": "3.0.0-beta.13",
+          "requestedVersion": "3.0.0-beta.13",
+          "direct": true
+        },
+        {
+          "id": "MacroDeck.Plugin.Hosting",
+          "version": "3.0.0-beta.13",
+          "requestedVersion": "3.0.0-beta.13",
+          "direct": true
+        },
+        {
+          "id": "MacroDeck.Plugin.Serilog",
+          "version": "3.0.0-beta.13",
+          "requestedVersion": "3.0.0-beta.13",
+          "direct": true
+        },
+        {
+          "id": "MacroDeck.Localization",
+          "version": "3.0.0-beta.13",
+          "direct": false
+        },
+        {
+          "id": "MacroDeck.Plugin.Protocol",
+          "version": "3.0.0-beta.13",
+          "direct": false
+        },
+        {
+          "id": "MacroDeck.Sdk",
+          "version": "3.0.0-beta.13",
+          "direct": false
+        },
+        {
+          "id": "MacroDeck.Ui",
+          "version": "3.0.0-beta.13",
+          "direct": false
+        },
+        {
+          "id": "MacroDeck.Ui.Model",
+          "version": "3.0.0-beta.13",
+          "direct": false
+        },
+        {
+          "id": "Serilog",
+          "version": "4.4.0",
+          "direct": false
+        },
+        {
+          "id": "Serilog.Extensions.Hosting",
+          "version": "10.0.0",
+          "direct": false
+        },
+        {
+          "id": "Serilog.Extensions.Logging",
+          "version": "10.0.0",
+          "direct": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "$schema": "../../../../schemas/dependencies.schema.json",
+  "sdkVersion": "10.0.401",
+  "frameworks": [
+    {
+      "framework": "net10.0",
+      "packages": [
+        {
+          "id": "MacroDeck.Localization",
+          "version": "3.0.0-beta.16",
+          "requestedVersion": "3.0.0-beta.16",
+          "direct": true
+        },
+        {
+          "id": "MacroDeck.Plugin.Analyzers",
+          "version": "3.0.0-beta.16",
+          "requestedVersion": "3.0.0-beta.16",
+          "direct": true
+        },
+        {
+          "id": "MacroDeck.Plugin.Hosting",
+          "version": "3.0.0-beta.16",
+          "requestedVersion": "3.0.0-beta.16",
+          "direct": true
+        },
+        {
+          "id": "MacroDeck.Plugin.Serilog",
+          "version": "3.0.0-beta.16",
+          "requestedVersion": "3.0.0-beta.16",
+          "direct": true
+        },
+        {
+          "id": "MacroDeck.Sdk",
+          "version": "3.0.0-beta.16",
+          "requestedVersion": "3.0.0-beta.16",
+          "direct": true
+        },
+        {
+          "id": "NAudio",
+          "version": "2.2.1",
+          "requestedVersion": "2.2.1",
+          "direct": true
+        },
+        {
+          "id": "MacroDeck.Plugin.Protocol",
+          "version": "3.0.0-beta.16",
+          "direct": false
+        },
+        {
+          "id": "MacroDeck.Ui",
+          "version": "3.0.0-beta.16",
+          "direct": false
+        },
+        {
+          "id": "MacroDeck.Ui.Model",
+          "version": "3.0.0-beta.16",
+          "direct": false
+        },
+        {
+          "id": "NAudio.Asio",
+          "version": "2.2.1",
+          "direct": false
+        },
+        {
+          "id": "NAudio.Core",
+          "version": "2.2.1",
+          "direct": false
+        },
+        {
+          "id": "NAudio.Midi",
+          "version": "2.2.1",
+          "direct": false
+        },
+        {
+          "id": "NAudio.Wasapi",
+          "version": "2.2.1",
+          "direct": false
+        },
+        {
+          "id": "NAudio.WinMM",
+          "version": "2.2.1",
+          "direct": false
+        },
+        {
+          "id": "Serilog",
+          "version": "4.4.0",
+          "direct": false
+        },
+        {
+          "id": "Serilog.Extensions.Hosting",
+          "version": "10.0.0",
+          "direct": false
+        },
+        {
+          "id": "Serilog.Extensions.Logging",
+          "version": "10.0.0",
+          "direct": false
+        }
+      ]
+    }
+  ]
+}

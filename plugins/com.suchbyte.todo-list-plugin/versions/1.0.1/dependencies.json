@@ -1,0 +1,226 @@
+{
+  "$schema": "../../../../schemas/dependencies.schema.json",
+  "sdkVersion": "10.0.401",
+  "frameworks": [
+    {
+      "framework": "net10.0",
+      "packages": [
+        {
+          "id": "MacroDeck.Localization",
+          "version": "3.0.0-beta.16",
+          "requestedVersion": "3.0.0-beta.16",
+          "direct": true
+        },
+        {
+          "id": "MacroDeck.Plugin.Analyzers",
+          "version": "3.0.0-beta.16",
+          "requestedVersion": "3.0.0-beta.16",
+          "direct": true
+        },
+        {
+          "id": "MacroDeck.Plugin.Hosting",
+          "version": "3.0.0-beta.16",
+          "requestedVersion": "3.0.0-beta.16",
+          "direct": true
+        },
+        {
+          "id": "MacroDeck.Plugin.Serilog",
+          "version": "3.0.0-beta.16",
+          "requestedVersion": "3.0.0-beta.16",
+          "direct": true
+        },
+        {
+          "id": "MacroDeck.Sdk",
+          "version": "3.0.0-beta.16",
+          "requestedVersion": "3.0.0-beta.16",
+          "direct": true
+        },
+        {
+          "id": "Avalonia",
+          "version": "12.1.4",
+          "direct": false
+        },
+        {
+          "id": "Avalonia.Angle.Windows.Natives",
+          "version": "2.1.27548.20260419",
+          "direct": false
+        },
+        {
+          "id": "Avalonia.BuildServices",
+          "version": "11.3.2",
+          "direct": false
+        },
+        {
+          "id": "Avalonia.Desktop",
+          "version": "12.1.4",
+          "direct": false
+        },
+        {
+          "id": "Avalonia.FreeDesktop",
+          "version": "12.1.4",
+          "direct": false
+        },
+        {
+          "id": "Avalonia.FreeDesktop.AtSpi",
+          "version": "12.1.4",
+          "direct": false
+        },
+        {
+          "id": "Avalonia.HarfBuzz",
+          "version": "12.1.4",
+          "direct": false
+        },
+        {
+          "id": "Avalonia.Native",
+          "version": "12.1.4",
+          "direct": false
+        },
+        {
+          "id": "Avalonia.Remote.Protocol",
+          "version": "12.1.4",
+          "direct": false
+        },
+        {
+          "id": "Avalonia.Skia",
+          "version": "12.1.4",
+          "direct": false
+        },
+        {
+          "id": "Avalonia.Themes.Fluent",
+          "version": "12.1.4",
+          "direct": false
+        },
+        {
+          "id": "Avalonia.Win32",
+          "version": "12.1.4",
+          "direct": false
+        },
+        {
+          "id": "Avalonia.X11",
+          "version": "12.1.4",
+          "direct": false
+        },
+        {
+          "id": "HarfBuzzSharp",
+          "version": "8.3.1.3",
+          "direct": false
+        },
+        {
+          "id": "HarfBuzzSharp.NativeAssets.Linux",
+          "version": "8.3.1.3",
+          "direct": false
+        },
+        {
+          "id": "HarfBuzzSharp.NativeAssets.macOS",
+          "version": "8.3.1.3",
+          "direct": false
+        },
+        {
+          "id": "HarfBuzzSharp.NativeAssets.WebAssembly",
+          "version": "8.3.1.3",
+          "direct": false
+        },
+        {
+          "id": "HarfBuzzSharp.NativeAssets.Win32",
+          "version": "8.3.1.3",
+          "direct": false
+        },
+        {
+          "id": "MacroDeck.Plugin.Protocol",
+          "version": "3.0.0-beta.16",
+          "direct": false
+        },
+        {
+          "id": "MacroDeck.Ui",
+          "version": "3.0.0-beta.16",
+          "direct": false
+        },
+        {
+          "id": "MacroDeck.Ui.Model",
+          "version": "3.0.0-beta.16",
+          "direct": false
+        },
+        {
+          "id": "MicroCom.Runtime",
+          "version": "0.11.6",
+          "direct": false
+        },
+        {
+          "id": "Microsoft.Data.Sqlite",
+          "version": "10.0.12",
+          "direct": false
+        },
+        {
+          "id": "Microsoft.Data.Sqlite.Core",
+          "version": "10.0.12",
+          "direct": false
+        },
+        {
+          "id": "Serilog",
+          "version": "4.4.0",
+          "direct": false
+        },
+        {
+          "id": "Serilog.Extensions.Hosting",
+          "version": "10.0.0",
+          "direct": false
+        },
+        {
+          "id": "Serilog.Extensions.Logging",
+          "version": "10.0.0",
+          "direct": false
+        },
+        {
+          "id": "SkiaSharp",
+          "version": "3.119.4",
+          "direct": false
+        },
+        {
+          "id": "SkiaSharp.NativeAssets.Linux",
+          "version": "3.119.4",
+          "direct": false
+        },
+        {
+          "id": "SkiaSharp.NativeAssets.macOS",
+          "version": "3.119.4",
+          "direct": false
+        },
+        {
+          "id": "SkiaSharp.NativeAssets.WebAssembly",
+          "version": "3.119.4",
+          "direct": false
+        },
+        {
+          "id": "SkiaSharp.NativeAssets.Win32",
+          "version": "3.119.4",
+          "direct": false
+        },
+        {
+          "id": "SQLitePCLRaw.bundle_e_sqlite3",
+          "version": "2.1.12",
+          "direct": false
+        },
+        {
+          "id": "SQLitePCLRaw.core",
+          "version": "2.1.12",
+          "direct": false
+        },
+        {
+          "id": "SQLitePCLRaw.lib.e_sqlite3",
+          "version": "2.1.12",
+          "direct": false
+        },
+        {
+          "id": "SQLitePCLRaw.provider.e_sqlite3",
+          "version": "2.1.12",
+          "direct": false
+        },
+        {
+          "id": "Tmds.DBus.Protocol",
+          "version": "0.94.1",
+          "direct": false
+        }
+      ]
+    }
+  ]
+}
