@@ -3,29 +3,60 @@
   "$id": "https://schemas.macro-deck.app/store-index-v1.schema.json",
   "title": "Macro Deck Store Registry Index",
   "type": "object",
-  "required": ["$schema", "version", "generatedAt", "plugins", "iconPacks", "templates"],
+  "required": [
+    "$schema",
+    "version",
+    "generatedAt",
+    "plugins",
+    "iconPacks",
+    "templates"
+  ],
   "properties": {
-    "$schema": { "type": "string" },
-    "version": { "const": 1 },
-    "generatedAt": { "type": "string", "format": "date-time" },
+    "$schema": {
+      "type": "string"
+    },
+    "version": {
+      "const": 1
+    },
+    "generatedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
     "plugins": {
       "type": "array",
       "uniqueItems": true,
-      "items": { "$ref": "#/$defs/packageId" }
+      "items": {
+        "$ref": "#/$defs/packageId"
+      }
     },
     "iconPacks": {
       "type": "array",
       "uniqueItems": true,
-      "items": { "$ref": "#/$defs/packageId" }
+      "items": {
+        "$ref": "#/$defs/packageId"
+      }
     },
     "templates": {
       "type": "object",
-      "required": ["automations", "folders", "profiles", "widgets"],
+      "required": [
+        "automations",
+        "folders",
+        "profiles",
+        "widgets"
+      ],
       "properties": {
-        "automations": { "$ref": "#/$defs/packageIds" },
-        "folders": { "$ref": "#/$defs/packageIds" },
-        "profiles": { "$ref": "#/$defs/packageIds" },
-        "widgets": { "$ref": "#/$defs/packageIds" }
+        "automations": {
+          "$ref": "#/$defs/packageIds"
+        },
+        "folders": {
+          "$ref": "#/$defs/packageIds"
+        },
+        "profiles": {
+          "$ref": "#/$defs/packageIds"
+        },
+        "widgets": {
+          "$ref": "#/$defs/packageIds"
+        }
       },
       "additionalProperties": false
     }
@@ -39,7 +70,9 @@
     "packageIds": {
       "type": "array",
       "uniqueItems": true,
-      "items": { "$ref": "#/$defs/packageId" }
+      "items": {
+        "$ref": "#/$defs/packageId"
+      }
     }
   },
   "additionalProperties": false

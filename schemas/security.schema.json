@@ -3,20 +3,37 @@
   "$id": "https://schemas.macro-deck.app/store-security-v1.schema.json",
   "title": "Macro Deck Store Security Feed",
   "type": "object",
-  "required": ["$schema", "version", "generatedAt", "revokedKeys", "removedPackages"],
+  "required": [
+    "$schema",
+    "version",
+    "generatedAt",
+    "revokedKeys",
+    "removedPackages"
+  ],
   "properties": {
-    "$schema": { "type": "string" },
-    "version": { "const": 1 },
-    "generatedAt": { "type": "string", "format": "date-time" },
+    "$schema": {
+      "type": "string"
+    },
+    "version": {
+      "const": 1
+    },
+    "generatedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
     "revokedKeys": {
       "type": "array",
       "uniqueItems": true,
-      "items": { "$ref": "#/$defs/revokedKey" }
+      "items": {
+        "$ref": "#/$defs/revokedKey"
+      }
     },
     "removedPackages": {
       "type": "array",
       "uniqueItems": true,
-      "items": { "$ref": "#/$defs/removedPackage" }
+      "items": {
+        "$ref": "#/$defs/removedPackage"
+      }
     }
   },
   "$defs": {
@@ -31,26 +48,53 @@
     },
     "revokedKey": {
       "type": "object",
-      "required": ["keyId", "reason", "revokedAt"],
+      "required": [
+        "keyId",
+        "reason",
+        "revokedAt"
+      ],
       "properties": {
         "keyId": {
           "type": "string",
           "pattern": "^cert_[0-9a-z]{16,64}$"
         },
-        "reason": { "type": "string", "minLength": 1 },
-        "revokedAt": { "type": "string", "format": "date-time" }
+        "reason": {
+          "type": "string",
+          "minLength": 1
+        },
+        "revokedAt": {
+          "type": "string",
+          "format": "date-time"
+        }
       },
       "additionalProperties": false
     },
     "removedPackage": {
       "type": "object",
-      "required": ["id", "version", "reason", "removedAt"],
+      "required": [
+        "id",
+        "version",
+        "reason",
+        "removedAt"
+      ],
       "properties": {
-        "id": { "$ref": "#/$defs/packageId" },
-        "version": { "$ref": "#/$defs/semver" },
-        "reason": { "type": "string", "minLength": 1 },
-        "removedAt": { "type": "string", "format": "date-time" },
-        "replacement": { "$ref": "#/$defs/packageId" }
+        "id": {
+          "$ref": "#/$defs/packageId"
+        },
+        "version": {
+          "$ref": "#/$defs/semver"
+        },
+        "reason": {
+          "type": "string",
+          "minLength": 1
+        },
+        "removedAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "replacement": {
+          "$ref": "#/$defs/packageId"
+        }
       },
       "additionalProperties": false
     }

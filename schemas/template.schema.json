@@ -16,21 +16,59 @@
     "updatedAt"
   ],
   "properties": {
-    "$schema": { "type": "string" },
-    "kind": { "const": "template" },
-    "templateKind": {
-      "enum": ["automations", "folders", "profiles", "widgets"]
+    "$schema": {
+      "type": "string"
     },
-    "name": { "type": "string", "minLength": 1, "maxLength": 128 },
-    "id": { "$ref": "#/$defs/packageId" },
-    "latestVersion": { "$ref": "#/$defs/semver" },
-    "description": { "type": "string", "minLength": 1, "maxLength": 500 },
-    "publisher": { "type": "string", "minLength": 1, "maxLength": 128 },
-    "repository": { "$ref": "#/$defs/httpsUrl" },
-    "homepage": { "$ref": "#/$defs/httpsUrl" },
-    "license": { "type": "string", "minLength": 1 },
-    "createdAt": { "type": "string", "format": "date-time" },
-    "updatedAt": { "type": "string", "format": "date-time" }
+    "kind": {
+      "const": "template"
+    },
+    "templateKind": {
+      "enum": [
+        "automations",
+        "folders",
+        "profiles",
+        "widgets"
+      ]
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 128
+    },
+    "id": {
+      "$ref": "#/$defs/packageId"
+    },
+    "latestVersion": {
+      "$ref": "#/$defs/semver"
+    },
+    "description": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 500
+    },
+    "publisher": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 128
+    },
+    "repository": {
+      "$ref": "#/$defs/httpsUrl"
+    },
+    "homepage": {
+      "$ref": "#/$defs/httpsUrl"
+    },
+    "license": {
+      "type": "string",
+      "minLength": 1
+    },
+    "createdAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "updatedAt": {
+      "type": "string",
+      "format": "date-time"
+    }
   },
   "$defs": {
     "packageId": {

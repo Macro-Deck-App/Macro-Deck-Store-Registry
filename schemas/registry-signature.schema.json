@@ -4,11 +4,24 @@
   "title": "Macro Deck Store Registry Signature",
   "description": "Detached signature over the exact UTF-8 bytes of registry-manifest.json.",
   "type": "object",
-  "required": ["$schema", "schemaVersion", "algorithm", "keyId", "value", "signedAt"],
+  "required": [
+    "$schema",
+    "schemaVersion",
+    "algorithm",
+    "keyId",
+    "value",
+    "signedAt"
+  ],
   "properties": {
-    "$schema": { "type": "string" },
-    "schemaVersion": { "const": 1 },
-    "algorithm": { "const": "ed25519" },
+    "$schema": {
+      "type": "string"
+    },
+    "schemaVersion": {
+      "const": 1
+    },
+    "algorithm": {
+      "const": "ed25519"
+    },
     "keyId": {
       "description": "Certificate id under certificates/. The certificate must permit registry signing.",
       "type": "string",
@@ -19,7 +32,10 @@
       "type": "string",
       "pattern": "^[A-Za-z0-9+/]{86}==$"
     },
-    "signedAt": { "type": "string", "format": "date-time" }
+    "signedAt": {
+      "type": "string",
+      "format": "date-time"
+    }
   },
   "additionalProperties": false
 }

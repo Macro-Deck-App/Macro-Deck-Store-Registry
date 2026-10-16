@@ -1,0 +1,77 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://schemas.macro-deck.app/store-dependencies-v1.schema.json",
+  "title": "Macro Deck Store Plugin Release Dependencies",
+  "description": "The NuGet packages a plugin release was built with, as its trusted publishing workflow submitted them. A release without this file submitted no list; that is not a release without dependencies.",
+  "type": "object",
+  "required": [
+    "$schema",
+    "frameworks"
+  ],
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "sdkVersion": {
+      "type": "string",
+      "pattern": "^[0-9A-Za-z.+-]{1,64}$"
+    },
+    "frameworks": {
+      "type": "array",
+      "maxItems": 32,
+      "items": {
+        "type": "object",
+        "required": [
+          "framework",
+          "packages"
+        ],
+        "properties": {
+          "framework": {
+            "type": "string",
+            "pattern": "^[A-Za-z0-9][A-Za-z0-9.+-]{0,63}$"
+          },
+          "packages": {
+            "type": "array",
+            "maxItems": 5000,
+            "items": {
+              "$ref": "#/$defs/dependency"
+            }
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "$defs": {
+    "dependency": {
+      "type": "object",
+      "required": [
+        "id",
+        "version",
+        "direct"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[A-Za-z0-9_][A-Za-z0-9._-]{0,99}$"
+        },
+        "version": {
+          "description": "The version restore resolved, which is the one the release ships.",
+          "type": "string",
+          "pattern": "^[0-9][0-9A-Za-z.+-]{0,63}$"
+        },
+        "requestedVersion": {
+          "description": "The version or range the project asked for. Only a direct dependency has one.",
+          "type": "string",
+          "pattern": "^[0-9A-Za-z.+*,()\\[\\] -]{1,128}$"
+        },
+        "direct": {
+          "description": "Referenced by the project itself rather than brought in by another package.",
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

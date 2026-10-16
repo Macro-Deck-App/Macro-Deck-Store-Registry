@@ -3,9 +3,18 @@
   "$id": "https://schemas.macro-deck.app/store-release-v1.schema.json",
   "title": "Macro Deck Store Plugin Release",
   "type": "object",
-  "required": ["$schema", "url", "sha256", "size", "uploadedAt", "media"],
+  "required": [
+    "$schema",
+    "url",
+    "sha256",
+    "size",
+    "uploadedAt",
+    "media"
+  ],
   "properties": {
-    "$schema": { "type": "string" },
+    "$schema": {
+      "type": "string"
+    },
     "url": {
       "type": "string",
       "format": "uri",
@@ -28,14 +37,21 @@
     },
     "media": {
       "type": "object",
-      "required": ["icon", "screenshots"],
+      "required": [
+        "icon",
+        "screenshots"
+      ],
       "properties": {
-        "icon": { "$ref": "#/$defs/mediaAsset" },
+        "icon": {
+          "$ref": "#/$defs/mediaAsset"
+        },
         "screenshots": {
           "type": "array",
           "maxItems": 10,
           "uniqueItems": true,
-          "items": { "$ref": "#/$defs/mediaAsset" }
+          "items": {
+            "$ref": "#/$defs/mediaAsset"
+          }
         }
       },
       "additionalProperties": false
@@ -44,7 +60,11 @@
   "$defs": {
     "detachedSignature": {
       "type": "object",
-      "required": ["url", "sha256", "size"],
+      "required": [
+        "url",
+        "sha256",
+        "size"
+      ],
       "properties": {
         "url": {
           "type": "string",
@@ -64,7 +84,12 @@
     },
     "mediaAsset": {
       "type": "object",
-      "required": ["url", "sha256", "size", "contentType"],
+      "required": [
+        "url",
+        "sha256",
+        "size",
+        "contentType"
+      ],
       "properties": {
         "url": {
           "type": "string",

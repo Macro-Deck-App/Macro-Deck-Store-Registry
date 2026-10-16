@@ -18,23 +18,47 @@
     "rootKeyId"
   ],
   "properties": {
-    "$schema": { "type": "string" },
-    "schemaVersion": { "const": 1 },
+    "$schema": {
+      "type": "string"
+    },
+    "schemaVersion": {
+      "const": 1
+    },
     "certificateId": {
       "type": "string",
       "pattern": "^cert_[0-9a-z]{16,64}$"
     },
     "subject": {
       "type": "object",
-      "required": ["kind", "id", "name"],
+      "required": [
+        "kind",
+        "id",
+        "name"
+      ],
       "properties": {
-        "kind": { "enum": ["creator", "organization", "service"] },
-        "id": { "type": "string", "minLength": 1, "maxLength": 450 },
-        "name": { "type": "string", "minLength": 1, "maxLength": 100 }
+        "kind": {
+          "enum": [
+            "creator",
+            "organization",
+            "service"
+          ]
+        },
+        "id": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 450
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 100
+        }
       },
       "additionalProperties": false
     },
-    "algorithm": { "const": "ed25519" },
+    "algorithm": {
+      "const": "ed25519"
+    },
     "publicKey": {
       "description": "Raw 32-byte Ed25519 public key, base64.",
       "type": "string",
@@ -44,11 +68,25 @@
       "type": "array",
       "minItems": 1,
       "uniqueItems": true,
-      "items": { "enum": ["package", "registry"] }
+      "items": {
+        "enum": [
+          "package",
+          "registry"
+        ]
+      }
     },
-    "notBefore": { "type": "string", "format": "date-time" },
-    "notAfter": { "type": "string", "format": "date-time" },
-    "issuedAt": { "type": "string", "format": "date-time" },
+    "notBefore": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "notAfter": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "issuedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
     "rootKeyId": {
       "type": "string",
       "pattern": "^root_[0-9a-z]{4,32}$"
