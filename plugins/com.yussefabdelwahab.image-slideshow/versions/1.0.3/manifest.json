@@ -11,6 +11,43 @@
       "size": 342,
       "contentType": "image/svg\u002Bxml"
     },
-    "screenshots": []
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.yussefabdelwahab.image-slideshow/assets/036442afb8146670-036442afb8146670c0c570ebc3547d14b534a3dd5918a567e08c8d8fa174b10b.jpg",
+        "sha256": "036442afb8146670c0c570ebc3547d14b534a3dd5918a567e08c8d8fa174b10b",
+        "size": 1975508,
+        "contentType": "image/jpeg"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.yussefabdelwahab.image-slideshow/assets/fde5fb938c3f0d1c-fde5fb938c3f0d1ce3b45629c85be737a9180fb17705894f14bdb70501acf754.jpg",
+        "sha256": "fde5fb938c3f0d1ce3b45629c85be737a9180fb17705894f14bdb70501acf754",
+        "size": 1708153,
+        "contentType": "image/jpeg"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.yussefabdelwahab.image-slideshow/assets/8b666b47312831d6-8b666b47312831d6e9e42f721886759f82a7c524784d6067d42e8f1537b11b74.png",
+        "sha256": "8b666b47312831d6e9e42f721886759f82a7c524784d6067d42e8f1537b11b74",
+        "size": 470928,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.yussefabdelwahab.image-slideshow/assets/9ede22144e16c064-9ede22144e16c0642287a39d37d9fbd07f3f9ceb010f41e578d123e8dddd208f.png",
+        "sha256": "9ede22144e16c0642287a39d37d9fbd07f3f9ceb010f41e578d123e8dddd208f",
+        "size": 643629,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.yussefabdelwahab.image-slideshow/assets/17b4b690e86c260e-17b4b690e86c260eadccbe9e659e9dbe4b81dfe492a72a80d9ae8a3550744412.png",
+        "sha256": "17b4b690e86c260eadccbe9e659e9dbe4b81dfe492a72a80d9ae8a3550744412",
+        "size": 13467,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.yussefabdelwahab.image-slideshow/assets/24500e65767ebcfc-24500e65767ebcfc4f37ed3943b1a7cd849cd95730dc9f899431c49fbd0b25e5.jpg",
+        "sha256": "24500e65767ebcfc4f37ed3943b1a7cd849cd95730dc9f899431c49fbd0b25e5",
+        "size": 1643702,
+        "contentType": "image/jpeg"
+      }
+    ]
   }
 }

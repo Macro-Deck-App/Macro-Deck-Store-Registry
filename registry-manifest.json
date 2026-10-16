@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 112,
-  "generatedAt": "2026-10-15T18:47:42.5631199+00:00",
+  "sequence": 113,
+  "generatedAt": "2026-10-16T05:06:43.8321102+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -1531,8 +1531,8 @@
     },
     {
       "path": "plugins/com.yussefabdelwahab.image-slideshow/versions/1.0.3/manifest.json",
-      "sha256": "f22c6be7b512b1f7a2013066d850230f7507cebd58423d62bbf92600d55b29f6",
-      "size": 766
+      "sha256": "036678388a93e20da493802632f449b864150849b0f0642221e87b80c256756c",
+      "size": 2899
     },
     {
       "path": "plugins/com.yussefabdelwahab.nvidia-smi-tool/manifest.json",
