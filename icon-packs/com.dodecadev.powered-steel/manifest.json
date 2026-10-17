@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/icon-pack.schema.json",
+  "kind": "iconPack",
+  "name": "Powered Steel",
+  "id": "com.dodecadev.powered-steel",
+  "latestVersion": "2.0.0",
+  "description": "Every free Font Awesome 6 icon on a brushed steel button",
+  "publisher": "DodecaDev",
+  "homepage": "https://dodecadev.com",
+  "license": "CC BY 4.0",
+  "createdAt": "2026-10-17T17:20:13.1314266+00:00",
+  "updatedAt": "2026-10-17T17:20:13.1314266+00:00",
+  "tags": [
+    "icons",
+    "font-awesome",
+    "fa",
+    "fonticons",
+    "poweredsteel"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": false
+  }
+}

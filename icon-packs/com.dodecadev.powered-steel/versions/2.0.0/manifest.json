@@ -1,0 +1,29 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/icon-packs/com.dodecadev.powered-steel/2.0.0/com.dodecadev.powered-steel-v2.0.0.macroDeckIconPack",
+  "sha256": "c518223a9ae25a3b0c400bb4133b0875b878ada8224d6b37e5fea0dc43174532",
+  "size": 22831241,
+  "uploadedAt": "2026-10-17T16:44:34.190929+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/icon-packs/com.dodecadev.powered-steel/assets/ac0992e84e67798c-ac0992e84e67798cee3331a9ef32f5726f56519a4a593dde1593625025831b73.png",
+      "sha256": "ac0992e84e67798cee3331a9ef32f5726f56519a4a593dde1593625025831b73",
+      "size": 120169,
+      "contentType": "image/png"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/icon-packs/com.dodecadev.powered-steel/assets/a3b3019b792be0a4-a3b3019b792be0a493e1fee0b1e48b1537ff1c13373f7b173264f32977307b16.png",
+        "sha256": "a3b3019b792be0a493e1fee0b1e48b1537ff1c13373f7b173264f32977307b16",
+        "size": 544513,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/icon-packs/com.dodecadev.powered-steel/assets/3f87bcfdf873a3d8-3f87bcfdf873a3d8c4bdd9d232165f7fbb29b98d54d8a431a087cb1e67c08e1a.png",
+        "sha256": "3f87bcfdf873a3d8c4bdd9d232165f7fbb29b98d54d8a431a087cb1e67c08e1a",
+        "size": 370969,
+        "contentType": "image/png"
+      }
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 123,
-  "generatedAt": "2026-10-17T11:50:47.5688713+00:00",
+  "sequence": 124,
+  "generatedAt": "2026-10-17T17:20:13.1577707+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -240,6 +240,26 @@
       "size": 89
     },
     {
+      "path": "icon-packs/com.dodecadev.powered-steel/manifest.json",
+      "sha256": "e81c2287f9c1fcd98c829ec2f98a2e394c333c41ea917992216230aa4a449f98",
+      "size": 642
+    },
+    {
+      "path": "icon-packs/com.dodecadev.powered-steel/versions/2.0.0/changelog.md",
+      "sha256": "f5cc23e67a96d7f2e72b13e908062727f42ad0964a74005433ac3bdd3c2f0f6b",
+      "size": 642
+    },
+    {
+      "path": "icon-packs/com.dodecadev.powered-steel/versions/2.0.0/description.md",
+      "sha256": "4000649e21773418caf9bbdad95439bdc459afd6af34de546e93234dea722660",
+      "size": 57
+    },
+    {
+      "path": "icon-packs/com.dodecadev.powered-steel/versions/2.0.0/manifest.json",
+      "sha256": "91f448b9aa4f6b821a6d6a3562fe1044463c9136b9ca9aa2ff5f4e1f1df625ed",
+      "size": 1441
+    },
+    {
       "path": "icon-packs/com.fire.black-gold-luxury/manifest.json",
       "sha256": "3f96c735fa989d4ad393547cbd8e768b744dae317a8118fe49d01751fec95e91",
       "size": 694
@@ -341,8 +361,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "e4dfe0acca80d3ae08a53f1b49752996e6b59646a1f4bbdebe652fca3252c695",
-      "size": 1606
+      "sha256": "637bd6a020a01f1fe5423207a3fd5bb29ec1e74bf61d05dac8aa22c08c3d9b43",
+      "size": 1641
     },
     {
       "path": "plugins/app.counttogether.counttogether-macro-deck-plugin/manifest.json",
