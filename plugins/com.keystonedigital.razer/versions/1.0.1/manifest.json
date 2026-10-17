@@ -1,0 +1,33 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.keystonedigital.razer/1.0.1/com.keystonedigital.razer-v1.0.1.macroDeckPlugin",
+  "sha256": "a5d028c4a75e83c09c727e49bcb197aabc8c56654a9790407f7e649bc4d6ecd9",
+  "size": 2324434,
+  "uploadedAt": "2026-10-17T18:05:42.543675+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.keystonedigital.razer/assets/2ded2d6e1e16148f-2ded2d6e1e16148faf6cd84038e55e3dbf95ed50a65abbc8093775740d7f534d.png",
+      "sha256": "2ded2d6e1e16148faf6cd84038e55e3dbf95ed50a65abbc8093775740d7f534d",
+      "size": 449466,
+      "contentType": "image/png"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.keystonedigital.razer/assets/f5c64f26717f470d-f5c64f26717f470deb648c6500acd0f2db6cfe04f210bd616f03076a44c7f454.png",
+        "sha256": "f5c64f26717f470deb648c6500acd0f2db6cfe04f210bd616f03076a44c7f454",
+        "size": 200102,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.keystonedigital.razer/assets/e5f27941137ffda3-e5f27941137ffda3527d92f6917880191f386ce1c898f461e2e435f111bcbc4e.png",
+        "sha256": "e5f27941137ffda3527d92f6917880191f386ce1c898f461e2e435f111bcbc4e",
+        "size": 470269,
+        "contentType": "image/png"
+      }
+    ]
+  },
+  "source": {
+    "tag": "v1.0.1",
+    "commit": "cbec8487204c691dd1b5bc68b01f728b8f2cbe82"
+  }
+}

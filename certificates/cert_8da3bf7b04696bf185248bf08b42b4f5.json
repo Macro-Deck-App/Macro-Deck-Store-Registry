@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.macro-deck.app/macrodeck-certificate-v1.schema.json",
+  "schemaVersion": 1,
+  "subject": {
+    "kind": "organization",
+    "id": "01a14598-e9fd-78f5-834d-7b64423e13a7",
+    "name": "Synapse Control for Razer (unofficial)"
+  },
+  "algorithm": "ed25519",
+  "certificateId": "cert_8da3bf7b04696bf185248bf08b42b4f5",
+  "publicKey": "b2QUpke5H1Mk/J8lYZ\u002BDhJ2i6XsQJ/8EIepCRKSKr30=",
+  "keyUsage": [
+    "package"
+  ],
+  "notBefore": "2026-10-16T18:33:29.3577465+00:00",
+  "notAfter": "2028-10-15T18:33:29.3577465+00:00",
+  "issuedAt": "2026-10-16T18:33:29.3577465+00:00",
+  "rootKeyId": "root_2026"
+}

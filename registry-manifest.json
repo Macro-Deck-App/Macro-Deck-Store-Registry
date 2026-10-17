@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 125,
-  "generatedAt": "2026-10-17T17:22:33.7404014+00:00",
+  "sequence": 126,
+  "generatedAt": "2026-10-17T18:40:34.6867863+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -137,6 +137,16 @@
     {
       "path": "certificates/cert_8c8eb350d5aa84e85357fe811c13a61e.sig",
       "sha256": "6ec2c408b4c332958a9b392154a188c668431c68f224386a2a43da91211827dd",
+      "size": 89
+    },
+    {
+      "path": "certificates/cert_8da3bf7b04696bf185248bf08b42b4f5.json",
+      "sha256": "fc278bbdf52f0cbed60fc8c5905b3b89739d2ac4a4a1e2feaf58702d6082470a",
+      "size": 631
+    },
+    {
+      "path": "certificates/cert_8da3bf7b04696bf185248bf08b42b4f5.sig",
+      "sha256": "9a77e80f86301b9f0104be0952d154b75f13b37164be8198bcc6122952d32b20",
       "size": 89
     },
     {
@@ -371,8 +381,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "5669ddab6a83c95ef9a93ea2905d1f0bcac202e2a216d218959b0554bef38556",
-      "size": 1675
+      "sha256": "28ccf01783c4b9266b081ea50a95366332b30e0b39c6ea8654e36214f9da139f",
+      "size": 1708
     },
     {
       "path": "plugins/app.counttogether.counttogether-macro-deck-plugin/manifest.json",
@@ -983,6 +993,31 @@
       "path": "plugins/com.jhnnr.calendar/versions/1.0.0/manifest.json",
       "sha256": "486c54212e7e2ad8972bc8210c00e262bc6e7ee6eb2621f91a195174f8116b14",
       "size": 1149
+    },
+    {
+      "path": "plugins/com.keystonedigital.razer/manifest.json",
+      "sha256": "aafab2a95839ca292a9bda236e0964798db97ef6d593a12e0cc5ca306164c1d3",
+      "size": 881
+    },
+    {
+      "path": "plugins/com.keystonedigital.razer/versions/1.0.1/changelog.md",
+      "sha256": "28ff81cc7fc4d8f04dd8e28a01a3da87ff71170a167bea652783b7572b5f0e44",
+      "size": 723
+    },
+    {
+      "path": "plugins/com.keystonedigital.razer/versions/1.0.1/dependencies.json",
+      "sha256": "7ef536d6961753e3d3f3423c308e5eb08b674e92c601f7b06b59b0f3aad7b77e",
+      "size": 2182
+    },
+    {
+      "path": "plugins/com.keystonedigital.razer/versions/1.0.1/description.md",
+      "sha256": "c161127bba1589e21854b338f33cb6379c68de40ab00e0759672a26f577b5701",
+      "size": 6517
+    },
+    {
+      "path": "plugins/com.keystonedigital.razer/versions/1.0.1/manifest.json",
+      "sha256": "31364002f09ac8530069aafe9a8d9e753f8b58639931fcc5ceed4d1a56e554d4",
+      "size": 1513
     },
     {
       "path": "plugins/com.kickfireice.vesktop-bridge/manifest.json",

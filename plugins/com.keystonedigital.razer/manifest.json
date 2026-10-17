@@ -1,0 +1,33 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "Razer App Controller",
+  "id": "com.keystonedigital.razer",
+  "latestVersion": "1.0.1",
+  "description": "Unofficial. Control Razer Synapse profiles, lighting, brightness, gaming mode and mouse DPI from Macro Deck, plus Chroma lighting effects with no setup.",
+  "publisher": "Keystone Digital",
+  "repository": "https://github.com/keystonedigitalinc/MacroDeck-RazerController",
+  "license": "MIT",
+  "createdAt": "2026-10-17T18:40:34.6372957+00:00",
+  "updatedAt": "2026-10-17T18:40:34.6372957+00:00",
+  "supportedRids": [
+    "win-x64"
+  ],
+  "tags": [
+    "system",
+    "gaming",
+    "razer",
+    "synapse",
+    "mouse",
+    "keyboard",
+    "dpi",
+    "lighting",
+    "rgb",
+    "profiles"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": true
+  }
+}
