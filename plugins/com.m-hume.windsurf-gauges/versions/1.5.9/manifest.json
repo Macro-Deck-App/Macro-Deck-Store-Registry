@@ -1,0 +1,27 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.m-hume.windsurf-gauges/1.5.9/com.m-hume.windsurf-gauges-v1.5.9.macroDeckPlugin",
+  "sha256": "ac72b73f556598f10e5cfc8957be498daf25e53e0e8950a8cfb2126db49a6f6c",
+  "size": 1109496,
+  "uploadedAt": "2026-10-17T16:12:01.438833+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.m-hume.windsurf-gauges/assets/0aea67d09906da60-0aea67d09906da60df8fd54402b900991fd3dbc5032ade91e726e7d46eb41be8.svg",
+      "sha256": "0aea67d09906da60df8fd54402b900991fd3dbc5032ade91e726e7d46eb41be8",
+      "size": 1344,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.m-hume.windsurf-gauges/assets/9556561d46bb2e26-9556561d46bb2e26dbf82c7f12e13617134cd7eec89e51347c5e9080bdf8270d.png",
+        "sha256": "9556561d46bb2e26dbf82c7f12e13617134cd7eec89e51347c5e9080bdf8270d",
+        "size": 12316,
+        "contentType": "image/png"
+      }
+    ]
+  },
+  "source": {
+    "tag": "v1.5.9",
+    "commit": "75621a4031284a21008041d306baeffb291d8465"
+  }
+}

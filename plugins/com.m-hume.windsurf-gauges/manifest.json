@@ -1,0 +1,32 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "Windsurf Gauges",
+  "id": "com.m-hume.windsurf-gauges",
+  "latestVersion": "1.5.9",
+  "description": "A Macro Deck 3 plugin that shows Windsurf usage on the deck: daily and weekly quota, the extra usage balance",
+  "publisher": "m-hume",
+  "repository": "https://github.com/m-hume/windsurf-gauges",
+  "license": "MIT",
+  "createdAt": "2026-10-17T17:22:33.7288574+00:00",
+  "updatedAt": "2026-10-17T17:22:33.7288574+00:00",
+  "supportedRids": [
+    "win-x64"
+  ],
+  "tags": [
+    "productivity",
+    "windsurf",
+    "devin",
+    "ai",
+    "usage",
+    "quota",
+    "gauges",
+    "monitoring",
+    "developer-tools"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": true
+  }
+}

@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 124,
-  "generatedAt": "2026-10-17T17:20:13.1577707+00:00",
+  "sequence": 125,
+  "generatedAt": "2026-10-17T17:22:33.7404014+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -147,6 +147,16 @@
     {
       "path": "certificates/cert_94eaac43fef51cc1f2cdc9ff1de511f5.sig",
       "sha256": "bf192eb495c63183b28d83e3ee9346022808963b6bf48b838645e793c3c19898",
+      "size": 89
+    },
+    {
+      "path": "certificates/cert_95f0c641ea4de45d047bd4e2d37154ba.json",
+      "sha256": "052531e6c43e682ebe58e2c9c063dc0c0e49a860b07d84426c839e0101412b3a",
+      "size": 581
+    },
+    {
+      "path": "certificates/cert_95f0c641ea4de45d047bd4e2d37154ba.sig",
+      "sha256": "2fa5661e363336575f9a556fac669051e1e9e31fd6e689a86bee839c2718d947",
       "size": 89
     },
     {
@@ -361,8 +371,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "637bd6a020a01f1fe5423207a3fd5bb29ec1e74bf61d05dac8aa22c08c3d9b43",
-      "size": 1641
+      "sha256": "5669ddab6a83c95ef9a93ea2905d1f0bcac202e2a216d218959b0554bef38556",
+      "size": 1675
     },
     {
       "path": "plugins/app.counttogether.counttogether-macro-deck-plugin/manifest.json",
@@ -1023,6 +1033,31 @@
       "path": "plugins/com.kickfireice.wavelink-bridge/versions/1.0.17/manifest.json",
       "sha256": "e1b1b4f61bf91cd9a527c760bd6ceb19803e9239180dc76e6bdf2e61143017b3",
       "size": 1544
+    },
+    {
+      "path": "plugins/com.m-hume.windsurf-gauges/manifest.json",
+      "sha256": "34e130d0381440c403a42300b153f3983f42a9a3f14042d3052662084a107139",
+      "size": 802
+    },
+    {
+      "path": "plugins/com.m-hume.windsurf-gauges/versions/1.5.9/changelog.md",
+      "sha256": "71c2c3de55603bbdaca857c021152df49d1b8df7b280d2c08182ca32cc6d0552",
+      "size": 230
+    },
+    {
+      "path": "plugins/com.m-hume.windsurf-gauges/versions/1.5.9/dependencies.json",
+      "sha256": "ed747bb58f8e27fc2e5c175e2d108a0a1fa3c52676b8887638f7399027e541a8",
+      "size": 1770
+    },
+    {
+      "path": "plugins/com.m-hume.windsurf-gauges/versions/1.5.9/description.md",
+      "sha256": "b10c577d947de38be12071331ad945240fa282a4ecc627d1dc9465847dce3027",
+      "size": 3982
+    },
+    {
+      "path": "plugins/com.m-hume.windsurf-gauges/versions/1.5.9/manifest.json",
+      "sha256": "b347c8736154904a875f695b5be389eb84c5de08d4072cb9670d9ef6b29e399e",
+      "size": 1180
     },
     {
       "path": "plugins/com.multidisplayvcp.client/manifest.json",

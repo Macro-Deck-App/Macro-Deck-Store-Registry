@@ -1,0 +1,1 @@
+- Review fixes: the state.vscdb key lookup only accepts Windsurf/Devin token formats, keys are cached and re-scanned only when authentication fails, AI declaration added to the manifest, README prerequisites and Windows-only note

@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.macro-deck.app/macrodeck-certificate-v1.schema.json",
+  "schemaVersion": 1,
+  "subject": {
+    "kind": "creator",
+    "id": "395522972577693854",
+    "name": "m-hume"
+  },
+  "algorithm": "ed25519",
+  "certificateId": "cert_95f0c641ea4de45d047bd4e2d37154ba",
+  "publicKey": "P0Gtyx6JOu/G7XCYr15\u002BWe3/\u002BOhlbncwvQPPmnmEidI=",
+  "keyUsage": [
+    "package"
+  ],
+  "notBefore": "2026-10-17T14:09:13.2622745+00:00",
+  "notAfter": "2028-10-16T14:09:13.2622745+00:00",
+  "issuedAt": "2026-10-17T14:09:13.2622745+00:00",
+  "rootKeyId": "root_2026"
+}
