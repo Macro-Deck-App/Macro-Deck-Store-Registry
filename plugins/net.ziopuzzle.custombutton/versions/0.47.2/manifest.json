@@ -1,0 +1,75 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/net.ziopuzzle.custombutton/0.47.2/net.ziopuzzle.custombutton-v0.47.2.macroDeckPlugin",
+  "sha256": "c5d4b23cfb860fb067021ece0dc400f8e9d7d1f8cdbe7a510d723960c1160dc6",
+  "size": 60831126,
+  "uploadedAt": "2026-10-17T11:12:54.538961+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/net.ziopuzzle.custombutton/assets/42abe2faaa45a769-42abe2faaa45a769dd32d3e198c0be60ad0b8d6d50d7272eb756afaa13e32900.svg",
+      "sha256": "42abe2faaa45a769dd32d3e198c0be60ad0b8d6d50d7272eb756afaa13e32900",
+      "size": 278,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/net.ziopuzzle.custombutton/assets/e89f2e8e15439714-e89f2e8e1543971459a4be003070d3b29bc222aec5f78421dbf37035593f0900.png",
+        "sha256": "e89f2e8e1543971459a4be003070d3b29bc222aec5f78421dbf37035593f0900",
+        "size": 104534,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/net.ziopuzzle.custombutton/assets/ed809a07ce30759f-ed809a07ce30759f6717590ae1f06ac33b0414ebda51133d7dbc9eb07d1711fe.png",
+        "sha256": "ed809a07ce30759f6717590ae1f06ac33b0414ebda51133d7dbc9eb07d1711fe",
+        "size": 65819,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/net.ziopuzzle.custombutton/assets/4ade869eff341c9d-4ade869eff341c9dd35f095d25b40cad4dcc3c131f6c5b7d93817b6c935f5bab.png",
+        "sha256": "4ade869eff341c9dd35f095d25b40cad4dcc3c131f6c5b7d93817b6c935f5bab",
+        "size": 80040,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/net.ziopuzzle.custombutton/assets/5c374332d8e64fb2-5c374332d8e64fb2a0fe3c3df7894f0bf74d6e491859e1a100c85475d778988c.png",
+        "sha256": "5c374332d8e64fb2a0fe3c3df7894f0bf74d6e491859e1a100c85475d778988c",
+        "size": 14493,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/net.ziopuzzle.custombutton/assets/952ccdd9b40ad306-952ccdd9b40ad306a59d5c8a81efb328faafcfb872be07063eb8d09757c2e912.png",
+        "sha256": "952ccdd9b40ad306a59d5c8a81efb328faafcfb872be07063eb8d09757c2e912",
+        "size": 90005,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/net.ziopuzzle.custombutton/assets/ee5d0c6a86b86f35-ee5d0c6a86b86f352be79c599c8f2f7b5ca2e39585fce2b17e5f122abb17a1fb.png",
+        "sha256": "ee5d0c6a86b86f352be79c599c8f2f7b5ca2e39585fce2b17e5f122abb17a1fb",
+        "size": 77536,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/net.ziopuzzle.custombutton/assets/478d42c78a4eb30f-478d42c78a4eb30f72c70ac44c4cb12d19ccc5cfcbc5bd825ea3feddec3a26eb.png",
+        "sha256": "478d42c78a4eb30f72c70ac44c4cb12d19ccc5cfcbc5bd825ea3feddec3a26eb",
+        "size": 73739,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/net.ziopuzzle.custombutton/assets/4c39f0f18f7f5dc4-4c39f0f18f7f5dc4aecde32e0c63620b0b48a9f81094b8feb52c8b019356fe0a.png",
+        "sha256": "4c39f0f18f7f5dc4aecde32e0c63620b0b48a9f81094b8feb52c8b019356fe0a",
+        "size": 33242,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/net.ziopuzzle.custombutton/assets/e823f417f41c7aa7-e823f417f41c7aa7fc1f2ec3a2040163d2823c83dd92b360de076285444d91f6.png",
+        "sha256": "e823f417f41c7aa7fc1f2ec3a2040163d2823c83dd92b360de076285444d91f6",
+        "size": 69140,
+        "contentType": "image/png"
+      }
+    ]
+  },
+  "source": {
+    "tag": "v0.47.2",
+    "commit": "2f103a2089ac770f24bb7a6860785094f260e86a"
+  }
+}
