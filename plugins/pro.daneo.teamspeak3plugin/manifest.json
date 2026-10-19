@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "Teamspeak3Plugin",
+  "id": "pro.daneo.teamspeak3plugin",
+  "latestVersion": "0.5.0",
+  "description": "A plugin to control teamspeak 3 via macrodeck",
+  "publisher": "DaNeo",
+  "repository": "https://github.com/DaNeo61/MacroDeck.Teamspeak3Plugin",
+  "license": "MIT",
+  "createdAt": "2026-10-19T06:01:53.6857697+00:00",
+  "updatedAt": "2026-10-19T06:01:53.6857697+00:00",
+  "supportedRids": [
+    "linux-x64",
+    "osx-arm64",
+    "win-x64"
+  ],
+  "tags": [
+    "communication",
+    "system",
+    "teamspeak3",
+    "ts3",
+    "query-api"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": false
+  }
+}

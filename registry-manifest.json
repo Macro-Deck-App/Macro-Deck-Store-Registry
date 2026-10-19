@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 128,
-  "generatedAt": "2026-10-19T05:57:41.2278415+00:00",
+  "sequence": 129,
+  "generatedAt": "2026-10-19T06:01:53.6968957+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -177,6 +177,16 @@
     {
       "path": "certificates/cert_9974b9fc2dd4afedc436578a2aa46048.sig",
       "sha256": "32235b7f7705f1add1a2de1823a7e7f0246044cb80c8c9f1439197b99812fa87",
+      "size": 89
+    },
+    {
+      "path": "certificates/cert_9e51be795c74b018fa47c7e80e5efe1c.json",
+      "sha256": "49010584a45652ea4fff3ca2ad701ab91bd4beb2522328ffea589696f75928b4",
+      "size": 570
+    },
+    {
+      "path": "certificates/cert_9e51be795c74b018fa47c7e80e5efe1c.sig",
+      "sha256": "40dcc6c65ad372d5b0558f07f505fa421eaab826485ab0cf6a050eed8c5751d8",
       "size": 89
     },
     {
@@ -381,8 +391,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "28ccf01783c4b9266b081ea50a95366332b30e0b39c6ea8654e36214f9da139f",
-      "size": 1708
+      "sha256": "8ac76f718c92d886879c313e5933f9b0bc12754af00882e1c9f1466458beaf7e",
+      "size": 1742
     },
     {
       "path": "plugins/app.counttogether.counttogether-macro-deck-plugin/manifest.json",
@@ -2258,6 +2268,31 @@
       "path": "plugins/net.ziopuzzle.custombutton/versions/0.47.2/manifest.json",
       "sha256": "7d33692e306044c7e99425c39e0ee4b4e9d34f4247608b31657d73da48b2b7e4",
       "size": 3928
+    },
+    {
+      "path": "plugins/pro.daneo.teamspeak3plugin/manifest.json",
+      "sha256": "6a0d0d8f490bf6f731e6db63322668872a9218d63eada0bf30e838dc9828d30d",
+      "size": 727
+    },
+    {
+      "path": "plugins/pro.daneo.teamspeak3plugin/versions/0.5.0/changelog.md",
+      "sha256": "48e01fa9740257ef9c41b240eeff73fcda37046f1f4c1cf2ea3a1237efac7fba",
+      "size": 19
+    },
+    {
+      "path": "plugins/pro.daneo.teamspeak3plugin/versions/0.5.0/dependencies.json",
+      "sha256": "ed747bb58f8e27fc2e5c175e2d108a0a1fa3c52676b8887638f7399027e541a8",
+      "size": 1770
+    },
+    {
+      "path": "plugins/pro.daneo.teamspeak3plugin/versions/0.5.0/description.md",
+      "sha256": "f9ff52b33f422fbfd141806c404e3ea77cf157f09026f60768ba4471bba10301",
+      "size": 1014
+    },
+    {
+      "path": "plugins/pro.daneo.teamspeak3plugin/versions/0.5.0/manifest.json",
+      "sha256": "8da719c8f6701f1e87d3b39ccf564f3d79d96f0c58aeda3597c3f408f9136a91",
+      "size": 1514
     },
     {
       "path": "security.json",

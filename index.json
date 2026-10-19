@@ -1,7 +1,7 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-10-17T18:40:34.6372957+00:00",
+  "generatedAt": "2026-10-19T06:01:53.6857697+00:00",
   "plugins": [
     "app.counttogether.counttogether-macro-deck-plugin",
     "com.cjhackeryt.hwinfodeck",
@@ -36,7 +36,8 @@
     "com.yussefabdelwahab.comfyui-job-monitor",
     "com.yussefabdelwahab.image-slideshow",
     "com.yussefabdelwahab.nvidia-smi-tool",
-    "net.ziopuzzle.custombutton"
+    "net.ziopuzzle.custombutton",
+    "pro.daneo.teamspeak3plugin"
   ],
   "iconPacks": [
     "com.dodecadev.powered-steel",
