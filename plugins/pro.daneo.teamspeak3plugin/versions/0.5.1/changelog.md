@@ -1,0 +1,3 @@
+- (fixed) removed tag for writeable variables
+- (added) mode of in/output operation ( on / off / toggle )
+- (changed) Grayscaled Icon instead of white

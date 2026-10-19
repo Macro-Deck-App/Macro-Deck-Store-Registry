@@ -1,0 +1,33 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/pro.daneo.teamspeak3plugin/0.5.1/pro.daneo.teamspeak3plugin-v0.5.1.macroDeckPlugin",
+  "sha256": "044cea5a07ca6de5021a6ab24264283c8f51fadd9b8ccd0c666e2491d6803bc8",
+  "size": 3285718,
+  "uploadedAt": "2026-10-19T10:12:17.661959+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/pro.daneo.teamspeak3plugin/assets/b256e5d6cfd3d978-b256e5d6cfd3d9786843479a399190b4eb7ab8ba395279fc57b29d0989795dbb.png",
+      "sha256": "b256e5d6cfd3d9786843479a399190b4eb7ab8ba395279fc57b29d0989795dbb",
+      "size": 29150,
+      "contentType": "image/png"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/pro.daneo.teamspeak3plugin/assets/f1e7027ed2753b4e-f1e7027ed2753b4e713c062cb5a62aa2dde4c4dea732f566cb507892fbe1f8b2.png",
+        "sha256": "f1e7027ed2753b4e713c062cb5a62aa2dde4c4dea732f566cb507892fbe1f8b2",
+        "size": 64207,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/pro.daneo.teamspeak3plugin/assets/0913fdff3a70197a-0913fdff3a70197a7c9626811045f24a7530f307b7d75391c27aa0cbac5b997b.png",
+        "sha256": "0913fdff3a70197a7c9626811045f24a7530f307b7d75391c27aa0cbac5b997b",
+        "size": 47738,
+        "contentType": "image/png"
+      }
+    ]
+  },
+  "source": {
+    "tag": "0.5.1",
+    "commit": "78527f15eab39e5b60d3aa1749bf00d0bf54b85b"
+  }
+}

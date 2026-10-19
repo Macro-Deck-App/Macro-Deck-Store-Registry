@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 129,
-  "generatedAt": "2026-10-19T06:01:53.6968957+00:00",
+  "sequence": 130,
+  "generatedAt": "2026-10-19T16:19:45.7780358+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -2271,7 +2271,7 @@
     },
     {
       "path": "plugins/pro.daneo.teamspeak3plugin/manifest.json",
-      "sha256": "6a0d0d8f490bf6f731e6db63322668872a9218d63eada0bf30e838dc9828d30d",
+      "sha256": "357b65c1adda866986f1f06031a98645494f4bc7616c901a8c9de56ff66f4312",
       "size": 727
     },
     {
@@ -2292,6 +2292,26 @@
     {
       "path": "plugins/pro.daneo.teamspeak3plugin/versions/0.5.0/manifest.json",
       "sha256": "8da719c8f6701f1e87d3b39ccf564f3d79d96f0c58aeda3597c3f408f9136a91",
+      "size": 1514
+    },
+    {
+      "path": "plugins/pro.daneo.teamspeak3plugin/versions/0.5.1/changelog.md",
+      "sha256": "27177e58a92fbc29b158f8484b75b000b219500cead1a45151086712d646a0d5",
+      "size": 153
+    },
+    {
+      "path": "plugins/pro.daneo.teamspeak3plugin/versions/0.5.1/dependencies.json",
+      "sha256": "ed747bb58f8e27fc2e5c175e2d108a0a1fa3c52676b8887638f7399027e541a8",
+      "size": 1770
+    },
+    {
+      "path": "plugins/pro.daneo.teamspeak3plugin/versions/0.5.1/description.md",
+      "sha256": "f9ff52b33f422fbfd141806c404e3ea77cf157f09026f60768ba4471bba10301",
+      "size": 1014
+    },
+    {
+      "path": "plugins/pro.daneo.teamspeak3plugin/versions/0.5.1/manifest.json",
+      "sha256": "e44d9819edc2274e1a88f733b5e32a15c132e10a655b0115397e432a58c5e82f",
       "size": 1514
     },
     {
