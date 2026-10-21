@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "Metronome",
+  "id": "com.sarti2004.metronome",
+  "latestVersion": "1.0.0",
+  "description": "Simple metronome widget for Macro Deck.",
+  "publisher": "Sarti2004",
+  "repository": "https://github.com/Sarti2004/Metronome",
+  "license": "MIT",
+  "createdAt": "2026-10-21T06:34:27.5729429+00:00",
+  "updatedAt": "2026-10-21T06:34:27.5729429+00:00",
+  "supportedRids": [
+    "osx-arm64",
+    "win-x64"
+  ],
+  "tags": [
+    "productivity"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": false
+  }
+}

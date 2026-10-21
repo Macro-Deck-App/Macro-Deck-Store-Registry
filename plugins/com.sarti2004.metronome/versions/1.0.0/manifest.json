@@ -1,0 +1,27 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.sarti2004.metronome/1.0.0/com.sarti2004.metronome-v1.0.0.macroDeckPlugin",
+  "sha256": "ea59c68898dad744e42ed3dcc7d43e825fab924ebaa247f9f6a3216bb9dcae78",
+  "size": 3886312,
+  "uploadedAt": "2026-10-21T06:10:26.426245+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.sarti2004.metronome/assets/b1aaa76dfef00c01-b1aaa76dfef00c01f29ba967415f4ab73387c82bec570567940a2523f0324a78.svg",
+      "sha256": "b1aaa76dfef00c01f29ba967415f4ab73387c82bec570567940a2523f0324a78",
+      "size": 7749,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.sarti2004.metronome/assets/14afbb8b71cc96a0-14afbb8b71cc96a01d670aeb38a5a2dda001b04e7c694af8a7412c7ecf41365d.jpg",
+        "sha256": "14afbb8b71cc96a01d670aeb38a5a2dda001b04e7c694af8a7412c7ecf41365d",
+        "size": 132375,
+        "contentType": "image/jpeg"
+      }
+    ]
+  },
+  "source": {
+    "tag": "v1.0.0",
+    "commit": "34e883b12a9c4576c1f9dbcfac354fd68d459c8f"
+  }
+}
