@@ -1,0 +1,45 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.sarti2004.dorideck/1.3.1/com.sarti2004.dorideck-v1.3.1.macroDeckPlugin",
+  "sha256": "c8b1117deb5f773ef10a6d092c07fb3f05a7e42694feed74428419eb8e467d8e",
+  "size": 6096177,
+  "uploadedAt": "2026-10-20T20:49:23.07634+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.sarti2004.dorideck/assets/fb2340c52fbad933-fb2340c52fbad93311b058caac3a0d7130bebfdd2d7165cdcf6ba02e0d885272.png",
+      "sha256": "fb2340c52fbad93311b058caac3a0d7130bebfdd2d7165cdcf6ba02e0d885272",
+      "size": 28229,
+      "contentType": "image/png"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.sarti2004.dorideck/assets/4c4ab4b1b6408dc4-4c4ab4b1b6408dc42eed43a826b52c430d54497ff227e465b42a290ef67957e0.png",
+        "sha256": "4c4ab4b1b6408dc42eed43a826b52c430d54497ff227e465b42a290ef67957e0",
+        "size": 435815,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.sarti2004.dorideck/assets/bca649fb6cc8af56-bca649fb6cc8af56a90a505bf466fc387979964689b07cc4b50781380523877b.jpg",
+        "sha256": "bca649fb6cc8af56a90a505bf466fc387979964689b07cc4b50781380523877b",
+        "size": 1947141,
+        "contentType": "image/jpeg"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.sarti2004.dorideck/assets/9545e8767023e501-9545e8767023e5011fdd4505fba7ffcde4f5ce4ae2ef0dda0ebaeceb66e5598e.jpg",
+        "sha256": "9545e8767023e5011fdd4505fba7ffcde4f5ce4ae2ef0dda0ebaeceb66e5598e",
+        "size": 278237,
+        "contentType": "image/jpeg"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.sarti2004.dorideck/assets/d48a27c428620e76-d48a27c428620e76836c2827602783b7453ba39cabcf8634f9613b2bf2ab7f13.png",
+        "sha256": "d48a27c428620e76836c2827602783b7453ba39cabcf8634f9613b2bf2ab7f13",
+        "size": 395995,
+        "contentType": "image/png"
+      }
+    ]
+  },
+  "source": {
+    "tag": "v1.3.1",
+    "commit": "1069f91546da6ba2759c99ddba0993f1b5049862"
+  }
+}
