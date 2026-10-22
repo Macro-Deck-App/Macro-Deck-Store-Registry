@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 134,
-  "generatedAt": "2026-10-21T06:34:27.5858205+00:00",
+  "sequence": 135,
+  "generatedAt": "2026-10-22T11:12:23.2286772+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -230,6 +230,16 @@
       "size": 89
     },
     {
+      "path": "certificates/cert_d7655b60f5de5d9d011175c81db374f6.json",
+      "sha256": "57ec9437fda3da671f2686480b9a93597a5378ce13be9ac4fdcf7f9f615cbef0",
+      "size": 573
+    },
+    {
+      "path": "certificates/cert_d7655b60f5de5d9d011175c81db374f6.sig",
+      "sha256": "dc91524969f5f668d359cbb86f23500dc422ff3f07a819f29de8bea594f6976b",
+      "size": 89
+    },
+    {
       "path": "certificates/cert_db71fb64d9549ef79b4d03636a17972d.json",
       "sha256": "e99d898603fed7e08a0c60cf0d411875ef926a25282c7bf14c6191345da4fae0",
       "size": 582
@@ -391,8 +401,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "d1357f3d747b00f8297d41866b4126303ad624d88c5546105bab173d4628d042",
-      "size": 1773
+      "sha256": "037b2a1151f534712963e2a7ee5561ddc5a7f10625c8ee5aac2ef8c2ecfc9175",
+      "size": 1802
     },
     {
       "path": "plugins/app.counttogether.counttogether-macro-deck-plugin/manifest.json",
@@ -1128,6 +1138,31 @@
       "path": "plugins/com.multidisplayvcp.client/versions/3.0.0/manifest.json",
       "sha256": "93d43f19255ec9f98c1cc2147b112fabe4ece7f2e4b2e4fc7c2d82e16ea899b7",
       "size": 824
+    },
+    {
+      "path": "plugins/com.mutedeck.mutedeck/manifest.json",
+      "sha256": "7f3614e9374e257281a5de7400383b9108333be3cf9d10a5bafbdccf14dfe903",
+      "size": 868
+    },
+    {
+      "path": "plugins/com.mutedeck.mutedeck/versions/1.0.0/changelog.md",
+      "sha256": "2d34c4eccc357b61fb092ea7ba9a3e4624491a183d77f7b8c822093682d058a1",
+      "size": 504
+    },
+    {
+      "path": "plugins/com.mutedeck.mutedeck/versions/1.0.0/dependencies.json",
+      "sha256": "7d2705f4c53b10ff623acd4662948e5b228756416910e05bc0a0e3cc34b933d2",
+      "size": 1926
+    },
+    {
+      "path": "plugins/com.mutedeck.mutedeck/versions/1.0.0/description.md",
+      "sha256": "f58d90a80f2fb72c73609308181931c0f6fd624299d81d19a8a7e1d5aa252f31",
+      "size": 10358
+    },
+    {
+      "path": "plugins/com.mutedeck.mutedeck/versions/1.0.0/manifest.json",
+      "sha256": "7dfecae9f949196619e78bf7e51b3dcf381bf32fb7d81e5a43f7425a53123035",
+      "size": 1831
     },
     {
       "path": "plugins/com.pyflat.device-battery-info/manifest.json",

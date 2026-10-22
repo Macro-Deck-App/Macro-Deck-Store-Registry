@@ -1,7 +1,7 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-10-21T06:34:27.5729429+00:00",
+  "generatedAt": "2026-10-22T11:12:23.2168793+00:00",
   "plugins": [
     "app.counttogether.counttogether-macro-deck-plugin",
     "com.cjhackeryt.hwinfodeck",
@@ -22,6 +22,7 @@
     "com.kickfireice.wavelink-bridge",
     "com.m-hume.windsurf-gauges",
     "com.multidisplayvcp.client",
+    "com.mutedeck.mutedeck",
     "com.pyflat.device-battery-info",
     "com.pyflat.printer-control",
     "com.pyflat.system-hotkeys",

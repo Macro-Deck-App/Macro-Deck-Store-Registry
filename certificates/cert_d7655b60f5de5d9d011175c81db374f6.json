@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.macro-deck.app/macrodeck-certificate-v1.schema.json",
+  "schemaVersion": 1,
+  "subject": {
+    "kind": "creator",
+    "id": "396223696492036254",
+    "name": "MuteDeck"
+  },
+  "algorithm": "ed25519",
+  "certificateId": "cert_d7655b60f5de5d9d011175c81db374f6",
+  "publicKey": "1sfWZDuXsGf6Q3Z9adA/xkjXsfwLqPf7NXJpGCMpmkA=",
+  "keyUsage": [
+    "package"
+  ],
+  "notBefore": "2026-10-22T10:09:50.9597927+00:00",
+  "notAfter": "2028-10-21T10:09:50.9597927+00:00",
+  "issuedAt": "2026-10-22T10:09:50.9597927+00:00",
+  "rootKeyId": "root_2026"
+}
