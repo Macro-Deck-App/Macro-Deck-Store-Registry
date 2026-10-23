@@ -1,0 +1,99 @@
+{
+  "$schema": "../../../../schemas/dependencies.schema.json",
+  "sdkVersion": "10.0.402",
+  "frameworks": [
+    {
+      "framework": "net10.0",
+      "packages": [
+        {
+          "id": "MacroDeck.Localization",
+          "version": "3.0.0-beta.18",
+          "requestedVersion": "3.0.0-beta.18",
+          "direct": true
+        },
+        {
+          "id": "MacroDeck.Plugin.Analyzers",
+          "version": "3.0.0-beta.18",
+          "requestedVersion": "3.0.0-beta.18",
+          "direct": true
+        },
+        {
+          "id": "MacroDeck.Plugin.Hosting",
+          "version": "3.0.0-beta.18",
+          "requestedVersion": "3.0.0-beta.18",
+          "direct": true
+        },
+        {
+          "id": "MacroDeck.Plugin.Serilog",
+          "version": "3.0.0-beta.18",
+          "requestedVersion": "3.0.0-beta.18",
+          "direct": true
+        },
+        {
+          "id": "MacroDeck.Sdk",
+          "version": "3.0.0-beta.18",
+          "requestedVersion": "3.0.0-beta.18",
+          "direct": true
+        },
+        {
+          "id": "MacroDeck.Ui",
+          "version": "3.0.0-beta.18",
+          "requestedVersion": "3.0.0-beta.18",
+          "direct": true
+        },
+        {
+          "id": "Silk.NET.OpenAL",
+          "version": "2.23.0",
+          "requestedVersion": "2.23.0",
+          "direct": true
+        },
+        {
+          "id": "Silk.NET.OpenAL.Soft.Native",
+          "version": "1.23.1",
+          "requestedVersion": "1.23.1",
+          "direct": true
+        },
+        {
+          "id": "MacroDeck.Plugin.Protocol",
+          "version": "3.0.0-beta.18",
+          "direct": false
+        },
+        {
+          "id": "MacroDeck.Ui.Model",
+          "version": "3.0.0-beta.18",
+          "direct": false
+        },
+        {
+          "id": "Microsoft.DotNet.PlatformAbstractions",
+          "version": "3.1.6",
+          "direct": false
+        },
+        {
+          "id": "Microsoft.Extensions.DependencyModel",
+          "version": "9.0.9",
+          "direct": false
+        },
+        {
+          "id": "Serilog",
+          "version": "4.4.0",
+          "direct": false
+        },
+        {
+          "id": "Serilog.Extensions.Hosting",
+          "version": "10.0.0",
+          "direct": false
+        },
+        {
+          "id": "Serilog.Extensions.Logging",
+          "version": "10.0.0",
+          "direct": false
+        },
+        {
+          "id": "Silk.NET.Core",
+          "version": "2.23.0",
+          "direct": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 137,
-  "generatedAt": "2026-10-23T17:46:29.8958416+00:00",
+  "sequence": 138,
+  "generatedAt": "2026-10-23T17:46:42.7504309+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -1806,8 +1806,8 @@
     },
     {
       "path": "plugins/com.sarti2004.metronome/manifest.json",
-      "sha256": "8a7cb276188147602e993b60f733d9719ad2f8a02da63863dc70c47fe095aa8c",
-      "size": 622
+      "sha256": "8abcb3acac03af8008f153abd9749fbe07451ae55dcf4a8197b0f1ad402d3567",
+      "size": 621
     },
     {
       "path": "plugins/com.sarti2004.metronome/versions/1.0.0/changelog.md",
@@ -1827,6 +1827,26 @@
     {
       "path": "plugins/com.sarti2004.metronome/versions/1.0.0/manifest.json",
       "sha256": "3b0bc1a31fe4849d0caf3588a999c7c93215b7df739bf067f7a4d9e21a7989eb",
+      "size": 1170
+    },
+    {
+      "path": "plugins/com.sarti2004.metronome/versions/1.1.0/changelog.md",
+      "sha256": "02b8cc643b81fbe33d6f78d9cdfca5deddb4fed85237a338bb07d99be203d734",
+      "size": 189
+    },
+    {
+      "path": "plugins/com.sarti2004.metronome/versions/1.1.0/dependencies.json",
+      "sha256": "e3c59c34b3289904a7c582917338dfe2596c6f3f6d8b3b2444a13a5fb9c68c81",
+      "size": 2510
+    },
+    {
+      "path": "plugins/com.sarti2004.metronome/versions/1.1.0/description.md",
+      "sha256": "d594de26c0a7b0a2d6e0031042cb7e14bca40a3151870801add61bca7f4b3421",
+      "size": 718
+    },
+    {
+      "path": "plugins/com.sarti2004.metronome/versions/1.1.0/manifest.json",
+      "sha256": "7abe80bae4f9e51d6f781a56af48bcaec290541d8975ef1bb1617fee0f35e0e2",
       "size": 1170
     },
     {

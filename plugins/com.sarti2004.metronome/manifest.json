@@ -3,13 +3,13 @@
   "kind": "plugin",
   "name": "Metronome",
   "id": "com.sarti2004.metronome",
-  "latestVersion": "1.0.0",
+  "latestVersion": "1.1.0",
   "description": "Simple metronome widget for Macro Deck.",
   "publisher": "Sarti2004",
   "repository": "https://github.com/Sarti2004/Metronome",
   "license": "MIT",
   "createdAt": "2026-10-21T06:34:27.5729429+00:00",
-  "updatedAt": "2026-10-21T06:34:27.5729429+00:00",
+  "updatedAt": "2026-10-23T17:46:42.740068+00:00",
   "supportedRids": [
     "osx-arm64",
     "win-x64"
