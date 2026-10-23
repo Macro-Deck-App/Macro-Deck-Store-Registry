@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.macro-deck.app/macrodeck-certificate-v1.schema.json",
+  "schemaVersion": 1,
+  "subject": {
+    "kind": "creator",
+    "id": "395367082394386649",
+    "name": "amireux"
+  },
+  "algorithm": "ed25519",
+  "certificateId": "cert_fa639551c1f3d277d54c6e42dfdc5fe6",
+  "publicKey": "a\u002BBEek42nOrze1I11f0USnW1YTsuRfV\u002B34ve6VXDD3U=",
+  "keyUsage": [
+    "package"
+  ],
+  "notBefore": "2026-10-16T12:20:04.2789185+00:00",
+  "notAfter": "2028-10-15T12:20:04.2789185+00:00",
+  "issuedAt": "2026-10-16T12:20:04.2789185+00:00",
+  "rootKeyId": "root_2026"
+}

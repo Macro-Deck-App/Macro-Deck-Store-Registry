@@ -1,0 +1,27 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.amireux999000.netease-cloud-pilot/1.0.1/com.amireux999000.netease-cloud-pilot-v1.0.1.macroDeckPlugin",
+  "sha256": "c79f21d67335dd6ee53304ed1726306b0543d5f53d314ed115cbcafe3906d197",
+  "size": 7721637,
+  "uploadedAt": "2026-10-22T14:29:27.974537+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.amireux999000.netease-cloud-pilot/assets/e70752374c8be636-e70752374c8be63620c2b9f22efe4b75121a7ec85e51b34f62c8d6a3a507d6d8.svg",
+      "sha256": "e70752374c8be63620c2b9f22efe4b75121a7ec85e51b34f62c8d6a3a507d6d8",
+      "size": 906,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.amireux999000.netease-cloud-pilot/assets/c317f78933a75d20-c317f78933a75d20abbda67ea5856e6ed18ad243ef686e9691bfe83d9b6b26fd.png",
+        "sha256": "c317f78933a75d20abbda67ea5856e6ed18ad243ef686e9691bfe83d9b6b26fd",
+        "size": 93041,
+        "contentType": "image/png"
+      }
+    ]
+  },
+  "source": {
+    "tag": "v1.0.1",
+    "commit": "4c5d241bfe8a3f032dfe75f3c74b2877cb70ccf2"
+  }
+}

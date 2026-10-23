@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 136,
-  "generatedAt": "2026-10-23T16:59:38.9469524+00:00",
+  "sequence": 137,
+  "generatedAt": "2026-10-23T17:46:29.8958416+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -280,6 +280,16 @@
       "size": 89
     },
     {
+      "path": "certificates/cert_fa639551c1f3d277d54c6e42dfdc5fe6.json",
+      "sha256": "5819f099c44dbfa81fbc92f13dc028a853820a8f4a74f6e316e166057eb78667",
+      "size": 582
+    },
+    {
+      "path": "certificates/cert_fa639551c1f3d277d54c6e42dfdc5fe6.sig",
+      "sha256": "2c482aa5092a6ae1416f1720eab6fcc5b0ffb4b212e4f83c438682c39a0521d1",
+      "size": 89
+    },
+    {
       "path": "icon-packs/com.dodecadev.powered-steel/manifest.json",
       "sha256": "e81c2287f9c1fcd98c829ec2f98a2e394c333c41ea917992216230aa4a449f98",
       "size": 642
@@ -401,8 +411,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "037b2a1151f534712963e2a7ee5561ddc5a7f10625c8ee5aac2ef8c2ecfc9175",
-      "size": 1802
+      "sha256": "7b0d264ce8ed44bb34b67299ca5f6e8c708bd2832adbbeb3bf8ab7339962b618",
+      "size": 1847
     },
     {
       "path": "plugins/app.counttogether.counttogether-macro-deck-plugin/manifest.json",
@@ -428,6 +438,31 @@
       "path": "plugins/app.counttogether.counttogether-macro-deck-plugin/versions/2.0.0/manifest.json",
       "sha256": "fcf7163f1e4b7b0636c8acd9c9f29d9f09904c1e9810e76a5872ca3e3781f3d7",
       "size": 1266
+    },
+    {
+      "path": "plugins/com.amireux999000.netease-cloud-pilot/manifest.json",
+      "sha256": "1679be73dd40fe792fddca06a3a18d852aa7b7ba7c49b09425382d7ea5b39f65",
+      "size": 866
+    },
+    {
+      "path": "plugins/com.amireux999000.netease-cloud-pilot/versions/1.0.1/changelog.md",
+      "sha256": "9bb5610ee461a9a561e0224e73696cc277830d64e3f4d7c245cc59709051f0bc",
+      "size": 46
+    },
+    {
+      "path": "plugins/com.amireux999000.netease-cloud-pilot/versions/1.0.1/dependencies.json",
+      "sha256": "44337c9beec9a7bbd29d2e3f29f082fea5d9004c7aa072f3f2a452707b9823bb",
+      "size": 1882
+    },
+    {
+      "path": "plugins/com.amireux999000.netease-cloud-pilot/versions/1.0.1/description.md",
+      "sha256": "19b301ffa61770fc8df3080adebda595aa62b2ce03682850810d3e181a08d6b8",
+      "size": 9135
+    },
+    {
+      "path": "plugins/com.amireux999000.netease-cloud-pilot/versions/1.0.1/manifest.json",
+      "sha256": "aaf0b910c7971df8aa8ee0afbadd1d795fe6113a91e4570a116ffbd1faa0426c",
+      "size": 1223
     },
     {
       "path": "plugins/com.cjhackeryt.hwinfodeck/manifest.json",

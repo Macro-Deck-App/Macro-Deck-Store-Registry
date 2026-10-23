@@ -1,0 +1,24 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "NetEase Cloud Music Pilot for Macro Deck",
+  "id": "com.amireux999000.netease-cloud-pilot",
+  "latestVersion": "1.0.1",
+  "description": "\u7F51\u6613\u4E91\u97F3\u4E50 Macro Deck \u63D2\u4EF6\uFF0C\u652F\u6301\u64AD\u653E\u63A7\u5236\u3001\u97F3\u91CF\u8C03\u8282\u3001\u559C\u6B22 / \u6B4C\u8BCD\u5207\u6362\u3001\u5B9E\u65F6\u6B4C\u66F2\u4FE1\u606F\u4E0E\u5C01\u9762\u663E\u793A",
+  "publisher": "amireux999000",
+  "repository": "https://github.com/Amireux999000/NeteaseCloudMusicDeck",
+  "license": "MIT",
+  "createdAt": "2026-10-23T17:46:29.8876526+00:00",
+  "updatedAt": "2026-10-23T17:46:29.8876526+00:00",
+  "supportedRids": [
+    "win-x64"
+  ],
+  "tags": [
+    "music"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": true
+  }
+}
