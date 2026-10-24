@@ -1,0 +1,45 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/pro.daneo.teamspeak3plugin/0.6.0/pro.daneo.teamspeak3plugin-v0.6.0.macroDeckPlugin",
+  "sha256": "6317dad4ffa59773fcf2cfde1f3c4f503a46730372fa4cb1d6c14fb6e5ddce37",
+  "size": 3470417,
+  "uploadedAt": "2026-10-24T09:25:46.500411+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/pro.daneo.teamspeak3plugin/assets/b256e5d6cfd3d978-b256e5d6cfd3d9786843479a399190b4eb7ab8ba395279fc57b29d0989795dbb.png",
+      "sha256": "b256e5d6cfd3d9786843479a399190b4eb7ab8ba395279fc57b29d0989795dbb",
+      "size": 29150,
+      "contentType": "image/png"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/pro.daneo.teamspeak3plugin/assets/f1e7027ed2753b4e-f1e7027ed2753b4e713c062cb5a62aa2dde4c4dea732f566cb507892fbe1f8b2.png",
+        "sha256": "f1e7027ed2753b4e713c062cb5a62aa2dde4c4dea732f566cb507892fbe1f8b2",
+        "size": 64207,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/pro.daneo.teamspeak3plugin/assets/0913fdff3a70197a-0913fdff3a70197a7c9626811045f24a7530f307b7d75391c27aa0cbac5b997b.png",
+        "sha256": "0913fdff3a70197a7c9626811045f24a7530f307b7d75391c27aa0cbac5b997b",
+        "size": 47738,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/pro.daneo.teamspeak3plugin/assets/5c528880167211fd-5c528880167211fd2165cb728b875c1bc64add000ce541949a22c3d276b702f5.png",
+        "sha256": "5c528880167211fd2165cb728b875c1bc64add000ce541949a22c3d276b702f5",
+        "size": 51006,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/pro.daneo.teamspeak3plugin/assets/8036e5e53f0a72bd-8036e5e53f0a72bd368d12d8f1b2b94c7f6e8e722774eb3ad075f0485318b832.png",
+        "sha256": "8036e5e53f0a72bd368d12d8f1b2b94c7f6e8e722774eb3ad075f0485318b832",
+        "size": 46869,
+        "contentType": "image/png"
+      }
+    ]
+  },
+  "source": {
+    "tag": "0.6.0",
+    "commit": "c2ede8697fe75f076d15cb26ddd5f69e52857d3a"
+  }
+}

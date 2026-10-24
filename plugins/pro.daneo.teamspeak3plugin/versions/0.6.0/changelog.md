@@ -1,0 +1,3 @@
+- Event tracked Variables
+- reconnecting API connection
+- live channel widget
