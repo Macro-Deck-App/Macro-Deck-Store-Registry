@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 141,
-  "generatedAt": "2026-10-24T12:44:38.9754448+00:00",
+  "sequence": 142,
+  "generatedAt": "2026-10-24T16:07:50.97621+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -1036,8 +1036,8 @@
     },
     {
       "path": "plugins/com.itaimarom.libre-hardware-monitor/manifest.json",
-      "sha256": "e6fd944c2fa2fc3c33789f32adb0da5d9a81fa5fb830a27bddc5e3a15a5e1f9f",
-      "size": 723
+      "sha256": "016af28a681b452e7e2e58aad47a93d0526b3663ea93c30aac1b341e5b04eb3f",
+      "size": 722
     },
     {
       "path": "plugins/com.itaimarom.libre-hardware-monitor/versions/1.0.0/changelog.md",
@@ -1057,6 +1057,26 @@
     {
       "path": "plugins/com.itaimarom.libre-hardware-monitor/versions/1.0.0/manifest.json",
       "sha256": "8def53fe40f5ad8bf2637dfc083cad134a55894db23693a925b603d65db0616d",
+      "size": 1926
+    },
+    {
+      "path": "plugins/com.itaimarom.libre-hardware-monitor/versions/1.0.2/changelog.md",
+      "sha256": "d3e2a15e8634b845583e32fa583c1db03537af955004dde46e82022df98e60ce",
+      "size": 22
+    },
+    {
+      "path": "plugins/com.itaimarom.libre-hardware-monitor/versions/1.0.2/dependencies.json",
+      "sha256": "463ffc9c46499cf84c2f389b12a14f6ada87db047f811548c436fb992541e182",
+      "size": 6863
+    },
+    {
+      "path": "plugins/com.itaimarom.libre-hardware-monitor/versions/1.0.2/description.md",
+      "sha256": "35628e5262e0879dccfa49a6103bef1c4af37dbbc8606d09e81c7e76e46215ed",
+      "size": 14936
+    },
+    {
+      "path": "plugins/com.itaimarom.libre-hardware-monitor/versions/1.0.2/manifest.json",
+      "sha256": "349d454dc07d0e7b0762d52b504629355a4b65e454f73e4b5f8ad72ec17ab5a2",
       "size": 1926
     },
     {
