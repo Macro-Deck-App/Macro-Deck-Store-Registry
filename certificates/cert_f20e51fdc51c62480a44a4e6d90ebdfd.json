@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.macro-deck.app/macrodeck-certificate-v1.schema.json",
+  "schemaVersion": 1,
+  "subject": {
+    "kind": "creator",
+    "id": "396405088127549598",
+    "name": "ItaiMarom"
+  },
+  "algorithm": "ed25519",
+  "certificateId": "cert_f20e51fdc51c62480a44a4e6d90ebdfd",
+  "publicKey": "6cADmXqxr4rrzF6sEa4zMnJ9xT0bGlQrp//Hzu8FJUw=",
+  "keyUsage": [
+    "package"
+  ],
+  "notBefore": "2026-10-23T16:12:18.2444093+00:00",
+  "notAfter": "2028-10-22T16:12:18.2444093+00:00",
+  "issuedAt": "2026-10-23T16:12:18.2444093+00:00",
+  "rootKeyId": "root_2026"
+}

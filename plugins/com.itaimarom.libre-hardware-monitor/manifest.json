@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "Libre Hardware Monitor Plugin",
+  "id": "com.itaimarom.libre-hardware-monitor",
+  "latestVersion": "1.0.0",
+  "description": "Exposes hardware sensors directly as Macro Deck variables natively.",
+  "publisher": "ItaiMarom",
+  "repository": "https://github.com/dominic25/ItaiMarom.LibreHardwareMonitorPlugin-v3",
+  "license": "Apache-2.0",
+  "createdAt": "2026-10-24T12:37:12.4813046+00:00",
+  "updatedAt": "2026-10-24T12:37:12.4813046+00:00",
+  "supportedRids": [
+    "win-x64"
+  ],
+  "tags": [
+    "system",
+    "hardware-monitoring"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": true
+  }
+}

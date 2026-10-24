@@ -1,0 +1,27 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.itaimarom.libre-hardware-monitor/1.0.0/com.itaimarom.libre-hardware-monitor-v1.0.0.macroDeckPlugin",
+  "sha256": "c4f21e93441194cc89a1c61d2efc7f12ea621f1700e0478fa6cd6d80d4ac5694",
+  "size": 3211652,
+  "uploadedAt": "2026-10-23T22:10:59.026994+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.itaimarom.libre-hardware-monitor/assets/0a735598886bf249-0a735598886bf249958af607105a64835c14b2dbdfe2815c3e89534e0ba9ed2a.svg",
+      "sha256": "0a735598886bf249958af607105a64835c14b2dbdfe2815c3e89534e0ba9ed2a",
+      "size": 729,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.itaimarom.libre-hardware-monitor/assets/e99c1ef378640166-e99c1ef3786401660f65f99a36bcb46892826480afb40d47633acdc5766d6070.png",
+        "sha256": "e99c1ef3786401660f65f99a36bcb46892826480afb40d47633acdc5766d6070",
+        "size": 21171,
+        "contentType": "image/png"
+      }
+    ]
+  },
+  "source": {
+    "tag": "v1.0.0",
+    "commit": "1fb9b697884bf3782fa73b9a0fb0ad924c8ef77a"
+  }
+}

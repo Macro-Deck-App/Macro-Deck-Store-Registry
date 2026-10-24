@@ -1,7 +1,7 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-10-23T17:46:29.8876526+00:00",
+  "generatedAt": "2026-10-24T12:37:12.4813046+00:00",
   "plugins": [
     "app.counttogether.counttogether-macro-deck-plugin",
     "com.amireux999000.netease-cloud-pilot",
@@ -17,6 +17,7 @@
     "com.hashashin.fxcommands",
     "com.hashashin.octoprint",
     "com.inariix.mbxhub-plugin",
+    "com.itaimarom.libre-hardware-monitor",
     "com.jhnnr.calendar",
     "com.keystonedigital.razer",
     "com.kickfireice.vesktop-bridge",
