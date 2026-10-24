@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 140,
-  "generatedAt": "2026-10-24T12:37:12.507281+00:00",
+  "sequence": 141,
+  "generatedAt": "2026-10-24T12:44:38.9754448+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -1056,8 +1056,8 @@
     },
     {
       "path": "plugins/com.itaimarom.libre-hardware-monitor/versions/1.0.0/manifest.json",
-      "sha256": "fb4f47c98861a82f5f76b787556835d0ddf84de51cc8e42f4b22eaadb9aae74f",
-      "size": 1219
+      "sha256": "8def53fe40f5ad8bf2637dfc083cad134a55894db23693a925b603d65db0616d",
+      "size": 1926
     },
     {
       "path": "plugins/com.jhnnr.calendar/manifest.json",
