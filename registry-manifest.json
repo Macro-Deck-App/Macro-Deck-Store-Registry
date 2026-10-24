@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 142,
-  "generatedAt": "2026-10-24T16:07:50.97621+00:00",
+  "sequence": 143,
+  "generatedAt": "2026-10-24T17:50:55.8409885+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -421,8 +421,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "d89a87e93edcc5325672e28f45d78ceff64ab69dec1fddbc0605b24590c992f9",
-      "size": 1891
+      "sha256": "97f0d52212ea82957661151b2972d01b3f12ed764293bf69d369a620b3c0de09",
+      "size": 1928
     },
     {
       "path": "plugins/app.counttogether.counttogether-macro-deck-plugin/manifest.json",
@@ -1103,6 +1103,31 @@
       "path": "plugins/com.jhnnr.calendar/versions/1.0.0/manifest.json",
       "sha256": "486c54212e7e2ad8972bc8210c00e262bc6e7ee6eb2621f91a195174f8116b14",
       "size": 1149
+    },
+    {
+      "path": "plugins/com.keystonedigital.powertoys/manifest.json",
+      "sha256": "2a075b37b7ff68ab60139720df5526bafa1e4c447d4b8f10f423b780a0021a9d",
+      "size": 849
+    },
+    {
+      "path": "plugins/com.keystonedigital.powertoys/versions/1.0.1/changelog.md",
+      "sha256": "a4d09cbf99d851d9935f78ad6c1caae91128bbfb87f21cb88f7ae8b4c09764d3",
+      "size": 228
+    },
+    {
+      "path": "plugins/com.keystonedigital.powertoys/versions/1.0.1/dependencies.json",
+      "sha256": "1616a92429c4247dfca95f905a9a9c466f106d61034866c3a64340da4fafc10d",
+      "size": 2039
+    },
+    {
+      "path": "plugins/com.keystonedigital.powertoys/versions/1.0.1/description.md",
+      "sha256": "cfb5a5ff5a05305c53d01403a7cab8dafe35b94d51b4b53b4861219f60b669e8",
+      "size": 5541
+    },
+    {
+      "path": "plugins/com.keystonedigital.powertoys/versions/1.0.1/manifest.json",
+      "sha256": "36ea41c3eb86e60d88bb8c4010116636cda392b370e518efc71abf3eecbf97b7",
+      "size": 3266
     },
     {
       "path": "plugins/com.keystonedigital.razer/manifest.json",

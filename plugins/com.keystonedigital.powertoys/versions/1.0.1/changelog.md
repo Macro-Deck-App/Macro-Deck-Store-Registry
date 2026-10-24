@@ -1,0 +1,3 @@
+- Bundles the PowerToys Controller Icons pack: 58 flat white icons for every action and state, added to Macro Deck when you install the plugin.
+- README states the tested PowerToys version (0.102.2933).
+- Project file clean-up.
