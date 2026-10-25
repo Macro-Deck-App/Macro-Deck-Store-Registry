@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 143,
-  "generatedAt": "2026-10-24T17:50:55.8409885+00:00",
+  "sequence": 144,
+  "generatedAt": "2026-10-25T10:33:45.4817904+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -1276,7 +1276,7 @@
     },
     {
       "path": "plugins/com.mutedeck.mutedeck/versions/1.0.0/manifest.json",
-      "sha256": "7dfecae9f949196619e78bf7e51b3dcf381bf32fb7d81e5a43f7425a53123035",
+      "sha256": "844d783bff40948cf3f9b0d2ed61fed91c2b060c49503a26f96fd07acc63a6e5",
       "size": 1831
     },
     {
