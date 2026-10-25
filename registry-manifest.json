@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 144,
-  "generatedAt": "2026-10-25T10:33:45.4817904+00:00",
+  "sequence": 145,
+  "generatedAt": "2026-10-25T10:49:34.1419381+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -1131,8 +1131,8 @@
     },
     {
       "path": "plugins/com.keystonedigital.razer/manifest.json",
-      "sha256": "aafab2a95839ca292a9bda236e0964798db97ef6d593a12e0cc5ca306164c1d3",
-      "size": 881
+      "sha256": "6fd0124c66e29bf2d90a6fb4d6f3a7527d7b6851c391416a3e340cd6fa677a19",
+      "size": 882
     },
     {
       "path": "plugins/com.keystonedigital.razer/versions/1.0.1/changelog.md",
@@ -1153,6 +1153,26 @@
       "path": "plugins/com.keystonedigital.razer/versions/1.0.1/manifest.json",
       "sha256": "31364002f09ac8530069aafe9a8d9e753f8b58639931fcc5ceed4d1a56e554d4",
       "size": 1513
+    },
+    {
+      "path": "plugins/com.keystonedigital.razer/versions/1.0.13/changelog.md",
+      "sha256": "7ef5cd64b29f5dc96513d6a2d9dfd9cb2a480de553a5b2bc6c2a82c4c767d31c",
+      "size": 1447
+    },
+    {
+      "path": "plugins/com.keystonedigital.razer/versions/1.0.13/dependencies.json",
+      "sha256": "723780c4b2527d208c8074d4dbadaf8de115722b594d7a27e532199d41e0f832",
+      "size": 2182
+    },
+    {
+      "path": "plugins/com.keystonedigital.razer/versions/1.0.13/description.md",
+      "sha256": "cb790eb12fc337fd0f63140d1230f445c13806b61f937895b0321ecdaddf5c3f",
+      "size": 8522
+    },
+    {
+      "path": "plugins/com.keystonedigital.razer/versions/1.0.13/manifest.json",
+      "sha256": "4721cccbc13b7462da513f571f0bb7da74822712dd70dbc45964e1217c0c8342",
+      "size": 3232
     },
     {
       "path": "plugins/com.kickfireice.vesktop-bridge/manifest.json",
