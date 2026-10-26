@@ -1,0 +1,33 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.cjhackeryt.hwinfodeck/1.0.4/com.cjhackeryt.hwinfodeck-v1.0.4.macroDeckPlugin",
+  "sha256": "503cec2b6ab1c7469e33af82fa232b2f99aad62581cabfc08c7027498f6f0415",
+  "size": 1175567,
+  "uploadedAt": "2026-10-25T18:33:30.990184+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.cjhackeryt.hwinfodeck/assets/75e66a64c69feabc-75e66a64c69feabc482a4e72d774622212a2eec9dde218e3ea5f1f7d6d5ce18f.svg",
+      "sha256": "75e66a64c69feabc482a4e72d774622212a2eec9dde218e3ea5f1f7d6d5ce18f",
+      "size": 464,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.cjhackeryt.hwinfodeck/assets/7733cb0b0007c15a-7733cb0b0007c15acde702ed6e4141ee4fc62ec5b3ca65b1898f0b52f4a33185.jpg",
+        "sha256": "7733cb0b0007c15acde702ed6e4141ee4fc62ec5b3ca65b1898f0b52f4a33185",
+        "size": 49036,
+        "contentType": "image/jpeg"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.cjhackeryt.hwinfodeck/assets/83d5007038176284-83d50070381762844c663f4e543d43c8d1cbf41ec38cdbaba576a71dba0c58a7.png",
+        "sha256": "83d50070381762844c663f4e543d43c8d1cbf41ec38cdbaba576a71dba0c58a7",
+        "size": 61575,
+        "contentType": "image/png"
+      }
+    ]
+  },
+  "source": {
+    "tag": "v1.0.4",
+    "commit": "df33c74b406f7f0edc2bcfdc47f0c5481395b604"
+  }
+}
