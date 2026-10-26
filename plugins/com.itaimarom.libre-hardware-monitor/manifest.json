@@ -3,19 +3,26 @@
   "kind": "plugin",
   "name": "Libre Hardware Monitor Plugin",
   "id": "com.itaimarom.libre-hardware-monitor",
-  "latestVersion": "1.0.2",
-  "description": "Exposes hardware sensors directly as Macro Deck variables natively.",
+  "latestVersion": "1.1.0",
+  "description": "Hardware sensors as Macro Deck variables, plus fan and pump control from buttons and the built-in Slider.",
   "publisher": "ItaiMarom",
   "repository": "https://github.com/dominic25/ItaiMarom.LibreHardwareMonitorPlugin-v3",
   "license": "Apache-2.0",
   "createdAt": "2026-10-24T12:37:12.4813046+00:00",
-  "updatedAt": "2026-10-24T16:07:50.970272+00:00",
+  "updatedAt": "2026-10-26T20:01:56.3280328+00:00",
   "supportedRids": [
     "win-x64"
   ],
   "tags": [
     "system",
-    "hardware-monitoring"
+    "hardware-monitoring",
+    "sensors",
+    "hardware",
+    "fan-control",
+    "cpu",
+    "gpu",
+    "temperature",
+    "utilities"
   ],
   "ai": {
     "interaction": false,
