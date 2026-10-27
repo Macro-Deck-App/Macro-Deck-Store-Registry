@@ -1,0 +1,25 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "Mixalune Control",
+  "id": "com.knowledgezip.mixalune-control",
+  "latestVersion": "0.2.1",
+  "description": "Control Mixalune volume, mute and noise-gate threshold with real-time feedback.",
+  "publisher": "Knowledgezip Media",
+  "repository": "https://github.com/knowledgezip/Mixalune",
+  "license": "MIT",
+  "createdAt": "2026-10-27T18:10:37.7054689+00:00",
+  "updatedAt": "2026-10-27T18:10:37.7054689+00:00",
+  "supportedRids": [
+    "win-x64"
+  ],
+  "tags": [
+    "music",
+    "streaming"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": true
+  }
+}

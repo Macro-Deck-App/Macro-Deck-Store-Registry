@@ -1,7 +1,7 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-10-24T17:50:55.8360099+00:00",
+  "generatedAt": "2026-10-27T18:10:37.7054689+00:00",
   "plugins": [
     "app.counttogether.counttogether-macro-deck-plugin",
     "com.amireux999000.netease-cloud-pilot",
@@ -23,6 +23,7 @@
     "com.keystonedigital.razer",
     "com.kickfireice.vesktop-bridge",
     "com.kickfireice.wavelink-bridge",
+    "com.knowledgezip.mixalune-control",
     "com.m-hume.windsurf-gauges",
     "com.multidisplayvcp.client",
     "com.mutedeck.mutedeck",

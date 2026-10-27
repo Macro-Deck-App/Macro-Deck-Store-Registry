@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 149,
-  "generatedAt": "2026-10-27T09:07:51.034769+00:00",
+  "sequence": 150,
+  "generatedAt": "2026-10-27T18:10:37.7170648+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -77,6 +77,16 @@
     {
       "path": "certificates/cert_4f28d56c6846a7c85b4457c742e3a390.sig",
       "sha256": "2204088202dd8c754fc07cbc03035f41683de75392ef87e008d4bbf6bb47ba18",
+      "size": 89
+    },
+    {
+      "path": "certificates/cert_4f65e3b5ae7832dc9525d619af589905.json",
+      "sha256": "af326ddeae2aa3022ca01433d59ae4d8f3d2aa3c1cfb5764e10db06428918f99",
+      "size": 609
+    },
+    {
+      "path": "certificates/cert_4f65e3b5ae7832dc9525d619af589905.sig",
+      "sha256": "c3ad15220d56139c089eb70b20b120f85754470eaa84c9b9c52118fa5010f9fa",
       "size": 89
     },
     {
@@ -421,8 +431,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "97f0d52212ea82957661151b2972d01b3f12ed764293bf69d369a620b3c0de09",
-      "size": 1928
+      "sha256": "f5f4a5a8b480ed62dddb950b6d8d4224f0ddb30fc94660fb6c866cb21f367ab8",
+      "size": 1969
     },
     {
       "path": "plugins/app.counttogether.counttogether-macro-deck-plugin/manifest.json",
@@ -1283,6 +1293,31 @@
       "path": "plugins/com.kickfireice.wavelink-bridge/versions/1.0.17/manifest.json",
       "sha256": "e1b1b4f61bf91cd9a527c760bd6ceb19803e9239180dc76e6bdf2e61143017b3",
       "size": 1544
+    },
+    {
+      "path": "plugins/com.knowledgezip.mixalune-control/manifest.json",
+      "sha256": "2b6719dee202a61572ada87aca1c51c86603e83606232baecd250b296c1216fd",
+      "size": 682
+    },
+    {
+      "path": "plugins/com.knowledgezip.mixalune-control/versions/0.2.1/changelog.md",
+      "sha256": "88a7f38c2bfeacf0127c653aab8f15104610200ded6abc18f7848ccbbbe44857",
+      "size": 900
+    },
+    {
+      "path": "plugins/com.knowledgezip.mixalune-control/versions/0.2.1/dependencies.json",
+      "sha256": "f66397c23b1e9d18e10e4dd7797d1029b57dc501d7d49d691875c3489b9e5b67",
+      "size": 1770
+    },
+    {
+      "path": "plugins/com.knowledgezip.mixalune-control/versions/0.2.1/description.md",
+      "sha256": "dabb491321d39b4a91c1b02213a8b7febb79a8e5660362a472edff6baeec2f6e",
+      "size": 3634
+    },
+    {
+      "path": "plugins/com.knowledgezip.mixalune-control/versions/0.2.1/manifest.json",
+      "sha256": "cdd1ce8e52bcdb94c95971da58b988b76eb9c7091b3e141b3b22d2e16bec25fc",
+      "size": 1906
     },
     {
       "path": "plugins/com.m-hume.windsurf-gauges/manifest.json",

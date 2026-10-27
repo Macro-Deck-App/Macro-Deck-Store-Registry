@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.macro-deck.app/macrodeck-certificate-v1.schema.json",
+  "schemaVersion": 1,
+  "subject": {
+    "kind": "organization",
+    "id": "01a16edc-6566-761e-95e5-25bb8ae91035",
+    "name": "Mixalune Control"
+  },
+  "algorithm": "ed25519",
+  "certificateId": "cert_4f65e3b5ae7832dc9525d619af589905",
+  "publicKey": "jWanA/SrqiGG0OyGlBtVIY4CalULJfRDMz8zZ\u002B9TrWI=",
+  "keyUsage": [
+    "package"
+  ],
+  "notBefore": "2026-10-25T14:29:24.7086073+00:00",
+  "notAfter": "2028-10-24T14:29:24.7086073+00:00",
+  "issuedAt": "2026-10-25T14:29:24.7086073+00:00",
+  "rootKeyId": "root_2026"
+}

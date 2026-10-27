@@ -1,0 +1,39 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.knowledgezip.mixalune-control/0.2.1/com.knowledgezip.mixalune-control-v0.2.1.macroDeckPlugin",
+  "sha256": "9152a3a59324088148e945086c60261b395ca7fec758248d63242157cd9983d3",
+  "size": 1649335,
+  "uploadedAt": "2026-10-26T02:48:35.017473+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.knowledgezip.mixalune-control/assets/5697b2349643eac8-5697b2349643eac88c00226eedb8fae0c022e695fbf76a4472f18514996d9c1a.png",
+      "sha256": "5697b2349643eac88c00226eedb8fae0c022e695fbf76a4472f18514996d9c1a",
+      "size": 280519,
+      "contentType": "image/png"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.knowledgezip.mixalune-control/assets/1e6bb7cd0dc3a06a-1e6bb7cd0dc3a06a2043963cc3282d6caadf4c246f17beca72b0381eb49c08d9.jpg",
+        "sha256": "1e6bb7cd0dc3a06a2043963cc3282d6caadf4c246f17beca72b0381eb49c08d9",
+        "size": 73172,
+        "contentType": "image/jpeg"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.knowledgezip.mixalune-control/assets/a72e00f29be4679f-a72e00f29be4679f4e7f04326aeb1a12859ee2c4ceab346ecda7080d6d975ae3.jpg",
+        "sha256": "a72e00f29be4679f4e7f04326aeb1a12859ee2c4ceab346ecda7080d6d975ae3",
+        "size": 122348,
+        "contentType": "image/jpeg"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.knowledgezip.mixalune-control/assets/69a6b07777991041-69a6b077779910411d052e3f389184b74976ad0b7b3a8b2c22fd2abf2c6a234b.jpg",
+        "sha256": "69a6b077779910411d052e3f389184b74976ad0b7b3a8b2c22fd2abf2c6a234b",
+        "size": 112552,
+        "contentType": "image/jpeg"
+      }
+    ]
+  },
+  "source": {
+    "tag": "v0.2.1",
+    "commit": "efa4434740695ffe40b3c3a290f72804568a9379"
+  }
+}
