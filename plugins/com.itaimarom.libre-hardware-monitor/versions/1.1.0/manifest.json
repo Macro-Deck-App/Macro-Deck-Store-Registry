@@ -13,6 +13,12 @@
     },
     "screenshots": [
       {
+        "url": "https://store-assets.macro-deck.app/plugins/com.itaimarom.libre-hardware-monitor/assets/3c5e10a5254c8157-3c5e10a5254c81574d0095b48be19f2c079b3a3652432b862473a93ebc39a7da.jpg",
+        "sha256": "3c5e10a5254c81574d0095b48be19f2c079b3a3652432b862473a93ebc39a7da",
+        "size": 2450994,
+        "contentType": "image/jpeg"
+      },
+      {
         "url": "https://store-assets.macro-deck.app/plugins/com.itaimarom.libre-hardware-monitor/assets/0b4e4474e145ea52-0b4e4474e145ea520915756482124ed192652af1acb427e905d0cc87a46c95fe.png",
         "sha256": "0b4e4474e145ea520915756482124ed192652af1acb427e905d0cc87a46c95fe",
         "size": 59539,
