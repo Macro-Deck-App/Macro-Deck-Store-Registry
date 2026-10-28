@@ -3,13 +3,13 @@
   "kind": "plugin",
   "name": "PowerToys Controller",
   "id": "com.keystonedigital.powertoys",
-  "latestVersion": "1.0.1",
+  "latestVersion": "1.0.2",
   "description": "Unofficial. Open PowerToys tools without shortcuts, set Awake, switch the theme, turn modules on or off, apply FancyZones layouts and launch Workspaces from Macro Deck.",
   "publisher": "Keystone Digital",
   "repository": "https://github.com/keystonedigitalinc/MacroDeck-PowerToysController",
   "license": "MIT",
   "createdAt": "2026-10-24T17:50:55.8360099+00:00",
-  "updatedAt": "2026-10-24T17:50:55.8360099+00:00",
+  "updatedAt": "2026-10-28T16:42:37.7992033+00:00",
   "supportedRids": [
     "win-x64"
   ],

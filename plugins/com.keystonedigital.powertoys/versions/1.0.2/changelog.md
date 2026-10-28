@@ -1,0 +1,6 @@
+- Module on/off now applies live, with no PowerToys restart. It flips the switch in PowerToys Settings, which shows for about 2 s. Alt Window Cycle, Command Not Found and Power Display still restart PowerToys.
+- New ZoomIt action: Zoom, Draw, Live Zoom, Snip, Snip text (OCR), Snip with dictation, Record screen, Break timer.
+- New Always On Top action: pin or unpin, opacity up, opacity down.
+- New Mouse Without Borders action: toggle Easy Mouse, reconnect.
+- Launch tool adds Cursor Wrap, Advanced Paste, Hosts File Editor, Environment Variables (both also as administrator), Registry Preview, Keyboard Manager editor and Power Display.
+- Tested with PowerToys 0.102.3001.

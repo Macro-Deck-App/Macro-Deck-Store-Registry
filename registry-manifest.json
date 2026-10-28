@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 151,
-  "generatedAt": "2026-10-27T18:11:10.7705829+00:00",
+  "sequence": 152,
+  "generatedAt": "2026-10-28T16:42:37.8290098+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -1176,7 +1176,7 @@
     },
     {
       "path": "plugins/com.keystonedigital.powertoys/manifest.json",
-      "sha256": "2a075b37b7ff68ab60139720df5526bafa1e4c447d4b8f10f423b780a0021a9d",
+      "sha256": "a3ce215aa002e16f801caa34f8ded6c364ecede6fd56d4ed75ef94b4ef732153",
       "size": 849
     },
     {
@@ -1198,6 +1198,26 @@
       "path": "plugins/com.keystonedigital.powertoys/versions/1.0.1/manifest.json",
       "sha256": "36ea41c3eb86e60d88bb8c4010116636cda392b370e518efc71abf3eecbf97b7",
       "size": 3266
+    },
+    {
+      "path": "plugins/com.keystonedigital.powertoys/versions/1.0.2/changelog.md",
+      "sha256": "3d9935b2fd786a4f306f24ef40e011459aeeea6dc6698629e40bbdf1eb5e7bee",
+      "size": 676
+    },
+    {
+      "path": "plugins/com.keystonedigital.powertoys/versions/1.0.2/dependencies.json",
+      "sha256": "070357e712ed9e3044f5262440d4d330b8328d37f5cee0a27ad9ef10c64b11c4",
+      "size": 2039
+    },
+    {
+      "path": "plugins/com.keystonedigital.powertoys/versions/1.0.2/description.md",
+      "sha256": "8e680961f04351e3c2a10cbeb4596e35708ce5bb090f725743997be26ac4b8e6",
+      "size": 6550
+    },
+    {
+      "path": "plugins/com.keystonedigital.powertoys/versions/1.0.2/manifest.json",
+      "sha256": "29fdaf77e3c428aa501efe9445a82af78e73b8c1cf8ed354499c384102f90e38",
+      "size": 3265
     },
     {
       "path": "plugins/com.keystonedigital.razer/manifest.json",

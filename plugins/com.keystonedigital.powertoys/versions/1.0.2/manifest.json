@@ -1,0 +1,63 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.keystonedigital.powertoys/1.0.2/com.keystonedigital.powertoys-v1.0.2.macroDeckPlugin",
+  "sha256": "b162b281947039e142deabc05067d07c832229c0b3ae6adf7ffa3123783c3639",
+  "size": 3838901,
+  "uploadedAt": "2026-10-27T19:05:54.89535+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.keystonedigital.powertoys/assets/ecff3dc83e228e0f-ecff3dc83e228e0fce793e4091ffffec670f7ddfb892aaac5e98d5eb2bacbd25.png",
+      "sha256": "ecff3dc83e228e0fce793e4091ffffec670f7ddfb892aaac5e98d5eb2bacbd25",
+      "size": 458015,
+      "contentType": "image/png"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.keystonedigital.powertoys/assets/8b5007fad1cd1c20-8b5007fad1cd1c2008dffc2519b2bdad1c8c456e97abe8ccecd2989999b6c4ed.png",
+        "sha256": "8b5007fad1cd1c2008dffc2519b2bdad1c8c456e97abe8ccecd2989999b6c4ed",
+        "size": 1475353,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.keystonedigital.powertoys/assets/f13a24beda6742ef-f13a24beda6742ef95fcb22bb4b6797b4730d4f6734cb50535bec9571520a629.png",
+        "sha256": "f13a24beda6742ef95fcb22bb4b6797b4730d4f6734cb50535bec9571520a629",
+        "size": 237002,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.keystonedigital.powertoys/assets/3dd260f9994894cf-3dd260f9994894cfa4ef0d3922b0128f281bb442a8aa07ff8aa5bbcc16b7782c.png",
+        "sha256": "3dd260f9994894cfa4ef0d3922b0128f281bb442a8aa07ff8aa5bbcc16b7782c",
+        "size": 130057,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.keystonedigital.powertoys/assets/01c75deefa9b0060-01c75deefa9b00609977513022bab4f0375c2f14dcb3d55386a4fb5f7a382a26.png",
+        "sha256": "01c75deefa9b00609977513022bab4f0375c2f14dcb3d55386a4fb5f7a382a26",
+        "size": 321114,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.keystonedigital.powertoys/assets/047db8d3a59a724e-047db8d3a59a724ef56970bf80f54deef214f71e46c5b13f497e6fbe9f23ac1d.png",
+        "sha256": "047db8d3a59a724ef56970bf80f54deef214f71e46c5b13f497e6fbe9f23ac1d",
+        "size": 98164,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.keystonedigital.powertoys/assets/fac6164e3f9f1c59-fac6164e3f9f1c59bba91924cea00ec5ff86a95a3ae4d4589fa37832d338408c.png",
+        "sha256": "fac6164e3f9f1c59bba91924cea00ec5ff86a95a3ae4d4589fa37832d338408c",
+        "size": 34610,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.keystonedigital.powertoys/assets/71e0185e9b24f867-71e0185e9b24f867786027fad43d4eca075b3deb65a62835b7fb9fc790a018e4.png",
+        "sha256": "71e0185e9b24f867786027fad43d4eca075b3deb65a62835b7fb9fc790a018e4",
+        "size": 49918,
+        "contentType": "image/png"
+      }
+    ]
+  },
+  "source": {
+    "tag": "v1.0.2",
+    "commit": "3085e7fc16ce545393abb5676fb00d7bc57e3db4"
+  }
+}
