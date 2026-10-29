@@ -1,0 +1,112 @@
+{
+  "$schema": "../../../../schemas/dependencies.schema.json",
+  "sdkVersion": "10.0.403",
+  "frameworks": [
+    {
+      "framework": "net10.0",
+      "packages": [
+        {
+          "id": "LibreHardwareMonitorLib",
+          "version": "0.9.6",
+          "requestedVersion": "0.9.6",
+          "direct": true
+        },
+        {
+          "id": "MacroDeck.Localization",
+          "version": "3.0.0-beta.18",
+          "requestedVersion": "3.0.0-beta.18",
+          "direct": true
+        },
+        {
+          "id": "MacroDeck.Plugin.Analyzers",
+          "version": "3.0.0-beta.18",
+          "requestedVersion": "3.0.0-beta.18",
+          "direct": true
+        },
+        {
+          "id": "MacroDeck.Plugin.Hosting",
+          "version": "3.0.0-beta.18",
+          "requestedVersion": "3.0.0-beta.18",
+          "direct": true
+        },
+        {
+          "id": "MacroDeck.Plugin.Serilog",
+          "version": "3.0.0-beta.18",
+          "requestedVersion": "3.0.0-beta.18",
+          "direct": true
+        },
+        {
+          "id": "MacroDeck.Sdk",
+          "version": "3.0.0-beta.18",
+          "requestedVersion": "3.0.0-beta.18",
+          "direct": true
+        },
+        {
+          "id": "BlackSharp.Core",
+          "version": "1.0.7",
+          "direct": false
+        },
+        {
+          "id": "DiskInfoToolkit",
+          "version": "1.1.2",
+          "direct": false
+        },
+        {
+          "id": "HidSharp",
+          "version": "2.6.4",
+          "direct": false
+        },
+        {
+          "id": "MacroDeck.Plugin.Protocol",
+          "version": "3.0.0-beta.18",
+          "direct": false
+        },
+        {
+          "id": "MacroDeck.Ui",
+          "version": "3.0.0-beta.18",
+          "direct": false
+        },
+        {
+          "id": "MacroDeck.Ui.Model",
+          "version": "3.0.0-beta.18",
+          "direct": false
+        },
+        {
+          "id": "RAMSPDToolkit-NDD",
+          "version": "1.4.2",
+          "direct": false
+        },
+        {
+          "id": "Serilog",
+          "version": "4.4.0",
+          "direct": false
+        },
+        {
+          "id": "Serilog.Extensions.Hosting",
+          "version": "10.0.0",
+          "direct": false
+        },
+        {
+          "id": "Serilog.Extensions.Logging",
+          "version": "10.0.0",
+          "direct": false
+        },
+        {
+          "id": "System.CodeDom",
+          "version": "10.0.2",
+          "direct": false
+        },
+        {
+          "id": "System.IO.Ports",
+          "version": "10.0.3",
+          "direct": false
+        },
+        {
+          "id": "System.Management",
+          "version": "10.0.2",
+          "direct": false
+        }
+      ]
+    }
+  ]
+}
