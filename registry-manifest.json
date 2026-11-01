@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 155,
-  "generatedAt": "2026-11-01T07:45:31.5790293+00:00",
+  "sequence": 156,
+  "generatedAt": "2026-11-01T07:49:09.8368239+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -2331,7 +2331,7 @@
     },
     {
       "path": "plugins/com.tabsik12.minecraft-macrolink/manifest.json",
-      "sha256": "fa32da283cbc2a63a621d9fafcf6ab2c023e6255f2160ac099d2b77aa4015a00",
+      "sha256": "c3200a73de1a53b24d6abac7ca130d2ff2c4b648abefe25c94df19c79cc5894d",
       "size": 734
     },
     {
@@ -2412,6 +2412,26 @@
     {
       "path": "plugins/com.tabsik12.minecraft-macrolink/versions/1.0.3/manifest.json",
       "sha256": "3ba6925d86a56e6defd7935f99e9851a4e96d0598e8e0465a48e059c31141b64",
+      "size": 1204
+    },
+    {
+      "path": "plugins/com.tabsik12.minecraft-macrolink/versions/1.0.4/changelog.md",
+      "sha256": "2c0fec233537bb954ea6061ef3804921f4cdf46190f8ad342d381ee56d7f26db",
+      "size": 96
+    },
+    {
+      "path": "plugins/com.tabsik12.minecraft-macrolink/versions/1.0.4/dependencies.json",
+      "sha256": "3fc6830131482dd09734f58fa9653853396b28a2ef956926cd350dc692f92e84",
+      "size": 1666
+    },
+    {
+      "path": "plugins/com.tabsik12.minecraft-macrolink/versions/1.0.4/description.md",
+      "sha256": "a7d962c6cf64da73441a72064435c1fcbb228defb5cd90b5a8de11eae2f497c0",
+      "size": 3181
+    },
+    {
+      "path": "plugins/com.tabsik12.minecraft-macrolink/versions/1.0.4/manifest.json",
+      "sha256": "88f9bcdc6407d9f1216cf7dad93d53cb65508e5dc4d88f8ae33a83bce1136744",
       "size": 1204
     },
     {
