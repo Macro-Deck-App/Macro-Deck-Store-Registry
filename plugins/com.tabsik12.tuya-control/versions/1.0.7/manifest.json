@@ -1,0 +1,33 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.tabsik12.tuya-control/1.0.7/com.tabsik12.tuya-control-v1.0.7.macroDeckPlugin",
+  "sha256": "5c44c595c1a310679b54dcd3aaec9b572bcc262de68076f8ec4c54c2944489bc",
+  "size": 1385054,
+  "uploadedAt": "2026-10-31T15:57:44.788077+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.tabsik12.tuya-control/assets/a761dec649ea5f5b-a761dec649ea5f5b7afa6b4475b75a32e39c8028ee8bed2c2c5aa28efcfe558d.svg",
+      "sha256": "a761dec649ea5f5b7afa6b4475b75a32e39c8028ee8bed2c2c5aa28efcfe558d",
+      "size": 429,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.tabsik12.tuya-control/assets/f87528560aad749e-f87528560aad749ea58505cf00cd4b673f44cd560e30b13a402e6c77db21fd04.png",
+        "sha256": "f87528560aad749ea58505cf00cd4b673f44cd560e30b13a402e6c77db21fd04",
+        "size": 55491,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.tabsik12.tuya-control/assets/e6dc9d818c16f687-e6dc9d818c16f687ae15ae36a19d4be6248e83177e6d0848e37f36bd96fdc01f.png",
+        "sha256": "e6dc9d818c16f687ae15ae36a19d4be6248e83177e6d0848e37f36bd96fdc01f",
+        "size": 11282,
+        "contentType": "image/png"
+      }
+    ]
+  },
+  "source": {
+    "tag": "v1.0.7",
+    "commit": "3aad29a4091ff253dd9d14c02ee92c109bd9ee56"
+  }
+}

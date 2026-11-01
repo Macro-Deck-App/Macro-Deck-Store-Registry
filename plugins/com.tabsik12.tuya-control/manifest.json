@@ -3,13 +3,13 @@
   "kind": "plugin",
   "name": "Tuya Control",
   "id": "com.tabsik12.tuya-control",
-  "latestVersion": "1.0.6",
+  "latestVersion": "1.0.7",
   "description": "allows control tuya devices via cloud and lan",
   "publisher": "Maciej Kaczmarek",
   "repository": "https://github.com/tabsik30/TuyaControlMD3",
   "license": "MIT",
   "createdAt": "2026-10-02T21:42:53.2311011+00:00",
-  "updatedAt": "2026-10-15T15:07:33.2764579+00:00",
+  "updatedAt": "2026-11-01T07:50:52.5907506+00:00",
   "supportedRids": [
     "win-x64"
   ],
