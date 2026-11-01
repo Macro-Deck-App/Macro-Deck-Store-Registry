@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 154,
-  "generatedAt": "2026-11-01T07:42:06.5469791+00:00",
+  "sequence": 155,
+  "generatedAt": "2026-11-01T07:45:31.5790293+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -2226,8 +2226,8 @@
     },
     {
       "path": "plugins/com.tabsik12.ets2-telemetry/manifest.json",
-      "sha256": "0c5c192616a1f908addb34c0ce171fb4c6332b008e98e4dcc416b787ad5314d6",
-      "size": 693
+      "sha256": "c0d634119122a94b947944a7043a6eb41fcfd222431852ad4fd77fc3f41355ec",
+      "size": 691
     },
     {
       "path": "plugins/com.tabsik12.ets2-telemetry/versions/1.0.10/changelog.md",
@@ -2248,6 +2248,26 @@
       "path": "plugins/com.tabsik12.ets2-telemetry/versions/1.0.10/manifest.json",
       "sha256": "01a3f1a0cc39fc0988762e141f8765b39e19374a58b55c88cc72c7f12b5ddfc3",
       "size": 1187
+    },
+    {
+      "path": "plugins/com.tabsik12.ets2-telemetry/versions/1.0.11/changelog.md",
+      "sha256": "07cf3d276edfb0c59f68a33e72538e7453a5b1e749c7067a4abf62a0a91ffa1d",
+      "size": 106
+    },
+    {
+      "path": "plugins/com.tabsik12.ets2-telemetry/versions/1.0.11/dependencies.json",
+      "sha256": "411be093ce91c03aa25643b76abfc6677db8c49193f0eed85e847c3995dc0ac1",
+      "size": 1704
+    },
+    {
+      "path": "plugins/com.tabsik12.ets2-telemetry/versions/1.0.11/description.md",
+      "sha256": "1e0df867aa55903511be5cb29634105186ad7294ed5294298ee89653335e02bd",
+      "size": 2855
+    },
+    {
+      "path": "plugins/com.tabsik12.ets2-telemetry/versions/1.0.11/manifest.json",
+      "sha256": "d9c938e6fe0f3f79155149cd6320679d7564bc9fb169798a21e78fd34cb6edc7",
+      "size": 1188
     },
     {
       "path": "plugins/com.tabsik12.ets2-telemetry/versions/1.0.7/changelog.md",
