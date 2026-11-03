@@ -1,7 +1,7 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-10-27T18:10:37.7054689+00:00",
+  "generatedAt": "2026-11-03T21:27:25.5191055+00:00",
   "plugins": [
     "app.counttogether.counttogether-macro-deck-plugin",
     "com.amireux999000.netease-cloud-pilot",
@@ -33,6 +33,7 @@
     "com.pyflat.system-media",
     "com.sarti2004.dorideck",
     "com.sarti2004.metronome",
+    "com.sarti2004.midi-router",
     "com.squibsland.beefweb",
     "com.suchbyte.ghub-batteries",
     "com.suchbyte.todo-list-plugin",

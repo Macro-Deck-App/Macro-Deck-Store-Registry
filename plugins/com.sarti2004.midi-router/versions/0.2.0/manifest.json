@@ -1,0 +1,27 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.sarti2004.midi-router/0.2.0/com.sarti2004.midi-router-v0.2.0.macroDeckPlugin",
+  "sha256": "850bb45c36e662f0dc5f0d6e2d8216cea2d91bb2b2449a9cf8aac4af85544aaa",
+  "size": 3302781,
+  "uploadedAt": "2026-11-03T19:11:44.86658+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.sarti2004.midi-router/assets/6b154032dff4e241-6b154032dff4e241fb13a4cd89f5ef0f2227555b71445766cb7ffd3cd3d46fae.png",
+      "sha256": "6b154032dff4e241fb13a4cd89f5ef0f2227555b71445766cb7ffd3cd3d46fae",
+      "size": 8428,
+      "contentType": "image/png"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.sarti2004.midi-router/assets/c271c9d77c1a24a1-c271c9d77c1a24a1782db399846add2618875c2085d5f19f86f7ad943807fedf.jpg",
+        "sha256": "c271c9d77c1a24a1782db399846add2618875c2085d5f19f86f7ad943807fedf",
+        "size": 234212,
+        "contentType": "image/jpeg"
+      }
+    ]
+  },
+  "source": {
+    "tag": "v0.2.0",
+    "commit": "29c06cbf96e9d49337df304f7bf50e08ca5a17f6"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "MIDI Router",
+  "id": "com.sarti2004.midi-router",
+  "latestVersion": "0.2.0",
+  "description": "Simple MIDI router for Macro Deck. Use it to trigger MD actions from MIDI devices",
+  "publisher": "Sarti2004",
+  "repository": "https://github.com/Sarti2004/MIDI-Router",
+  "license": "MIT",
+  "createdAt": "2026-11-03T21:27:25.5191055+00:00",
+  "updatedAt": "2026-11-03T21:27:25.5191055+00:00",
+  "supportedRids": [
+    "osx-arm64",
+    "win-x64"
+  ],
+  "tags": [
+    "productivity",
+    "midi"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": false
+  }
+}
