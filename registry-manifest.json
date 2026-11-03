@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 160,
-  "generatedAt": "2026-11-03T21:27:25.5243835+00:00",
+  "sequence": 161,
+  "generatedAt": "2026-11-03T22:21:17.5833188+00:00",
   "files": [
     {
       "path": "categories.json",
