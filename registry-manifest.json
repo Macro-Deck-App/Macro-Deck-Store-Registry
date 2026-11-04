@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 161,
-  "generatedAt": "2026-11-03T22:21:17.5833188+00:00",
+  "sequence": 162,
+  "generatedAt": "2026-11-04T19:53:12.4439235+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -1916,7 +1916,7 @@
     },
     {
       "path": "plugins/com.sarti2004.dorideck/manifest.json",
-      "sha256": "92bef447c2c7eda2a4b880144ad1f9524b26001ee3c8e2a3c1bc3f9d56d81f04",
+      "sha256": "0256141fc010eb7624693788caf6207c8de7ff99cb43ea32fb1e0f7e5c198c17",
       "size": 646
     },
     {
@@ -2058,6 +2058,26 @@
       "path": "plugins/com.sarti2004.dorideck/versions/1.3.1/manifest.json",
       "sha256": "2abce7a8b9c5b8e8e44d44751fb7432fcae379b695f3ab44b50a4894a58114f2",
       "size": 2179
+    },
+    {
+      "path": "plugins/com.sarti2004.dorideck/versions/1.4.2/changelog.md",
+      "sha256": "7c3279cb371e9f7fba4e7c8223eb8fc2c56442a6adf3aedcacbcdbebd749ab82",
+      "size": 168
+    },
+    {
+      "path": "plugins/com.sarti2004.dorideck/versions/1.4.2/dependencies.json",
+      "sha256": "83a3b648020107b9c2b28d60b57a45c3ed8b034fc16c2c9404d2a0918722ae66",
+      "size": 2005
+    },
+    {
+      "path": "plugins/com.sarti2004.dorideck/versions/1.4.2/description.md",
+      "sha256": "ae6769f9fb88cda9b810974967455a2bba963c069e611381c76e3df8c372e30d",
+      "size": 6976
+    },
+    {
+      "path": "plugins/com.sarti2004.dorideck/versions/1.4.2/manifest.json",
+      "sha256": "765f61b40bd02b398aa18b1c709fc1d124f4ee059fd185caa2cb8a11d5b56784",
+      "size": 2518
     },
     {
       "path": "plugins/com.sarti2004.metronome/manifest.json",
