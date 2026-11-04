@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 162,
-  "generatedAt": "2026-11-04T19:53:12.4439235+00:00",
+  "sequence": 163,
+  "generatedAt": "2026-11-04T19:53:50.3400753+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -486,7 +486,7 @@
     },
     {
       "path": "plugins/com.cjhackeryt.hwinfodeck/manifest.json",
-      "sha256": "5b8fdacc1f4c33011eb30447c7080e773448f47b2eeb788f923936462c3849c4",
+      "sha256": "f45fbc0be2a36ea7030249212d1225c729f36c4fbd339d1edac8827e8a16cb46",
       "size": 760
     },
     {
@@ -547,6 +547,26 @@
     {
       "path": "plugins/com.cjhackeryt.hwinfodeck/versions/1.0.4/manifest.json",
       "sha256": "1e60217f969b888b0d7f9a55e2e03e38148517d53c7ccd47a436d80cec7179b0",
+      "size": 1518
+    },
+    {
+      "path": "plugins/com.cjhackeryt.hwinfodeck/versions/1.0.6/changelog.md",
+      "sha256": "9c913ced9cda58a945263e642e9274c6d8fc9d6934b8ecadff05ca058daa044e",
+      "size": 156
+    },
+    {
+      "path": "plugins/com.cjhackeryt.hwinfodeck/versions/1.0.6/dependencies.json",
+      "sha256": "b5aa2263e973343e0bf3ce2beae9b32894947594ad09c12b59ffdc8625204c5f",
+      "size": 1742
+    },
+    {
+      "path": "plugins/com.cjhackeryt.hwinfodeck/versions/1.0.6/description.md",
+      "sha256": "bdc11afec22b4ece790cf9ee44f0c52049cc584b86cc815078014c501bd53e94",
+      "size": 6863
+    },
+    {
+      "path": "plugins/com.cjhackeryt.hwinfodeck/versions/1.0.6/manifest.json",
+      "sha256": "33c94eef89ab844d837b3dd51f99c742b82a4011c2f707a3567e4f464e0788b6",
       "size": 1518
     },
     {

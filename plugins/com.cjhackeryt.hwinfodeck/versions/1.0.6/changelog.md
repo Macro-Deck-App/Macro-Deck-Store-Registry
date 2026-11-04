@@ -1,0 +1,1 @@
+- Update the Store description with Windows, HWiNFO Shared Memory, and first-run setup requirements.\n- Declare AI-generated assets in the plugin manifest.
