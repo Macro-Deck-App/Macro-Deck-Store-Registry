@@ -1,0 +1,27 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.hashashin.fxcommands/0.2.9/com.hashashin.fxcommands-v0.2.9.macroDeckPlugin",
+  "sha256": "ce9b00e198ac9f7eab5602f1d3867c750eccb56684014bd060ee76f47c45c1c7",
+  "size": 1219207,
+  "uploadedAt": "2026-11-05T12:25:11.9049+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.hashashin.fxcommands/assets/f8f44c340175b2be-f8f44c340175b2be5122e3b6895664771c15a028e78b43746f1cb2ba71f2d1e2.png",
+      "sha256": "f8f44c340175b2be5122e3b6895664771c15a028e78b43746f1cb2ba71f2d1e2",
+      "size": 75728,
+      "contentType": "image/png"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.hashashin.fxcommands/assets/574928d5fc4c2ca9-574928d5fc4c2ca9394e5551c8f02000306bec522add9d48c73fdb1f27035b65.png",
+        "sha256": "574928d5fc4c2ca9394e5551c8f02000306bec522add9d48c73fdb1f27035b65",
+        "size": 21769,
+        "contentType": "image/png"
+      }
+    ]
+  },
+  "source": {
+    "tag": "v0.2.9",
+    "commit": "6df178297977c1c83832ee73bbceb919263a648b"
+  }
+}
