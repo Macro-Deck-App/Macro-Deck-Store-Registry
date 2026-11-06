@@ -1,0 +1,19 @@
+{
+  "$schema": "../schemas/certificate.schema.json",
+  "schemaVersion": 2,
+  "certificateId": "cert_24148784d72c935869525b3822b3727d",
+  "subject": {
+    "kind": "issuer",
+    "id": "macro-deck-platform-issuer",
+    "name": "Macro Deck Platform Issuer"
+  },
+  "algorithm": "ed25519",
+  "publicKey": "/AbL7\u002Br3ObX0oMNLMIANRnbkuc3/iLURj9B4uv6b7Dg=",
+  "keyUsage": [
+    "issuer"
+  ],
+  "notBefore": "2026-11-03T21:49:51.930249+00:00",
+  "notAfter": "2027-12-08T21:49:51.930249+00:00",
+  "issuedAt": "2026-11-03T21:49:51.930249+00:00",
+  "rootKeyId": "root_2026"
+}

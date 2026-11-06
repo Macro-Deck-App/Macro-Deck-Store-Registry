@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 165,
-  "generatedAt": "2026-11-05T22:25:46.3469144+00:00",
+  "sequence": 166,
+  "generatedAt": "2026-11-06T12:31:04.2716055+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -40,6 +40,16 @@
       "size": 89
     },
     {
+      "path": "certificates/cert_1665f50d21d7b30ecc5c5caa3e4dc1b3.json",
+      "sha256": "d1e548c1ca4cea3e87efc2fd04565f29bcee8e12d139c781a517f9b110d16618",
+      "size": 630
+    },
+    {
+      "path": "certificates/cert_1665f50d21d7b30ecc5c5caa3e4dc1b3.sig",
+      "sha256": "150b376070a51e728583a0cdf800189da71396a1f8a314db37cf6a15cbdd9262",
+      "size": 89
+    },
+    {
       "path": "certificates/cert_1ec60d31501768b730eef9d8ee219c06.json",
       "sha256": "d005acb1be52114e96117181a8d4955cc770ce59caad97d38f456b3e91bcddb9",
       "size": 607
@@ -47,6 +57,16 @@
     {
       "path": "certificates/cert_1ec60d31501768b730eef9d8ee219c06.sig",
       "sha256": "a556b32975cf85e4ebeb7976bc97f30f56a37ea7033c6bb89e95b14afbc59cfa",
+      "size": 89
+    },
+    {
+      "path": "certificates/cert_24148784d72c935869525b3822b3727d.json",
+      "sha256": "cd1463cdc4d6d3e6101a361b869fed5217e30beb2a70194387af8f33088834e3",
+      "size": 566
+    },
+    {
+      "path": "certificates/cert_24148784d72c935869525b3822b3727d.sig",
+      "sha256": "aed3b0aa1b464b5508bdfd3cea20965cb5b0f54acfc443bfd23cb641b3766ab3",
       "size": 89
     },
     {
@@ -431,8 +451,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "9a8125ae07e0f0ee54e88790062023c1ba182ed4bee7ccb4a5585eb2c7bd5f46",
-      "size": 2002
+      "sha256": "ace7053a292f4151a9d49de4bd87488e617ba9600a4bcdd20874a18ad98221a3",
+      "size": 2036
     },
     {
       "path": "plugins/app.counttogether.counttogether-macro-deck-plugin/manifest.json",
@@ -458,6 +478,31 @@
       "path": "plugins/app.counttogether.counttogether-macro-deck-plugin/versions/2.0.0/manifest.json",
       "sha256": "fcf7163f1e4b7b0636c8acd9c9f29d9f09904c1e9810e76a5872ca3e3781f3d7",
       "size": 1266
+    },
+    {
+      "path": "plugins/com.alexand7e.claude-usage/manifest.json",
+      "sha256": "27a0a993f99952addffae6d5a31a7706563118ab239547a0ac6e2359d9c7476e",
+      "size": 776
+    },
+    {
+      "path": "plugins/com.alexand7e.claude-usage/versions/1.3.0/changelog.md",
+      "sha256": "13b53d3fdcf7dc3db14dc88ba7a188c312fe4abc2e76bebd77bf10322b0044d2",
+      "size": 875
+    },
+    {
+      "path": "plugins/com.alexand7e.claude-usage/versions/1.3.0/dependencies.json",
+      "sha256": "c748f8b419bcd1e91984b21735b1360883ddbe7bf04e79c2ed83e3f02c3a4fd5",
+      "size": 1716
+    },
+    {
+      "path": "plugins/com.alexand7e.claude-usage/versions/1.3.0/description.md",
+      "sha256": "4a5d49da8fb2dfffce451d92f22e4163f0e827a651f8180e9d19405d307457fc",
+      "size": 6080
+    },
+    {
+      "path": "plugins/com.alexand7e.claude-usage/versions/1.3.0/manifest.json",
+      "sha256": "bacd183c73bc325dea4bffd5b028f96c5a8e6fbe08ae29045f5dcf4bf3ae58ec",
+      "size": 1864
     },
     {
       "path": "plugins/com.amireux999000.netease-cloud-pilot/manifest.json",

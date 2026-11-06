@@ -1,9 +1,10 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-11-03T21:27:25.5191055+00:00",
+  "generatedAt": "2026-11-06T12:31:04.2613948+00:00",
   "plugins": [
     "app.counttogether.counttogether-macro-deck-plugin",
+    "com.alexand7e.claude-usage",
     "com.amireux999000.netease-cloud-pilot",
     "com.cjhackeryt.hwinfodeck",
     "com.cjhackeryt.screenxdeck",

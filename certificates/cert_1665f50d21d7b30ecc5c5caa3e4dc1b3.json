@@ -1,0 +1,20 @@
+{
+  "$schema": "https://schemas.macro-deck.app/macrodeck-certificate-v2.schema.json",
+  "schemaVersion": 2,
+  "subject": {
+    "kind": "creator",
+    "id": "398129514661544094",
+    "name": "Alexandre Dev"
+  },
+  "algorithm": "ed25519",
+  "certificateId": "cert_1665f50d21d7b30ecc5c5caa3e4dc1b3",
+  "publicKey": "2lVJf0UCwyK5s1oI61ubj2cmVYF2A1FLyhaY7eqDu1Q=",
+  "keyUsage": [
+    "package"
+  ],
+  "notBefore": "2026-11-04T15:03:31.4452396+00:00",
+  "notAfter": "2027-12-08T21:49:51.930249+00:00",
+  "issuedAt": "2026-11-04T15:03:31.4452396+00:00",
+  "rootKeyId": "root_2026",
+  "issuer": "cert_24148784d72c935869525b3822b3727d"
+}
