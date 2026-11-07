@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 166,
-  "generatedAt": "2026-11-06T12:31:04.2716055+00:00",
+  "sequence": 167,
+  "generatedAt": "2026-11-07T23:37:07.5022864+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -371,8 +371,8 @@
     },
     {
       "path": "icon-packs/com.simplyjames.mdi-icons/manifest.json",
-      "sha256": "892ce52a7592f23ea4655f32a1f59d7f63ac12fdab898d8be669f532e7a8982d",
-      "size": 521
+      "sha256": "259bab050a0eede9cbe0a6d05d97b2b2b29b30f97eedd899b42f445df45f8789",
+      "size": 534
     },
     {
       "path": "icon-packs/com.simplyjames.mdi-icons/versions/1.0.0/changelog.md",
@@ -386,8 +386,8 @@
     },
     {
       "path": "icon-packs/com.simplyjames.mdi-icons/versions/1.0.0/manifest.json",
-      "sha256": "e05c463455abb38ce0fe5ee28a465e11bd36f9d9167e925c2d01ca6db4fb536f",
-      "size": 732
+      "sha256": "9fdae83f57e423ffcdd2e7fd716f3be9ca7d68fa6392e7241bfe47cdc93f0ff4",
+      "size": 1082
     },
     {
       "path": "icon-packs/com.suchbyte.colorful-generic-icons/manifest.json",

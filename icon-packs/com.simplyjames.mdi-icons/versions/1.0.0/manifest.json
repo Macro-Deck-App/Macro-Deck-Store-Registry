@@ -11,6 +11,13 @@
       "size": 2396,
       "contentType": "image/png"
     },
-    "screenshots": []
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/icon-packs/com.simplyjames.mdi-icons/assets/206486f5e1bbab66-206486f5e1bbab669dff709b27835c8277ddda8f0acae2c53c5a00cd35f9bd22.png",
+        "sha256": "206486f5e1bbab669dff709b27835c8277ddda8f0acae2c53c5a00cd35f9bd22",
+        "size": 182574,
+        "contentType": "image/png"
+      }
+    ]
   }
 }
