@@ -41,12 +41,6 @@
         "sha256": "17b4b690e86c260eadccbe9e659e9dbe4b81dfe492a72a80d9ae8a3550744412",
         "size": 13467,
         "contentType": "image/png"
-      },
-      {
-        "url": "https://store-assets.macro-deck.app/plugins/com.yussefabdelwahab.image-slideshow/assets/24500e65767ebcfc-24500e65767ebcfc4f37ed3943b1a7cd849cd95730dc9f899431c49fbd0b25e5.jpg",
-        "sha256": "24500e65767ebcfc4f37ed3943b1a7cd849cd95730dc9f899431c49fbd0b25e5",
-        "size": 1643702,
-        "contentType": "image/jpeg"
       }
     ]
   },
