@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 169,
-  "generatedAt": "2026-11-12T07:02:44.2414273+00:00",
+  "sequence": 170,
+  "generatedAt": "2026-11-12T07:03:15.844717+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -2276,8 +2276,8 @@
     },
     {
       "path": "plugins/com.squibsland.beefweb/manifest.json",
-      "sha256": "e7837527f2212474b4a3057c323c81f8bef968e235d8e2e6b23fd32650161227",
-      "size": 750
+      "sha256": "63b2491202e4e8d55c6509ccb33c31281cb21b314cde6fb60a65e1146c17a389",
+      "size": 756
     },
     {
       "path": "plugins/com.squibsland.beefweb/versions/0.0.4/changelog.md",
@@ -2298,6 +2298,26 @@
       "path": "plugins/com.squibsland.beefweb/versions/0.0.4/manifest.json",
       "sha256": "8d2482158d575a4a1aed7fe30274eb5435f9bd27cdb6d87f7fc7d4c79c31cf61",
       "size": 821
+    },
+    {
+      "path": "plugins/com.squibsland.beefweb/versions/0.0.5/changelog.md",
+      "sha256": "8b6bcce153b1257db5f4e66fa9a9f943c3f83ba9ebb3272bdde0205135537929",
+      "size": 743
+    },
+    {
+      "path": "plugins/com.squibsland.beefweb/versions/0.0.5/dependencies.json",
+      "sha256": "b362a6947c890f816d3f616fa5b20e5fefa136397288ca3863c9d75faf47a07c",
+      "size": 1505
+    },
+    {
+      "path": "plugins/com.squibsland.beefweb/versions/0.0.5/description.md",
+      "sha256": "b0a907ddd703cfa4fd8ca8fe85a3cfdb8c8c3c02c0457e93c7867b377bab4e4f",
+      "size": 5670
+    },
+    {
+      "path": "plugins/com.squibsland.beefweb/versions/0.0.5/manifest.json",
+      "sha256": "715bde00ef724947bf2ebb440cfe54acaee467397e579fea0981c20ea98a8de7",
+      "size": 1505
     },
     {
       "path": "plugins/com.suchbyte.ghub-batteries/manifest.json",

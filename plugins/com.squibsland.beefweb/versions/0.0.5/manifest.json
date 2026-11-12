@@ -1,0 +1,33 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.squibsland.beefweb/0.0.5/com.squibsland.beefweb-v0.0.5.macroDeckPlugin",
+  "sha256": "7217916b1a5fb553895279a3e6d94f3338c227cfa69a8a08909bc46a06b6622c",
+  "size": 3506806,
+  "uploadedAt": "2026-11-11T22:29:25.998751+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.squibsland.beefweb/assets/78378fa6daa63632-78378fa6daa6363216a25f033bc95065fc17e8fd9fe53c1cc0ca595a933d2c5f.svg",
+      "sha256": "78378fa6daa6363216a25f033bc95065fc17e8fd9fe53c1cc0ca595a933d2c5f",
+      "size": 1572,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.squibsland.beefweb/assets/215e000e95a0c145-215e000e95a0c145037881b9699573cb7ed4f684fea152bdf62762fec00521ae.png",
+        "sha256": "215e000e95a0c145037881b9699573cb7ed4f684fea152bdf62762fec00521ae",
+        "size": 424103,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.squibsland.beefweb/assets/13eab36a94d6fefb-13eab36a94d6fefb9280dceec9537b3a33b91adf4a4314c246ddfbbf3f569ae0.png",
+        "sha256": "13eab36a94d6fefb9280dceec9537b3a33b91adf4a4314c246ddfbbf3f569ae0",
+        "size": 399620,
+        "contentType": "image/png"
+      }
+    ]
+  },
+  "source": {
+    "tag": "v0.0.5",
+    "commit": "33240d30c639b9b4918064e7709c110924428c16"
+  }
+}
