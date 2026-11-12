@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 168,
-  "generatedAt": "2026-11-08T02:15:47.8604349+00:00",
+  "sequence": 169,
+  "generatedAt": "2026-11-12T07:02:44.2414273+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -1491,7 +1491,7 @@
     },
     {
       "path": "plugins/com.multidisplayvcp.client/manifest.json",
-      "sha256": "ef874e86ee992fe44b48c5347591004fe8ba56bc50d82362579f3c29a8c1e550",
+      "sha256": "7dbb480ef2a5cc66066af6ccf3ba8352a7641ec431441d7ad1f46b9257002ef2",
       "size": 1238
     },
     {
@@ -1513,6 +1513,26 @@
       "path": "plugins/com.multidisplayvcp.client/versions/3.0.0/manifest.json",
       "sha256": "93d43f19255ec9f98c1cc2147b112fabe4ece7f2e4b2e4fc7c2d82e16ea899b7",
       "size": 824
+    },
+    {
+      "path": "plugins/com.multidisplayvcp.client/versions/3.0.1/changelog.md",
+      "sha256": "a29bb229bfaf7680162136e6535647f7bc88f0048d08a1f52ff460ced0e197bb",
+      "size": 90
+    },
+    {
+      "path": "plugins/com.multidisplayvcp.client/versions/3.0.1/dependencies.json",
+      "sha256": "afaffb4efb45d5094bfed187847af3a87556b85628a096ec388b5d26d1e85409",
+      "size": 3454
+    },
+    {
+      "path": "plugins/com.multidisplayvcp.client/versions/3.0.1/description.md",
+      "sha256": "2869249b194a33ddc32ab0961f38d9ced6a68e28fc4cf407ef807d27d97efb2b",
+      "size": 4524
+    },
+    {
+      "path": "plugins/com.multidisplayvcp.client/versions/3.0.1/manifest.json",
+      "sha256": "cf2f305984d9de968093cf8ad0620370e38f0d6e6239efddf7a015e326605799",
+      "size": 3231
     },
     {
       "path": "plugins/com.mutedeck.mutedeck/manifest.json",

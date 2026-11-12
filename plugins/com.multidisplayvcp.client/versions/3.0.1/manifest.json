@@ -1,0 +1,63 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.multidisplayvcp.client/3.0.1/com.multidisplayvcp.client-v3.0.1.macroDeckPlugin",
+  "sha256": "e1946bb166c0e9ca2567e7c0ff355575be33a6ac9d09cce6789979a182ce6711",
+  "size": 6685050,
+  "uploadedAt": "2026-11-11T05:33:17.712539+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.multidisplayvcp.client/assets/f1d3dde789da4bd4-f1d3dde789da4bd42abc30099875aea1deffe73b25e5f00886fff3f8ae8a23f0.png",
+      "sha256": "f1d3dde789da4bd42abc30099875aea1deffe73b25e5f00886fff3f8ae8a23f0",
+      "size": 44904,
+      "contentType": "image/png"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.multidisplayvcp.client/assets/7d276907f1a6e2e5-7d276907f1a6e2e5c67aa3a274984844b3e0ab68622a28506758de06cf7a2efe.png",
+        "sha256": "7d276907f1a6e2e5c67aa3a274984844b3e0ab68622a28506758de06cf7a2efe",
+        "size": 33628,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.multidisplayvcp.client/assets/33d7ce3a9fbdc83d-33d7ce3a9fbdc83d9a8d83a3925c0b8be95c4354018bedf26df17ecbfc60f433.png",
+        "sha256": "33d7ce3a9fbdc83d9a8d83a3925c0b8be95c4354018bedf26df17ecbfc60f433",
+        "size": 28449,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.multidisplayvcp.client/assets/bc8587be35b489bf-bc8587be35b489bfc4b9c598bb0bfc49a287ea14b5ba2af8ba5e6dea3ba0b6db.png",
+        "sha256": "bc8587be35b489bfc4b9c598bb0bfc49a287ea14b5ba2af8ba5e6dea3ba0b6db",
+        "size": 29624,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.multidisplayvcp.client/assets/cb28f7d822fe2e98-cb28f7d822fe2e982e96ccdfd64582521e57b707ad07d5c83d1a6271586e93cb.png",
+        "sha256": "cb28f7d822fe2e982e96ccdfd64582521e57b707ad07d5c83d1a6271586e93cb",
+        "size": 141447,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.multidisplayvcp.client/assets/aaf17e03d09359fe-aaf17e03d09359fedfb1c120f0568329104fa107f5aab03fa5b177d2bee045a7.png",
+        "sha256": "aaf17e03d09359fedfb1c120f0568329104fa107f5aab03fa5b177d2bee045a7",
+        "size": 25894,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.multidisplayvcp.client/assets/2f2b3a6c50d4ebc9-2f2b3a6c50d4ebc9ddfb8bc8743f7f3a3ccb8ee1265bc3cca40dee8e794cf5d3.png",
+        "sha256": "2f2b3a6c50d4ebc9ddfb8bc8743f7f3a3ccb8ee1265bc3cca40dee8e794cf5d3",
+        "size": 35771,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.multidisplayvcp.client/assets/d592bf19795bad94-d592bf19795bad946286892ae49bd0bc52249fd171fdb35e9ff3a52254c058db.png",
+        "sha256": "d592bf19795bad946286892ae49bd0bc52249fd171fdb35e9ff3a52254c058db",
+        "size": 135423,
+        "contentType": "image/png"
+      }
+    ]
+  },
+  "source": {
+    "tag": "3.0.1",
+    "commit": "bef34461c9929cfd855a702956a26b95b061af72"
+  }
+}
