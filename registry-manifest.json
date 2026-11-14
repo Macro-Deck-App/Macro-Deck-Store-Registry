@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 171,
-  "generatedAt": "2026-11-13T11:24:10.9784502+00:00",
+  "sequence": 172,
+  "generatedAt": "2026-11-14T12:26:41.6855528+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -451,8 +451,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "ace7053a292f4151a9d49de4bd87488e617ba9600a4bcdd20874a18ad98221a3",
-      "size": 2036
+      "sha256": "b146d08f0256d74732a6634c9bf5937160182d0b7c6fb9557d1d5865d993380f",
+      "size": 2005
     },
     {
       "path": "plugins/app.counttogether.counttogether-macro-deck-plugin/manifest.json",
