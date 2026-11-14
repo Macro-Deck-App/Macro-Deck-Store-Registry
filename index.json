@@ -1,7 +1,7 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-11-14T12:26:41.6373685+00:00",
+  "generatedAt": "2026-11-14T12:26:47.3878845+00:00",
   "plugins": [
     "app.counttogether.counttogether-macro-deck-plugin",
     "com.alexand7e.claude-usage",
@@ -40,7 +40,6 @@
     "com.tabsik12.ets2-telemetry",
     "com.tabsik12.minecraft-macrolink",
     "com.tabsik12.tuya-control",
-    "com.yussefabdelwahab.comfyui-job-monitor",
     "com.yussefabdelwahab.image-slideshow",
     "com.yussefabdelwahab.nvidia-smi-tool",
     "net.ziopuzzle.custombutton",
