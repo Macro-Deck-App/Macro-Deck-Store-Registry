@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 174,
-  "generatedAt": "2026-11-16T21:41:21.0630259+00:00",
+  "sequence": 175,
+  "generatedAt": "2026-11-17T01:16:46.5261247+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -207,6 +207,16 @@
     {
       "path": "certificates/cert_9974b9fc2dd4afedc436578a2aa46048.sig",
       "sha256": "32235b7f7705f1add1a2de1823a7e7f0246044cb80c8c9f1439197b99812fa87",
+      "size": 89
+    },
+    {
+      "path": "certificates/cert_9a00e2d7096c938db3c3ea6589105a67.json",
+      "sha256": "637d62d57b847bda15e60344671baa26c15ea9c9ee0cd86f68ae6d85ae594cd4",
+      "size": 626
+    },
+    {
+      "path": "certificates/cert_9a00e2d7096c938db3c3ea6589105a67.sig",
+      "sha256": "cb17e782e87228b846501fc10062e0f7afce178c76b357f57ae13456b759efa0",
       "size": 89
     },
     {
@@ -451,8 +461,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "b56133c91db405cc27685fead51038f4c13568727e501b5dd449ef50659d5124",
-      "size": 1957
+      "sha256": "40ccb7a99c85be83b7d8e212d293a9d6857539a30cb68a48eb6f07c0dec782df",
+      "size": 1986
     },
     {
       "path": "plugins/app.counttogether.counttogether-macro-deck-plugin/manifest.json",
@@ -973,6 +983,31 @@
       "path": "plugins/com.dodecadev.vscode/versions/1.0.0/manifest.json",
       "sha256": "f821df4779cb50f5f46ee663e1d4267ddda0c5314880644c021163e75fedbc13",
       "size": 2168
+    },
+    {
+      "path": "plugins/com.eddyvenus.vikunja/manifest.json",
+      "sha256": "ad3a43f7c797891643212684ebf62ebe68b900ff14a89c49dfce8f5b3de9330d",
+      "size": 726
+    },
+    {
+      "path": "plugins/com.eddyvenus.vikunja/versions/1.0.0/changelog.md",
+      "sha256": "4e8d0ef7fca7fe5ef4cbdae55e7aa28841e926df90ca647330b4cd8f9ec66792",
+      "size": 467
+    },
+    {
+      "path": "plugins/com.eddyvenus.vikunja/versions/1.0.0/dependencies.json",
+      "sha256": "460cb241dcd579f80d6670c887056c48b45f67f2378f12b6e813a4047ceb7603",
+      "size": 1666
+    },
+    {
+      "path": "plugins/com.eddyvenus.vikunja/versions/1.0.0/description.md",
+      "sha256": "1abe8e751f2baafe1fd741102d1f5a3a648e689055bc604fa2feabf1bfaf0897",
+      "size": 5985
+    },
+    {
+      "path": "plugins/com.eddyvenus.vikunja/versions/1.0.0/manifest.json",
+      "sha256": "1cb7ca69de14640b0f29f388b0919f2d68e5c57cd93a009aa7caa7bee5a0a595",
+      "size": 1835
     },
     {
       "path": "plugins/com.hashashin.fxcommands/manifest.json",

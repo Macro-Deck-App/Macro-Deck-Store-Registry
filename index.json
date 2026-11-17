@@ -1,7 +1,7 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-11-14T12:26:47.3878845+00:00",
+  "generatedAt": "2026-11-17T01:16:46.4651295+00:00",
   "plugins": [
     "app.counttogether.counttogether-macro-deck-plugin",
     "com.alexand7e.claude-usage",
@@ -15,6 +15,7 @@
     "com.dodecadev.gpu-z",
     "com.dodecadev.philips-hue",
     "com.dodecadev.vscode",
+    "com.eddyvenus.vikunja",
     "com.hashashin.fxcommands",
     "com.inariix.mbxhub-plugin",
     "com.itaimarom.libre-hardware-monitor",

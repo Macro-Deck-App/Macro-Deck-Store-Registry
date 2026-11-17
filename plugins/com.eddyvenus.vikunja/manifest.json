@@ -1,0 +1,28 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "Vikunja Tasks",
+  "id": "com.eddyvenus.vikunja",
+  "latestVersion": "1.0.0",
+  "description": "Shows your open Vikunja tasks on Macro Deck tiles, with a checklist mode to mark them done.",
+  "publisher": "EddyVenus",
+  "repository": "https://github.com/EddyVenus/Vikunja-MD3-Plugin",
+  "license": "MIT",
+  "createdAt": "2026-11-17T01:16:46.4651295+00:00",
+  "updatedAt": "2026-11-17T01:16:46.4651295+00:00",
+  "supportedRids": [
+    "win-x64"
+  ],
+  "tags": [
+    "tasks",
+    "vikunja",
+    "todo",
+    "self-hosted",
+    "productivity"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": true
+  }
+}

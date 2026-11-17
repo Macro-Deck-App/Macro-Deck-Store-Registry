@@ -1,0 +1,20 @@
+{
+  "$schema": "https://schemas.macro-deck.app/macrodeck-certificate-v2.schema.json",
+  "schemaVersion": 2,
+  "subject": {
+    "kind": "creator",
+    "id": "399390824502132774",
+    "name": "EddyVenus"
+  },
+  "algorithm": "ed25519",
+  "certificateId": "cert_9a00e2d7096c938db3c3ea6589105a67",
+  "publicKey": "n7so7L2Vl0Yb7oHjKJbCE1xMkevUaBE13ITPYOHNprI=",
+  "keyUsage": [
+    "package"
+  ],
+  "notBefore": "2026-11-13T06:35:39.0019127+00:00",
+  "notAfter": "2027-12-08T21:49:51.930249+00:00",
+  "issuedAt": "2026-11-13T06:35:39.0019127+00:00",
+  "rootKeyId": "root_2026",
+  "issuer": "cert_24148784d72c935869525b3822b3727d"
+}
