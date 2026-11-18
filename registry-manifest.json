@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 175,
-  "generatedAt": "2026-11-17T01:16:46.5261247+00:00",
+  "sequence": 176,
+  "generatedAt": "2026-11-18T22:55:10.0456557+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -2326,7 +2326,7 @@
     },
     {
       "path": "plugins/com.sarti2004.midi-router/manifest.json",
-      "sha256": "b6d40ad6d0378cab6e1aeaf5be10e5182fc5ea7bfb98aad3f9d5dc36d14e0713",
+      "sha256": "ff582386e118e3b4508c104ce0ca68c2af6f2d30aa047164810f47d0ba633585",
       "size": 682
     },
     {
@@ -2348,6 +2348,26 @@
       "path": "plugins/com.sarti2004.midi-router/versions/0.2.0/manifest.json",
       "sha256": "4282b857355889687ce2f9594574adf4d99f2141bdfa80c02c93304a578ea848",
       "size": 1168
+    },
+    {
+      "path": "plugins/com.sarti2004.midi-router/versions/0.3.0/changelog.md",
+      "sha256": "0e785c1fb8baa7af9f2d01ddf19c80b9ecdd66dccdb015f2f4bf1203319aaf60",
+      "size": 191
+    },
+    {
+      "path": "plugins/com.sarti2004.midi-router/versions/0.3.0/dependencies.json",
+      "sha256": "4849e45b1467c8c363daced9d48fa8729438bff2c393ed86bb1874c259f8643f",
+      "size": 1860
+    },
+    {
+      "path": "plugins/com.sarti2004.midi-router/versions/0.3.0/description.md",
+      "sha256": "001c613f1123ad4c527a7ec359b008616f8b80c37ad775f5122e4e42b0dc5812",
+      "size": 6056
+    },
+    {
+      "path": "plugins/com.sarti2004.midi-router/versions/0.3.0/manifest.json",
+      "sha256": "6aff888fbd58cafb26169ccca1628b94f7e02b1fcde04b14d23767848ab15154",
+      "size": 1512
     },
     {
       "path": "plugins/com.squibsland.beefweb/manifest.json",
