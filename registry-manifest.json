@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 176,
-  "generatedAt": "2026-11-18T22:55:10.0456557+00:00",
+  "sequence": 177,
+  "generatedAt": "2026-11-20T11:52:59.83887+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -1141,7 +1141,7 @@
     },
     {
       "path": "plugins/com.inariix.mbxhub-plugin/manifest.json",
-      "sha256": "74ddd296410f1b60456b6fa37f185537fd017382d10d0be4399fb5b20f624c45",
+      "sha256": "9955ba28d6b6e84ab30680c4f34c9c3470f46a3d77a52c700677c4c3b4962841",
       "size": 689
     },
     {
@@ -1163,6 +1163,26 @@
       "path": "plugins/com.inariix.mbxhub-plugin/versions/0.1.12/manifest.json",
       "sha256": "43878dc213cf3764d88c7c230e8ddfb1d42c68af8e65e31e754afb23399963af",
       "size": 1857
+    },
+    {
+      "path": "plugins/com.inariix.mbxhub-plugin/versions/0.1.15/changelog.md",
+      "sha256": "1f1d70cdbafb166c41b5443d2e7096ca60e4ef7fe7677de2c930933127e71826",
+      "size": 113
+    },
+    {
+      "path": "plugins/com.inariix.mbxhub-plugin/versions/0.1.15/dependencies.json",
+      "sha256": "aadaa01de44da4560be36fa848ce433d5f02822361d4f8bc940f4c38b5907a97",
+      "size": 1666
+    },
+    {
+      "path": "plugins/com.inariix.mbxhub-plugin/versions/0.1.15/description.md",
+      "sha256": "c4fa35bb7d8af443879e0bbae31ac4ef0d1b66abfeaea4803b43190c4027bf6a",
+      "size": 3042
+    },
+    {
+      "path": "plugins/com.inariix.mbxhub-plugin/versions/0.1.15/manifest.json",
+      "sha256": "beac4aa8136cb33b244958e2e5042309f3b02c1ebe13a5de57120dbb333ee97b",
+      "size": 1858
     },
     {
       "path": "plugins/com.inariix.mbxhub-plugin/versions/0.1.5/changelog.md",

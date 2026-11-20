@@ -1,0 +1,41 @@
+# MBXHub for Macro Deck 3
+
+<a href="https://macro-deck.app/store/com.inariix.mbxhub-plugin"><img alt="Open in the Macro Deck Store" src="https://assets.macro-deck.app/branding/Open%20in%20the%20Macro%20Deck%20Store%20Badge%20Dark.png" height="56"></a>
+
+Control MusicBee through MBXHub with playback actions, playlist selection, live status, and a music player widget.
+
+## Requirements
+
+- Windows x64.
+- Macro Deck 3.
+- MusicBee 3.5 or later with MBXHub 0.5.5.4 or later installed and running. Download MBXHub from [mbxhub.com](https://mbxhub.com/download.html).
+- The .NET 10 Desktop Runtime for the MBXHub companion application. The MBXHub MusicBee plugin itself runs on .NET Framework 4.8.
+- Network access from Macro Deck to the computer running MusicBee and MBXHub.
+
+## Install and connect
+
+1. Install the plugin from its [Macro Deck Store listing](https://macro-deck.app/store/com.inariix.mbxhub-plugin).
+2. When the plugin asks for a connection, enter the host name or IP address of the computer running MBXHub. Enter the port configured in MBXHub. The suggested port is `8082`; MBXHub may instead be using its default, `8080`.
+3. Add the **Music player** widget and select the MBXHub player, or add the plugin's actions to buttons.
+
+Macro Deck and MusicBee may be on different computers, as long as the MBXHub host and port are reachable from Macro Deck.
+
+## Features
+
+The Music player widget shows album art and playback progress and provides transport, volume, shuffle, repeat, and playlist controls. After configuring MBXHub, you can add a Macro Deck Slider widget bound to the writable `mbxhub_volume` variable to control MusicBee's volume. Separate actions are available for play, pause, next and previous track, repeat, shuffle, volume, love, and playlist playback.
+
+The plugin provides variables for track, artist, album, playback state, love, shuffle, repeat, volume, and playback progress. Use `mbxhub-version` to show the MBXHub version. `mbxhub-musicbee-version` shows the MusicBee version when Macro Deck and MBXHub run on the same computer; it is unavailable for remote MBXHub hosts because the API does not expose MusicBee's version.
+
+To use the love action, open **API Access** in MBXHub settings and make sure **Tag edits** and **Modify** are not read-only.
+
+## Limitations and network use
+
+Party Mode and AutoQ are not supported. MBXHub does not provide authentication, so this plugin makes unauthenticated HTTP requests to the host and port you configure. Use it only on a trusted network and do not expose MBXHub to untrusted networks.
+
+## Troubleshooting
+
+- **The plugin cannot connect:** Check that MusicBee and MBXHub are running, and verify the configured host and port in MBXHub.
+- **Love does not work:** Check that **Tag edits** and **Modify** are writable in MBXHub's **API Access** settings.
+- **The player is unavailable after startup:** Recheck the connection settings and restart Macro Deck after MBXHub is running.
+
+For implementation notes and build instructions, see [DEVELOPMENT.md](DEVELOPMENT.md).
