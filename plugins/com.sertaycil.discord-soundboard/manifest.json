@@ -1,0 +1,30 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "Discord Soundboard",
+  "id": "com.sertaycil.discord-soundboard",
+  "latestVersion": "1.0.1",
+  "description": "Control and trigger Discord Soundboard sounds directly from your Macro Deck.",
+  "publisher": "Sertay \u00C7il",
+  "repository": "https://github.com/sertay1/macrodeck-discord-soundboard",
+  "license": "MIT",
+  "createdAt": "2026-11-22T10:08:46.3472253+00:00",
+  "updatedAt": "2026-11-22T10:08:46.3472253+00:00",
+  "supportedRids": [
+    "win-x64"
+  ],
+  "tags": [
+    "discord",
+    "soundboard",
+    "audio",
+    "sounds",
+    "voice",
+    "communication",
+    "streaming"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": true
+  }
+}

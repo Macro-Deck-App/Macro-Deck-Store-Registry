@@ -1,0 +1,27 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.sertaycil.discord-soundboard/1.0.1/com.sertaycil.discord-soundboard-v1.0.1.macroDeckPlugin",
+  "sha256": "0117a474fdddb2743547ee6c9f35615733226c325657297fa7b95eb260453b20",
+  "size": 1794604,
+  "uploadedAt": "2026-11-21T23:00:58.689628+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.sertaycil.discord-soundboard/assets/895108a9acc752be-895108a9acc752be1de2b30ac762f228b9967de21377832e09b6ad5a6d822613.svg",
+      "sha256": "895108a9acc752be1de2b30ac762f228b9967de21377832e09b6ad5a6d822613",
+      "size": 518,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.sertaycil.discord-soundboard/assets/20f0668cf979089c-20f0668cf979089c443f0f3ddc0f259e5325f79d21ba0100d1c096380e8b9457.png",
+        "sha256": "20f0668cf979089c443f0f3ddc0f259e5325f79d21ba0100d1c096380e8b9457",
+        "size": 715293,
+        "contentType": "image/png"
+      }
+    ]
+  },
+  "source": {
+    "tag": "v1.0.1",
+    "commit": "343637ec363cc041cbeede45101448cb2296afb8"
+  }
+}

@@ -1,13 +1,23 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 179,
-  "generatedAt": "2026-11-22T01:43:00.1022218+00:00",
+  "sequence": 180,
+  "generatedAt": "2026-11-22T10:08:46.354673+00:00",
   "files": [
     {
       "path": "categories.json",
       "sha256": "60c12082385a82c943387afdccbf0a32696d9c731e6093deea3eea92c0adc255",
       "size": 2179
+    },
+    {
+      "path": "certificates/cert_0695d90249e0b39640adf8e5d7abf6bb.json",
+      "sha256": "32b4e9c4d264ad4c2bf9449c39596c47146ca10a150112a33a5ada39a6158bcc",
+      "size": 637
+    },
+    {
+      "path": "certificates/cert_0695d90249e0b39640adf8e5d7abf6bb.sig",
+      "sha256": "68356a458626cf3a1323047999e4c8040074d2fcc02339b40e008712bf35310b",
+      "size": 89
     },
     {
       "path": "certificates/cert_0847db56391b0d038cd1fac4a8058dca.json",
@@ -471,8 +481,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "40590795b710db1c859d81625915d8d66a2f60a00c134cfe28328dae9431802e",
-      "size": 2017
+      "sha256": "58f6c77eef02877bf834fbc2eeda9b9f384efc238b2133eadef7638335a8f1ee",
+      "size": 2057
     },
     {
       "path": "plugins/app.counttogether.counttogether-macro-deck-plugin/manifest.json",
@@ -2398,6 +2408,31 @@
       "path": "plugins/com.sarti2004.midi-router/versions/0.3.0/manifest.json",
       "sha256": "6aff888fbd58cafb26169ccca1628b94f7e02b1fcde04b14d23767848ab15154",
       "size": 1512
+    },
+    {
+      "path": "plugins/com.sertaycil.discord-soundboard/manifest.json",
+      "sha256": "3d0b70136c7831d86bd2a3337911686f8fc1fc76039292e9c6439de68a3b24ae",
+      "size": 773
+    },
+    {
+      "path": "plugins/com.sertaycil.discord-soundboard/versions/1.0.1/changelog.md",
+      "sha256": "c3efb9a33d45c9e2c629530caf29d3cfa38218b914b33e135dd9fd72642ffe45",
+      "size": 2691
+    },
+    {
+      "path": "plugins/com.sertaycil.discord-soundboard/versions/1.0.1/dependencies.json",
+      "sha256": "e3391141db25051bf0cb14e3432d9f0729c4ff61d783dce489c98f6f704393df",
+      "size": 1963
+    },
+    {
+      "path": "plugins/com.sertaycil.discord-soundboard/versions/1.0.1/description.md",
+      "sha256": "9d5fe070a5bfc437faf437b61fb78c09276e540257e3b46cd40559f5d81d755f",
+      "size": 12319
+    },
+    {
+      "path": "plugins/com.sertaycil.discord-soundboard/versions/1.0.1/manifest.json",
+      "sha256": "ec6c7f1bf809fb0038950768db076171c3f662fcffd0aad8aa0d76e294b572fe",
+      "size": 1204
     },
     {
       "path": "plugins/com.squibsland.beefweb/manifest.json",
