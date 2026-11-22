@@ -13,33 +13,33 @@
     },
     "screenshots": [
       {
-        "url": "https://store-assets.macro-deck.app/plugins/com.itaimarom.libre-hardware-monitor/assets/3c5e10a5254c8157-3c5e10a5254c81574d0095b48be19f2c079b3a3652432b862473a93ebc39a7da.jpg",
-        "sha256": "3c5e10a5254c81574d0095b48be19f2c079b3a3652432b862473a93ebc39a7da",
-        "size": 2450994,
-        "contentType": "image/jpeg"
-      },
-      {
-        "url": "https://store-assets.macro-deck.app/plugins/com.itaimarom.libre-hardware-monitor/assets/0b4e4474e145ea52-0b4e4474e145ea520915756482124ed192652af1acb427e905d0cc87a46c95fe.png",
-        "sha256": "0b4e4474e145ea520915756482124ed192652af1acb427e905d0cc87a46c95fe",
-        "size": 59539,
+        "url": "https://store-assets.macro-deck.app/plugins/com.itaimarom.libre-hardware-monitor/assets/27639ec47433cdd6-27639ec47433cdd6b91c44fdd570c6b467b58f409f22069623994bf12f4b3ad2.png",
+        "sha256": "27639ec47433cdd6b91c44fdd570c6b467b58f409f22069623994bf12f4b3ad2",
+        "size": 306518,
         "contentType": "image/png"
       },
       {
-        "url": "https://store-assets.macro-deck.app/plugins/com.itaimarom.libre-hardware-monitor/assets/d3771707ef6f10f4-d3771707ef6f10f42b042b9c6fb25bbc026f34c3c0e63acc3cf6096878e5aa90.png",
-        "sha256": "d3771707ef6f10f42b042b9c6fb25bbc026f34c3c0e63acc3cf6096878e5aa90",
-        "size": 113829,
+        "url": "https://store-assets.macro-deck.app/plugins/com.itaimarom.libre-hardware-monitor/assets/6fa581c48c5b5736-6fa581c48c5b57367b32e2f318315be6badd212154994d595bf2bd0220fa4da4.png",
+        "sha256": "6fa581c48c5b57367b32e2f318315be6badd212154994d595bf2bd0220fa4da4",
+        "size": 138829,
         "contentType": "image/png"
       },
       {
-        "url": "https://store-assets.macro-deck.app/plugins/com.itaimarom.libre-hardware-monitor/assets/b6c1d53d52c32e4a-b6c1d53d52c32e4ad2e640c858d0ae73f55a4aa2c980406403c2fca6f8469323.png",
-        "sha256": "b6c1d53d52c32e4ad2e640c858d0ae73f55a4aa2c980406403c2fca6f8469323",
-        "size": 125713,
+        "url": "https://store-assets.macro-deck.app/plugins/com.itaimarom.libre-hardware-monitor/assets/4ea5e88d99c898ec-4ea5e88d99c898ec828a653671a9a3c9f596fe29d46fe52eda1b32c3302ddc91.png",
+        "sha256": "4ea5e88d99c898ec828a653671a9a3c9f596fe29d46fe52eda1b32c3302ddc91",
+        "size": 180912,
         "contentType": "image/png"
       },
       {
-        "url": "https://store-assets.macro-deck.app/plugins/com.itaimarom.libre-hardware-monitor/assets/76c8268544098529-76c8268544098529c9a3c71a44589c4dadbff15a5421450ad8083e0de3de4343.png",
-        "sha256": "76c8268544098529c9a3c71a44589c4dadbff15a5421450ad8083e0de3de4343",
-        "size": 67668,
+        "url": "https://store-assets.macro-deck.app/plugins/com.itaimarom.libre-hardware-monitor/assets/8c098afd59d88dc4-8c098afd59d88dc4861905aa5c5e2379f3c6f6735997c9c67b84de11b24f3bb4.png",
+        "sha256": "8c098afd59d88dc4861905aa5c5e2379f3c6f6735997c9c67b84de11b24f3bb4",
+        "size": 251046,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.itaimarom.libre-hardware-monitor/assets/d23a7b5325e9f26e-d23a7b5325e9f26e2178ff11a52fef0d7ed69dd4df550bc4ce28d782b7731a30.png",
+        "sha256": "d23a7b5325e9f26e2178ff11a52fef0d7ed69dd4df550bc4ce28d782b7731a30",
+        "size": 165929,
         "contentType": "image/png"
       }
     ]
