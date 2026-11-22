@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 182,
-  "generatedAt": "2026-11-22T11:17:48.0124229+00:00",
+  "sequence": 183,
+  "generatedAt": "2026-11-22T19:34:45.2426756+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -1006,8 +1006,8 @@
     },
     {
       "path": "plugins/com.eddyvenus.vikunja/manifest.json",
-      "sha256": "ad3a43f7c797891643212684ebf62ebe68b900ff14a89c49dfce8f5b3de9330d",
-      "size": 726
+      "sha256": "131f9d1902e8413c11bb1c4e758cef927489449b27688bc7ff0297eeb1f81ab5",
+      "size": 725
     },
     {
       "path": "plugins/com.eddyvenus.vikunja/versions/1.0.0/changelog.md",
@@ -1028,6 +1028,26 @@
       "path": "plugins/com.eddyvenus.vikunja/versions/1.0.0/manifest.json",
       "sha256": "1cb7ca69de14640b0f29f388b0919f2d68e5c57cd93a009aa7caa7bee5a0a595",
       "size": 1835
+    },
+    {
+      "path": "plugins/com.eddyvenus.vikunja/versions/2.0.0/changelog.md",
+      "sha256": "4f99f3aae345e07f8433d193715649a7f046583c831b50f70a30d69446b22158",
+      "size": 738
+    },
+    {
+      "path": "plugins/com.eddyvenus.vikunja/versions/2.0.0/dependencies.json",
+      "sha256": "eabf7de989d29170068ce3e2f7db5acda7451adaf0dfbfa47abf197550c43812",
+      "size": 1666
+    },
+    {
+      "path": "plugins/com.eddyvenus.vikunja/versions/2.0.0/description.md",
+      "sha256": "5f5e319294f5c20926bfb2dba687d3cd10f7f1b0470eee8532bb27a2ebae5d0e",
+      "size": 6157
+    },
+    {
+      "path": "plugins/com.eddyvenus.vikunja/versions/2.0.0/manifest.json",
+      "sha256": "d2463154d9c8e3a28ea1ffb1ada0f20efa7074d5b0264b6f97e086f4c802579c",
+      "size": 1832
     },
     {
       "path": "plugins/com.hashashin.fxcommands/manifest.json",
