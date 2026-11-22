@@ -1,0 +1,53 @@
+{
+  "$schema": "../../../../schemas/dependencies.schema.json",
+  "sdkVersion": "10.0.404",
+  "frameworks": [
+    {
+      "framework": "net10.0",
+      "packages": [
+        {
+          "id": "MacroDeck.Plugin.Analyzers",
+          "version": "3.0.4",
+          "requestedVersion": "3.0.4",
+          "direct": true
+        },
+        {
+          "id": "MacroDeck.Plugin.Hosting",
+          "version": "3.0.4",
+          "requestedVersion": "3.0.4",
+          "direct": true
+        },
+        {
+          "id": "MacroDeck.Localization",
+          "version": "3.0.4",
+          "direct": false
+        },
+        {
+          "id": "MacroDeck.Plugin.Protocol",
+          "version": "3.0.4",
+          "direct": false
+        },
+        {
+          "id": "MacroDeck.Sdk",
+          "version": "3.0.4",
+          "direct": false
+        },
+        {
+          "id": "MacroDeck.Ui",
+          "version": "3.0.4",
+          "direct": false
+        },
+        {
+          "id": "MacroDeck.Ui.Model",
+          "version": "3.0.4",
+          "direct": false
+        },
+        {
+          "id": "Serilog",
+          "version": "4.4.0",
+          "direct": false
+        }
+      ]
+    }
+  ]
+}

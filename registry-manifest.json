@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 178,
-  "generatedAt": "2026-11-21T17:05:08.0661521+00:00",
+  "sequence": 179,
+  "generatedAt": "2026-11-22T01:43:00.1022218+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -270,6 +270,16 @@
       "size": 89
     },
     {
+      "path": "certificates/cert_c658e68d650e89d6e5f4bab633596400.json",
+      "sha256": "6e6c5086754e63d2e53a5558ca6499c84e88186a736e6d2973fa0dd859933c6a",
+      "size": 585
+    },
+    {
+      "path": "certificates/cert_c658e68d650e89d6e5f4bab633596400.sig",
+      "sha256": "5b0b983d8289d5b0fe5aa089961cc5fbfe5015c5115d38366ddf097eedabbdf5",
+      "size": 89
+    },
+    {
       "path": "certificates/cert_d7655b60f5de5d9d011175c81db374f6.json",
       "sha256": "57ec9437fda3da671f2686480b9a93597a5378ce13be9ac4fdcf7f9f615cbef0",
       "size": 573
@@ -461,8 +471,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "40ccb7a99c85be83b7d8e212d293a9d6857539a30cb68a48eb6f07c0dec782df",
-      "size": 1986
+      "sha256": "40590795b710db1c859d81625915d8d66a2f60a00c134cfe28328dae9431802e",
+      "size": 2017
     },
     {
       "path": "plugins/app.counttogether.counttogether-macro-deck-plugin/manifest.json",
@@ -2938,6 +2948,31 @@
       "path": "plugins/com.yussefabdelwahab.nvidia-smi-tool/versions/1.0.3/manifest.json",
       "sha256": "3b398c738f7e77eaa6d09313dde7b80600d2293d3969d2cd4c33015e1d48c6cd",
       "size": 1219
+    },
+    {
+      "path": "plugins/dev.neon.battery-widget/manifest.json",
+      "sha256": "b5f13702e577d5d74c84af7eb3fd1ac863293fc6563d35cf26353bbeb8fcc89b",
+      "size": 651
+    },
+    {
+      "path": "plugins/dev.neon.battery-widget/versions/1.0.3/changelog.md",
+      "sha256": "c888f05d2fc7e47f41954659ff7af8e5f10eb43dbab2cd1e3da68f925f14534a",
+      "size": 15
+    },
+    {
+      "path": "plugins/dev.neon.battery-widget/versions/1.0.3/dependencies.json",
+      "sha256": "0017e6da2335dd8ac0eb499c6b05861f7e59c4f511bf34daaff23c98fd46113c",
+      "size": 1183
+    },
+    {
+      "path": "plugins/dev.neon.battery-widget/versions/1.0.3/description.md",
+      "sha256": "66aa66e486a0b1411d61cc4a106ba75d4dbd75c1408d04a75c0fb8cd2fe317f7",
+      "size": 1740
+    },
+    {
+      "path": "plugins/dev.neon.battery-widget/versions/1.0.3/manifest.json",
+      "sha256": "20ae28d12607464cfc26da4434c0047ad6575b4f1f73a871b1369cd11ca6ed26",
+      "size": 1159
     },
     {
       "path": "plugins/net.ziopuzzle.custombutton/manifest.json",

@@ -1,0 +1,26 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "Battery Widget",
+  "id": "dev.neon.battery-widget",
+  "latestVersion": "1.0.3",
+  "description": "A Simple Widget showing the battery of your devices",
+  "publisher": "Neon",
+  "repository": "https://github.com/Pix3lM0on/md3-battery-widget",
+  "license": "MIT",
+  "createdAt": "2026-11-22T01:43:00.0551029+00:00",
+  "updatedAt": "2026-11-22T01:43:00.0551029+00:00",
+  "supportedRids": [
+    "linux-x64"
+  ],
+  "tags": [
+    "system",
+    "battery",
+    "widget"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": false
+  }
+}

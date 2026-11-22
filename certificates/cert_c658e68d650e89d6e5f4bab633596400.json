@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.macro-deck.app/macrodeck-certificate-v1.schema.json",
+  "schemaVersion": 1,
+  "subject": {
+    "kind": "creator",
+    "id": "392380517963530409",
+    "name": "Maksymilian Jakubiak"
+  },
+  "algorithm": "ed25519",
+  "certificateId": "cert_c658e68d650e89d6e5f4bab633596400",
+  "publicKey": "Zo2ns461MxairKropSPrIuCGdAI3BGeL9sTQIbNXnvo=",
+  "keyUsage": [
+    "package"
+  ],
+  "notBefore": "2026-09-25T21:50:33.8879689+00:00",
+  "notAfter": "2028-09-24T21:50:33.8879689+00:00",
+  "issuedAt": "2026-09-25T21:50:33.8879689+00:00",
+  "rootKeyId": "root_2026"
+}

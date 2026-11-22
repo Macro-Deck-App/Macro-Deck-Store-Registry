@@ -1,0 +1,27 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/dev.neon.battery-widget/1.0.3/dev.neon.battery-widget-v1.0.3.macroDeckPlugin",
+  "sha256": "f68d57f5cacc182e9647be0a942f6a46c8b63e3502c22fdd0a122638c3982609",
+  "size": 1050286,
+  "uploadedAt": "2026-11-21T21:10:04.694966+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/dev.neon.battery-widget/assets/016b5d39f0819501-016b5d39f0819501751d5d91a180f3635cd5195a3c4bf12ba57f7944f7de6b6a.png",
+      "sha256": "016b5d39f0819501751d5d91a180f3635cd5195a3c4bf12ba57f7944f7de6b6a",
+      "size": 6215,
+      "contentType": "image/png"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/dev.neon.battery-widget/assets/0bc0789b62f26718-0bc0789b62f26718a5ce3e279c76a2e1d3ca07ad7bf29ea318d993a009f0aa76.png",
+        "sha256": "0bc0789b62f26718a5ce3e279c76a2e1d3ca07ad7bf29ea318d993a009f0aa76",
+        "size": 30656,
+        "contentType": "image/png"
+      }
+    ]
+  },
+  "source": {
+    "tag": "v1.0.3",
+    "commit": "7a775faf29fbc4d1314acc7a76c993e63fc9127f"
+  }
+}
