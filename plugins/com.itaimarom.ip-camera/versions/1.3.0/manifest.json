@@ -1,0 +1,51 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.itaimarom.ip-camera/1.3.0/com.itaimarom.ip-camera-v1.3.0.macroDeckPlugin",
+  "sha256": "7c67268a70da1c57ac61f9b5732b535a8edcb51f74c9bf361fc2b013a8197b90",
+  "size": 3414240,
+  "uploadedAt": "2026-11-22T17:39:06.693901+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.itaimarom.ip-camera/assets/b1bf263a481060fe-b1bf263a481060fec0e85507b22ca47b4c491edc32f9475d707ec05bb4b1ca27.svg",
+      "sha256": "b1bf263a481060fec0e85507b22ca47b4c491edc32f9475d707ec05bb4b1ca27",
+      "size": 493,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.itaimarom.ip-camera/assets/1eaaaca8b2604e0e-1eaaaca8b2604e0e337767655c0ebbf8950503560fe2e15f01be1dac8dc3134d.png",
+        "sha256": "1eaaaca8b2604e0e337767655c0ebbf8950503560fe2e15f01be1dac8dc3134d",
+        "size": 616510,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.itaimarom.ip-camera/assets/a3c7f87d002d640e-a3c7f87d002d640edd0e2096cc6030097673961510ef884d889f5008b724c1fd.png",
+        "sha256": "a3c7f87d002d640edd0e2096cc6030097673961510ef884d889f5008b724c1fd",
+        "size": 303964,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.itaimarom.ip-camera/assets/c062845fbd883a41-c062845fbd883a41050a407f9ea578205fe38b724e3e9855f0b3d8372bb9aea2.png",
+        "sha256": "c062845fbd883a41050a407f9ea578205fe38b724e3e9855f0b3d8372bb9aea2",
+        "size": 637232,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.itaimarom.ip-camera/assets/b22bd9d285c349dc-b22bd9d285c349dcf63bab5237363b4862b180dabc78b1c1c4b8bf03b3ec803a.png",
+        "sha256": "b22bd9d285c349dcf63bab5237363b4862b180dabc78b1c1c4b8bf03b3ec803a",
+        "size": 382060,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.itaimarom.ip-camera/assets/166229800a26bd15-166229800a26bd154a67882290c80175c6b34a793521421a3f39038156b0afa4.png",
+        "sha256": "166229800a26bd154a67882290c80175c6b34a793521421a3f39038156b0afa4",
+        "size": 644896,
+        "contentType": "image/png"
+      }
+    ]
+  },
+  "source": {
+    "tag": "v1.3.0",
+    "commit": "97b82639cf52df54ef4f4ecfe60a9466c7a6125d"
+  }
+}

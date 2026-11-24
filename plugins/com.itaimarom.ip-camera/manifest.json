@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "IP Camera",
+  "id": "com.itaimarom.ip-camera",
+  "latestVersion": "1.3.0",
+  "description": "Live IP camera tiles for Macro Deck: snapshot, MJPEG, RTSP and ONVIF, including the Xiaomi Mi 360 through go2rtc.",
+  "publisher": "ItaiMarom",
+  "repository": "https://github.com/dominic25/ItaiMarom.IpCameraPlugin",
+  "license": "Apache-2.0",
+  "createdAt": "2026-11-24T08:04:23.4510609+00:00",
+  "updatedAt": "2026-11-24T08:04:23.4510609+00:00",
+  "supportedRids": [
+    "linux-x64",
+    "osx-arm64",
+    "win-x64"
+  ],
+  "tags": [
+    "camera",
+    "ip-camera",
+    "rtsp",
+    "mjpeg",
+    "onvif",
+    "xiaomi",
+    "security-camera",
+    "live-view",
+    "smart-home",
+    "system"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": true
+  }
+}
