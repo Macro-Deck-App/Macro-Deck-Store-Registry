@@ -1,7 +1,7 @@
 {
   "$schema": "schemas/index.schema.json",
   "version": 1,
-  "generatedAt": "2026-11-24T08:04:23.4510609+00:00",
+  "generatedAt": "2026-11-26T10:45:56.8238744+00:00",
   "plugins": [
     "app.counttogether.counttogether-macro-deck-plugin",
     "com.alexand7e.claude-usage",
@@ -45,6 +45,7 @@
     "com.tabsik12.tuya-control",
     "com.yussefabdelwahab.image-slideshow",
     "com.yussefabdelwahab.nvidia-smi-tool",
+    "de.christianalpen.reaperdeck",
     "dev.neon.battery-widget",
     "net.ziopuzzle.custombutton",
     "pro.daneo.teamspeak3plugin"

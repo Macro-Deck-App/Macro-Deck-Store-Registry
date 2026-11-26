@@ -1,0 +1,27 @@
+{
+  "$schema": "../../schemas/plugin.schema.json",
+  "kind": "plugin",
+  "name": "ReaperDeck",
+  "id": "de.christianalpen.reaperdeck",
+  "latestVersion": "1.0.0",
+  "description": "Controls REAPER from Macro Deck through REAPER\u0027s web interface - no hotkeys, REAPER does not need focus: actions, transport, items, tracks, markers and regions, faders, a timecode tile and more. Unofficial plugin, not affiliated with Cockos.",
+  "publisher": "Christian Alpen",
+  "repository": "https://github.com/halbius/Macrodeck-ReaperDeck",
+  "license": "MIT",
+  "createdAt": "2026-11-26T10:45:56.8238744+00:00",
+  "updatedAt": "2026-11-26T10:45:56.8238744+00:00",
+  "supportedRids": [
+    "osx-arm64",
+    "osx-x64",
+    "win-x64"
+  ],
+  "tags": [
+    "productivity",
+    "reaper"
+  ],
+  "ai": {
+    "interaction": false,
+    "generatedContent": false,
+    "generatedAssets": true
+  }
+}

@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 185,
-  "generatedAt": "2026-11-24T08:04:23.4585866+00:00",
+  "sequence": 186,
+  "generatedAt": "2026-11-26T10:45:56.8718351+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -137,6 +137,16 @@
     {
       "path": "certificates/cert_7cc0e4aaea428037548461cd01b9a94f.sig",
       "sha256": "185ff558547f24364dc5ea48848184722a3f1ecb5f4a02dabbd6e29411418d54",
+      "size": 89
+    },
+    {
+      "path": "certificates/cert_7e6609ecb4c9504bbd988b5238e3984e.json",
+      "sha256": "c62c4768dded3f2e1ea210ed360f10d8a25de60f37b1622ea3306bdf357aaf49",
+      "size": 580
+    },
+    {
+      "path": "certificates/cert_7e6609ecb4c9504bbd988b5238e3984e.sig",
+      "sha256": "a8b6370961a608840d48d6df9ba6130eb8e684392d2908dc181b27b1767321a0",
       "size": 89
     },
     {
@@ -481,8 +491,8 @@
     },
     {
       "path": "index.json",
-      "sha256": "5fe7eacd8b7aed1af1aefaf50003d88f4212b928a91391d5979e6f7b10cba914",
-      "size": 2088
+      "sha256": "aa621ab8981ace7853d721bae91160f8ad626cff1eebc6de7842e67ae1f205ff",
+      "size": 2124
     },
     {
       "path": "plugins/app.counttogether.counttogether-macro-deck-plugin/manifest.json",
@@ -3068,6 +3078,31 @@
       "path": "plugins/com.yussefabdelwahab.nvidia-smi-tool/versions/1.0.3/manifest.json",
       "sha256": "3b398c738f7e77eaa6d09313dde7b80600d2293d3969d2cd4c33015e1d48c6cd",
       "size": 1219
+    },
+    {
+      "path": "plugins/de.christianalpen.reaperdeck/manifest.json",
+      "sha256": "9e420211cf410ba4fead2e215017e3f87f529139dcef52dde91413088b4aaa8b",
+      "size": 878
+    },
+    {
+      "path": "plugins/de.christianalpen.reaperdeck/versions/1.0.0/changelog.md",
+      "sha256": "dd95d5e454acab6de1ab307a5f160f3dd42287e087fa4a02c455b1935f84c5e0",
+      "size": 14
+    },
+    {
+      "path": "plugins/de.christianalpen.reaperdeck/versions/1.0.0/dependencies.json",
+      "sha256": "690de0d5a213f78b3aed592b2099a5d8c4e32c989d39ff7bf19319e752be1337",
+      "size": 1590
+    },
+    {
+      "path": "plugins/de.christianalpen.reaperdeck/versions/1.0.0/description.md",
+      "sha256": "fcfc2f734a99697717d612a8de58f48ef20ad4ac35fdf529c588adffeb9efdf3",
+      "size": 4047
+    },
+    {
+      "path": "plugins/de.christianalpen.reaperdeck/versions/1.0.0/manifest.json",
+      "sha256": "0b41e8a362b886b53e88d60b02417b7a4613a66a9c8c1aa65446bc2977127e96",
+      "size": 1878
     },
     {
       "path": "plugins/dev.neon.battery-widget/manifest.json",

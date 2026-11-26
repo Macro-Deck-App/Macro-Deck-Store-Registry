@@ -1,0 +1,39 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/de.christianalpen.reaperdeck/1.0.0/de.christianalpen.reaperdeck-v1.0.0.macroDeckPlugin",
+  "sha256": "924b1e8b433107e16420fb0a19c36694de1e8aee6ab2dc0516fbff32ef1c0f24",
+  "size": 5980397,
+  "uploadedAt": "2026-11-25T19:21:52.495095+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/de.christianalpen.reaperdeck/assets/63f9b341b7dcb945-63f9b341b7dcb945e75ce48ab3884ae436429b1e1ca2bdca11dfb0efda426d8d.svg",
+      "sha256": "63f9b341b7dcb945e75ce48ab3884ae436429b1e1ca2bdca11dfb0efda426d8d",
+      "size": 7937,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/de.christianalpen.reaperdeck/assets/dbb3468d7d71a5f1-dbb3468d7d71a5f19680c8fe784732fbb78e46363a8734f22a7bbbf43f7bf5d9.png",
+        "sha256": "dbb3468d7d71a5f19680c8fe784732fbb78e46363a8734f22a7bbbf43f7bf5d9",
+        "size": 50459,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/de.christianalpen.reaperdeck/assets/767fd71f360f556e-767fd71f360f556edd77575f519953ffce42cd6a0eb9cfa1f5b0aad844045619.png",
+        "sha256": "767fd71f360f556edd77575f519953ffce42cd6a0eb9cfa1f5b0aad844045619",
+        "size": 52476,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/de.christianalpen.reaperdeck/assets/92eadd9929a5ec29-92eadd9929a5ec29ec93caad49d47d620a54c5647764bda130445dc4014920c1.png",
+        "sha256": "92eadd9929a5ec29ec93caad49d47d620a54c5647764bda130445dc4014920c1",
+        "size": 46333,
+        "contentType": "image/png"
+      }
+    ]
+  },
+  "source": {
+    "tag": "v1.0.0",
+    "commit": "71be09d8c71947c601edb0371ba2848c67f3131b"
+  }
+}

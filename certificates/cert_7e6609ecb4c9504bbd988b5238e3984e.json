@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.macro-deck.app/macrodeck-certificate-v1.schema.json",
+  "schemaVersion": 1,
+  "subject": {
+    "kind": "creator",
+    "id": "392515963028766889",
+    "name": "Christian Alpen"
+  },
+  "algorithm": "ed25519",
+  "certificateId": "cert_7e6609ecb4c9504bbd988b5238e3984e",
+  "publicKey": "SIssNNuGUGhT0WgHqbOkKAG2cxndoIIXPqDONythxd4=",
+  "keyUsage": [
+    "package"
+  ],
+  "notBefore": "2026-09-26T20:16:07.0405987+00:00",
+  "notAfter": "2028-09-25T20:16:07.0405987+00:00",
+  "issuedAt": "2026-09-26T20:16:07.0405987+00:00",
+  "rootKeyId": "root_2026"
+}
