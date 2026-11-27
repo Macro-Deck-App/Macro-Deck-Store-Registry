@@ -17,13 +17,13 @@
     {
       "id": "music",
       "names": {
-        "en": "Music",
-        "de": "Musik",
-        "it": "Musica",
-        "cs": "Hudba",
-        "pl": "Muzyka",
-        "es": "M\u00FAsica",
-        "fr": "Musique"
+        "en": "Music \u0026 Audio",
+        "de": "Musik \u0026 Audio",
+        "it": "Musica e audio",
+        "cs": "Hudba a zvuk",
+        "pl": "Muzyka i d\u017Awi\u0119k",
+        "es": "M\u00FAsica y audio",
+        "fr": "Musique et audio"
       }
     },
     {
@@ -87,6 +87,126 @@
       }
     },
     {
+      "id": "utilities",
+      "names": {
+        "en": "Utilities",
+        "de": "Werkzeuge",
+        "it": "Utilit\u00E0",
+        "cs": "N\u00E1stroje",
+        "pl": "Narz\u0119dzia",
+        "es": "Utilidades",
+        "fr": "Utilitaires"
+      }
+    },
+    {
+      "id": "hardware",
+      "names": {
+        "en": "Hardware \u0026 Devices",
+        "de": "Hardware \u0026 Ger\u00E4te",
+        "it": "Hardware e dispositivi",
+        "cs": "Hardware a za\u0159\u00EDzen\u00ED",
+        "pl": "Sprz\u0119t i urz\u0105dzenia",
+        "es": "Hardware y dispositivos",
+        "fr": "Mat\u00E9riel et appareils"
+      }
+    },
+    {
+      "id": "automation",
+      "names": {
+        "en": "Automation",
+        "de": "Automatisierung",
+        "it": "Automazione",
+        "cs": "Automatizace",
+        "pl": "Automatyzacja",
+        "es": "Automatizaci\u00F3n",
+        "fr": "Automatisation"
+      }
+    },
+    {
+      "id": "monitoring",
+      "names": {
+        "en": "Monitoring",
+        "de": "Monitoring",
+        "it": "Monitoraggio",
+        "cs": "Monitorov\u00E1n\u00ED",
+        "pl": "Monitorowanie",
+        "es": "Monitorizaci\u00F3n",
+        "fr": "Surveillance"
+      }
+    },
+    {
+      "id": "development",
+      "names": {
+        "en": "Development",
+        "de": "Entwicklung",
+        "it": "Sviluppo",
+        "cs": "V\u00FDvoj",
+        "pl": "Programowanie",
+        "es": "Desarrollo",
+        "fr": "D\u00E9veloppement"
+      }
+    },
+    {
+      "id": "ai",
+      "names": {
+        "en": "AI \u0026 Assistants",
+        "de": "KI \u0026 Assistenten",
+        "it": "IA e assistenti",
+        "cs": "AI a asistenti",
+        "pl": "AI i asystenci",
+        "es": "IA y asistentes",
+        "fr": "IA et assistants"
+      }
+    },
+    {
+      "id": "media",
+      "names": {
+        "en": "Media \u0026 Entertainment",
+        "de": "Medien \u0026 Unterhaltung",
+        "it": "Media e intrattenimento",
+        "cs": "M\u00E9dia a z\u00E1bava",
+        "pl": "Media i rozrywka",
+        "es": "Multimedia y entretenimiento",
+        "fr": "M\u00E9dias et divertissement"
+      }
+    },
+    {
+      "id": "information",
+      "names": {
+        "en": "Information \u0026 Data",
+        "de": "Informationen \u0026 Daten",
+        "it": "Informazioni e dati",
+        "cs": "Informace a data",
+        "pl": "Informacje i dane",
+        "es": "Informaci\u00F3n y datos",
+        "fr": "Informations et donn\u00E9es"
+      }
+    },
+    {
+      "id": "design",
+      "names": {
+        "en": "Graphics \u0026 Design",
+        "de": "Grafik \u0026 Design",
+        "it": "Grafica e design",
+        "cs": "Grafika a design",
+        "pl": "Grafika i projektowanie",
+        "es": "Gr\u00E1ficos y dise\u00F1o",
+        "fr": "Graphisme et design"
+      }
+    },
+    {
+      "id": "networking",
+      "names": {
+        "en": "Networking",
+        "de": "Netzwerk",
+        "it": "Rete",
+        "cs": "S\u00EDt\u011B",
+        "pl": "Sieci",
+        "es": "Redes",
+        "fr": "R\u00E9seau"
+      }
+    },
+    {
       "id": "icons",
       "names": {
         "en": "Icons",
@@ -96,6 +216,18 @@
         "pl": "Ikony",
         "es": "Iconos",
         "fr": "Ic\u00F4nes"
+      }
+    },
+    {
+      "id": "other",
+      "names": {
+        "en": "Other",
+        "de": "Sonstiges",
+        "it": "Altro",
+        "cs": "Ostatn\u00ED",
+        "pl": "Inne",
+        "es": "Otros",
+        "fr": "Autres"
       }
     }
   ]
