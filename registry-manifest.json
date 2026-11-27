@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 189,
-  "generatedAt": "2026-11-27T09:40:26.9295756+00:00",
+  "sequence": 190,
+  "generatedAt": "2026-11-27T11:15:56.4892346+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -1276,7 +1276,7 @@
     },
     {
       "path": "plugins/com.itaimarom.ip-camera/manifest.json",
-      "sha256": "3e9e50d0b5fa6570bda98d69c8df2bd69dae64cccb3a86ec6e272df50461cdd6",
+      "sha256": "01257a661b9695701aefb0060d9dff72fd971b3037c079fd78f0a93b80d920e1",
       "size": 869
     },
     {
@@ -1317,6 +1317,26 @@
     {
       "path": "plugins/com.itaimarom.ip-camera/versions/1.5.1/manifest.json",
       "sha256": "2433de2f23b5e7e8b89af77f0194028ac3596142c087bf87e41d61cb2bf69b7d",
+      "size": 2532
+    },
+    {
+      "path": "plugins/com.itaimarom.ip-camera/versions/1.5.2/changelog.md",
+      "sha256": "fc3e56564ba887c82b812a8fbcd535ab242951215776446ba55da80f6a144637",
+      "size": 605
+    },
+    {
+      "path": "plugins/com.itaimarom.ip-camera/versions/1.5.2/dependencies.json",
+      "sha256": "eabf7de989d29170068ce3e2f7db5acda7451adaf0dfbfa47abf197550c43812",
+      "size": 1666
+    },
+    {
+      "path": "plugins/com.itaimarom.ip-camera/versions/1.5.2/description.md",
+      "sha256": "654f149dae5b7b04798b021b022b56dcca2d225be36194532b84a67d0d5b2583",
+      "size": 17051
+    },
+    {
+      "path": "plugins/com.itaimarom.ip-camera/versions/1.5.2/manifest.json",
+      "sha256": "7cdb74f880ed4c275c644b63b9a44883dd624f526bd829b78f2d574b9bca962a",
       "size": 2532
     },
     {
