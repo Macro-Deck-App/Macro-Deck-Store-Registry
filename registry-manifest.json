@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 195,
-  "generatedAt": "2026-11-28T11:21:05.9438444+00:00",
+  "sequence": 196,
+  "generatedAt": "2026-11-28T12:34:32.6790563+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -2076,8 +2076,8 @@
     },
     {
       "path": "plugins/com.pyflat.printer-control/manifest.json",
-      "sha256": "e4d86de5ddb363ee8d10c2497ca93e8c30e1406937d3f48a0d604d52e7c92833",
-      "size": 840
+      "sha256": "155e7d45b7f812fd48596c15377b3ec45c0ef5de220c245cf44afa90e029797a",
+      "size": 838
     },
     {
       "path": "plugins/com.pyflat.printer-control/versions/1.0.0/changelog.md",
@@ -2098,6 +2098,26 @@
       "path": "plugins/com.pyflat.printer-control/versions/1.0.0/manifest.json",
       "sha256": "8017eae7acdfd1be351895613fe111302c6eb63cddea4c0051bbb0ff310f0957",
       "size": 1520
+    },
+    {
+      "path": "plugins/com.pyflat.printer-control/versions/1.2.0/changelog.md",
+      "sha256": "eeeba30b9de4f03b78ae3b21659e3802d96c3b17c2e9ea931f2073290448d61e",
+      "size": 230
+    },
+    {
+      "path": "plugins/com.pyflat.printer-control/versions/1.2.0/dependencies.json",
+      "sha256": "eabf7de989d29170068ce3e2f7db5acda7451adaf0dfbfa47abf197550c43812",
+      "size": 1666
+    },
+    {
+      "path": "plugins/com.pyflat.printer-control/versions/1.2.0/description.md",
+      "sha256": "a78534f8e86c4f5203d7740cb0c4f7f4fefc4d150db4a90b677911562a14acef",
+      "size": 10783
+    },
+    {
+      "path": "plugins/com.pyflat.printer-control/versions/1.2.0/manifest.json",
+      "sha256": "2c322a09fc6ca6e83e7a1f45b245cf09085bd3f0539435ebffbf77ec59c207c1",
+      "size": 1521
     },
     {
       "path": "plugins/com.pyflat.system-hotkeys/manifest.json",

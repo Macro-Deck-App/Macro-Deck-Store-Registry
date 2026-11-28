@@ -1,0 +1,33 @@
+{
+  "$schema": "../../../../schemas/release.schema.json",
+  "url": "https://store-assets.macro-deck.app/plugins/com.pyflat.printer-control/1.2.0/com.pyflat.printer-control-v1.2.0.macroDeckPlugin",
+  "sha256": "27df185a5b256ce83b66be0eef2df86ca2c9183e7379ef1de931a2d0aef57af5",
+  "size": 3714168,
+  "uploadedAt": "2026-11-28T12:24:55.078679+00:00",
+  "media": {
+    "icon": {
+      "url": "https://store-assets.macro-deck.app/plugins/com.pyflat.printer-control/assets/9e7b2439cadd108a-9e7b2439cadd108a95132f1ebe9a4f9b1cc7b4c3e587e97b2ab65c8b9dacb0a7.svg",
+      "sha256": "9e7b2439cadd108a95132f1ebe9a4f9b1cc7b4c3e587e97b2ab65c8b9dacb0a7",
+      "size": 301,
+      "contentType": "image/svg\u002Bxml"
+    },
+    "screenshots": [
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.pyflat.printer-control/assets/a07f409af341b30f-a07f409af341b30f167d18b49a2d5b1ab80b3b1adaceba30877d7d37c34ed82b.png",
+        "sha256": "a07f409af341b30f167d18b49a2d5b1ab80b3b1adaceba30877d7d37c34ed82b",
+        "size": 14973,
+        "contentType": "image/png"
+      },
+      {
+        "url": "https://store-assets.macro-deck.app/plugins/com.pyflat.printer-control/assets/9b7f55c3cb737132-9b7f55c3cb737132c1f4c395abbc07f8042fd834d93aef874d4b518609e8aa00.png",
+        "sha256": "9b7f55c3cb737132c1f4c395abbc07f8042fd834d93aef874d4b518609e8aa00",
+        "size": 7777,
+        "contentType": "image/png"
+      }
+    ]
+  },
+  "source": {
+    "tag": "v1.2.0",
+    "commit": "e1e5138e87514c75bd0fa955b4a2c2ea44e4354f"
+  }
+}
