@@ -9,7 +9,7 @@
   "repository": "https://github.com/PyFlat/Device-Battery-Info",
   "license": "MIT",
   "createdAt": "2026-09-16T17:12:18.44341+00:00",
-  "updatedAt": "2026-11-27T23:12:07.5438154+00:00",
+  "updatedAt": "2026-11-28T11:12:21.6561047+00:00",
   "supportedRids": [
     "linux-x64",
     "osx-arm64",
@@ -23,8 +23,8 @@
     "mouse",
     "peripherals",
     "system-monitor",
-    "system",
-    "productivity"
+    "hardware",
+    "system"
   ],
   "ai": {
     "interaction": false,
