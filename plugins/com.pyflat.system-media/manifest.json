@@ -9,22 +9,21 @@
   "repository": "https://github.com/PyFlat/System-Media",
   "license": "MIT",
   "createdAt": "2026-10-03T16:50:19.8735126+00:00",
-  "updatedAt": "2026-11-13T11:24:10.9700146+00:00",
+  "updatedAt": "2026-11-28T11:21:05.9143349+00:00",
   "supportedRids": [
     "linux-x64",
     "osx-arm64",
     "win-x64"
   ],
   "tags": [
-    "music",
-    "system",
-    "media",
     "music-player",
     "youtube",
     "vlc",
     "spotify",
     "media-controls",
-    "volume"
+    "volume",
+    "music",
+    "media"
   ],
   "ai": {
     "interaction": false,
