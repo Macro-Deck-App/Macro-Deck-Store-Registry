@@ -1,8 +1,8 @@
 {
   "$schema": "schemas/registry-manifest.schema.json",
   "schemaVersion": 1,
-  "sequence": 192,
-  "generatedAt": "2026-11-28T11:06:09.1611177+00:00",
+  "sequence": 193,
+  "generatedAt": "2026-11-28T11:06:17.1631163+00:00",
   "files": [
     {
       "path": "categories.json",
@@ -2676,8 +2676,8 @@
     },
     {
       "path": "plugins/com.suchbyte.ghub-batteries/manifest.json",
-      "sha256": "bd6820cbec60b4b66bad3ad6837e1e8bfeae470bd685eaf798f93f91e76a7d0f",
-      "size": 763
+      "sha256": "d51f43045c4d0e454a1482c9a719a4db17ccd3915eb6c3e2329ddddfcf508a6f",
+      "size": 762
     },
     {
       "path": "plugins/com.suchbyte.ghub-batteries/versions/3.0.0/changelog.md",

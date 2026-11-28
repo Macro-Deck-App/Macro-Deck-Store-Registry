@@ -9,17 +9,17 @@
   "repository": "https://github.com/manuelmayer-dev/Macro-Deck-GHUB-Batteries",
   "license": "MIT",
   "createdAt": "2026-10-15T18:47:42.5571479+00:00",
-  "updatedAt": "2026-10-15T18:47:42.5571479+00:00",
+  "updatedAt": "2026-11-28T11:06:17.1595114+00:00",
   "supportedRids": [
     "osx-arm64",
     "win-x64"
   ],
   "tags": [
-    "system",
-    "productivity",
     "batteries",
     "ghub",
-    "logitech"
+    "logitech",
+    "hardware",
+    "utilities"
   ],
   "ai": {
     "interaction": false,
